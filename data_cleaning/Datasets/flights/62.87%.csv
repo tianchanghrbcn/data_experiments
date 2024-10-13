@@ -1,0 +1,2377 @@
+tuple_id,src,flight,sched_dep_time,act_dep_time,sched_arr_time,act_arr_time
+1,Ug-37-EDI-EWR,AA-3859-IAH-ORD,,,11:15 a.m.,
+2,,AA-1733-ORD-PHX,7:45 p.m.,7:58 p.m.,10:30 p.m.,
+3,aq,Al-1640-MIA-MCO,,,,
+4,,Ao-518-MIA-JFK,,,,9:28 a.m.
+5,An-616-DFW-DTW,Aa-3756-ORD-SLC,12:15 p.m.,,,2:50 p.m.
+6,,AA-204-LAX-MCO,7:23 a.m.,11:25 p.m.,6:55 a.m.,
+7,am,Ay-3468-CVG-MIA,,7:25 a.m.,9:55 a.m.,9:45 a.m.
+8,,Al-484-DFW-MIA,,,,7:39 p.m.
+9,ab,,,,3:50 p.m.,4:09 p.m.
+10,,,,,,9:05 a.m.
+11,AA-271-MIA-LAX,Aq-1886-BOS-MIA,,10:55 a.m.,,1:40 p.m.
+12,aa,mirateplan,7:55 a.m.,,7:35 a.m.,11:01 a.m.
+13,,,,10:18 a.m.,12:10 p.m.,
+14,,AA-3979-CVG-ORD,,8:04 a.m.,8:00 a.m.,
+15,CO-1090-BOS-IAH,AA-1279-DFW-PHX,,2:04 p.m.,,
+16,an,Ad-616-DFW-DTW,,,,1:27 p.m.
+17,an,AA-4344-ORD-DTW,,12:13 p.m.,,2:10 p.m.
+18,,gofox,7:25 a.m.,,11:10 a.m.,
+19,Ae-404-MIA-MCO,Az-404-MIA-MCO,,6:57 a.m.,,
+20,Aj-1221-MCO-ORD,Ad-271-MIA-LAX,6:23 p.m.,,,
+21,,,9:10 p.m.,11:05 a.m.,2:45 p.m.,2:46 p.m.
+22,Ay-3809-PHX-LAX,Aj-4330-CVG-ORD,3:35 p.m.,,,
+23,AA-466-IAH-MIA,AA-1434-DFW-MCO,,7:21 a.m.,,
+24,UA-233-LAX-JFK,Ay-4307-ORD-DTW,6:45 p.m.,,,8:53 p.m.
+25,av,Ai-3-JFK-LAX,12:00 p.m.,,,
+26,,AA-3842-MSP-ORD,2:45 p.m.,6:56 a.m.,7:30 a.m.,
+27,AA-400-DFW-JFK,Aj-643-MIA-ORD,,,,
+28,UA-37-EWR-MCO,Ap-1007-MIA-PHX,,5:08 p.m.,,
+29,,az,8:00 p.m.,8:23 p.m.,6:00 a.m.,
+30,,Af-400-DFW-JFK,,,,3:04 p.m.
+31,ag,Ar-4198-ORD-CLE,7:03 p.m.,10:54 a.m.,,
+32,,weather,,,,5:50 a.m.
+33,,Aq-3823-LAX-DEN,,9:00 p.m.,,
+34,az,Ag-2312-DFW-DTW,,8:25 p.m.,11:50 p.m.,11:50 p.m.
+35,AA-3756-ORD-SLC,Ac-1165-JFK-MIA,6:59 a.m.,7:22 a.m.,10:34 a.m.,
+36,aa,Ay-431-MIA-SFO,,8:51 a.m.,,
+37,az,AA-649-ORD-SNA,,,,3:50 p.m.
+38,AA-1007-MIA-PHX,Al-3063-SLC-LAX,,,,
+39,UA-3099-PHX-PHL,Ax-3804-PHL-ORD,,,4:05 p.m.,3:43 p.m.
+40,At-4344-ORD-DTW,Aq-1917-JFK-MCO,2:55 p.m.,3:27 p.m.,,5:43 p.m.
+41,UA-2708-EWR-CLT,AA-2268-PHX-ORD,,7:22 a.m.,,
+42,,,9:40 a.m.,,2:15 p.m.,
+43,,wsrld-flight-tracker,1:05 p.m.,1:19 p.m.,,3:13 p.m.
+44,ab,Au-415-BOS-ORD,,,,
+45,UA-854-SFO-IAH,AA-85-JFK-SFO,,,8:25 p.m.,
+46,Cp-1561-PHX-IAH,AA-1544-SAN-ORD,,11:40 a.m.,5:25 p.m.,
+47,,Ab-3786-IAH-ORD,9:55 a.m.,4:12 p.m.,,
+48,,AA-222-LAX-BOS,,7:31 a.m.,1:55 p.m.,
+49,AA-2268-PHX-ORD,Aa-3809-PHX-LAX,,6:10 a.m.,,
+50,Uh-2726-FLL-PHL,Aw-59-JFK-SFO,,7:39 a.m.,,11:12 a.m.
+51,,AA-3859-IAH-ORD,,,,
+52,,,2:35 p.m.,,,
+53,Cn-62-IAH-EWR,Ap-518-MIA-JFK,,,,
+54,holloflight,Up-397-JFK-SFO,12:35 p.m.,,11:55 a.m.,
+55,,Ur-3925-IAD-ORF,,,,
+56,,Av-1733-ORD-PHX,,,10:30 p.m.,
+57,,Uj-2830-MCO-CLT,,,6:00 a.m.,
+58,,Cg-58-DEN-IAH,,11:32 a.m.,6:00 a.m.,
+59,Cf-62-IAH-EWR,Aa-1544-SAN-ORD,11:25 a.m.,11:40 a.m.,5:25 p.m.,4:56 p.m.
+60,,foxbusiness,,,,
+61,helloflight,,,11:25 p.m.,6:55 a.m.,
+62,helloflight,hflloflight,,,4:00 p.m.,
+63,,Cz-1614-LAX-IAH,,12:41 a.m.,2:55 p.m.,
+64,AA-59-JFK-SFO,UA-2726-FLL-PHL,4:00 p.m.,4:00 p.m.,,
+65,Al-2957-DFW-CVG,Cn-52-IAH-LAX,7:35 a.m.,,,
+66,As-2525-DFW-MIA,CO-1090-BOS-IAH,,10:19 a.m.,,1:19 p.m.
+67,,Au-616-DFW-DTW,,,,
+68,helloflight,Ux-3515-IAD-MSP,8:15 a.m.,8:12 a.m.,,
+69,,,7:00 a.m.,,9:55 a.m.,
+70,Uf-257-JFK-SFO,Ad-484-DFW-MIA,1:17 p.m.,4:29 p.m.,,7:39 p.m.
+71,Av-4277-CVG-JFK,AA-1886-BOS-MIA,,,,
+72,,CO-62-IAH-EWR,,,7:03 p.m.,7:10 p.m.
+73,,ag,,,11:35 a.m.,
+74,helloflight,travelocity,,,,
+75,htlloflight,Al-446-DFW-PHL,,,,4:09 p.m.
+76,Ah-3756-ORD-SLC,Cj-1023-IAH-DEN,,,,1:14 p.m.
+77,halloflight,Au-466-IAH-MIA,7:05 p.m.,6:08 a.m.,9:20 a.m.,
+78,helloflight,Ue-3050-PHX-CLT,11:05 a.m.,,4:57 p.m.,
+79,UA-3050-PHX-CLT,CO-89-IAH-EWR,,,,
+80,,foxbusiness,8:40 a.m.,,,
+81,helloflight,uaatoday,,,9:15 a.m.,11:56 a.m.
+82,UA-414-LAX-SFO,Ai-1279-DFW-PHX,,,,
+83,,,7:53 a.m.,7:49 a.m.,,1:30 p.m.
+84,,Ux-382-IAD-LAX,,12:35 p.m.,,3:21 p.m.
+85,helloflight,,,12:13 p.m.,2:00 p.m.,
+86,hflloflight,Ut-257-JFK-SFO,,2:26 p.m.,,
+87,Ah-3468-CVG-MIA,Ud-2945-PHL-CLT,,,,1:15 p.m.
+88,hrlloflight,,1:16 p.m.,5:22 p.m.,,8:03 p.m.
+89,,,,,,
+90,,Af-2050-ORD-MIA,,,,
+91,,,,1:32 p.m.,,5:34 p.m.
+92,,AA-4330-CVG-ORD,3:35 p.m.,,11:55 a.m.,
+93,Ui-382-IAD-LAX,At-1434-DFW-MCO,,7:21 a.m.,10:35 a.m.,
+94,helloflight,Ad-1640-MIA-MCO,6:30 p.m.,,,
+95,CO-1090-BOS-IAH,Am-4307-ORD-DTW,,,,8:53 p.m.
+96,,Av-3-JFK-LAX,,,,3:16 p.m.
+97,,Cm-1694-LAX-IAH,7:15 p.m.,7:15 p.m.,,12:21 a.m.
+98,UA-2906-PHL-MCO,Uy-843-LAX-ORD,,,,
+99,Al-1221-MCO-ORD,Ck-1193-EWR-MCO,9:15 a.m.,,12:18 p.m.,12:09 p.m.
+100,,taavelocity,2:59 p.m.,6:56 a.m.,,
+101,AA-1434-DFW-MCO,Aq-643-MIA-ORD,,7:30 a.m.,9:35 a.m.,
+102,,,,,7:10 a.m.,
+103,,AA-2525-DFW-MIA,,7:39 a.m.,11:10 a.m.,11:06 a.m.
+104,helloflight,Ut-2906-PHL-MCO,,,,
+105,hplloflight,UA-938-DEN-ORD,,,,
+106,,Ad-1221-MCO-ORD,,8:23 p.m.,,9:53 p.m.
+107,helloflight,,,,,6:34 p.m.
+108,,allegiantair,,,10:31 a.m.,
+109,helloflight,AA-400-DFW-JFK,10:40 a.m.,,,
+110,UA-397-JFK-SFO,Uo-664-ORD-PHL,,1:31 p.m.,,
+111,helloflight,Ax-3756-ORD-SLC,,,,
+112,UA-37-EWR-MCO,Uh-37-EWR-MCO,1:29 p.m.,1:48 p.m.,,4:17 p.m.
+113,helloflight,AA-1522-SFO-ORD,11:55 p.m.,11:55 p.m.,,
+114,,Uh-233-LAX-JFK,,,,12:29 a.m.
+115,hglloflight,abrtravelcenter,2:15 p.m.,9:00 p.m.,,12:15 a.m.
+116,Aw-1640-MIA-MCO,Ax-2312-DFW-DTW,8:25 p.m.,,,11:50 p.m.
+117,halloflight,Aa-1165-JFK-MIA,,,,
+118,Uq-414-LAX-SFO,Ab-431-MIA-SFO,,8:51 a.m.,,
+119,hzlloflight,,,,,
+120,,fmxbusiness,,,,
+121,,CO-1250-MIA-IAH,,,,4:59 p.m.
+122,,Uy-6273-YYC-SFO,5:55 p.m.,7:27 a.m.,9:43 a.m.,8:45 a.m.
+123,hzlloflight,UA-828-SFO-ORD,,,3:35 p.m.,
+124,,,,5:30 p.m.,6:40 p.m.,
+125,AA-1522-SFO-ORD,UA-858-PVG-SFO,,1:32 p.m.,8:55 a.m.,
+126,Uq-6273-YYC-SFO,Us-2704-DTW-PHX,,,,2:00 p.m.
+127,,flytecomm,,8:39 p.m.,,
+128,,aq,,,,
+129,UA-3373-IAD-PHL,Ui-62-IAH-EWR,2:30 p.m.,2:48 p.m.,,7:10 p.m.
+130,,orbitz,8:55 a.m.,,,
+131,,fhxbusiness,2:35 p.m.,2:44 p.m.,,3:43 p.m.
+132,hplloflight,AA-1917-JFK-MCO,,,,
+133,,aa,,,7:55 a.m.,
+134,,Am-4277-CVG-JFK,10:35 a.m.,,,
+135,,,,,7:30 a.m.,11:01 a.m.
+136,Ad-1544-SAN-ORD,UA-37-EDI-EWR,9:20 p.m.,,,
+137,,AA-789-ORD-DEN,,,2:35 p.m.,3:13 p.m.
+138,Ac-1279-DFW-PHX,Ag-415-BOS-ORD,,,,
+139,Uc-248-PHX-ORD,Ad-85-JFK-SFO,,3:36 p.m.,,6:43 p.m.
+140,,adrtravelcenter,,8:04 a.m.,,8:06 a.m.
+141,Uh-854-SFO-IAH,Ab-3786-IAH-ORD,4:31 p.m.,,,
+142,hplloflight,,11:35 a.m.,11:52 a.m.,,2:27 p.m.
+143,,Cd-50-CLE-EWR,,3:31 p.m.,,
+144,hylloflight,UA-3099-PHX-PHL,11:55 a.m.,11:55 a.m.,,5:38 p.m.
+145,,,,,,
+146,,AA-404-MIA-MCO,,,,
+147,,Cm-45-EWR-MIA,4:00 p.m.,,,
+148,htlloflight,Af-3809-PHX-LAX,6:00 a.m.,,8:20 p.m.,
+149,htlloflight,AA-59-JFK-SFO,,,10:45 a.m.,
+150,,Af-222-LAX-BOS,,7:31 a.m.,3:30 p.m.,
+151,bfston,tiavelocity,10:35 a.m.,,,
+152,Au-3468-CVG-MIA,Cu-1586-IAH-MCO,7:00 p.m.,,,
+153,Aw-271-MIA-LAX,Ag-518-MIA-JFK,,6:54 a.m.,9:25 a.m.,
+154,boston,Uq-397-JFK-SFO,,,,11:58 a.m.
+155,,Uo-3925-IAD-ORF,,,9:54 a.m.,
+156,boston,,,,10:30 p.m.,
+157,,AA-3-JFK-LAX,12:00 p.m.,12:11 p.m.,,
+158,brston,,3:27 p.m.,,,5:17 p.m.
+159,blston,Cu-58-DEN-IAH,,,,3:31 p.m.
+160,Uq-2945-PHL-CLT,UA-5487-SFO-MRY,,10:33 a.m.,,11:21 a.m.
+161,boston,Ad-204-LAX-MCO,9:20 p.m.,,6:55 a.m.,6:55 a.m.
+162,AA-404-MIA-MCO,Un-414-LAX-SFO,,,,
+163,,Co-1614-LAX-IAH,,,12:30 a.m.,
+164,,Ue-2726-FLL-PHL,4:00 p.m.,,,6:28 p.m.
+165,,,,7:29 a.m.,9:21 a.m.,
+166,,hclloflight,10:54 a.m.,,1:16 p.m.,1:19 p.m.
+167,Av-415-BOS-ORD,AA-616-DFW-DTW,9:05 a.m.,,12:35 p.m.,
+168,boston,UA-3515-IAD-MSP,,8:12 a.m.,,
+169,,,7:00 a.m.,7:25 a.m.,,
+170,,Al-484-DFW-MIA,,4:29 p.m.,,
+171,boston,AA-1886-BOS-MIA,,,2:20 p.m.,
+172,An-1165-JFK-MIA,Cf-62-IAH-EWR,,,12:10 p.m.,
+173,,,,,11:35 a.m.,11:32 a.m.
+174,,UA-2314-ATL-PHL,,,,
+175,bfston,As-446-DFW-PHL,,,,4:09 p.m.
+176,At-3809-PHX-LAX,CO-1023-IAH-DEN,11:40 a.m.,,,1:14 p.m.
+177,UA-1500-IAH-GUA,AA-466-IAH-MIA,,6:08 a.m.,,9:05 a.m.
+178,boston,fbightstats,11:05 a.m.,,12:00 a.m.,5:05 p.m.
+179,bdston,uzatoday,6:00 a.m.,6:02 a.m.,,
+180,Ai-1007-MIA-PHX,Cd-1088-CLE-IAH,8:40 a.m.,,9:45 a.m.,10:56 a.m.
+181,Ub-2314-ATL-PHL,AA-1664-MIA-ATL,,,12:10 p.m.,
+182,bjston,Ag-1279-DFW-PHX,,2:04 p.m.,,
+183,Up-3373-IAD-PHL,Uz-854-SFO-IAH,7:53 a.m.,7:49 a.m.,,
+184,Uj-2515-DFW-CLT,UA-382-IAD-LAX,,12:35 p.m.,,3:21 p.m.
+185,,AA-4344-ORD-DTW,11:45 a.m.,,,
+186,,,,,9:15 a.m.,5:42 p.m.
+187,Al-3979-CVG-ORD,Un-2945-PHL-CLT,,,1:45 p.m.,1:15 p.m.
+188,Ux-858-PVG-SFO,Cg-63-EWR-IAH,,,,8:03 p.m.
+189,boston,Ch-47-IAH-LAX,,,,9:52 p.m.
+190,,,4:48 p.m.,,2:45 p.m.,
+191,AA-2312-DFW-DTW,Uz-248-PHX-ORD,12:57 p.m.,,5:15 p.m.,
+192,CO-4888-IAH-DAL,Az-4330-CVG-ORD,,,,
+193,,,7:03 p.m.,7:21 a.m.,10:35 a.m.,
+194,,Ap-1640-MIA-MCO,,6:30 p.m.,,7:25 p.m.
+195,Cs-4888-IAH-DAL,Ap-4307-ORD-DTW,6:45 p.m.,6:55 p.m.,,8:53 p.m.
+196,boston,,,7:15 p.m.,12:21 a.m.,12:21 a.m.
+197,Uq-3099-PHX-PHL,Un-843-LAX-ORD,,,4:00 p.m.,
+198,Ul-1500-IAH-GUA,Cc-1193-EWR-MCO,,,,
+199,,AA-3842-MSP-ORD,,,,7:51 a.m.
+200,bgston,AA-643-MIA-ORD,3:19 p.m.,,,
+201,bhston,Aq-1007-MIA-PHX,4:55 p.m.,5:08 p.m.,4:00 p.m.,
+202,bvston,Ub-2906-PHL-MCO,,,,
+203,,,4:16 p.m.,,,
+204,,Aa-1221-MCO-ORD,8:00 p.m.,,,
+205,,Ch-16-LAX-EWR,,10:20 a.m.,,
+206,,bkston,,7:05 a.m.,,10:47 a.m.
+207,,Ae-400-DFW-JFK,,,,
+208,,Uz-664-ORD-PHL,,1:31 p.m.,,
+209,,,12:15 p.m.,12:41 p.m.,2:45 p.m.,
+210,,UA-37-EWR-MCO,1:29 p.m.,,,4:17 p.m.
+211,,,11:55 p.m.,,5:50 a.m.,
+212,bnston,,,4:25 p.m.,12:29 a.m.,
+213,bcston,,,,,
+214,,Az-2312-DFW-DTW,,,,
+215,brston,Ap-1165-JFK-MIA,,,,
+216,boston,,8:35 a.m.,8:51 a.m.,,
+217,boston,byston,8:29 a.m.,8:26 a.m.,7:55 a.m.,9:13 a.m.
+218,Cx-1586-IAH-MCO,Ay-649-ORD-SNA,,,3:50 p.m.,3:50 p.m.
+219,,,,,4:48 p.m.,
+220,boston,,7:35 a.m.,7:27 a.m.,,8:45 a.m.
+221,,UA-828-SFO-ORD,11:08 p.m.,,1:33 p.m.,
+222,bxston,Ci-4888-IAH-DAL,,,,
+223,,,,,8:27 a.m.,
+224,Az-404-MIA-MCO,Ub-2704-DTW-PHX,,11:15 a.m.,1:40 p.m.,
+225,boston,Ay-3063-SLC-LAX,8:20 p.m.,,,
+226,,,,,,4:44 p.m.
+227,bdston,,2:30 p.m.,,,
+228,Uq-2906-PHL-MCO,UA-1500-IAH-GUA,8:55 a.m.,,,11:56 a.m.
+229,,flylouisville,7:55 p.m.,,4:05 p.m.,
+230,,AA-1917-JFK-MCO,2:55 p.m.,,,5:43 p.m.
+231,boston,Af-2268-PHX-ORD,7:15 a.m.,,,
+232,,AA-4277-CVG-JFK,12:10 p.m.,12:10 p.m.,,
+233,,,,,,
+234,,ukatoday,,,,12:09 p.m.
+235,,Ay-789-ORD-DEN,,1:19 p.m.,,
+236,Um-3925-IAD-ORF,AA-415-BOS-ORD,8:35 a.m.,8:56 a.m.,10:40 a.m.,10:16 a.m.
+237,,Ap-85-JFK-SFO,,3:36 p.m.,,6:43 p.m.
+238,Aa-4344-ORD-DTW,Aj-3979-CVG-ORD,,,8:00 a.m.,
+239,,Ac-1544-SAN-ORD,,,5:25 p.m.,
+240,,,8:27 a.m.,,,
+241,bvston,AA-271-MIA-LAX,11:35 a.m.,11:52 a.m.,7:55 a.m.,2:27 p.m.
+242,Uf-3515-IAD-MSP,AA-2525-DFW-MIA,7:25 a.m.,,,
+243,,,,3:31 p.m.,,
+244,,,,11:55 a.m.,6:17 p.m.,
+245,UA-248-PHX-ORD,AA-4198-ORD-CLE,,10:54 a.m.,12:55 p.m.,
+246,AA-3786-IAH-ORD,AA-404-MIA-MCO,,,7:45 a.m.,
+247,boston,,,,,
+248,bnston,,10:34 a.m.,,6:40 a.m.,6:19 a.m.
+249,AA-643-MIA-ORD,An-59-JFK-SFO,,7:39 a.m.,,11:12 a.m.
+250,Ak-789-ORD-DEN,At-222-LAX-BOS,,,,
+251,wvather,AA-3859-IAH-ORD,7:10 a.m.,,,9:32 a.m.
+252,wxather,AA-518-MIA-JFK,11:10 a.m.,6:54 a.m.,,9:28 a.m.
+253,CO-1250-MIA-IAH,Ui-397-JFK-SFO,,8:29 a.m.,,
+254,,UA-3925-IAD-ORF,,8:42 a.m.,,
+255,wnather,aklegiantair,,,,
+256,wrather,flightstats,,,,
+257,,UA-2830-MCO-CLT,,,,
+258,Uk-2314-ATL-PHL,Cg-58-DEN-IAH,,11:32 a.m.,,3:31 p.m.
+259,,hvlloflight,,,,
+260,,UA-5487-SFO-MRY,,10:33 a.m.,11:19 a.m.,
+261,weather,Af-204-LAX-MCO,4:49 p.m.,11:25 p.m.,6:55 a.m.,
+262,,flightview,,,7:23 a.m.,7:17 a.m.
+263,,hhlloflight,,12:41 p.m.,,
+264,CO-1694-LAX-IAH,UA-2726-FLL-PHL,,4:00 p.m.,,6:28 p.m.
+265,,CO-1090-BOS-IAH,,,1:16 p.m.,
+266,,Ap-3468-CVG-MIA,7:00 a.m.,,9:55 a.m.,
+267,,,,,6:59 a.m.,
+268,,AA-484-DFW-MIA,4:15 p.m.,,,7:39 p.m.
+269,wyather,,,,,
+270,,Ao-446-DFW-PHL,11:50 a.m.,,,4:09 p.m.
+271,,AA-466-IAH-MIA,,,,
+272,,,,11:30 a.m.,,
+273,wlather,Cn-89-IAH-EWR,,,6:00 a.m.,
+274,Aa-1664-MIA-ATL,CO-1088-CLE-IAH,,,,
+275,AA-400-DFW-JFK,Ax-1886-BOS-MIA,12:55 p.m.,,,
+276,wyather,,,,,
+277,Am-1733-ORD-PHX,AA-3979-CVG-ORD,,8:04 a.m.,,8:06 a.m.
+278,AA-484-DFW-MIA,Aq-1279-DFW-PHX,,2:04 p.m.,2:35 p.m.,
+279,wdather,Cl-1614-LAX-IAH,,,5:35 a.m.,5:26 a.m.
+280,,AA-616-DFW-DTW,11:10 a.m.,,,
+281,wrather,qticktrip,,12:13 p.m.,2:00 p.m.,2:10 p.m.
+282,Uc-2515-DFW-CLT,Uu-2945-PHL-CLT,12:00 a.m.,,,
+283,wtather,tbavelocity,3:15 p.m.,,,
+284,,,,,2:25 p.m.,
+285,wlather,Ay-2050-ORD-MIA,,,10:15 a.m.,
+286,wyather,AA-1434-DFW-MCO,,7:21 a.m.,10:35 a.m.,10:36 a.m.
+287,,,11:35 a.m.,8:00 a.m.,11:35 a.m.,11:32 a.m.
+288,wdather,Ai-4307-ORD-DTW,6:45 p.m.,6:55 p.m.,,
+289,AA-1522-SFO-ORD,Ae-3-JFK-LAX,12:00 p.m.,,,3:16 p.m.
+290,Ua-257-JFK-SFO,CO-1694-LAX-IAH,,7:15 p.m.,12:21 a.m.,
+291,wlather,,,2:10 p.m.,,
+292,,Cc-1193-EWR-MCO,,,7:15 p.m.,12:09 p.m.
+293,wbather,,,,,
+294,AA-616-DFW-DTW,Ai-643-MIA-ORD,,,,9:31 a.m.
+295,,Ua-2906-PHL-MCO,10:20 a.m.,,,
+296,AA-3842-MSP-ORD,UA-938-DEN-ORD,,,,
+297,Ao-2957-DFW-CVG,Ac-1221-MCO-ORD,8:00 p.m.,8:23 p.m.,,9:53 p.m.
+298,,,,,1:30 p.m.,
+299,,Ul-2515-DFW-CLT,,,10:31 a.m.,
+300,,businesstravellogue,,11:01 a.m.,,
+301,,UA-664-ORD-PHL,1:33 p.m.,,2:30 p.m.,
+302,,Ar-1522-SFO-ORD,,,,
+303,whather,UA-233-LAX-JFK,,4:25 p.m.,,12:29 a.m.
+304,,,9:00 p.m.,,,12:15 a.m.
+305,,,8:25 p.m.,8:25 p.m.,,11:50 p.m.
+306,AA-1640-MIA-MCO,Ac-1165-JFK-MIA,6:59 a.m.,7:22 a.m.,6:00 a.m.,
+307,AA-415-BOS-ORD,AA-431-MIA-SFO,11:53 a.m.,,11:50 a.m.,11:44 a.m.
+308,,Uh-257-JFK-SFO,,,6:15 p.m.,
+309,Ax-400-DFW-JFK,Ud-3373-IAD-PHL,,8:26 a.m.,,
+310,Uv-62-IAH-EWR,Ad-649-ORD-SNA,,,3:50 p.m.,3:50 p.m.
+311,Ar-3979-CVG-ORD,Ct-1250-MIA-IAH,,,,4:59 p.m.
+312,,flightview,,7:27 a.m.,9:43 a.m.,8:45 a.m.
+313,,UA-858-PVG-SFO,12:35 p.m.,,,
+314,wpather,,,11:15 a.m.,,2:00 p.m.
+315,,,,,9:20 p.m.,9:20 p.m.
+316,,Ua-2708-EWR-CLT,,,4:53 p.m.,
+317,weather,UA-62-IAH-EWR,,2:48 p.m.,,
+318,wbather,ombitz,,,4:05 p.m.,3:43 p.m.
+319,UA-2314-ATL-PHL,Av-1917-JFK-MCO,2:55 p.m.,,7:35 a.m.,
+320,Uq-37-EDI-EWR,AA-2268-PHX-ORD,7:15 a.m.,,8:35 a.m.,11:06 a.m.
+321,wtather,UA-2314-ATL-PHL,,2:55 p.m.,,4:47 p.m.
+322,whather,Aj-4277-CVG-JFK,,,,
+323,,waather,2:25 p.m.,,,
+324,,,,,11:53 a.m.,
+325,,,,1:19 p.m.,2:35 p.m.,
+326,weather,bvsinesstravellogue,8:56 p.m.,7:49 a.m.,,
+327,,,,,,
+328,Aq-1522-SFO-ORD,Ar-85-JFK-SFO,,,,
+329,wtather,At-3786-IAH-ORD,,,,
+330,,Cl-50-CLE-EWR,,,,
+331,Uv-938-DEN-ORD,UA-3099-PHX-PHL,,,9:05 a.m.,5:38 p.m.
+332,,AA-4198-ORD-CLE,10:40 a.m.,,4:55 p.m.,
+333,Am-4344-ORD-DTW,Am-404-MIA-MCO,5:55 p.m.,,7:45 a.m.,7:40 a.m.
+334,,,4:00 p.m.,,,
+335,,,,6:10 a.m.,,
+336,,mptripandmore,7:10 a.m.,7:39 a.m.,11:45 a.m.,
+337,UA-382-IAD-LAX,An-222-LAX-BOS,7:10 a.m.,,8:41 a.m.,
+338,AA-1664-MIA-ATL,AA-3859-IAH-ORD,7:10 a.m.,7:16 a.m.,9:40 a.m.,
+339,,Cq-1586-IAH-MCO,,,,10:29 p.m.
+340,At-1664-MIA-ATL,Az-518-MIA-JFK,,,,9:28 a.m.
+341,,,,,,
+342,AA-204-LAX-MCO,Un-3925-IAD-ORF,,8:42 a.m.,9:54 a.m.,9:43 a.m.
+343,aartravelcenter,Ax-1733-ORD-PHX,7:05 p.m.,,,
+344,,fsightview,,,,
+345,,,11:25 a.m.,,,3:31 p.m.
+346,,Af-1544-SAN-ORD,,,7:15 a.m.,
+347,,UA-5487-SFO-MRY,,,,11:21 a.m.
+348,agrtravelcenter,AA-204-LAX-MCO,9:10 p.m.,,,
+349,Al-3468-CVG-MIA,UA-414-LAX-SFO,10:20 a.m.,5:56 a.m.,,
+350,,Cg-1614-LAX-IAH,,12:41 a.m.,,
+351,,Uk-2726-FLL-PHL,,,6:46 p.m.,
+352,awrtravelcenter,bhsinesstravellogue,,7:29 a.m.,9:21 a.m.,
+353,,,,,,
+354,Up-5487-SFO-MRY,Al-616-DFW-DTW,,10:10 a.m.,,1:27 p.m.
+355,,Un-3515-IAD-MSP,,8:12 a.m.,10:06 a.m.,
+356,Cm-45-EWR-MIA,Ai-3468-CVG-MIA,,7:25 a.m.,9:55 a.m.,9:45 a.m.
+357,Ak-4344-ORD-DTW,Ap-484-DFW-MIA,4:15 p.m.,,,7:39 p.m.
+358,airtravelcenter,Ab-1886-BOS-MIA,10:45 a.m.,10:55 a.m.,,
+359,,CO-62-IAH-EWR,2:30 p.m.,,,7:10 p.m.
+360,,CO-1561-PHX-IAH,8:05 a.m.,,,
+361,airtravelcenter,wnather,,,,4:47 p.m.
+362,,Ao-446-DFW-PHL,,,,
+363,An-222-LAX-BOS,CO-1023-IAH-DEN,,,1:17 p.m.,
+364,AA-518-MIA-JFK,Ae-466-IAH-MIA,,6:08 a.m.,,
+365,,,,11:30 a.m.,7:10 a.m.,5:05 p.m.
+366,Uc-37-EDI-EWR,CO-89-IAH-EWR,,,10:20 a.m.,
+367,,flightaware,,,10:54 a.m.,10:56 a.m.
+368,aertravelcenter,,10:15 a.m.,,,
+369,AA-4330-CVG-ORD,Ac-1279-DFW-PHX,1:00 p.m.,,,3:30 p.m.
+370,Ua-397-JFK-SFO,Uv-854-SFO-IAH,,7:49 a.m.,,
+371,airtravelcenter,Uz-382-IAD-LAX,12:30 p.m.,,6:40 a.m.,
+372,Uw-3925-IAD-ORF,Al-4344-ORD-DTW,,12:13 p.m.,,
+373,,UA-257-JFK-SFO,,2:26 p.m.,6:15 p.m.,
+374,,mhrateplan,,3:11 a.m.,,
+375,ahrtravelcenter,CO-63-EWR-IAH,,,8:22 p.m.,
+376,Cy-1614-LAX-IAH,Cg-47-IAH-LAX,,,8:56 p.m.,
+377,,Av-2050-ORD-MIA,,,2:45 p.m.,
+378,airtravelcenter,Uj-248-PHX-ORD,,,5:15 p.m.,
+379,,Ao-4330-CVG-ORD,,,,
+380,UA-397-JFK-SFO,AA-1434-DFW-MCO,,7:21 a.m.,,10:36 a.m.
+381,Cd-1586-IAH-MCO,AA-1640-MIA-MCO,6:30 p.m.,,7:25 p.m.,7:25 p.m.
+382,,,6:45 p.m.,6:55 p.m.,,8:53 p.m.
+383,CO-1090-BOS-IAH,AA-3-JFK-LAX,,12:11 p.m.,3:15 p.m.,
+384,Ue-2830-MCO-CLT,CO-1694-LAX-IAH,,7:15 p.m.,12:21 a.m.,
+385,,,,,,
+386,,Cq-1193-EWR-MCO,9:15 a.m.,,,
+387,AA-789-ORD-DEN,Az-3842-MSP-ORD,,6:56 a.m.,,
+388,Ac-1640-MIA-MCO,AA-643-MIA-ORD,,,,
+389,airtravelcenter,,,,,7:55 p.m.
+390,,AA-2525-DFW-MIA,,,7:10 a.m.,11:06 a.m.
+391,,UA-2906-PHL-MCO,3:50 p.m.,,,
+392,Ac-2312-DFW-DTW,Ul-938-DEN-ORD,1:16 p.m.,,,7:36 p.m.
+393,ahrtravelcenter,,8:00 p.m.,,9:45 p.m.,9:53 p.m.
+394,alrtravelcenter,,,,6:44 p.m.,6:34 p.m.
+395,Ae-3823-LAX-DEN,Ui-2515-DFW-CLT,,,,
+396,Ca-1694-LAX-IAH,Af-400-DFW-JFK,5:15 p.m.,,2:59 p.m.,3:04 p.m.
+397,,Uf-664-ORD-PHL,1:33 p.m.,,4:31 p.m.,4:23 p.m.
+398,,,12:15 p.m.,12:41 p.m.,2:35 p.m.,
+399,,Uz-37-EWR-MCO,,1:48 p.m.,8:05 a.m.,
+400,,Ar-1522-SFO-ORD,4:53 p.m.,11:55 p.m.,,5:50 a.m.
+401,Ub-397-JFK-SFO,Ua-233-LAX-JFK,,,7:15 p.m.,
+402,,Am-3823-LAX-DEN,9:00 p.m.,9:00 p.m.,8:55 a.m.,12:15 a.m.
+403,,,,,,11:50 p.m.
+404,,Ay-1165-JFK-MIA,,,,10:04 a.m.
+405,Ue-2708-EWR-CLT,AA-431-MIA-SFO,,8:51 a.m.,,11:44 a.m.
+406,,Uk-3373-IAD-PHL,,8:26 a.m.,,9:13 a.m.
+407,UA-854-SFO-IAH,Aw-649-ORD-SNA,7:23 a.m.,1:30 p.m.,3:50 p.m.,3:50 p.m.
+408,,CO-1250-MIA-IAH,,,,
+409,,,4:57 p.m.,7:27 a.m.,,
+410,,UA-828-SFO-ORD,6:46 p.m.,,5:11 a.m.,
+411,ahrtravelcenter,Cd-4888-IAH-DAL,,,2:30 p.m.,
+412,,Ud-858-PVG-SFO,,,8:27 a.m.,
+413,,UA-2704-DTW-PHX,,,,
+414,afrtravelcenter,,,,,
+415,airtravelcenter,,,,4:53 p.m.,
+416,AA-3979-CVG-ORD,Uu-62-IAH-EWR,10:40 a.m.,,,
+417,,,,,11:45 a.m.,11:56 a.m.
+418,airtravelcenter,panynj,,,,
+419,Ag-3063-SLC-LAX,Ah-1917-JFK-MCO,2:55 p.m.,3:27 p.m.,,
+420,,AA-2268-PHX-ORD,7:15 a.m.,,7:15 a.m.,
+421,,,,,,1:43 p.m.
+422,Au-3-JFK-LAX,AA-2957-DFW-CVG,,8:04 a.m.,,11:01 a.m.
+423,,Un-37-EDI-EWR,,,,
+424,aertravelcenter,Ad-789-ORD-DEN,,,,3:13 p.m.
+425,,weather,,,,
+426,,AA-85-JFK-SFO,,3:36 p.m.,,
+427,airtravelcenter,AA-3979-CVG-ORD,7:30 a.m.,,,8:06 a.m.
+428,AA-2525-DFW-MIA,AA-3786-IAH-ORD,4:00 p.m.,,,6:15 p.m.
+429,aortravelcenter,,,,11:25 a.m.,2:27 p.m.
+430,Cx-47-IAH-LAX,CO-50-CLE-EWR,,,,
+431,airtravelcenter,,11:55 a.m.,11:55 a.m.,3:05 p.m.,5:38 p.m.
+432,UA-854-SFO-IAH,At-4198-ORD-CLE,,,,
+433,,,6:45 a.m.,,,
+434,,Ci-45-EWR-MIA,7:53 p.m.,,,
+435,,tpavelocity,6:00 a.m.,,,
+436,Ac-3756-ORD-SLC,Aq-59-JFK-SFO,,,,
+437,airtravelcenter,,,,,
+438,,AA-3859-IAH-ORD,7:10 a.m.,7:16 a.m.,,9:32 a.m.
+439,,,,,,
+440,,Ak-518-MIA-JFK,,,,
+441,Ur-2906-PHL-MCO,UA-397-JFK-SFO,8:00 a.m.,,7:55 a.m.,11:58 a.m.
+442,,UA-3925-IAD-ORF,8:41 a.m.,,,
+443,ftightview,,,,,10:30 p.m.
+444,fjightview,Aw-3-JFK-LAX,,,6:30 p.m.,
+445,,,3:27 p.m.,3:27 p.m.,5:05 p.m.,5:17 p.m.
+446,flightview,Ca-58-DEN-IAH,,,2:50 p.m.,3:31 p.m.
+447,flightview,UA-5487-SFO-MRY,,,,11:21 a.m.
+448,,,,11:25 p.m.,,
+449,,Uz-414-LAX-SFO,,5:56 a.m.,7:23 a.m.,7:17 a.m.
+450,,CO-1614-LAX-IAH,,,,5:26 a.m.
+451,flightview,UA-2726-FLL-PHL,,,1:30 p.m.,
+452,,Co-52-IAH-LAX,,,,9:14 a.m.
+453,,,,10:19 a.m.,1:16 p.m.,
+454,Am-3756-ORD-SLC,Ac-616-DFW-DTW,,,,
+455,flightview,Up-3515-IAD-MSP,8:15 a.m.,8:12 a.m.,10:06 a.m.,9:56 a.m.
+456,,Am-3468-CVG-MIA,,,9:55 a.m.,9:45 a.m.
+457,,AA-484-DFW-MIA,4:15 p.m.,,,
+458,UA-3050-PHX-CLT,AA-1886-BOS-MIA,,10:55 a.m.,,
+459,,,,,12:30 a.m.,7:10 p.m.
+460,Us-37-EWR-MCO,Cb-1561-PHX-IAH,3:50 p.m.,8:00 a.m.,11:35 a.m.,
+461,,orbitz,,,,4:47 p.m.
+462,Am-1544-SAN-ORD,Ak-446-DFW-PHL,,,6:00 a.m.,
+463,fjightview,Ch-1023-IAH-DEN,11:40 a.m.,,1:17 p.m.,1:14 p.m.
+464,,Ap-466-IAH-MIA,,6:08 a.m.,,9:05 a.m.
+465,,,,,4:57 p.m.,5:05 p.m.
+466,,,6:00 a.m.,6:02 a.m.,,10:27 a.m.
+467,Ad-643-MIA-ORD,Cz-1088-CLE-IAH,,,,
+468,AA-1640-MIA-MCO,Ao-1664-MIA-ATL,10:15 a.m.,,,
+469,fxightview,,1:00 p.m.,,,3:30 p.m.
+470,ftightview,al,7:53 a.m.,,,1:30 p.m.
+471,,fcights,,,,3:21 p.m.
+472,,airtravelcenter,12:15 a.m.,,2:00 p.m.,
+473,fsightview,Uk-257-JFK-SFO,4:17 p.m.,,6:15 p.m.,
+474,Um-664-ORD-PHL,Uj-2945-PHL-CLT,12:00 a.m.,,1:45 p.m.,1:15 p.m.
+475,fnightview,,,,,
+476,An-271-MIA-LAX,Cm-47-IAH-LAX,,,11:25 p.m.,
+477,fcightview,,,11:05 a.m.,,
+478,fiightview,Up-248-PHX-ORD,,,,5:34 p.m.
+479,flightview,AA-4330-CVG-ORD,3:35 p.m.,,,3:33 p.m.
+480,fiightview,fiightarrival,,,,10:36 a.m.
+481,UA-2830-MCO-CLT,AA-1640-MIA-MCO,6:30 p.m.,6:30 p.m.,7:00 a.m.,7:25 p.m.
+482,Uw-2708-EWR-CLT,As-4307-ORD-DTW,,6:55 p.m.,,
+483,flightview,Cb-1694-LAX-IAH,,,,
+484,fjightview,Ug-843-LAX-ORD,9:40 a.m.,2:10 p.m.,7:53 p.m.,
+485,,,,,,
+486,Ul-828-SFO-ORD,Ae-3842-MSP-ORD,10:54 a.m.,6:56 a.m.,,
+487,,,,,9:35 a.m.,
+488,,flylouisville,,,,
+489,,Ul-2906-PHL-MCO,3:50 p.m.,,,
+490,flightview,Uc-938-DEN-ORD,,,,7:36 p.m.
+491,frightview,,8:00 p.m.,8:23 p.m.,,
+492,fnightview,CO-16-LAX-EWR,,10:20 a.m.,6:44 p.m.,
+493,CO-58-DEN-IAH,Uu-2515-DFW-CLT,7:05 a.m.,,,10:47 a.m.
+494,,Aa-400-DFW-JFK,,,2:59 p.m.,
+495,flightview,Ug-664-ORD-PHL,9:43 a.m.,,4:31 p.m.,4:23 p.m.
+496,,,,,,2:50 p.m.
+497,,,1:29 p.m.,1:48 p.m.,,
+498,fgightview,Ap-1522-SFO-ORD,,11:55 p.m.,,5:50 a.m.
+499,,UA-233-LAX-JFK,4:25 p.m.,,7:30 a.m.,12:29 a.m.
+500,,,,9:00 p.m.,12:15 a.m.,
+501,,businesstravellogue,,,11:50 p.m.,11:50 p.m.
+502,frightview,Am-1165-JFK-MIA,6:59 a.m.,,,
+503,flightview,At-431-MIA-SFO,2:15 p.m.,8:51 a.m.,,
+504,,Um-3373-IAD-PHL,,,,
+505,,AA-649-ORD-SNA,,,,
+506,,,,,7:15 a.m.,
+507,Ag-2957-DFW-CVG,Uv-6273-YYC-SFO,,,9:43 a.m.,
+508,UA-828-SFO-ORD,Ui-828-SFO-ORD,,,5:11 a.m.,
+509,fvightview,Cl-4888-IAH-DAL,,5:30 p.m.,,6:40 p.m.
+510,,,,,4:00 p.m.,8:02 a.m.
+511,Ap-1664-MIA-ATL,Um-2704-DTW-PHX,9:40 a.m.,11:15 a.m.,1:40 p.m.,2:00 p.m.
+512,fxightview,Ax-3063-SLC-LAX,,8:39 p.m.,9:20 p.m.,
+513,flightview,,2:55 p.m.,,11:55 p.m.,4:44 p.m.
+514,,Um-62-IAH-EWR,,,7:03 p.m.,
+515,,ulatoday,8:27 a.m.,9:16 a.m.,,
+516,,anlegiantair,2:35 p.m.,2:44 p.m.,12:10 p.m.,3:43 p.m.
+517,Ul-2708-EWR-CLT,Ai-1917-JFK-MCO,7:03 p.m.,3:27 p.m.,5:55 p.m.,
+518,UA-2830-MCO-CLT,Ak-2268-PHX-ORD,,7:22 a.m.,4:16 p.m.,11:06 a.m.
+519,Ac-3786-IAH-ORD,Ax-4277-CVG-JFK,,,2:15 p.m.,
+520,,AA-2957-DFW-CVG,7:55 a.m.,,,11:01 a.m.
+521,fkightview,UA-37-EDI-EWR,,,,12:09 p.m.
+522,Uf-414-LAX-SFO,Av-789-ORD-DEN,,,,3:13 p.m.
+523,,,,8:56 a.m.,10:40 a.m.,10:16 a.m.
+524,,Ax-85-JFK-SFO,,,6:30 p.m.,6:43 p.m.
+525,,AA-3979-CVG-ORD,7:30 a.m.,8:04 a.m.,12:10 p.m.,8:06 a.m.
+526,,msrateplan,,11:40 a.m.,5:25 p.m.,4:56 p.m.
+527,flightview,,,,,
+528,,flightexplorer,11:35 a.m.,,,2:27 p.m.
+529,flightview,,7:25 a.m.,,4:15 p.m.,11:06 a.m.
+530,,Cv-50-CLE-EWR,,3:31 p.m.,,5:26 p.m.
+531,Aa-2525-DFW-MIA,Up-3099-PHX-PHL,11:55 a.m.,,,
+532,Uu-6273-YYC-SFO,Aa-4198-ORD-CLE,,,12:55 p.m.,12:50 p.m.
+533,Au-4277-CVG-JFK,Ab-404-MIA-MCO,,6:57 a.m.,,
+534,fuightview,Cm-45-EWR-MIA,4:00 p.m.,3:58 p.m.,7:05 p.m.,6:36 p.m.
+535,Ua-3099-PHX-PHL,AA-3809-PHX-LAX,,,6:40 a.m.,
+536,,mqrateplan,6:55 a.m.,7:39 a.m.,,
+537,fdightview,,,,3:30 p.m.,
+538,AA-204-LAX-MCO,Ag-3859-IAH-ORD,,7:16 a.m.,7:35 a.m.,
+539,fuightstats,CO-1586-IAH-MCO,,,3:50 p.m.,
+540,Am-1640-MIA-MCO,Ap-518-MIA-JFK,,6:54 a.m.,9:25 a.m.,
+541,fkightstats,,8:00 a.m.,,,
+542,,Ub-3925-IAD-ORF,,,,
+543,ftightstats,weather,7:45 p.m.,,,10:30 p.m.
+544,,,,,,
+545,Cm-1193-EWR-MCO,Ag-1640-MIA-MCO,,,,7:25 p.m.
+546,,UA-2830-MCO-CLT,,,1:30 p.m.,
+547,fnightstats,orbitz,,,2:50 p.m.,
+548,,,,,,
+549,flightstats,,6:00 a.m.,5:56 a.m.,,7:17 a.m.
+550,fbightstats,,,12:41 a.m.,,
+551,fxightstats,,,,,
+552,,fvightstats,,,,9:14 a.m.
+553,,,9:45 a.m.,10:19 a.m.,,1:19 p.m.
+554,,Ar-3468-CVG-MIA,7:00 a.m.,7:25 a.m.,9:55 a.m.,
+555,frightstats,osd,,8:12 a.m.,,
+556,fbightstats,Av-484-DFW-MIA,11:10 a.m.,,7:55 p.m.,
+557,flightstats,fhxbusiness,,,,
+558,flightstats,Cf-62-IAH-EWR,,2:48 p.m.,,7:10 p.m.
+559,,CO-63-EWR-IAH,,5:22 p.m.,,8:03 p.m.
+560,,AA-446-DFW-PHL,,,,
+561,Ul-3050-PHX-CLT,Cv-1023-IAH-DEN,9:55 a.m.,,1:17 p.m.,
+562,,Au-466-IAH-MIA,5:00 p.m.,6:08 a.m.,9:20 a.m.,
+563,Aq-2312-DFW-DTW,Uy-3050-PHX-CLT,11:05 a.m.,,4:57 p.m.,5:05 p.m.
+564,,CO-89-IAH-EWR,,6:02 a.m.,,10:27 a.m.
+565,Ao-2050-ORD-MIA,Cn-1088-CLE-IAH,,8:40 a.m.,10:54 a.m.,
+566,fxightstats,,10:30 p.m.,,,
+567,fnightstats,At-1664-MIA-ATL,10:15 a.m.,10:18 a.m.,,
+568,,Ac-3979-CVG-ORD,12:29 a.m.,8:04 a.m.,8:00 a.m.,
+569,feightstats,,1:00 p.m.,,,3:30 p.m.
+570,,,,,,
+571,,AA-3756-ORD-SLC,,,2:45 p.m.,
+572,CO-52-IAH-LAX,UA-382-IAD-LAX,,,,
+573,Av-466-IAH-MIA,Ud-2945-PHL-CLT,2:59 p.m.,,1:45 p.m.,
+574,,gofox,,8:25 p.m.,,
+575,Af-1221-MCO-ORD,Az-271-MIA-LAX,,,,
+576,AA-3063-SLC-LAX,Av-2050-ORD-MIA,,11:05 a.m.,,2:46 p.m.
+577,,UA-248-PHX-ORD,,,,5:34 p.m.
+578,,AA-4330-CVG-ORD,5:11 a.m.,,4:00 p.m.,3:33 p.m.
+579,,Ad-1434-DFW-MCO,,7:21 a.m.,,
+580,fzightstats,Cm-1561-PHX-IAH,8:05 a.m.,,,
+581,fvightstats,,4:48 p.m.,6:55 p.m.,9:10 p.m.,
+582,,AA-3-JFK-LAX,12:00 p.m.,,,
+583,fcightstats,Cx-1694-LAX-IAH,2:59 p.m.,,,
+584,,,1:55 p.m.,2:10 p.m.,,7:58 p.m.
+585,Ab-3756-ORD-SLC,Cr-1193-EWR-MCO,9:15 a.m.,9:14 a.m.,,
+586,flightstats,foxbusiness,,,,7:51 a.m.
+587,AA-466-IAH-MIA,As-643-MIA-ORD,7:10 a.m.,7:30 a.m.,8:15 a.m.,
+588,fbightstats,AA-1007-MIA-PHX,4:55 p.m.,5:08 p.m.,8:05 p.m.,
+589,Ue-664-ORD-PHL,Av-2525-DFW-MIA,,,,11:06 a.m.
+590,Ul-938-DEN-ORD,Ui-2906-PHL-MCO,,,,
+591,Um-3050-PHX-CLT,Ua-938-DEN-ORD,,,,
+592,,,8:00 p.m.,,,9:53 p.m.
+593,CO-47-IAH-LAX,CO-16-LAX-EWR,,10:20 a.m.,,
+594,Ai-2312-DFW-DTW,Us-2515-DFW-CLT,7:05 a.m.,,10:31 a.m.,
+595,,AA-400-DFW-JFK,10:40 a.m.,,2:59 p.m.,
+596,,,,,9:05 a.m.,4:23 p.m.
+597,Az-3063-SLC-LAX,Ul-37-EWR-MCO,,1:48 p.m.,,
+598,,,11:55 p.m.,,,
+599,Ce-47-IAH-LAX,UA-233-LAX-JFK,4:25 p.m.,,11:08 p.m.,
+600,CO-4888-IAH-DAL,AA-3823-LAX-DEN,9:00 p.m.,9:00 p.m.,7:15 a.m.,12:15 a.m.
+601,frightstats,,,8:25 p.m.,,
+602,Am-415-BOS-ORD,Uv-2314-ATL-PHL,,2:55 p.m.,,
+603,,AA-1165-JFK-MIA,,7:22 a.m.,,
+604,flightstats,Ay-431-MIA-SFO,1:39 p.m.,,,
+605,AA-404-MIA-MCO,UA-257-JFK-SFO,,,,
+606,,Uo-3373-IAD-PHL,,8:26 a.m.,,9:13 a.m.
+607,ffightstats,Cd-1250-MIA-IAH,2:53 p.m.,3:01 p.m.,,4:59 p.m.
+608,,UA-828-SFO-ORD,11:08 p.m.,,,5:11 a.m.
+609,CO-52-IAH-LAX,Cr-4888-IAH-DAL,,5:30 p.m.,,
+610,,UA-2704-DTW-PHX,11:15 a.m.,,,
+611,fyightstats,ghfox,,8:39 p.m.,,
+612,fdightstats,,2:55 p.m.,2:55 p.m.,,
+613,,fiightexplorer,,2:48 p.m.,10:40 a.m.,
+614,Ax-4330-CVG-ORD,Ah-3804-PHL-ORD,,2:44 p.m.,4:05 p.m.,3:43 p.m.
+615,,,2:55 p.m.,,,
+616,,,,,11:35 a.m.,
+617,,,,12:10 p.m.,,1:43 p.m.
+618,Aa-1664-MIA-ATL,AA-789-ORD-DEN,1:05 p.m.,,,
+619,,Uu-854-SFO-IAH,,,1:39 p.m.,1:30 p.m.
+620,,,,,10:40 a.m.,10:16 a.m.
+621,Us-3050-PHX-CLT,AA-85-JFK-SFO,3:05 p.m.,3:36 p.m.,,6:43 p.m.
+622,Uu-3373-IAD-PHL,AA-3786-IAH-ORD,,,,6:15 p.m.
+623,,,7:10 a.m.,,3:30 p.m.,
+624,fuightstats,,2:55 p.m.,3:31 p.m.,4:49 p.m.,
+625,,Ut-3099-PHX-PHL,,11:55 a.m.,,
+626,ftightstats,AA-4198-ORD-CLE,,,1:05 p.m.,
+627,flightstats,CO-45-EWR-MIA,4:00 p.m.,,,6:36 p.m.
+628,An-59-JFK-SFO,Ab-3809-PHX-LAX,,,6:40 a.m.,6:19 a.m.
+629,flightstats,mktripandmore,7:10 a.m.,,2:55 p.m.,
+630,UA-3515-IAD-MSP,Ar-3859-IAH-ORD,,,9:40 a.m.,
+631,,Cc-1586-IAH-MCO,7:00 p.m.,7:14 p.m.,,
+632,penynj,,,6:54 a.m.,,
+633,panynj,Uf-397-JFK-SFO,8:00 a.m.,8:29 a.m.,,
+634,pxnynj,,,,9:54 a.m.,
+635,,Ap-1733-ORD-PHX,,,,10:30 p.m.
+636,panynj,,,12:11 p.m.,,
+637,Ck-16-LAX-EWR,Ud-2830-MCO-CLT,,,,
+638,AA-1434-DFW-MCO,Cg-58-DEN-IAH,11:25 a.m.,,10:45 a.m.,
+639,Ai-3842-MSP-ORD,UA-5487-SFO-MRY,10:39 a.m.,,2:30 p.m.,11:21 a.m.
+640,AA-2525-DFW-MIA,Ay-204-LAX-MCO,7:35 p.m.,,,6:55 a.m.
+641,panynj,,,,,
+642,,,,,,5:26 a.m.
+643,pknynj,ab,,,6:46 p.m.,
+644,,,,,,9:14 a.m.
+645,,CO-1090-BOS-IAH,9:45 a.m.,,,1:19 p.m.
+646,,As-616-DFW-DTW,,,12:35 p.m.,1:27 p.m.
+647,,UA-3515-IAD-MSP,,,10:06 a.m.,9:56 a.m.
+648,Aa-3468-CVG-MIA,Ay-3468-CVG-MIA,,,9:55 a.m.,
+649,prnynj,,,,,
+650,,Ah-1886-BOS-MIA,,,,
+651,Am-3786-IAH-ORD,CO-62-IAH-EWR,,,,7:10 p.m.
+652,AA-431-MIA-SFO,Ca-1561-PHX-IAH,,,11:35 a.m.,
+653,panynj,,2:55 p.m.,2:55 p.m.,5:00 p.m.,
+654,AA-3756-ORD-SLC,AA-446-DFW-PHL,11:50 a.m.,12:12 p.m.,,
+655,panynj,Cl-1023-IAH-DEN,11:40 a.m.,11:56 a.m.,1:17 p.m.,
+656,,,9:45 p.m.,6:08 a.m.,,9:05 a.m.
+657,pfnynj,flightstats,,,,
+658,,,,,,10:27 a.m.
+659,panynj,,,,10:54 a.m.,
+660,psnynj,flightstats,10:15 a.m.,10:18 a.m.,,
+661,,,12:21 a.m.,2:04 p.m.,,
+662,Uc-3373-IAD-PHL,UA-854-SFO-IAH,7:53 a.m.,,,1:30 p.m.
+663,AA-400-DFW-JFK,Uw-382-IAD-LAX,,,,
+664,ppnynj,Am-4344-ORD-DTW,,12:13 p.m.,,2:10 p.m.
+665,pmnynj,Uw-257-JFK-SFO,,2:26 p.m.,6:15 p.m.,
+666,,twavelocity,12:00 a.m.,3:11 a.m.,,
+667,AA-1733-ORD-PHX,Cu-63-EWR-IAH,5:25 p.m.,,8:22 p.m.,
+668,,,7:10 p.m.,,,9:52 p.m.
+669,,AA-2050-ORD-MIA,10:40 a.m.,,,
+670,,Uf-248-PHX-ORD,,,,5:34 p.m.
+671,,AA-4330-CVG-ORD,3:35 p.m.,3:36 p.m.,4:00 p.m.,
+672,,Ae-1434-DFW-MCO,7:15 a.m.,,,
+673,,hklloflight,3:15 p.m.,,,7:25 p.m.
+674,,,,,,
+675,Ao-3842-MSP-ORD,CO-1694-LAX-IAH,,7:15 p.m.,,
+676,,UA-843-LAX-ORD,3:30 p.m.,2:10 p.m.,,7:58 p.m.
+677,,Cw-1193-EWR-MCO,9:15 a.m.,,11:25 a.m.,12:09 p.m.
+678,UA-37-EWR-MCO,Ad-3842-MSP-ORD,6:00 a.m.,,,
+679,panynj,fuightexplorer,,7:30 a.m.,,
+680,,ptnynj,4:55 p.m.,,,7:55 p.m.
+681,An-59-JFK-SFO,Ug-2906-PHL-MCO,3:50 p.m.,,,6:38 p.m.
+682,,,,,7:35 p.m.,7:36 p.m.
+683,,Ap-1221-MCO-ORD,,,,
+684,,pmnynj,,,8:25 p.m.,6:34 p.m.
+685,,ovbitz,,,,10:47 a.m.
+686,pgnynj,,,11:01 a.m.,,3:04 p.m.
+687,panynj,,5:15 p.m.,,4:31 p.m.,
+688,panynj,Ay-3756-ORD-SLC,,12:41 p.m.,2:45 p.m.,2:50 p.m.
+689,,,1:29 p.m.,,4:17 p.m.,
+690,,AA-1522-SFO-ORD,,,,
+691,Aj-3756-ORD-SLC,Uw-233-LAX-JFK,,4:25 p.m.,,
+692,pvnynj,Ae-3823-LAX-DEN,,,,
+693,pdnynj,,10:31 a.m.,,,
+694,,,,7:22 a.m.,,
+695,,Ab-431-MIA-SFO,,,,
+696,,Uj-3373-IAD-PHL,,8:26 a.m.,,
+697,AA-3823-LAX-DEN,Ao-649-ORD-SNA,1:30 p.m.,,,3:50 p.m.
+698,UA-854-SFO-IAH,Cw-1250-MIA-IAH,,,,
+699,panynj,Uk-6273-YYC-SFO,7:35 a.m.,7:27 a.m.,9:43 a.m.,
+700,,,,,,
+701,AA-3804-PHL-ORD,CO-4888-IAH-DAL,8:22 p.m.,,,
+702,pdnynj,,,1:32 p.m.,,
+703,UA-414-LAX-SFO,UA-2704-DTW-PHX,,,1:40 p.m.,
+704,,Af-3063-SLC-LAX,8:05 p.m.,,9:20 p.m.,
+705,AA-1007-MIA-PHX,UA-2708-EWR-CLT,2:55 p.m.,,,4:44 p.m.
+706,Uw-382-IAD-LAX,UA-62-IAH-EWR,,2:48 p.m.,2:55 p.m.,7:10 p.m.
+707,UA-37-EWR-MCO,Ut-1500-IAH-GUA,2:00 p.m.,9:16 a.m.,,
+708,Uu-3515-IAD-MSP,Ae-3804-PHL-ORD,,,,
+709,Uc-3050-PHX-CLT,AA-1917-JFK-MCO,,3:27 p.m.,,5:43 p.m.
+710,,Aq-2268-PHX-ORD,11:53 a.m.,,,11:06 a.m.
+711,,,4:05 p.m.,,,1:43 p.m.
+712,,,,,11:05 a.m.,
+713,,,,8:52 a.m.,,
+714,,As-789-ORD-DEN,,1:19 p.m.,,
+715,panynj,AA-415-BOS-ORD,,,10:40 a.m.,
+716,UA-3050-PHX-CLT,AA-85-JFK-SFO,3:05 p.m.,,11:40 a.m.,
+717,,frylouisville,,,8:00 a.m.,
+718,pznynj,,2:25 p.m.,11:40 a.m.,5:25 p.m.,
+719,,Ao-3786-IAH-ORD,,4:12 p.m.,,
+720,panynj,Ap-271-MIA-LAX,4:48 p.m.,,,
+721,An-271-MIA-LAX,Am-2525-DFW-MIA,,,,11:06 a.m.
+722,,Cr-50-CLE-EWR,5:50 a.m.,,4:49 p.m.,5:26 p.m.
+723,panynj,,,,10:40 a.m.,5:38 p.m.
+724,,,10:40 a.m.,,,
+725,,Af-404-MIA-MCO,,,,
+726,AA-1544-SAN-ORD,Cf-45-EWR-MIA,4:00 p.m.,3:58 p.m.,,
+727,UA-3099-PHX-PHL,Ar-3809-PHX-LAX,,6:10 a.m.,,
+728,psnynj,icly,7:10 a.m.,,4:15 p.m.,
+729,Cc-1250-MIA-IAH,Ac-222-LAX-BOS,2:00 p.m.,7:31 a.m.,,
+730,,AA-3859-IAH-ORD,4:05 p.m.,7:16 a.m.,,9:32 a.m.
+731,UA-854-SFO-IAH,Ah-1733-ORD-PHX,,,10:30 p.m.,
+732,Ua-3050-PHX-CLT,Cq-1586-IAH-MCO,,,,10:29 p.m.
+733,,,,8:29 a.m.,,11:58 a.m.
+734,Ah-4307-ORD-DTW,Ur-3925-IAD-ORF,,8:42 a.m.,,
+735,,AA-1640-MIA-MCO,,6:30 p.m.,7:25 p.m.,
+736,AA-789-ORD-DEN,AA-1544-SAN-ORD,11:25 a.m.,11:40 a.m.,,4:56 p.m.
+737,,UA-5487-SFO-MRY,,,12:30 a.m.,11:21 a.m.
+738,,,,11:25 p.m.,6:55 a.m.,
+739,AA-643-MIA-ORD,Uz-414-LAX-SFO,,,7:23 a.m.,
+740,flightexplorer,,,,,
+741,UA-5487-SFO-MRY,Ag-3756-ORD-SLC,12:15 p.m.,12:41 p.m.,2:45 p.m.,
+742,fyightexplorer,AA-3468-CVG-MIA,,,,
+743,CO-1023-IAH-DEN,AA-484-DFW-MIA,5:50 a.m.,4:29 p.m.,7:55 p.m.,
+744,,,,10:10 a.m.,12:35 p.m.,
+745,,Ah-446-DFW-PHL,6:40 a.m.,12:12 p.m.,3:50 p.m.,
+746,,,,,,1:14 p.m.
+747,fsightexplorer,,,6:08 a.m.,,
+748,flightexplorer,AA-2957-DFW-CVG,,8:04 a.m.,11:05 a.m.,
+749,,Ae-1664-MIA-ATL,,,12:10 p.m.,
+750,fbightexplorer,Ar-3979-CVG-ORD,7:30 a.m.,8:04 a.m.,,
+751,AA-271-MIA-LAX,AA-1279-DFW-PHX,5:11 a.m.,,2:35 p.m.,3:30 p.m.
+752,,Uz-382-IAD-LAX,,12:35 p.m.,,
+753,flightexplorer,,11:45 a.m.,,,
+754,flightexplorer,UA-257-JFK-SFO,2:30 p.m.,,6:15 p.m.,
+755,,As-271-MIA-LAX,,,2:25 p.m.,2:27 p.m.
+756,fhightexplorer,,10:40 a.m.,,,
+757,AA-466-IAH-MIA,Ux-248-PHX-ORD,12:57 p.m.,1:32 p.m.,,5:34 p.m.
+758,,,,,,3:33 p.m.
+759,UA-2726-FLL-PHL,An-1434-DFW-MCO,,,,10:36 a.m.
+760,,,,,7:00 p.m.,
+761,,AA-3-JFK-LAX,,,11:50 a.m.,
+762,Af-789-ORD-DEN,Cq-1193-EWR-MCO,7:25 p.m.,9:14 a.m.,12:18 p.m.,
+763,,AA-3842-MSP-ORD,6:00 a.m.,,7:30 a.m.,7:51 a.m.
+764,fpightexplorer,,9:55 a.m.,7:30 a.m.,9:35 a.m.,9:31 a.m.
+765,,,4:31 p.m.,5:08 p.m.,,7:55 p.m.
+766,,,7:25 a.m.,7:39 a.m.,,
+767,,,,,7:35 p.m.,
+768,,AA-1221-MCO-ORD,,8:23 p.m.,,
+769,,Ag-1886-BOS-MIA,10:45 a.m.,,7:35 a.m.,1:40 p.m.
+770,flightexplorer,,,,4:31 p.m.,
+771,flightexplorer,,,,4:17 p.m.,4:17 p.m.
+772,fgightexplorer,AA-1522-SFO-ORD,,11:55 p.m.,,5:50 a.m.
+773,At-466-IAH-MIA,AA-3823-LAX-DEN,,,1:45 p.m.,
+774,,fbightstats,8:25 p.m.,8:25 p.m.,,11:50 p.m.
+775,,allegiantair,,7:22 a.m.,,10:04 a.m.
+776,Av-4198-ORD-CLE,AA-431-MIA-SFO,,,,
+777,fnightexplorer,fgightstats,8:29 a.m.,8:26 a.m.,,9:13 a.m.
+778,Ax-59-JFK-SFO,AA-649-ORD-SNA,,,,
+779,,Ul-828-SFO-ORD,11:08 p.m.,,,5:11 a.m.
+780,,Ch-4888-IAH-DAL,5:30 p.m.,,,
+781,feightexplorer,Cf-1561-PHX-IAH,,,,
+782,fzightexplorer,Au-3804-PHL-ORD,,2:44 p.m.,6:30 p.m.,
+783,As-4344-ORD-DTW,AA-2268-PHX-ORD,,,,11:06 a.m.
+784,UA-62-IAH-EWR,UA-233-LAX-JFK,4:25 p.m.,,,12:29 a.m.
+785,flightexplorer,UA-6273-YYC-SFO,,7:27 a.m.,,8:45 a.m.
+786,Az-204-LAX-MCO,Ar-4277-CVG-JFK,4:00 p.m.,12:10 p.m.,2:15 p.m.,1:43 p.m.
+787,fqightexplorer,flytecomm,,1:19 p.m.,,
+788,,Am-222-LAX-BOS,,7:31 a.m.,3:30 p.m.,3:14 p.m.
+789,Up-2945-PHL-CLT,AA-4198-ORD-CLE,,,,
+790,flightexplorer,AA-404-MIA-MCO,,,,
+791,AA-271-MIA-LAX,AA-3809-PHX-LAX,,6:10 a.m.,6:40 a.m.,6:19 a.m.
+792,flightexplorer,,,7:39 a.m.,,11:12 a.m.
+793,,Ay-2050-ORD-MIA,,,2:45 p.m.,2:46 p.m.
+794,Aj-404-MIA-MCO,AA-1165-JFK-MIA,,7:22 a.m.,,10:04 a.m.
+795,mza,AA-484-DFW-MIA,,4:29 p.m.,,7:39 p.m.
+796,Ag-2050-ORD-MIA,Ab-466-IAH-MIA,,6:08 a.m.,9:20 a.m.,
+797,AA-3804-PHL-ORD,Ae-2525-DFW-MIA,7:25 a.m.,,,11:06 a.m.
+798,Aj-4198-ORD-CLE,Un-382-IAD-LAX,,,,
+799,dfw,AA-1279-DFW-PHX,,,,3:30 p.m.
+800,,Ap-2312-DFW-DTW,,,11:50 p.m.,
+801,Ae-1221-MCO-ORD,Ah-446-DFW-PHL,,,,4:09 p.m.
+802,,AA-400-DFW-JFK,,,2:59 p.m.,
+803,AA-1007-MIA-PHX,Ak-484-DFW-MIA,7:25 p.m.,,7:55 p.m.,
+804,,myrateplan,,,,10:29 p.m.
+805,,,9:40 a.m.,,,5:43 p.m.
+806,mxo,Av-1640-MIA-MCO,,6:30 p.m.,,
+807,,Ad-404-MIA-MCO,,,,
+808,Ug-3099-PHX-PHL,Ac-204-LAX-MCO,,11:25 p.m.,6:55 a.m.,6:55 a.m.
+809,,,,8:23 p.m.,,
+810,,Ar-1434-DFW-MCO,,,,10:36 a.m.
+811,Ab-3804-PHL-ORD,CO-1193-EWR-MCO,,,,
+812,,Ai-3859-IAH-ORD,,,,
+813,fbights,Cf-1586-IAH-MCO,,7:14 p.m.,,10:29 p.m.
+814,,AA-518-MIA-JFK,,,,
+815,AA-3979-CVG-ORD,Ui-397-JFK-SFO,,,11:55 a.m.,
+816,,Uu-3925-IAD-ORF,,8:42 a.m.,,9:43 a.m.
+817,Aj-3804-PHL-ORD,AA-1733-ORD-PHX,7:45 p.m.,7:58 p.m.,,
+818,,,,12:11 p.m.,,
+819,UA-858-PVG-SFO,UA-2830-MCO-CLT,,3:27 p.m.,,5:17 p.m.
+820,Ub-5487-SFO-MRY,CO-58-DEN-IAH,11:25 a.m.,,,3:31 p.m.
+821,flights,Ui-5487-SFO-MRY,10:39 a.m.,10:33 a.m.,2:30 p.m.,11:21 a.m.
+822,fqights,AA-204-LAX-MCO,,11:25 p.m.,,
+823,UA-382-IAD-LAX,Ut-414-LAX-SFO,,,,7:17 a.m.
+824,ftights,CO-1614-LAX-IAH,,12:41 a.m.,,5:26 a.m.
+825,,,4:00 p.m.,,6:46 p.m.,
+826,,Cw-52-IAH-LAX,,,,
+827,,Ca-1090-BOS-IAH,9:45 a.m.,10:19 a.m.,,
+828,fqights,,9:05 a.m.,10:10 a.m.,,
+829,,,10:34 a.m.,,,
+830,,,7:00 a.m.,,,9:45 a.m.
+831,,travelocity,,4:29 p.m.,,
+832,,,,10:55 a.m.,7:10 a.m.,1:40 p.m.
+833,flights,CO-62-IAH-EWR,2:30 p.m.,,,7:10 p.m.
+834,Af-2312-DFW-DTW,CO-1561-PHX-IAH,,,,
+835,UA-2726-FLL-PHL,Uk-2314-ATL-PHL,,,,4:47 p.m.
+836,flights,At-446-DFW-PHL,,,,4:09 p.m.
+837,,,,11:56 a.m.,,
+838,,AA-466-IAH-MIA,,,,
+839,fgights,Ue-3050-PHX-CLT,,,,5:05 p.m.
+840,,Ca-89-IAH-EWR,6:00 a.m.,,7:30 a.m.,
+841,fhights,Cx-1088-CLE-IAH,,,10:40 a.m.,
+842,flights,,,,,11:56 a.m.
+843,,AA-1279-DFW-PHX,2:25 p.m.,,2:35 p.m.,3:30 p.m.
+844,fdights,,,,,
+845,,,,,3:19 p.m.,
+846,flights,mrtripandmore,11:45 a.m.,,,
+847,,Ue-257-JFK-SFO,2:30 p.m.,,,
+848,,Uf-2945-PHL-CLT,12:00 a.m.,,,1:15 p.m.
+849,,Cg-63-EWR-IAH,,,,
+850,AA-222-LAX-BOS,CO-47-IAH-LAX,,8:25 p.m.,8:56 p.m.,
+851,AA-4330-CVG-ORD,Ak-2050-ORD-MIA,8:22 p.m.,11:05 a.m.,,
+852,AA-2050-ORD-MIA,UA-248-PHX-ORD,,1:32 p.m.,,5:34 p.m.
+853,fcights,Aw-4330-CVG-ORD,,,,
+854,Af-59-JFK-SFO,Az-1434-DFW-MCO,,,,
+855,fyights,,4:05 p.m.,,,7:25 p.m.
+856,,Ai-4307-ORD-DTW,,,,
+857,,CO-1694-LAX-IAH,,,,
+858,fcights,Uk-843-LAX-ORD,,,7:53 p.m.,7:58 p.m.
+859,fbights,Cs-1193-EWR-MCO,,,,
+860,,,,6:56 a.m.,,7:51 a.m.
+861,,Ae-643-MIA-ORD,,7:30 a.m.,,
+862,fjights,,4:55 p.m.,,8:05 p.m.,
+863,Ui-664-ORD-PHL,Uk-2906-PHL-MCO,3:50 p.m.,,,6:38 p.m.
+864,,,,4:15 p.m.,,
+865,,,,,,
+866,Uc-397-JFK-SFO,Cb-16-LAX-EWR,,,11:50 a.m.,
+867,Ac-2312-DFW-DTW,Ua-2515-DFW-CLT,,,12:15 p.m.,10:47 a.m.
+868,Uc-6273-YYC-SFO,Ak-400-DFW-JFK,,11:01 a.m.,,
+869,Aw-3804-PHL-ORD,UA-664-ORD-PHL,,,4:31 p.m.,4:23 p.m.
+870,fvights,,,12:41 p.m.,,2:50 p.m.
+871,fqights,,,1:48 p.m.,11:15 a.m.,
+872,flights,,,,,5:50 a.m.
+873,AA-3063-SLC-LAX,Uz-233-LAX-JFK,,,12:29 a.m.,
+874,,fpylouisville,,,12:15 a.m.,12:15 a.m.
+875,UA-2314-ATL-PHL,Ag-2312-DFW-DTW,,8:25 p.m.,,11:50 p.m.
+876,,,10:45 a.m.,7:22 a.m.,,10:04 a.m.
+877,,,,8:51 a.m.,,
+878,Cb-4888-IAH-DAL,UA-3373-IAD-PHL,,,9:24 a.m.,
+879,At-3063-SLC-LAX,At-649-ORD-SNA,6:23 p.m.,,,
+880,fgights,Cz-1250-MIA-IAH,2:53 p.m.,3:01 p.m.,,4:59 p.m.
+881,,Ut-6273-YYC-SFO,,7:27 a.m.,,
+882,Ay-1640-MIA-MCO,Ul-828-SFO-ORD,11:08 p.m.,11:08 p.m.,5:11 a.m.,
+883,Ak-3786-IAH-ORD,Cf-4888-IAH-DAL,,,6:40 p.m.,6:40 p.m.
+884,,Uk-858-PVG-SFO,,,1:33 p.m.,
+885,,Ue-2704-DTW-PHX,,,1:40 p.m.,2:00 p.m.
+886,,fxightstats,,8:39 p.m.,9:20 p.m.,
+887,,Un-2708-EWR-CLT,2:55 p.m.,2:55 p.m.,,
+888,,Ud-62-IAH-EWR,,,,
+889,,,3:50 p.m.,,11:45 a.m.,
+890,fnights,,4:00 p.m.,,,
+891,,Az-1917-JFK-MCO,5:00 p.m.,3:27 p.m.,,
+892,,,,,11:35 a.m.,11:06 a.m.
+893,Ac-85-JFK-SFO,Aw-4277-CVG-JFK,,,2:15 p.m.,1:43 p.m.
+894,flights,AA-2957-DFW-CVG,,,,11:01 a.m.
+895,fzights,,9:45 p.m.,8:52 a.m.,,
+896,,,,,,
+897,flights,An-415-BOS-ORD,,,,
+898,fuights,AA-85-JFK-SFO,,,12:15 p.m.,6:43 p.m.
+899,Ch-1250-MIA-IAH,Ab-3979-CVG-ORD,7:30 a.m.,,8:00 a.m.,
+900,,tuavelocity,11:25 a.m.,11:40 a.m.,,
+901,Aw-3823-LAX-DEN,AA-3786-IAH-ORD,7:23 a.m.,,6:40 p.m.,
+902,,Ao-271-MIA-LAX,11:35 a.m.,,6:40 a.m.,
+903,,helloflight,,7:39 a.m.,,
+904,UA-414-LAX-SFO,Cp-50-CLE-EWR,,3:31 p.m.,4:49 p.m.,5:26 p.m.
+905,Um-2515-DFW-CLT,UA-3099-PHX-PHL,2:35 p.m.,,,
+906,,,,10:54 a.m.,,
+907,flights,aa,6:45 a.m.,,11:40 a.m.,7:40 a.m.
+908,flights,flylouisville,,,,6:36 p.m.
+909,,AA-3809-PHX-LAX,,6:10 a.m.,,
+910,Cs-63-EWR-IAH,AA-59-JFK-SFO,,,,
+911,,Am-222-LAX-BOS,,,12:00 a.m.,
+912,fpightarrival,,,,9:40 a.m.,
+913,flightarrival,,,,7:25 p.m.,7:25 p.m.
+914,Ad-466-IAH-MIA,Up-3925-IAD-ORF,,,,
+915,,flightexplorer,,,2:00 p.m.,
+916,flightarrival,UA-414-LAX-SFO,,5:56 a.m.,1:30 p.m.,
+917,,,,12:41 a.m.,,
+918,Cx-1694-LAX-IAH,Cl-52-IAH-LAX,7:35 a.m.,,,9:14 a.m.
+919,,,,,,
+920,An-1664-MIA-ATL,AA-3468-CVG-MIA,,,,9:45 a.m.
+921,fiightarrival,CO-62-IAH-EWR,,,7:05 a.m.,
+922,flightarrival,fqylouisville,10:34 a.m.,6:08 a.m.,,
+923,Am-3786-IAH-ORD,Ac-1664-MIA-ATL,,,12:10 p.m.,11:56 a.m.
+924,UA-397-JFK-SFO,Ax-1279-DFW-PHX,,,,
+925,As-1434-DFW-MCO,Ax-404-MIA-MCO,,6:57 a.m.,4:16 p.m.,
+926,Ux-2314-ATL-PHL,Ud-382-IAD-LAX,,,,
+927,,CO-50-CLE-EWR,,,,5:26 p.m.
+928,,Ab-616-DFW-DTW,,,12:35 p.m.,1:27 p.m.
+929,,,,,,
+930,,,10:15 p.m.,,,2:46 p.m.
+931,flightarrival,AA-4307-ORD-DTW,,,9:10 p.m.,
+932,faightarrival,,11:53 a.m.,12:11 p.m.,,
+933,,Cx-1694-LAX-IAH,,,12:21 a.m.,12:21 a.m.
+934,,Cq-1193-EWR-MCO,,,,
+935,UA-397-JFK-SFO,Uq-2906-PHL-MCO,,,6:23 p.m.,
+936,,Uc-938-DEN-ORD,,,,
+937,feightarrival,Ao-1221-MCO-ORD,,,,9:53 p.m.
+938,,Ct-16-LAX-EWR,,,6:44 p.m.,
+939,,tqavelocity,7:05 a.m.,,,
+940,,wsather,1:17 p.m.,,,
+941,Ak-85-JFK-SFO,Ud-664-ORD-PHL,1:33 p.m.,,,
+942,Ay-415-BOS-ORD,Uw-37-EWR-MCO,,1:48 p.m.,,
+943,,,,,,12:29 a.m.
+944,flightarrival,,,8:25 p.m.,11:50 p.m.,
+945,,Ac-431-MIA-SFO,,,,
+946,AA-518-MIA-JFK,UA-257-JFK-SFO,,,,5:42 p.m.
+947,Cs-52-IAH-LAX,Uk-3373-IAD-PHL,,,,
+948,fgightarrival,UA-828-SFO-ORD,12:15 a.m.,,,5:11 a.m.
+949,,CO-4888-IAH-DAL,,,,6:40 p.m.
+950,CO-47-IAH-LAX,UA-858-PVG-SFO,1:45 p.m.,,8:27 a.m.,
+951,,,,,8:29 a.m.,
+952,flightarrival,foightstats,,,9:20 p.m.,
+953,Cb-1614-LAX-IAH,Ue-1500-IAH-GUA,,,,
+954,Cz-1090-BOS-IAH,CO-1561-PHX-IAH,,,3:05 p.m.,
+955,,,7:15 a.m.,7:22 a.m.,,
+956,CO-1250-MIA-IAH,Ud-2314-ATL-PHL,,2:55 p.m.,,4:47 p.m.
+957,,Ut-6273-YYC-SFO,,7:27 a.m.,9:43 a.m.,
+958,,Ar-4277-CVG-JFK,,,2:15 p.m.,
+959,Uw-3373-IAD-PHL,Al-2957-DFW-CVG,,,,11:01 a.m.
+960,,,,,,12:09 p.m.
+961,,Us-854-SFO-IAH,7:53 a.m.,7:49 a.m.,,1:30 p.m.
+962,frightarrival,An-85-JFK-SFO,,,4:00 p.m.,
+963,fvightarrival,ifly,,11:40 a.m.,,
+964,faightarrival,AA-3786-IAH-ORD,,,,6:15 p.m.
+965,Cn-63-EWR-IAH,CO-1088-CLE-IAH,11:53 a.m.,,,10:56 a.m.
+966,flightarrival,AA-4198-ORD-CLE,,,8:00 p.m.,
+967,,,,6:10 a.m.,7:10 p.m.,
+968,,fxights,,,10:40 a.m.,11:12 a.m.
+969,Uj-3050-PHX-CLT,Ag-222-LAX-BOS,7:10 a.m.,,,3:14 p.m.
+970,flightwise,AA-3859-IAH-ORD,7:10 a.m.,,,
+971,,AA-3842-MSP-ORD,1:40 p.m.,6:56 a.m.,,
+972,flightwise,,,,7:10 a.m.,9:31 a.m.
+973,flightwise,Ag-1640-MIA-MCO,3:19 p.m.,6:30 p.m.,7:25 p.m.,
+974,Cp-1023-IAH-DEN,Aj-2525-DFW-MIA,4:57 p.m.,,11:10 a.m.,
+975,flightwise,,11:05 a.m.,11:30 a.m.,4:57 p.m.,
+976,,asrtravelcenter,,8:42 a.m.,,
+977,flightwise,,1:33 p.m.,,4:31 p.m.,
+978,Aw-3786-IAH-ORD,Ay-789-ORD-DEN,,,2:55 p.m.,
+979,Ad-1544-SAN-ORD,Av-2312-DFW-DTW,10:20 a.m.,8:25 p.m.,,
+980,Uf-664-ORD-PHL,Cu-1694-LAX-IAH,,,12:21 a.m.,12:21 a.m.
+981,fmightwise,CO-63-EWR-IAH,5:25 p.m.,,,
+982,Ap-3756-ORD-SLC,AA-3786-IAH-ORD,,,,6:15 p.m.
+983,Ap-400-DFW-JFK,CO-47-IAH-LAX,,,8:56 p.m.,
+984,CO-1088-CLE-IAH,Ab-1434-DFW-MCO,,,10:35 a.m.,10:36 a.m.
+985,,flightstats,10:30 p.m.,,,
+986,AA-59-JFK-SFO,Aa-3809-PHX-LAX,6:00 a.m.,,,
+987,,,,7:39 a.m.,,11:12 a.m.
+988,,Ad-4307-ORD-DTW,,,,
+989,,AA-85-JFK-SFO,,,,
+990,UA-2515-DFW-CLT,Aw-3859-IAH-ORD,,,,
+991,,,,6:54 a.m.,,
+992,,asrtravelcenter,8:00 a.m.,8:29 a.m.,,
+993,Cn-1088-CLE-IAH,Ue-3925-IAD-ORF,,8:42 a.m.,,
+994,Aj-59-JFK-SFO,AA-1733-ORD-PHX,,7:58 p.m.,10:30 p.m.,10:30 p.m.
+995,tuavelocity,Aj-1640-MIA-MCO,,6:30 p.m.,7:25 p.m.,
+996,Aq-4277-CVG-JFK,AA-3-JFK-LAX,,,3:15 p.m.,3:16 p.m.
+997,,UA-2830-MCO-CLT,,,,
+998,thavelocity,,,11:40 a.m.,,
+999,Uk-828-SFO-ORD,AA-204-LAX-MCO,,,,
+1000,,,,5:56 a.m.,,
+1001,,AA-3756-ORD-SLC,12:15 p.m.,,,
+1002,UA-854-SFO-IAH,UA-2726-FLL-PHL,,,6:46 p.m.,
+1003,,,,7:25 a.m.,9:55 a.m.,
+1004,Ar-643-MIA-ORD,UA-3515-IAD-MSP,8:15 a.m.,,7:30 a.m.,
+1005,Av-222-LAX-BOS,AA-484-DFW-MIA,4:15 p.m.,4:29 p.m.,,7:39 p.m.
+1006,Uv-2726-FLL-PHL,Cm-62-IAH-EWR,2:30 p.m.,2:48 p.m.,,
+1007,,,,12:12 p.m.,,4:09 p.m.
+1008,CO-1561-PHX-IAH,Ad-466-IAH-MIA,,,9:20 a.m.,
+1009,Aq-518-MIA-JFK,UA-3050-PHX-CLT,,,4:57 p.m.,5:05 p.m.
+1010,UA-3099-PHX-PHL,Cd-89-IAH-EWR,,,,
+1011,,,8:40 a.m.,,,10:56 a.m.
+1012,UA-2515-DFW-CLT,Ap-1886-BOS-MIA,2:50 p.m.,,,1:40 p.m.
+1013,travelocity,AA-2957-DFW-CVG,,,,11:01 a.m.
+1014,CO-16-LAX-EWR,AA-1664-MIA-ATL,,,,11:56 a.m.
+1015,Ck-1023-IAH-DEN,Ah-3979-CVG-ORD,,,8:00 a.m.,8:06 a.m.
+1016,,AA-1279-DFW-PHX,1:00 p.m.,,,
+1017,,AA-616-DFW-DTW,,,,1:27 p.m.
+1018,,Ae-4344-ORD-DTW,11:45 a.m.,,3:50 p.m.,
+1019,tuavelocity,Uc-2945-PHL-CLT,12:00 a.m.,3:11 a.m.,,
+1020,Al-3804-PHL-ORD,Al-2525-DFW-MIA,,,11:10 a.m.,
+1021,Al-3859-IAH-ORD,Aw-271-MIA-LAX,,,2:25 p.m.,2:27 p.m.
+1022,Af-3823-LAX-DEN,AA-2050-ORD-MIA,10:40 a.m.,,2:45 p.m.,
+1023,,Af-1434-DFW-MCO,,,,
+1024,travelocity,CO-1561-PHX-IAH,,8:00 a.m.,,
+1025,,ffxbusiness,6:15 p.m.,,9:10 p.m.,
+1026,,,,7:15 p.m.,,
+1027,UA-3925-IAD-ORF,UA-843-LAX-ORD,,,,
+1028,,,,,12:18 p.m.,
+1029,Ar-1544-SAN-ORD,Av-3842-MSP-ORD,,,7:30 a.m.,
+1030,travelocity,,,,9:35 a.m.,9:31 a.m.
+1031,Up-2945-PHL-CLT,UA-2906-PHL-MCO,,,,
+1032,Cb-47-IAH-LAX,Aq-1221-MCO-ORD,,,,
+1033,travelocity,tcavelocity,,,,
+1034,Au-789-ORD-DEN,AA-400-DFW-JFK,12:18 p.m.,,,
+1035,,UA-664-ORD-PHL,,,,
+1036,Aw-3468-CVG-MIA,AA-1522-SFO-ORD,,,,
+1037,AA-4277-CVG-JFK,Ue-233-LAX-JFK,6:40 p.m.,,,12:29 a.m.
+1038,Ar-1733-ORD-PHX,Am-3823-LAX-DEN,,9:00 p.m.,,
+1039,,,,,,11:50 p.m.
+1040,,AA-1165-JFK-MIA,,,,
+1041,Ak-2525-DFW-MIA,AA-431-MIA-SFO,2:20 p.m.,,11:50 a.m.,11:44 a.m.
+1042,,UA-257-JFK-SFO,,,6:45 p.m.,
+1043,tmavelocity,Up-3373-IAD-PHL,8:29 a.m.,,,
+1044,,Aa-649-ORD-SNA,,1:30 p.m.,,
+1045,taavelocity,Ct-1250-MIA-IAH,,,,
+1046,toavelocity,Un-6273-YYC-SFO,,,,
+1047,Uv-257-JFK-SFO,Un-858-PVG-SFO,,,,
+1048,,UA-2704-DTW-PHX,,11:15 a.m.,,
+1049,travelocity,AA-3063-SLC-LAX,,8:39 p.m.,9:20 p.m.,
+1050,travelocity,UA-2708-EWR-CLT,7:55 p.m.,2:55 p.m.,,
+1051,AA-3842-MSP-ORD,Uo-62-IAH-EWR,,,6:00 a.m.,7:10 p.m.
+1052,,,,,7:10 a.m.,
+1053,travelocity,,2:55 p.m.,,,
+1054,,AA-2268-PHX-ORD,2:45 p.m.,,11:35 a.m.,
+1055,Az-1733-ORD-PHX,Ud-2314-ATL-PHL,2:55 p.m.,,,4:47 p.m.
+1056,taavelocity,tiavelocity,3:50 p.m.,12:10 p.m.,,
+1057,Ac-4198-ORD-CLE,Uj-37-EDI-EWR,,8:52 a.m.,10:40 a.m.,
+1058,,,,,2:35 p.m.,3:13 p.m.
+1059,toavelocity,,,,,
+1060,,AA-415-BOS-ORD,,,,
+1061,Uv-2314-ATL-PHL,Aj-85-JFK-SFO,,,,6:43 p.m.
+1062,,,4:00 p.m.,4:12 p.m.,,
+1063,Cz-63-EWR-IAH,CO-50-CLE-EWR,,3:31 p.m.,4:49 p.m.,
+1064,Ay-484-DFW-MIA,Um-3099-PHX-PHL,,,6:17 p.m.,5:38 p.m.
+1065,travelocity,,10:40 a.m.,,,12:50 p.m.
+1066,AA-3809-PHX-LAX,AA-222-LAX-BOS,7:10 a.m.,,,
+1067,tsavelocity,,6:45 a.m.,6:57 a.m.,,
+1068,,CO-45-EWR-MIA,,3:58 p.m.,,
+1069,,Ay-3809-PHX-LAX,,6:10 a.m.,,
+1070,,Ao-59-JFK-SFO,,,,11:12 a.m.
+1071,,wunderground,,7:16 a.m.,,9:32 a.m.
+1072,AA-3468-CVG-MIA,Ct-1586-IAH-MCO,,7:14 p.m.,11:40 a.m.,10:29 p.m.
+1073,,,6:40 a.m.,6:54 a.m.,6:45 p.m.,
+1074,,,,,,
+1075,,UA-3925-IAD-ORF,,8:42 a.m.,,
+1076,,myrateplan,,,,
+1077,Az-1917-JFK-MCO,Ay-3-JFK-LAX,,12:11 p.m.,,
+1078,AA-1165-JFK-MIA,Ue-2830-MCO-CLT,,,,
+1079,,,,,4:16 p.m.,
+1080,Av-1221-MCO-ORD,Ub-5487-SFO-MRY,10:39 a.m.,10:33 a.m.,11:19 a.m.,
+1081,fxxbusiness,,11:25 p.m.,,,
+1082,frxbusiness,UA-414-LAX-SFO,5:00 p.m.,,7:23 a.m.,7:17 a.m.
+1083,fixbusiness,CO-1614-LAX-IAH,,12:41 a.m.,5:35 a.m.,
+1084,fkxbusiness,UA-2726-FLL-PHL,4:00 p.m.,,,
+1085,UA-828-SFO-ORD,Ca-52-IAH-LAX,7:35 a.m.,,,
+1086,Uf-37-EDI-EWR,Cy-1090-BOS-IAH,,,1:16 p.m.,
+1087,Uh-3373-IAD-PHL,AA-616-DFW-DTW,9:05 a.m.,10:10 a.m.,,
+1088,Al-3842-MSP-ORD,UA-3515-IAD-MSP,8:15 a.m.,,2:55 p.m.,
+1089,Ae-3786-IAH-ORD,Ao-3468-CVG-MIA,,,,9:45 a.m.
+1090,Us-257-JFK-SFO,AA-484-DFW-MIA,,4:29 p.m.,,7:39 p.m.
+1091,Av-649-ORD-SNA,At-1886-BOS-MIA,,,,
+1092,AA-2050-ORD-MIA,Co-62-IAH-EWR,,2:48 p.m.,,
+1093,,Ch-1561-PHX-IAH,,,,
+1094,fzxbusiness,Up-2314-ATL-PHL,,,,
+1095,Cl-1088-CLE-IAH,As-446-DFW-PHL,3:15 p.m.,12:12 p.m.,,
+1096,,CO-1023-IAH-DEN,,,1:17 p.m.,
+1097,,Av-466-IAH-MIA,2:15 p.m.,6:08 a.m.,,9:05 a.m.
+1098,AA-1221-MCO-ORD,UA-3050-PHX-CLT,,11:30 a.m.,,
+1099,Cn-63-EWR-IAH,CO-89-IAH-EWR,,,10:40 a.m.,10:27 a.m.
+1100,,,,,6:00 a.m.,
+1101,fqxbusiness,,,10:18 a.m.,12:10 p.m.,
+1102,Ap-2268-PHX-ORD,Af-1279-DFW-PHX,1:00 p.m.,,,
+1103,Ua-2704-DTW-PHX,Ug-854-SFO-IAH,,,8:35 a.m.,1:30 p.m.
+1104,,Ur-382-IAD-LAX,5:55 p.m.,12:35 p.m.,,3:21 p.m.
+1105,Uu-6273-YYC-SFO,An-4344-ORD-DTW,,,,
+1106,,UA-257-JFK-SFO,,,,
+1107,,,11:05 a.m.,,,
+1108,Uh-2314-ATL-PHL,Cg-63-EWR-IAH,5:25 p.m.,,8:22 p.m.,8:03 p.m.
+1109,,CO-47-IAH-LAX,,8:25 p.m.,8:56 p.m.,
+1110,fnxbusiness,,,11:05 a.m.,,2:46 p.m.
+1111,Ah-3804-PHL-ORD,Ur-248-PHX-ORD,12:57 p.m.,,,
+1112,,Au-4330-CVG-ORD,,,,3:33 p.m.
+1113,fixbusiness,Ag-1434-DFW-MCO,,,,10:36 a.m.
+1114,Ux-3099-PHX-PHL,As-1640-MIA-MCO,3:15 p.m.,,,
+1115,,AA-4307-ORD-DTW,6:45 p.m.,6:55 p.m.,10:40 a.m.,
+1116,foxbusiness,Cw-1694-LAX-IAH,7:15 p.m.,7:15 p.m.,1:29 p.m.,12:21 a.m.
+1117,Uz-233-LAX-JFK,UA-843-LAX-ORD,,2:10 p.m.,,
+1118,,CO-1193-EWR-MCO,,9:14 a.m.,2:55 p.m.,12:09 p.m.
+1119,,Av-3842-MSP-ORD,,,,
+1120,,AA-643-MIA-ORD,,7:30 a.m.,9:35 a.m.,
+1121,,AA-1007-MIA-PHX,4:55 p.m.,,8:05 p.m.,
+1122,,,3:50 p.m.,,,6:38 p.m.
+1123,Am-4307-ORD-DTW,UA-938-DEN-ORD,4:16 p.m.,,10:39 a.m.,
+1124,,,,8:23 p.m.,9:45 p.m.,
+1125,,Cd-16-LAX-EWR,10:25 a.m.,10:20 a.m.,,6:34 p.m.
+1126,UA-843-LAX-ORD,Uf-2515-DFW-CLT,7:05 a.m.,7:05 a.m.,,
+1127,foxbusiness,AA-400-DFW-JFK,,11:01 a.m.,,3:04 p.m.
+1128,,,1:33 p.m.,,,
+1129,Ui-233-LAX-JFK,Ao-3756-ORD-SLC,,12:41 p.m.,,2:50 p.m.
+1130,,UA-37-EWR-MCO,1:29 p.m.,,4:17 p.m.,
+1131,AA-2312-DFW-DTW,AA-1522-SFO-ORD,,,5:50 a.m.,5:50 a.m.
+1132,Ay-1165-JFK-MIA,Uy-233-LAX-JFK,,,,
+1133,,world-flight-tracker,9:00 p.m.,9:00 p.m.,,12:15 a.m.
+1134,foxbusiness,,,,,
+1135,AA-2050-ORD-MIA,Ac-1165-JFK-MIA,,,,
+1136,AA-2957-DFW-CVG,Ax-431-MIA-SFO,,,,
+1137,AA-1279-DFW-PHX,Uu-3373-IAD-PHL,,8:26 a.m.,2:55 p.m.,
+1138,AA-518-MIA-JFK,Aw-649-ORD-SNA,10:15 p.m.,,3:50 p.m.,3:50 p.m.
+1139,foxbusiness,CO-1250-MIA-IAH,4:17 p.m.,,,
+1140,CO-89-IAH-EWR,Ud-6273-YYC-SFO,,,,
+1141,,Us-828-SFO-ORD,,,,5:11 a.m.
+1142,fsxbusiness,,,,,6:40 p.m.
+1143,foxbusiness,UA-858-PVG-SFO,1:45 p.m.,,,8:02 a.m.
+1144,,UA-2704-DTW-PHX,,11:15 a.m.,,2:00 p.m.
+1145,,At-3063-SLC-LAX,8:20 p.m.,8:39 p.m.,,
+1146,,,,,,
+1147,Ue-5487-SFO-MRY,Uz-62-IAH-EWR,,,7:03 p.m.,
+1148,fuxbusiness,,,,11:45 a.m.,
+1149,,,,2:44 p.m.,1:05 p.m.,
+1150,,ffylouisville,,,,
+1151,AA-2312-DFW-DTW,As-2268-PHX-ORD,,,,
+1152,,Ak-4277-CVG-JFK,12:10 p.m.,12:10 p.m.,,
+1153,,AA-2957-DFW-CVG,,,6:00 a.m.,
+1154,,Uu-37-EDI-EWR,9:05 a.m.,,8:25 p.m.,
+1155,,mirateplan,,1:19 p.m.,,
+1156,,ofbitz,,,10:40 a.m.,
+1157,,AA-85-JFK-SFO,,,,
+1158,,weather,,,,8:06 a.m.
+1159,foxbusiness,Ao-1544-SAN-ORD,3:15 p.m.,11:40 a.m.,,4:56 p.m.
+1160,fmxbusiness,pbnynj,,,,
+1161,,Ah-271-MIA-LAX,11:35 a.m.,,,
+1162,Ad-616-DFW-DTW,AA-2525-DFW-MIA,7:25 a.m.,7:39 a.m.,7:25 a.m.,11:06 a.m.
+1163,,,,,,
+1164,,,,,6:17 p.m.,
+1165,AA-2312-DFW-DTW,AA-4198-ORD-CLE,10:40 a.m.,10:54 a.m.,,
+1166,As-1165-JFK-MIA,AA-404-MIA-MCO,,,,7:40 a.m.
+1167,CO-16-LAX-EWR,Cg-45-EWR-MIA,,,1:00 p.m.,
+1168,Cz-1193-EWR-MCO,AA-3809-PHX-LAX,6:00 a.m.,6:10 a.m.,,
+1169,,,7:10 a.m.,,10:45 a.m.,
+1170,foxbusiness,As-222-LAX-BOS,7:10 a.m.,7:31 a.m.,,
+1171,Ak-1522-SFO-ORD,Ae-3859-IAH-ORD,,,,
+1172,Ui-3099-PHX-PHL,AA-518-MIA-JFK,,,,
+1173,umatoday,Cl-1586-IAH-MCO,9:10 p.m.,,,
+1174,,allegiantair,,,,9:43 a.m.
+1175,UA-1500-IAH-GUA,AA-1733-ORD-PHX,,,,
+1176,Ui-843-LAX-ORD,UA-414-LAX-SFO,,5:56 a.m.,,
+1177,,Un-3515-IAD-MSP,,8:12 a.m.,,9:56 a.m.
+1178,uqatoday,fxxbusiness,,7:25 a.m.,7:10 a.m.,
+1179,Ar-3-JFK-LAX,As-484-DFW-MIA,,4:29 p.m.,7:55 p.m.,7:39 p.m.
+1180,,CO-63-EWR-IAH,5:25 p.m.,,8:22 p.m.,8:03 p.m.
+1181,AA-643-MIA-ORD,Aq-466-IAH-MIA,3:50 p.m.,,9:20 a.m.,
+1182,Um-2830-MCO-CLT,UA-3050-PHX-CLT,,,,
+1183,uhatoday,,,10:55 a.m.,,
+1184,Up-37-EDI-EWR,AA-1664-MIA-ATL,,,,11:56 a.m.
+1185,AA-1664-MIA-ATL,Az-404-MIA-MCO,,,7:45 a.m.,
+1186,,,,12:41 p.m.,,
+1187,Ut-233-LAX-JFK,Ux-382-IAD-LAX,12:30 p.m.,,3:19 p.m.,
+1188,Ci-52-IAH-LAX,UA-2945-PHL-CLT,,3:11 a.m.,,1:15 p.m.
+1189,,Aq-2050-ORD-MIA,,,,
+1190,Ap-616-DFW-DTW,UA-248-PHX-ORD,12:57 p.m.,1:32 p.m.,5:15 p.m.,
+1191,,Ai-4330-CVG-ORD,,3:36 p.m.,,
+1192,Cd-45-EWR-MIA,AA-4307-ORD-DTW,,,9:10 p.m.,8:53 p.m.
+1193,usatoday,,,,3:27 p.m.,
+1194,,Us-843-LAX-ORD,,,,
+1195,AA-1221-MCO-ORD,Ca-1193-EWR-MCO,9:15 a.m.,9:14 a.m.,12:18 p.m.,
+1196,Cf-45-EWR-MIA,Ay-1221-MCO-ORD,,8:23 p.m.,7:30 a.m.,9:53 p.m.
+1197,Cx-1023-IAH-DEN,Cq-16-LAX-EWR,,10:20 a.m.,9:05 a.m.,
+1198,,,,,,3:04 p.m.
+1199,usatoday,,,,7:30 a.m.,4:23 p.m.
+1200,Cr-1586-IAH-MCO,At-1522-SFO-ORD,,11:55 p.m.,5:50 a.m.,
+1201,,Ut-257-JFK-SFO,2:30 p.m.,2:26 p.m.,,5:42 p.m.
+1202,ukatoday,myrateplan,8:29 a.m.,,,
+1203,Cz-89-IAH-EWR,Cj-1250-MIA-IAH,,,,
+1204,ueatoday,,,,2:55 p.m.,8:45 a.m.
+1205,usatoday,,11:08 p.m.,,,
+1206,,Cj-4888-IAH-DAL,,,,
+1207,AA-1165-JFK-MIA,Uz-2704-DTW-PHX,,11:15 a.m.,,
+1208,Aj-466-IAH-MIA,Ul-2708-EWR-CLT,11:19 a.m.,2:55 p.m.,,4:44 p.m.
+1209,CO-45-EWR-MIA,UA-1500-IAH-GUA,,,,
+1210,AA-4307-ORD-DTW,AA-3804-PHL-ORD,,,,
+1211,usatoday,,,,4:00 p.m.,11:06 a.m.
+1212,usatoday,Uh-233-LAX-JFK,4:25 p.m.,,12:29 a.m.,
+1213,,Az-4277-CVG-JFK,,,2:15 p.m.,
+1214,Al-4198-ORD-CLE,Av-2957-DFW-CVG,,,11:05 a.m.,11:01 a.m.
+1215,,Uw-37-EDI-EWR,9:05 a.m.,,,
+1216,CO-1090-BOS-IAH,Ah-789-ORD-DEN,,1:19 p.m.,2:35 p.m.,3:13 p.m.
+1217,uoatoday,,8:05 p.m.,7:49 a.m.,,
+1218,,Aj-85-JFK-SFO,3:05 p.m.,,,
+1219,,As-1640-MIA-MCO,6:30 p.m.,6:30 p.m.,,7:25 p.m.
+1220,Um-843-LAX-ORD,Ac-1544-SAN-ORD,,,,
+1221,utatoday,foxbusiness,6:40 p.m.,4:12 p.m.,,
+1222,,AA-3809-PHX-LAX,,6:10 a.m.,,
+1223,Ac-3756-ORD-SLC,Af-59-JFK-SFO,,,,
+1224,,Ap-3859-IAH-ORD,7:10 a.m.,,,
+1225,Uv-6273-YYC-SFO,CO-1586-IAH-MCO,,7:14 p.m.,,10:29 p.m.
+1226,,Ao-518-MIA-JFK,,6:54 a.m.,,
+1227,,Uk-397-JFK-SFO,,,11:55 a.m.,
+1228,Al-2050-ORD-MIA,Ul-3925-IAD-ORF,,,,
+1229,Cm-1250-MIA-IAH,AA-1733-ORD-PHX,,,12:57 p.m.,
+1230,myrateplan,Ux-2830-MCO-CLT,3:27 p.m.,,,
+1231,,Cf-58-DEN-IAH,11:25 a.m.,,,3:31 p.m.
+1232,,Av-1544-SAN-ORD,11:25 a.m.,11:40 a.m.,,
+1233,mqrateplan,,10:39 a.m.,,,11:21 a.m.
+1234,,AA-204-LAX-MCO,,,,
+1235,Cd-1694-LAX-IAH,Uf-414-LAX-SFO,,,,
+1236,AA-1544-SAN-ORD,CO-1614-LAX-IAH,12:30 a.m.,,,
+1237,Ai-2957-DFW-CVG,Um-2726-FLL-PHL,,,,6:28 p.m.
+1238,,Cb-52-IAH-LAX,,,6:00 a.m.,9:14 a.m.
+1239,,,,,1:16 p.m.,
+1240,,AA-616-DFW-DTW,,,,
+1241,,Uh-3515-IAD-MSP,10:54 a.m.,8:12 a.m.,10:06 a.m.,
+1242,mprateplan,,7:00 a.m.,,,
+1243,,AA-484-DFW-MIA,4:15 p.m.,,,7:39 p.m.
+1244,,Au-1886-BOS-MIA,,10:55 a.m.,,1:40 p.m.
+1245,,CO-62-IAH-EWR,,2:48 p.m.,,
+1246,Af-3804-PHL-ORD,Cj-1561-PHX-IAH,,8:00 a.m.,,
+1247,,ffightarrival,2:55 p.m.,2:55 p.m.,,
+1248,,AA-446-DFW-PHL,,,,
+1249,,,11:40 a.m.,,1:17 p.m.,
+1250,,Af-466-IAH-MIA,,6:08 a.m.,9:20 a.m.,
+1251,AA-2957-DFW-CVG,UA-3050-PHX-CLT,,,11:08 p.m.,
+1252,mvrateplan,Cv-89-IAH-EWR,,,,10:27 a.m.
+1253,mtrateplan,Cy-1088-CLE-IAH,,8:40 a.m.,10:54 a.m.,10:56 a.m.
+1254,At-789-ORD-DEN,AA-1664-MIA-ATL,,10:18 a.m.,12:10 p.m.,
+1255,UA-3373-IAD-PHL,Ai-1279-DFW-PHX,,,,3:30 p.m.
+1256,Aa-271-MIA-LAX,Uu-854-SFO-IAH,,,1:39 p.m.,
+1257,Au-4307-ORD-DTW,UA-382-IAD-LAX,,,,3:21 p.m.
+1258,Ak-400-DFW-JFK,As-4344-ORD-DTW,,,,
+1259,,helloflight,2:30 p.m.,,6:15 p.m.,
+1260,AA-4330-CVG-ORD,Uu-2945-PHL-CLT,,,1:45 p.m.,1:15 p.m.
+1261,Ag-1733-ORD-PHX,CO-63-EWR-IAH,,,,8:03 p.m.
+1262,,,,,,9:52 p.m.
+1263,Cn-1586-IAH-MCO,Al-2050-ORD-MIA,,11:05 a.m.,,
+1264,mgrateplan,UA-248-PHX-ORD,12:57 p.m.,,,
+1265,,AA-4330-CVG-ORD,,,4:00 p.m.,3:33 p.m.
+1266,,fmylouisville,,,7:10 a.m.,
+1267,mhrateplan,,,6:30 p.m.,6:00 a.m.,7:25 p.m.
+1268,,AA-4307-ORD-DTW,,,9:10 p.m.,
+1269,myrateplan,onbitz,11:53 a.m.,,3:15 p.m.,3:16 p.m.
+1270,mjrateplan,Co-1694-LAX-IAH,,,,
+1271,myrateplan,uqatoday,1:55 p.m.,,7:10 a.m.,
+1272,mlrateplan,Cn-1193-EWR-MCO,,9:14 a.m.,12:18 p.m.,
+1273,,,,6:56 a.m.,,7:51 a.m.
+1274,Ac-3842-MSP-ORD,Ax-643-MIA-ORD,,7:30 a.m.,,
+1275,Ae-2525-DFW-MIA,Au-1007-MIA-PHX,12:15 a.m.,5:08 p.m.,,7:55 p.m.
+1276,,Ai-2525-DFW-MIA,6:40 p.m.,,11:10 a.m.,11:06 a.m.
+1277,AA-4198-ORD-CLE,Ub-2906-PHL-MCO,3:50 p.m.,,,
+1278,Uy-6273-YYC-SFO,UA-938-DEN-ORD,,,,7:36 p.m.
+1279,myrateplan,Aw-1221-MCO-ORD,,,,
+1280,,Cc-16-LAX-EWR,10:25 a.m.,,,6:34 p.m.
+1281,UA-2945-PHL-CLT,Us-2515-DFW-CLT,,7:05 a.m.,,
+1282,AA-1221-MCO-ORD,AA-400-DFW-JFK,10:40 a.m.,11:01 a.m.,,
+1283,myrateplan,UA-664-ORD-PHL,,,5:25 p.m.,4:23 p.m.
+1284,,AA-3756-ORD-SLC,10:35 a.m.,,2:45 p.m.,
+1285,mprateplan,Uv-37-EWR-MCO,,,,
+1286,,gufox,,11:55 p.m.,9:05 a.m.,
+1287,murateplan,Ud-233-LAX-JFK,4:25 p.m.,,,
+1288,Ue-664-ORD-PHL,AA-3823-LAX-DEN,,9:00 p.m.,,
+1289,mrrateplan,AA-2312-DFW-DTW,8:25 p.m.,8:25 p.m.,11:35 a.m.,
+1290,,,6:59 a.m.,,6:00 a.m.,10:04 a.m.
+1291,,,,,,
+1292,,fgightarrival,8:29 a.m.,,,
+1293,,AA-649-ORD-SNA,,,,
+1294,,CO-1250-MIA-IAH,2:53 p.m.,3:01 p.m.,4:48 p.m.,
+1295,mfrateplan,mprateplan,1:39 p.m.,,,
+1296,Uv-233-LAX-JFK,Ug-828-SFO-ORD,11:08 p.m.,11:08 p.m.,,
+1297,AA-3979-CVG-ORD,Cl-4888-IAH-DAL,,,,
+1298,,Ud-858-PVG-SFO,1:45 p.m.,,6:30 p.m.,
+1299,myrateplan,Ur-2704-DTW-PHX,,,,
+1300,myrateplan,AA-3063-SLC-LAX,,,,9:20 p.m.
+1301,,UA-2708-EWR-CLT,5:35 a.m.,,,4:44 p.m.
+1302,Ad-222-LAX-BOS,UA-62-IAH-EWR,,,7:03 p.m.,
+1303,CO-50-CLE-EWR,Ut-1500-IAH-GUA,,9:16 a.m.,,11:56 a.m.
+1304,,mprateplan,,,4:05 p.m.,
+1305,UA-664-ORD-PHL,Ad-1917-JFK-MCO,,3:27 p.m.,,5:43 p.m.
+1306,mrrateplan,,,,,
+1307,CO-1614-LAX-IAH,Aa-4277-CVG-JFK,1:45 p.m.,,,1:43 p.m.
+1308,,AA-2957-DFW-CVG,,,,
+1309,,,,,,12:09 p.m.
+1310,,Aj-789-ORD-DEN,,,,
+1311,,,8:35 a.m.,8:56 a.m.,,
+1312,An-1733-ORD-PHX,Az-85-JFK-SFO,,,,
+1313,Ai-3804-PHL-ORD,Ae-3979-CVG-ORD,,,8:00 a.m.,
+1314,At-59-JFK-SFO,AA-3786-IAH-ORD,,,6:40 p.m.,
+1315,,Aq-271-MIA-LAX,11:35 a.m.,11:52 a.m.,10:40 a.m.,2:27 p.m.
+1316,Av-271-MIA-LAX,CO-50-CLE-EWR,,3:31 p.m.,,5:26 p.m.
+1317,myrateplan,,11:55 a.m.,11:55 a.m.,,
+1318,myrateplan,Ab-4198-ORD-CLE,6:46 p.m.,,12:55 p.m.,
+1319,,AA-404-MIA-MCO,,,,
+1320,,basinesstravellogue,,,7:05 p.m.,
+1321,Ax-204-LAX-MCO,AA-3809-PHX-LAX,6:00 a.m.,,,
+1322,mprateplan,Ao-59-JFK-SFO,7:10 a.m.,,,
+1323,myrateplan,,,7:31 a.m.,,
+1324,,Ao-3859-IAH-ORD,,7:16 a.m.,,
+1325,,CO-1586-IAH-MCO,,7:14 p.m.,,10:29 p.m.
+1326,AA-85-JFK-SFO,Ap-518-MIA-JFK,,,,
+1327,,Ul-397-JFK-SFO,8:56 p.m.,8:29 a.m.,11:55 a.m.,
+1328,owbitz,UA-3925-IAD-ORF,,8:42 a.m.,9:54 a.m.,
+1329,,mkrateplan,,,,
+1330,,Am-3-JFK-LAX,,,3:15 p.m.,3:16 p.m.
+1331,,UA-2830-MCO-CLT,,3:27 p.m.,,
+1332,Cp-1694-LAX-IAH,CO-58-DEN-IAH,,11:32 a.m.,,3:31 p.m.
+1333,,world-flight-tracker,,10:33 a.m.,11:19 a.m.,
+1334,,Aq-204-LAX-MCO,,,4:15 p.m.,6:55 a.m.
+1335,,UA-414-LAX-SFO,6:00 a.m.,5:56 a.m.,,
+1336,,CO-1614-LAX-IAH,12:30 a.m.,12:41 a.m.,,
+1337,,,,4:00 p.m.,,
+1338,CO-1088-CLE-IAH,Cv-52-IAH-LAX,,,,
+1339,oxbitz,Cx-1090-BOS-IAH,6:15 p.m.,,,1:19 p.m.
+1340,Ah-466-IAH-MIA,Au-616-DFW-DTW,9:05 a.m.,,1:45 p.m.,
+1341,Uw-2515-DFW-CLT,Ul-3515-IAD-MSP,,,,
+1342,,bisinesstravellogue,7:00 a.m.,,,9:45 a.m.
+1343,,Au-484-DFW-MIA,4:15 p.m.,,7:55 p.m.,7:39 p.m.
+1344,UA-62-IAH-EWR,AA-1886-BOS-MIA,,10:55 a.m.,,1:40 p.m.
+1345,Ar-415-BOS-ORD,Cl-62-IAH-EWR,,,,
+1346,oxbitz,ftightaware,,8:00 a.m.,11:35 a.m.,11:32 a.m.
+1347,orbitz,,,,,4:47 p.m.
+1348,,Ag-446-DFW-PHL,11:50 a.m.,12:12 p.m.,,
+1349,CO-1023-IAH-DEN,Cs-1023-IAH-DEN,11:40 a.m.,,,
+1350,AA-3804-PHL-ORD,Aq-466-IAH-MIA,11:45 a.m.,,,
+1351,orbitz,,,11:30 a.m.,,5:05 p.m.
+1352,Ar-3-JFK-LAX,Cu-89-IAH-EWR,6:00 a.m.,6:02 a.m.,7:10 a.m.,
+1353,ofbitz,ftightwise,8:40 a.m.,,,
+1354,Am-1886-BOS-MIA,An-1664-MIA-ATL,,,,11:56 a.m.
+1355,owbitz,Aj-1279-DFW-PHX,,2:04 p.m.,,3:30 p.m.
+1356,ocbitz,,,7:49 a.m.,,
+1357,,pqnynj,,12:35 p.m.,,
+1358,,weather,11:45 a.m.,,,
+1359,,,2:30 p.m.,,9:45 a.m.,5:42 p.m.
+1360,Ar-3859-IAH-ORD,UA-2945-PHL-CLT,,,,
+1361,,,,,,
+1362,,tiavelocity,,,8:56 p.m.,
+1363,opbitz,Ac-2050-ORD-MIA,4:57 p.m.,11:05 a.m.,,2:46 p.m.
+1364,UA-397-JFK-SFO,Ut-248-PHX-ORD,12:57 p.m.,1:32 p.m.,1:33 p.m.,5:34 p.m.
+1365,,Ao-4330-CVG-ORD,3:35 p.m.,,,
+1366,oubitz,iyly,7:15 a.m.,7:21 a.m.,,
+1367,ohbitz,As-1640-MIA-MCO,6:30 p.m.,6:30 p.m.,,7:25 p.m.
+1368,UA-843-LAX-ORD,Ap-4307-ORD-DTW,,6:55 p.m.,,8:53 p.m.
+1369,CO-58-DEN-IAH,Ca-1694-LAX-IAH,,,12:21 a.m.,
+1370,,,,,,
+1371,orbitz,CO-1193-EWR-MCO,,9:14 a.m.,,
+1372,,AA-3842-MSP-ORD,,,,
+1373,,Al-643-MIA-ORD,7:10 a.m.,,,
+1374,ofbitz,Ak-1007-MIA-PHX,,,,
+1375,Ah-446-DFW-PHL,UA-2906-PHL-MCO,3:50 p.m.,,,
+1376,,UA-938-DEN-ORD,4:16 p.m.,,8:25 p.m.,
+1377,Uc-5487-SFO-MRY,AA-1221-MCO-ORD,,,,
+1378,oxbitz,CO-16-LAX-EWR,3:19 p.m.,,,6:34 p.m.
+1379,,,11:53 a.m.,7:05 a.m.,,
+1380,oxbitz,,,,2:59 p.m.,
+1381,,UA-664-ORD-PHL,,,,
+1382,,AA-3756-ORD-SLC,6:23 p.m.,,,
+1383,AA-2957-DFW-CVG,Uj-37-EWR-MCO,1:29 p.m.,1:48 p.m.,,4:17 p.m.
+1384,Ud-1500-IAH-GUA,AA-1522-SFO-ORD,6:15 p.m.,,5:50 a.m.,5:50 a.m.
+1385,,Uf-233-LAX-JFK,,,12:29 a.m.,12:29 a.m.
+1386,oibitz,Aq-3823-LAX-DEN,,,12:15 a.m.,
+1387,,AA-2312-DFW-DTW,,8:25 p.m.,,
+1388,,,6:59 a.m.,,,10:04 a.m.
+1389,,ord,,8:51 a.m.,,11:44 a.m.
+1390,Ul-664-ORD-PHL,AA-649-ORD-SNA,,1:30 p.m.,3:50 p.m.,
+1391,orbitz,CO-1250-MIA-IAH,2:53 p.m.,3:01 p.m.,4:25 p.m.,
+1392,Ab-2312-DFW-DTW,UA-6273-YYC-SFO,7:35 a.m.,,9:43 a.m.,8:45 a.m.
+1393,,travelocity,,,,
+1394,,,5:30 p.m.,5:30 p.m.,,
+1395,Us-382-IAD-LAX,UA-858-PVG-SFO,,,8:27 a.m.,8:02 a.m.
+1396,ogbitz,Uv-2704-DTW-PHX,,,,
+1397,,airtravelcenter,,,9:20 p.m.,
+1398,oabitz,Uu-2708-EWR-CLT,,2:55 p.m.,4:53 p.m.,
+1399,,UA-62-IAH-EWR,,,,
+1400,,UA-1500-IAH-GUA,,9:16 a.m.,,11:56 a.m.
+1401,,Av-3804-PHL-ORD,,,6:45 p.m.,
+1402,oybitz,Af-1917-JFK-MCO,10:45 a.m.,,,
+1403,Aw-3809-PHX-LAX,Au-2268-PHX-ORD,,,,
+1404,Ap-3786-IAH-ORD,Al-4277-CVG-JFK,,,2:15 p.m.,
+1405,,ocbitz,,,,11:01 a.m.
+1406,,,,,,
+1407,,bnston,,1:19 p.m.,2:35 p.m.,
+1408,,,,,,
+1409,,,3:05 p.m.,,6:30 p.m.,6:43 p.m.
+1410,Ug-2314-ATL-PHL,AA-3979-CVG-ORD,,8:04 a.m.,8:00 a.m.,
+1411,ogbitz,Az-1544-SAN-ORD,6:40 p.m.,,,
+1412,orbitz,AA-3786-IAH-ORD,,,6:59 a.m.,
+1413,,uk,11:35 a.m.,,2:25 p.m.,
+1414,,Ax-2525-DFW-MIA,,7:39 a.m.,2:55 p.m.,11:06 a.m.
+1415,oubitz,,,,,5:26 p.m.
+1416,,Uc-3099-PHX-PHL,,,,5:38 p.m.
+1417,orbitz,Al-4198-ORD-CLE,10:40 a.m.,,2:55 p.m.,
+1418,oybitz,,6:45 a.m.,,,7:40 a.m.
+1419,UA-2515-DFW-CLT,Cb-45-EWR-MIA,4:00 p.m.,3:58 p.m.,,
+1420,AA-1165-JFK-MIA,AA-3809-PHX-LAX,,,,
+1421,,travelocity,,,11:25 p.m.,
+1422,,,,7:31 a.m.,,3:14 p.m.
+1423,At-1522-SFO-ORD,Ap-446-DFW-PHL,,12:12 p.m.,,
+1424,CO-1586-IAH-MCO,UA-3373-IAD-PHL,,,,
+1425,ppl,,,,4:05 p.m.,3:43 p.m.
+1426,,,8:05 p.m.,,4:31 p.m.,
+1427,,Cj-1586-IAH-MCO,7:00 p.m.,7:14 p.m.,,10:29 p.m.
+1428,CO,Ca-52-IAH-LAX,7:35 a.m.,,,
+1429,,,,,,
+1430,,Cv-89-IAH-EWR,6:00 a.m.,,,10:27 a.m.
+1431,,,,7:15 p.m.,,12:21 a.m.
+1432,Up-2726-FLL-PHL,Cw-1614-LAX-IAH,12:30 a.m.,,8:29 a.m.,5:26 a.m.
+1433,,Cy-1088-CLE-IAH,8:40 a.m.,8:40 a.m.,,
+1434,CO,Ce-58-DEN-IAH,,11:32 a.m.,,
+1435,UA-2726-FLL-PHL,Cy-50-CLE-EWR,,,,
+1436,UA-858-PVG-SFO,CO-62-IAH-EWR,2:30 p.m.,,7:03 p.m.,7:10 p.m.
+1437,,,,9:14 a.m.,,
+1438,CO,,,,6:44 p.m.,
+1439,Ad-3823-LAX-DEN,CO-1090-BOS-IAH,,10:19 a.m.,,
+1440,,Cm-1250-MIA-IAH,2:53 p.m.,3:01 p.m.,,4:59 p.m.
+1441,AA-4344-ORD-DTW,CO-47-IAH-LAX,,,,9:52 p.m.
+1442,,Cy-4888-IAH-DAL,5:30 p.m.,5:30 p.m.,6:40 p.m.,6:40 p.m.
+1443,,,,,,
+1444,,,5:25 p.m.,,,8:03 p.m.
+1445,,CO-1561-PHX-IAH,,8:00 a.m.,,
+1446,AA-222-LAX-BOS,Ay-3842-MSP-ORD,6:44 p.m.,6:56 a.m.,,7:51 a.m.
+1447,Cu-50-CLE-EWR,AA-3804-PHL-ORD,,2:44 p.m.,4:05 p.m.,
+1448,,CO-1090-BOS-IAH,9:45 a.m.,10:19 a.m.,,
+1449,,fgytecomm,2:55 p.m.,3:27 p.m.,,5:43 p.m.
+1450,,Uu-2906-PHL-MCO,,4:28 p.m.,12:15 p.m.,
+1451,,foxbusiness,6:00 a.m.,6:02 a.m.,,
+1452,As-1165-JFK-MIA,UA-938-DEN-ORD,4:16 p.m.,,,7:36 p.m.
+1453,,,,8:42 a.m.,9:54 a.m.,
+1454,,,,1:19 p.m.,2:35 p.m.,
+1455,Ah-1434-DFW-MCO,AA-1434-DFW-MCO,,,,10:36 a.m.
+1456,,,9:55 a.m.,,,4:23 p.m.
+1457,igly,Az-3756-ORD-SLC,,12:41 p.m.,,
+1458,,Cd-1614-LAX-IAH,,,,
+1459,,Cr-58-DEN-IAH,3:30 p.m.,,2:50 p.m.,
+1460,,UA-233-LAX-JFK,4:25 p.m.,,12:29 a.m.,
+1461,izly,,,,8:00 a.m.,
+1462,idly,,,,,12:15 a.m.
+1463,imly,bzston,,4:12 p.m.,,6:15 p.m.
+1464,,wprld-flight-tracker,,,4:00 p.m.,11:44 a.m.
+1465,,Ax-1733-ORD-PHX,7:45 p.m.,,2:55 p.m.,
+1466,,Um-3373-IAD-PHL,2:35 p.m.,,,
+1467,ioly,,4:53 p.m.,,6:17 p.m.,
+1468,Aw-59-JFK-SFO,UA-2314-ATL-PHL,,2:55 p.m.,,4:47 p.m.
+1469,illy,Cy-16-LAX-EWR,6:23 p.m.,,,
+1470,ifly,,,3:01 p.m.,,
+1471,,,7:00 a.m.,,,9:45 a.m.
+1472,CO-45-EWR-MIA,Ar-2050-ORD-MIA,,11:05 a.m.,2:45 p.m.,2:46 p.m.
+1473,Au-643-MIA-ORD,Ak-415-BOS-ORD,,,6:00 a.m.,10:16 a.m.
+1474,,,8:20 p.m.,,9:20 p.m.,9:20 p.m.
+1475,Cf-1090-BOS-IAH,AA-3809-PHX-LAX,6:00 a.m.,6:10 a.m.,,6:19 a.m.
+1476,,,,,,
+1477,ioly,,,2:48 p.m.,,
+1478,iuly,usatoday,,,,1:27 p.m.
+1479,ifly,AA-3-JFK-LAX,,12:11 p.m.,,3:16 p.m.
+1480,,Ca-1694-LAX-IAH,,,12:21 a.m.,12:21 a.m.
+1481,AA-1544-SAN-ORD,AA-446-DFW-PHL,,12:12 p.m.,,
+1482,,Uc-397-JFK-SFO,8:00 a.m.,8:29 a.m.,,11:58 a.m.
+1483,Ap-518-MIA-JFK,Aw-85-JFK-SFO,,,,6:43 p.m.
+1484,Ak-3859-IAH-ORD,Aq-431-MIA-SFO,,,6:59 a.m.,11:44 a.m.
+1485,suo,Az-59-JFK-SFO,,,,11:12 a.m.
+1486,sfo,,,2:26 p.m.,,5:42 p.m.
+1487,sdo,Ub-414-LAX-SFO,6:30 p.m.,,,7:17 a.m.
+1488,Aq-789-ORD-DEN,Aa-3859-IAH-ORD,7:10 a.m.,,9:40 a.m.,9:32 a.m.
+1489,,,,7:14 p.m.,11:40 a.m.,10:29 p.m.
+1490,Uv-3050-PHX-CLT,Al-518-MIA-JFK,,,,
+1491,,,,,11:55 a.m.,
+1492,Un-843-LAX-ORD,Ua-3925-IAD-ORF,,,7:25 a.m.,
+1493,Ap-204-LAX-MCO,AA-1733-ORD-PHX,,7:58 p.m.,,
+1494,,Ud-2830-MCO-CLT,3:27 p.m.,3:27 p.m.,2:35 p.m.,5:17 p.m.
+1495,,Cu-58-DEN-IAH,11:25 a.m.,11:32 a.m.,,
+1496,flytecomm,Ag-1544-SAN-ORD,,,5:25 p.m.,
+1497,,,,,,11:21 a.m.
+1498,,Ai-204-LAX-MCO,6:30 p.m.,,,
+1499,Ud-3099-PHX-PHL,UA-414-LAX-SFO,,5:56 a.m.,,
+1500,,CO-1614-LAX-IAH,12:30 a.m.,12:41 a.m.,,
+1501,Ap-1664-MIA-ATL,UA-2726-FLL-PHL,4:00 p.m.,,6:46 p.m.,
+1502,,CO-52-IAH-LAX,,,,
+1503,AA-271-MIA-LAX,CO-1090-BOS-IAH,9:45 a.m.,,,1:19 p.m.
+1504,,AA-616-DFW-DTW,,,,
+1505,,UA-3515-IAD-MSP,8:15 a.m.,8:12 a.m.,10:06 a.m.,
+1506,flytecomm,AA-3468-CVG-MIA,,,,
+1507,,,,4:29 p.m.,,
+1508,fiytecomm,AA-1886-BOS-MIA,10:45 a.m.,10:55 a.m.,,1:40 p.m.
+1509,,CO-62-IAH-EWR,,2:48 p.m.,7:03 p.m.,7:10 p.m.
+1510,feytecomm,Cb-1561-PHX-IAH,,,11:35 a.m.,
+1511,,,2:55 p.m.,,,
+1512,,Am-446-DFW-PHL,,,,
+1513,fvytecomm,Cg-1023-IAH-DEN,,11:56 a.m.,,
+1514,,AA-466-IAH-MIA,5:05 p.m.,,,
+1515,,,12:18 p.m.,,4:57 p.m.,
+1516,An-1221-MCO-ORD,CO-89-IAH-EWR,,6:02 a.m.,,
+1517,fqytecomm,,,8:40 a.m.,10:54 a.m.,10:56 a.m.
+1518,fiytecomm,fkightarrival,,,,11:56 a.m.
+1519,,,1:40 p.m.,2:04 p.m.,,
+1520,fcytecomm,arrtravelcenter,,7:49 a.m.,,
+1521,,,12:30 p.m.,,8:25 p.m.,
+1522,AA-643-MIA-ORD,As-4344-ORD-DTW,11:45 a.m.,,2:00 p.m.,
+1523,flytecomm,Ug-257-JFK-SFO,,,6:15 p.m.,5:42 p.m.
+1524,,Um-2945-PHL-CLT,,,,
+1525,,,5:25 p.m.,,,8:03 p.m.
+1526,flytecomm,fkightstats,,8:25 p.m.,,
+1527,AA-1007-MIA-PHX,Aj-2050-ORD-MIA,,,,
+1528,,Un-248-PHX-ORD,,,,5:34 p.m.
+1529,Ao-431-MIA-SFO,Ae-4330-CVG-ORD,,,,3:33 p.m.
+1530,,,,,,
+1531,flytecomm,fkights,,6:30 p.m.,,7:25 p.m.
+1532,,AA-4307-ORD-DTW,,6:55 p.m.,,8:53 p.m.
+1533,Uk-843-LAX-ORD,AA-3-JFK-LAX,,12:11 p.m.,11:35 a.m.,
+1534,flytecomm,CO-1694-LAX-IAH,,7:15 p.m.,,
+1535,flytecomm,Uo-843-LAX-ORD,,,7:53 p.m.,
+1536,,CO-1193-EWR-MCO,6:15 p.m.,,12:18 p.m.,
+1537,,,6:00 a.m.,,,
+1538,,Am-643-MIA-ORD,,,,
+1539,Ak-789-ORD-DEN,AA-1007-MIA-PHX,2:45 p.m.,,8:05 p.m.,
+1540,flytecomm,Aa-2525-DFW-MIA,,,,
+1541,,UA-2906-PHL-MCO,7:25 p.m.,4:28 p.m.,,
+1542,flytecomm,Ul-938-DEN-ORD,,4:15 p.m.,,7:36 p.m.
+1543,Ap-4277-CVG-JFK,Az-1221-MCO-ORD,12:29 a.m.,,,
+1544,,,,10:20 a.m.,2:30 p.m.,
+1545,,weather,,,10:31 a.m.,
+1546,,wnather,,,11:40 a.m.,3:04 p.m.
+1547,fiytecomm,Up-664-ORD-PHL,,,10:40 a.m.,
+1548,fzytecomm,,7:45 a.m.,12:41 p.m.,2:45 p.m.,
+1549,,Ut-37-EWR-MCO,1:29 p.m.,,4:17 p.m.,
+1550,CO-89-IAH-EWR,Ah-1522-SFO-ORD,,11:55 p.m.,5:50 a.m.,
+1551,,Ue-233-LAX-JFK,,4:25 p.m.,,12:29 a.m.
+1552,At-3823-LAX-DEN,Aa-3823-LAX-DEN,9:00 p.m.,,,
+1553,,AA-2312-DFW-DTW,,,11:50 p.m.,
+1554,,AA-1165-JFK-MIA,6:59 a.m.,7:22 a.m.,10:34 a.m.,
+1555,AA-1917-JFK-MCO,Ac-431-MIA-SFO,8:35 a.m.,8:51 a.m.,,11:44 a.m.
+1556,,Uj-3373-IAD-PHL,9:35 a.m.,8:26 a.m.,,9:13 a.m.
+1557,Ay-85-JFK-SFO,Ae-649-ORD-SNA,,1:30 p.m.,3:50 p.m.,3:50 p.m.
+1558,,,,3:01 p.m.,4:48 p.m.,4:59 p.m.
+1559,,hllloflight,7:35 a.m.,7:27 a.m.,,
+1560,AA-484-DFW-MIA,Ub-828-SFO-ORD,11:08 p.m.,11:08 p.m.,,
+1561,flytecomm,,5:30 p.m.,5:30 p.m.,,
+1562,Ag-3063-SLC-LAX,Ut-858-PVG-SFO,,,8:27 a.m.,
+1563,Ca-1250-MIA-IAH,UA-2704-DTW-PHX,,,1:40 p.m.,
+1564,fzytecomm,Az-3063-SLC-LAX,,8:39 p.m.,,
+1565,fpytecomm,,10:30 p.m.,2:55 p.m.,,
+1566,,Ux-62-IAH-EWR,,2:48 p.m.,7:15 a.m.,7:10 p.m.
+1567,,Ux-1500-IAH-GUA,8:55 a.m.,,9:05 a.m.,11:56 a.m.
+1568,,fqights,2:35 p.m.,,,3:43 p.m.
+1569,,AA-1917-JFK-MCO,2:55 p.m.,3:27 p.m.,,
+1570,ffytecomm,Am-2268-PHX-ORD,,,11:35 a.m.,
+1571,Un-397-JFK-SFO,As-4277-CVG-JFK,,,2:15 p.m.,
+1572,Ua-938-DEN-ORD,AA-2957-DFW-CVG,,8:04 a.m.,,
+1573,flytecomm,Up-37-EDI-EWR,,,11:53 a.m.,12:09 p.m.
+1574,,flytecomm,,,2:35 p.m.,
+1575,,Ai-415-BOS-ORD,,,,
+1576,UA-2708-EWR-CLT,AA-85-JFK-SFO,12:15 a.m.,,,
+1577,flytecomm,AA-3979-CVG-ORD,,,,8:06 a.m.
+1578,Ao-204-LAX-MCO,Ao-3786-IAH-ORD,4:00 p.m.,4:12 p.m.,,
+1579,fnytecomm,myrateplan,11:35 a.m.,11:52 a.m.,,2:27 p.m.
+1580,fqytecomm,Cx-50-CLE-EWR,,,,
+1581,flytecomm,,,,,
+1582,,AA-4198-ORD-CLE,,10:54 a.m.,10:45 a.m.,
+1583,Ub-854-SFO-IAH,AA-404-MIA-MCO,6:45 a.m.,6:57 a.m.,,
+1584,,illy,,3:58 p.m.,,6:36 p.m.
+1585,Cg-45-EWR-MIA,AA-3809-PHX-LAX,,6:10 a.m.,,6:19 a.m.
+1586,At-3063-SLC-LAX,AA-59-JFK-SFO,9:54 a.m.,,,11:12 a.m.
+1587,,AA-222-LAX-BOS,,,,
+1588,CO-1694-LAX-IAH,Af-1733-ORD-PHX,2:59 p.m.,,10:30 p.m.,10:30 p.m.
+1589,AA-2525-DFW-MIA,Cp-1586-IAH-MCO,,,1:30 p.m.,10:29 p.m.
+1590,,,,,,
+1591,,Au-1640-MIA-MCO,6:30 p.m.,,,
+1592,mytripandmore,Ub-2830-MCO-CLT,,,,5:17 p.m.
+1593,mgtripandmore,Uq-5487-SFO-MRY,10:39 a.m.,,,11:21 a.m.
+1594,AA-2050-ORD-MIA,Aa-204-LAX-MCO,,,6:55 a.m.,
+1595,,Cf-1614-LAX-IAH,,,,5:26 a.m.
+1596,,CO,,4:00 p.m.,,6:28 p.m.
+1597,,faylouisville,,,,
+1598,mitripandmore,txavelocity,,,,9:45 a.m.
+1599,mutripandmore,,,,,
+1600,,,11:40 a.m.,,,1:14 p.m.
+1601,mftripandmore,fyightarrival,,,,9:05 a.m.
+1602,mxtripandmore,,,11:30 a.m.,11:08 p.m.,
+1603,mbtripandmore,,,10:18 a.m.,,
+1604,Az-3468-CVG-MIA,Az-3979-CVG-ORD,7:30 a.m.,,8:00 a.m.,8:06 a.m.
+1605,mytripandmore,UA-382-IAD-LAX,,,,3:21 p.m.
+1606,Aw-59-JFK-SFO,Aq-616-DFW-DTW,,,11:25 p.m.,1:27 p.m.
+1607,Ut-6273-YYC-SFO,Aw-4344-ORD-DTW,,12:13 p.m.,,
+1608,mytripandmore,,,,,
+1609,Ah-59-JFK-SFO,Ch-47-IAH-LAX,,,,9:52 p.m.
+1610,,,10:45 a.m.,,,
+1611,Ak-4344-ORD-DTW,Aj-3842-MSP-ORD,,,,
+1612,,Ae-643-MIA-ORD,9:21 a.m.,,9:35 a.m.,9:31 a.m.
+1613,Un-664-ORD-PHL,Av-1007-MIA-PHX,,,,7:55 p.m.
+1614,,AA-2525-DFW-MIA,,,9:05 a.m.,11:06 a.m.
+1615,AA-2312-DFW-DTW,AA-1221-MCO-ORD,,,9:45 p.m.,9:53 p.m.
+1616,AA-4307-ORD-DTW,UA-2515-DFW-CLT,,7:05 a.m.,,
+1617,mbtripandmore,flightexplorer,,,,8:53 p.m.
+1618,mytripandmore,Un-233-LAX-JFK,,,12:29 a.m.,
+1619,,Al-3823-LAX-DEN,,9:00 p.m.,3:05 p.m.,12:15 a.m.
+1620,mvtripandmore,,,,,
+1621,AA-4277-CVG-JFK,Ah-1165-JFK-MIA,,,,
+1622,,Ac-431-MIA-SFO,8:35 a.m.,,6:00 a.m.,
+1623,Cs-16-LAX-EWR,UA-257-JFK-SFO,,,,
+1624,Uz-828-SFO-ORD,At-649-ORD-SNA,,,,
+1625,,Cz-1250-MIA-IAH,,,,4:59 p.m.
+1626,,Ue-828-SFO-ORD,11:08 p.m.,,5:11 a.m.,
+1627,mrtripandmore,AA-3063-SLC-LAX,,,,
+1628,Aq-4277-CVG-JFK,AA-1917-JFK-MCO,,,,
+1629,,,7:35 a.m.,,7:25 a.m.,8:45 a.m.
+1630,,,7:53 p.m.,12:10 p.m.,,
+1631,mvtripandmore,Uk-37-EDI-EWR,,,,
+1632,mgtripandmore,AA-59-JFK-SFO,,,,11:12 a.m.
+1633,mytripandmore,,,8:56 a.m.,,10:16 a.m.
+1634,mytripandmore,AA-1544-SAN-ORD,,,7:30 a.m.,
+1635,mytripandmore,,4:00 p.m.,,,
+1636,AA-3063-SLC-LAX,CO-50-CLE-EWR,2:55 p.m.,,1:05 p.m.,5:26 p.m.
+1637,,Aw-404-MIA-MCO,6:45 a.m.,,7:45 a.m.,
+1638,,AA-3859-IAH-ORD,,7:16 a.m.,,9:32 a.m.
+1639,AA-3-JFK-LAX,AA-3842-MSP-ORD,,,7:30 a.m.,7:51 a.m.
+1640,oqd,,7:10 a.m.,7:30 a.m.,,9:31 a.m.
+1641,Co-16-LAX-EWR,Ai-3804-PHL-ORD,,,,
+1642,Ag-222-LAX-BOS,Ao-2268-PHX-ORD,,,,
+1643,,,,8:23 p.m.,,9:53 p.m.
+1644,Ct-1614-LAX-IAH,UA-938-DEN-ORD,2:50 p.m.,,,7:36 p.m.
+1645,,,,1:19 p.m.,2:35 p.m.,3:13 p.m.
+1646,,AA-4307-ORD-DTW,,6:55 p.m.,,
+1647,AA-3809-PHX-LAX,Ap-3979-CVG-ORD,7:30 a.m.,8:04 a.m.,,
+1648,Co-1088-CLE-IAH,Uc-664-ORD-PHL,1:33 p.m.,,,4:23 p.m.
+1649,,,,,,2:50 p.m.
+1650,,,,,,
+1651,ord,Ak-1522-SFO-ORD,,,,
+1652,AA-1664-MIA-ATL,AA-1544-SAN-ORD,,,,
+1653,An-4344-ORD-DTW,AA-4344-ORD-DTW,,,,
+1654,okd,,,7:58 p.m.,4:16 p.m.,
+1655,ord,Ac-4198-ORD-CLE,10:40 a.m.,,,
+1656,Aw-431-MIA-SFO,Uj-828-SFO-ORD,,11:08 p.m.,,5:11 a.m.
+1657,oud,Ay-2050-ORD-MIA,,,2:45 p.m.,
+1658,ofd,Uv-248-PHX-ORD,,,5:15 p.m.,5:34 p.m.
+1659,Ur-3515-IAD-MSP,An-415-BOS-ORD,,8:56 a.m.,,
+1660,Ar-1733-ORD-PHX,AA-4330-CVG-ORD,,,,
+1661,odd,Uh-843-LAX-ORD,1:55 p.m.,,6:00 a.m.,
+1662,Am-59-JFK-SFO,Ab-3859-IAH-ORD,,,,
+1663,,,6:40 a.m.,,9:05 a.m.,
+1664,wunderground,CO-1586-IAH-MCO,,,,10:29 p.m.
+1665,wqnderground,UA-3925-IAD-ORF,,,,
+1666,winderground,Ah-1733-ORD-PHX,7:25 p.m.,,10:30 p.m.,10:30 p.m.
+1667,Ah-1279-DFW-PHX,Au-204-LAX-MCO,11:25 p.m.,,3:35 p.m.,
+1668,wrnderground,UA-2726-FLL-PHL,4:00 p.m.,4:00 p.m.,6:45 p.m.,6:28 p.m.
+1669,,frightarrival,7:35 a.m.,7:29 a.m.,,9:14 a.m.
+1670,,Ap-3468-CVG-MIA,7:00 a.m.,7:25 a.m.,10:40 a.m.,
+1671,wlnderground,AA-484-DFW-MIA,4:15 p.m.,,,
+1672,CO-16-LAX-EWR,Ae-616-DFW-DTW,11:45 a.m.,,12:35 p.m.,
+1673,wunderground,Ai-446-DFW-PHL,,12:12 p.m.,3:50 p.m.,4:09 p.m.
+1674,,Ca-1023-IAH-DEN,,,1:17 p.m.,1:14 p.m.
+1675,,,,,,
+1676,Ui-257-JFK-SFO,UA-3050-PHX-CLT,,11:30 a.m.,4:57 p.m.,
+1677,Uq-6273-YYC-SFO,Ak-2957-DFW-CVG,,8:04 a.m.,,
+1678,wynderground,Aj-1664-MIA-ATL,10:15 a.m.,10:18 a.m.,,
+1679,wknderground,,,,,
+1680,,Aw-1279-DFW-PHX,,,2:35 p.m.,
+1681,,Ao-404-MIA-MCO,,6:57 a.m.,7:45 a.m.,7:40 a.m.
+1682,wunderground,,12:15 p.m.,12:41 p.m.,,2:50 p.m.
+1683,,UA-382-IAD-LAX,12:30 p.m.,,3:19 p.m.,
+1684,AA-3859-IAH-ORD,UA-257-JFK-SFO,2:30 p.m.,,8:35 a.m.,5:42 p.m.
+1685,,bmston,12:00 a.m.,3:11 a.m.,11:50 a.m.,1:15 p.m.
+1686,wsnderground,CO-63-EWR-IAH,4:31 p.m.,5:22 p.m.,,
+1687,wunderground,AA-2525-DFW-MIA,7:25 a.m.,,6:40 a.m.,
+1688,wunderground,,4:49 p.m.,,8:56 p.m.,9:52 p.m.
+1689,,flytecomm,11:35 a.m.,,,
+1690,AA-446-DFW-PHL,Ae-2050-ORD-MIA,,,,
+1691,,,,,4:00 p.m.,
+1692,wsnderground,AA-1434-DFW-MCO,7:15 a.m.,,,
+1693,wunderground,adrtravelcenter,,,6:45 a.m.,7:25 p.m.
+1694,,AA-4307-ORD-DTW,6:45 p.m.,,,8:53 p.m.
+1695,,Ao-3-JFK-LAX,,12:11 p.m.,,3:16 p.m.
+1696,Uc-62-IAH-EWR,Cf-1694-LAX-IAH,7:15 p.m.,7:15 p.m.,,
+1697,Ux-854-SFO-IAH,Cx-1193-EWR-MCO,,,12:18 p.m.,12:09 p.m.
+1698,,Aw-3842-MSP-ORD,,,,
+1699,,,,,9:35 a.m.,
+1700,,qoicktrip,4:55 p.m.,,6:40 a.m.,
+1701,AA-2050-ORD-MIA,Ud-2906-PHL-MCO,,4:28 p.m.,,
+1702,CO-63-EWR-IAH,AA-1221-MCO-ORD,,8:23 p.m.,,9:53 p.m.
+1703,Ai-518-MIA-JFK,Ai-400-DFW-JFK,,,,
+1704,AA-3468-CVG-MIA,UA-664-ORD-PHL,,,,4:23 p.m.
+1705,wdnderground,panynj,,,4:17 p.m.,
+1706,Ce-58-DEN-IAH,Uu-233-LAX-JFK,,,,
+1707,wpnderground,AA-3823-LAX-DEN,,9:00 p.m.,,12:15 a.m.
+1708,,,8:25 p.m.,,,
+1709,Uc-664-ORD-PHL,Ar-1165-JFK-MIA,6:59 a.m.,,,10:04 a.m.
+1710,,,8:35 a.m.,,,
+1711,,Ab-649-ORD-SNA,,,,
+1712,Ca-1250-MIA-IAH,Ut-828-SFO-ORD,,11:08 p.m.,5:11 a.m.,
+1713,wrnderground,,5:30 p.m.,5:30 p.m.,,
+1714,,,8:20 p.m.,,,9:20 p.m.
+1715,,mprateplan,,,4:05 p.m.,
+1716,,Aj-1917-JFK-MCO,2:55 p.m.,3:27 p.m.,,5:43 p.m.
+1717,wlnderground,Ag-2268-PHX-ORD,11:35 a.m.,,11:35 a.m.,
+1718,,Ai-4277-CVG-JFK,,,,
+1719,wunderground,AA-789-ORD-DEN,1:05 p.m.,,11:25 a.m.,3:13 p.m.
+1720,,,,,,6:43 p.m.
+1721,Ub-828-SFO-ORD,AA-3786-IAH-ORD,,,6:40 p.m.,
+1722,,AA-222-LAX-BOS,,,,3:14 p.m.
+1723,wunderground,Uk-3099-PHX-PHL,11:55 a.m.,,7:00 a.m.,5:38 p.m.
+1724,,Az-4198-ORD-CLE,12:18 p.m.,,,
+1725,,Cp-45-EWR-MIA,,3:58 p.m.,7:45 p.m.,
+1726,wunderground,AA-3809-PHX-LAX,,,,6:19 a.m.
+1727,,Ai-59-JFK-SFO,,,,11:12 a.m.
+1728,,,,8:29 a.m.,,11:58 a.m.
+1729,Ux-5487-SFO-MRY,UA-3925-IAD-ORF,8:41 a.m.,,,9:43 a.m.
+1730,AA-431-MIA-SFO,Uj-2830-MCO-CLT,,3:27 p.m.,5:05 p.m.,5:17 p.m.
+1731,,,,10:33 a.m.,11:19 a.m.,11:21 a.m.
+1732,ux,,,,,
+1733,um,Ul-3050-PHX-CLT,,,,
+1734,,UA-382-IAD-LAX,,,7:10 a.m.,
+1735,An-3809-PHX-LAX,Ue-2945-PHL-CLT,,,1:45 p.m.,
+1736,Ag-271-MIA-LAX,Ur-854-SFO-IAH,9:54 a.m.,,1:39 p.m.,1:30 p.m.
+1737,uv,,,,10:15 a.m.,
+1738,,,10:30 p.m.,1:32 p.m.,5:15 p.m.,5:34 p.m.
+1739,uj,unatoday,12:10 p.m.,2:10 p.m.,,7:58 p.m.
+1740,,,,4:28 p.m.,7:10 a.m.,6:38 p.m.
+1741,Ao-466-IAH-MIA,Ue-938-DEN-ORD,10:30 p.m.,,7:35 p.m.,
+1742,ua,flightaware,,,7:10 a.m.,
+1743,uv,,1:33 p.m.,,,
+1744,Ao-1279-DFW-PHX,UA-37-EWR-MCO,1:29 p.m.,,,4:17 p.m.
+1745,Aj-415-BOS-ORD,Uk-233-LAX-JFK,11:05 a.m.,4:25 p.m.,12:29 a.m.,
+1746,us,UA-3373-IAD-PHL,,,,
+1747,Ai-3468-CVG-MIA,Uo-6273-YYC-SFO,11:10 a.m.,,,
+1748,,,11:08 p.m.,,,
+1749,Cp-50-CLE-EWR,UA-858-PVG-SFO,1:45 p.m.,1:32 p.m.,8:27 a.m.,8:02 a.m.
+1750,Uh-3373-IAD-PHL,Uz-2704-DTW-PHX,11:15 a.m.,,6:00 a.m.,2:00 p.m.
+1751,ua,Uk-2708-EWR-CLT,,,,
+1752,Au-1640-MIA-MCO,Ui-62-IAH-EWR,,,,
+1753,,UA-1500-IAH-GUA,,,,
+1754,Cg-1023-IAH-DEN,Uu-2314-ATL-PHL,,,,
+1755,AA-1007-MIA-PHX,Ug-37-EDI-EWR,,,,
+1756,ua,fdxbusiness,,11:55 a.m.,6:17 p.m.,
+1757,uh,,6:00 a.m.,5:56 a.m.,,
+1758,,weather,,2:26 p.m.,6:15 p.m.,
+1759,Au-3-JFK-LAX,AA-3859-IAH-ORD,,,,
+1760,Ao-2525-DFW-MIA,CO-1586-IAH-MCO,,7:14 p.m.,,10:29 p.m.
+1761,fdylouisville,Aa-518-MIA-JFK,,6:54 a.m.,,
+1762,,,,8:29 a.m.,,11:58 a.m.
+1763,AA-271-MIA-LAX,Uz-3925-IAD-ORF,,8:42 a.m.,9:54 a.m.,9:43 a.m.
+1764,,,,,11:40 a.m.,
+1765,flylouisville,,12:00 p.m.,12:11 p.m.,3:15 p.m.,
+1766,,UA-2830-MCO-CLT,,3:27 p.m.,,5:17 p.m.
+1767,,Cr-58-DEN-IAH,,11:32 a.m.,,
+1768,flylouisville,flightexplorer,,,,
+1769,Cg-1694-LAX-IAH,AA-204-LAX-MCO,,,6:55 a.m.,6:55 a.m.
+1770,,,,,3:35 p.m.,
+1771,CO-1090-BOS-IAH,Cw-1614-LAX-IAH,12:30 a.m.,,2:35 p.m.,
+1772,fnylouisville,Uv-2726-FLL-PHL,4:00 p.m.,,,
+1773,,,7:35 a.m.,,9:21 a.m.,
+1774,,CO-1090-BOS-IAH,,,,
+1775,AA-1917-JFK-MCO,Ab-616-DFW-DTW,,,,1:27 p.m.
+1776,flylouisville,UA-3515-IAD-MSP,8:15 a.m.,,,9:56 a.m.
+1777,,Aj-3468-CVG-MIA,,7:25 a.m.,9:55 a.m.,
+1778,flylouisville,Ax-484-DFW-MIA,,,7:55 p.m.,7:39 p.m.
+1779,fsylouisville,An-1886-BOS-MIA,,,2:20 p.m.,
+1780,,allegiantair,,,7:03 p.m.,
+1781,flylouisville,Cf-1561-PHX-IAH,,8:00 a.m.,,
+1782,flylouisville,UA-2314-ATL-PHL,,,5:00 p.m.,
+1783,flylouisville,Ar-446-DFW-PHL,,,3:50 p.m.,
+1784,,,11:40 a.m.,,1:17 p.m.,
+1785,,feightexplorer,,6:08 a.m.,,
+1786,,UA-3050-PHX-CLT,,,4:57 p.m.,
+1787,,CO-89-IAH-EWR,,6:02 a.m.,8:25 p.m.,
+1788,fsylouisville,CO-1088-CLE-IAH,,,6:00 a.m.,
+1789,,Aq-1664-MIA-ATL,,,,
+1790,,AA-1279-DFW-PHX,4:17 p.m.,2:04 p.m.,,
+1791,,,,,1:39 p.m.,1:30 p.m.
+1792,Ak-466-IAH-MIA,Ux-382-IAD-LAX,5:05 p.m.,,,
+1793,flylouisville,,,12:13 p.m.,,
+1794,Cp-1023-IAH-DEN,UA-257-JFK-SFO,,2:26 p.m.,,
+1795,Ay-1434-DFW-MCO,UA-2945-PHL-CLT,,,,
+1796,fhylouisville,,2:35 p.m.,,,
+1797,Uo-2708-EWR-CLT,CO-47-IAH-LAX,,,,
+1798,,AA-2050-ORD-MIA,,,,2:46 p.m.
+1799,AA-3804-PHL-ORD,Un-248-PHX-ORD,7:45 a.m.,1:32 p.m.,,5:34 p.m.
+1800,,AA-4330-CVG-ORD,3:35 p.m.,,,
+1801,Cv-62-IAH-EWR,Aq-1434-DFW-MCO,7:15 a.m.,7:21 a.m.,,
+1802,,,,,7:25 p.m.,
+1803,ftylouisville,AA-4307-ORD-DTW,,,9:10 p.m.,
+1804,,CO-1694-LAX-IAH,7:15 p.m.,,,
+1805,Aa-446-DFW-PHL,Uj-843-LAX-ORD,1:55 p.m.,2:10 p.m.,,7:58 p.m.
+1806,Ui-37-EDI-EWR,CO-1193-EWR-MCO,,,,
+1807,AA-1886-BOS-MIA,Av-3842-MSP-ORD,,,,
+1808,,Ar-643-MIA-ORD,7:23 a.m.,,,
+1809,,ftytecomm,,,,7:55 p.m.
+1810,,,,,,
+1811,,Uu-938-DEN-ORD,,4:15 p.m.,,
+1812,fxylouisville,Ae-1221-MCO-ORD,,,,
+1813,,Cz-16-LAX-EWR,10:25 a.m.,,6:44 p.m.,
+1814,AA-1544-SAN-ORD,Ug-2515-DFW-CLT,,,,
+1815,fpylouisville,ak,,,7:45 p.m.,3:04 p.m.
+1816,Ce-63-EWR-IAH,Uf-664-ORD-PHL,,1:31 p.m.,,
+1817,,,,12:41 p.m.,,2:50 p.m.
+1818,flylouisville,quicktrip,,,4:17 p.m.,
+1819,,,,11:55 p.m.,5:50 a.m.,
+1820,ftylouisville,,,4:25 p.m.,,12:29 a.m.
+1821,Al-4330-CVG-ORD,AA-3823-LAX-DEN,,,,
+1822,AA-1886-BOS-MIA,AA-2312-DFW-DTW,,8:25 p.m.,6:45 p.m.,11:50 p.m.
+1823,,ugatoday,6:59 a.m.,7:22 a.m.,9:45 a.m.,10:04 a.m.
+1824,,,,,,11:44 a.m.
+1825,fcylouisville,,,8:26 a.m.,9:24 a.m.,9:13 a.m.
+1826,Cj-62-IAH-EWR,Aw-649-ORD-SNA,,,3:50 p.m.,
+1827,As-3979-CVG-ORD,CO-1250-MIA-IAH,1:40 p.m.,3:01 p.m.,,4:59 p.m.
+1828,flylouisville,Ua-6273-YYC-SFO,,7:27 a.m.,2:55 p.m.,
+1829,,UA-828-SFO-ORD,,,5:11 a.m.,
+1830,AA-2268-PHX-ORD,Ci-4888-IAH-DAL,,,6:40 p.m.,6:40 p.m.
+1831,,UA-858-PVG-SFO,,1:32 p.m.,,
+1832,Ak-204-LAX-MCO,UA-2704-DTW-PHX,7:53 p.m.,,,
+1833,,Av-3063-SLC-LAX,,,,
+1834,fmylouisville,,2:55 p.m.,2:55 p.m.,4:53 p.m.,
+1835,CO-89-IAH-EWR,Uk-62-IAH-EWR,,2:48 p.m.,,
+1836,Ck-45-EWR-MIA,Ui-1500-IAH-GUA,8:55 a.m.,9:16 a.m.,7:25 a.m.,
+1837,Ac-3823-LAX-DEN,Aj-3804-PHL-ORD,,,,3:43 p.m.
+1838,,Ak-1917-JFK-MCO,2:55 p.m.,,,
+1839,flylouisville,quicktrip,,7:22 a.m.,,11:06 a.m.
+1840,,Aa-4277-CVG-JFK,12:10 p.m.,,,
+1841,Ak-1007-MIA-PHX,As-2957-DFW-CVG,,,11:05 a.m.,
+1842,CO-4888-IAH-DAL,UA-37-EDI-EWR,9:40 a.m.,8:52 a.m.,,
+1843,,Af-789-ORD-DEN,,,2:35 p.m.,
+1844,fqylouisville,AA-415-BOS-ORD,8:35 a.m.,,10:40 a.m.,10:16 a.m.
+1845,fhylouisville,Ax-85-JFK-SFO,,,,
+1846,flylouisville,Ad-3979-CVG-ORD,,,8:00 a.m.,8:06 a.m.
+1847,fzylouisville,Ar-1544-SAN-ORD,,,5:25 p.m.,
+1848,flylouisville,AA-3786-IAH-ORD,,,,6:15 p.m.
+1849,flylouisville,AA-271-MIA-LAX,,11:52 a.m.,,2:27 p.m.
+1850,Uv-2906-PHL-MCO,As-2525-DFW-MIA,,7:39 a.m.,,
+1851,,ur,,,,
+1852,,UA-3099-PHX-PHL,11:55 a.m.,,,
+1853,,AA-4198-ORD-CLE,10:40 a.m.,10:54 a.m.,,
+1854,,As-404-MIA-MCO,,,,
+1855,,Co-45-EWR-MIA,,,6:00 a.m.,6:36 p.m.
+1856,,obbitz,6:00 a.m.,6:10 a.m.,,
+1857,,Aq-59-JFK-SFO,,7:39 a.m.,,11:12 a.m.
+1858,,imly,,,,3:14 p.m.
+1859,,,,,,
+1860,,ggfox,,7:14 p.m.,6:00 a.m.,
+1861,AA-1434-DFW-MCO,AA-518-MIA-JFK,6:40 a.m.,6:54 a.m.,,
+1862,,Ue-397-JFK-SFO,,8:29 a.m.,,
+1863,Uo-938-DEN-ORD,UA-3925-IAD-ORF,,8:42 a.m.,9:54 a.m.,
+1864,,gofox,7:45 p.m.,,,10:30 p.m.
+1865,,buston,5:05 p.m.,12:13 p.m.,,
+1866,qhicktrip,AA-1640-MIA-MCO,,,,7:25 p.m.
+1867,Uy-414-LAX-SFO,Ui-2830-MCO-CLT,3:27 p.m.,,,5:17 p.m.
+1868,,Cn-58-DEN-IAH,4:48 p.m.,11:32 a.m.,2:50 p.m.,
+1869,qcicktrip,,11:25 p.m.,,,6:55 a.m.
+1870,Al-2525-DFW-MIA,Uj-414-LAX-SFO,3:19 p.m.,5:56 a.m.,7:23 a.m.,
+1871,,,,,,
+1872,,Ul-2726-FLL-PHL,4:00 p.m.,,6:46 p.m.,
+1873,Uw-938-DEN-ORD,CO-52-IAH-LAX,4:53 p.m.,7:29 a.m.,9:21 a.m.,9:14 a.m.
+1874,,airtravelcenter,,10:19 a.m.,,1:19 p.m.
+1875,qoicktrip,Ag-3468-CVG-MIA,7:03 p.m.,7:25 a.m.,9:55 a.m.,
+1876,Aq-222-LAX-BOS,Up-3515-IAD-MSP,8:15 a.m.,8:12 a.m.,10:06 a.m.,
+1877,Us-1500-IAH-GUA,AA-484-DFW-MIA,,4:29 p.m.,,
+1878,,fhightaware,,,,
+1879,Cm-4888-IAH-DAL,Ce-62-IAH-EWR,8:05 p.m.,,7:03 p.m.,7:10 p.m.
+1880,,Cg-63-EWR-IAH,,,,8:03 p.m.
+1881,,wynderground,6:44 p.m.,,,4:09 p.m.
+1882,AA-2268-PHX-ORD,CO-1023-IAH-DEN,11:40 a.m.,11:56 a.m.,10:40 a.m.,
+1883,AA-3979-CVG-ORD,Ae-466-IAH-MIA,,,,
+1884,qdicktrip,helloflight,,11:30 a.m.,,
+1885,quicktrip,CO-89-IAH-EWR,5:55 p.m.,,,
+1886,,CO-1088-CLE-IAH,,,11:05 a.m.,10:56 a.m.
+1887,AA-3786-IAH-ORD,Aw-2957-DFW-CVG,7:55 a.m.,8:04 a.m.,,
+1888,Av-3756-ORD-SLC,AA-1664-MIA-ATL,,10:18 a.m.,,11:56 a.m.
+1889,Ud-248-PHX-ORD,As-3979-CVG-ORD,,,,
+1890,Ux-3925-IAD-ORF,As-1279-DFW-PHX,,,2:35 p.m.,3:30 p.m.
+1891,,AA-404-MIA-MCO,,,7:45 a.m.,7:40 a.m.
+1892,,,,,6:00 a.m.,2:50 p.m.
+1893,Ab-1279-DFW-PHX,UA-382-IAD-LAX,,,3:19 p.m.,
+1894,,Un-2945-PHL-CLT,7:53 p.m.,,,1:15 p.m.
+1895,,CO-47-IAH-LAX,9:40 a.m.,8:25 p.m.,8:56 p.m.,
+1896,,,,11:52 a.m.,,
+1897,qiicktrip,Ay-2050-ORD-MIA,,,4:00 p.m.,2:46 p.m.
+1898,qkicktrip,Up-248-PHX-ORD,,,5:15 p.m.,5:34 p.m.
+1899,,,,,4:00 p.m.,
+1900,qkicktrip,AA-1434-DFW-MCO,,,,10:36 a.m.
+1901,UA-2945-PHL-CLT,Cw-1561-PHX-IAH,10:31 a.m.,8:00 a.m.,11:35 a.m.,
+1902,UA-2726-FLL-PHL,Ad-4307-ORD-DTW,10:30 p.m.,,,
+1903,,Ai-3-JFK-LAX,12:00 p.m.,12:11 p.m.,7:10 a.m.,
+1904,,Ck-1694-LAX-IAH,,,,
+1905,quicktrip,Up-843-LAX-ORD,1:55 p.m.,2:10 p.m.,,
+1906,Ap-789-ORD-DEN,CO-1193-EWR-MCO,9:15 a.m.,9:14 a.m.,12:18 p.m.,12:09 p.m.
+1907,,Au-3842-MSP-ORD,10:40 a.m.,,7:30 a.m.,7:51 a.m.
+1908,An-2268-PHX-ORD,AA-643-MIA-ORD,,,11:25 a.m.,
+1909,qxicktrip,Ai-1007-MIA-PHX,,5:08 p.m.,,
+1910,,adrtravelcenter,,,,
+1911,qqicktrip,,3:50 p.m.,4:28 p.m.,,
+1912,Cm-1193-EWR-MCO,UA-938-DEN-ORD,,4:15 p.m.,,7:36 p.m.
+1913,,Ad-1221-MCO-ORD,,,,
+1914,,ovd,10:25 a.m.,10:20 a.m.,,
+1915,,UA-2515-DFW-CLT,7:05 a.m.,7:05 a.m.,,
+1916,,AA-400-DFW-JFK,,,,3:04 p.m.
+1917,quicktrip,Uc-664-ORD-PHL,,,,
+1918,quicktrip,UA-37-EWR-MCO,,,4:17 p.m.,4:17 p.m.
+1919,,Ar-1522-SFO-ORD,9:20 a.m.,11:55 p.m.,5:50 a.m.,
+1920,,usatoday,,,,
+1921,qeicktrip,Ac-3823-LAX-DEN,,9:00 p.m.,7:15 a.m.,12:15 a.m.
+1922,,,,8:25 p.m.,2:55 p.m.,
+1923,Ay-4344-ORD-DTW,Uq-2314-ATL-PHL,,,,
+1924,UA-3925-IAD-ORF,AA-1165-JFK-MIA,,,,
+1925,Ui-37-EWR-MCO,AA-431-MIA-SFO,,,11:50 a.m.,
+1926,CO-1023-IAH-DEN,Ub-257-JFK-SFO,,,,
+1927,,hrlloflight,,,9:24 a.m.,
+1928,,wunderground,,,,4:59 p.m.
+1929,quicktrip,,9:20 p.m.,11:08 p.m.,5:11 a.m.,
+1930,quicktrip,Cw-4888-IAH-DAL,,,,6:40 p.m.
+1931,qsicktrip,UA-2704-DTW-PHX,,,,
+1932,,Aw-3063-SLC-LAX,,8:39 p.m.,,
+1933,,fbightview,,,,
+1934,AA-1640-MIA-MCO,UA-62-IAH-EWR,2:30 p.m.,,,
+1935,,,2:45 p.m.,,4:05 p.m.,3:43 p.m.
+1936,Um-2906-PHL-MCO,Ax-1917-JFK-MCO,,,5:55 p.m.,
+1937,quicktrip,,,7:22 a.m.,11:35 a.m.,11:06 a.m.
+1938,qsicktrip,AA-4277-CVG-JFK,,12:10 p.m.,2:15 p.m.,1:43 p.m.
+1939,AA-204-LAX-MCO,AA-789-ORD-DEN,1:05 p.m.,1:19 p.m.,,
+1940,,Ur-854-SFO-IAH,,7:49 a.m.,,
+1941,,Ai-415-BOS-ORD,8:35 a.m.,8:56 a.m.,,10:16 a.m.
+1942,,,,3:36 p.m.,6:30 p.m.,6:43 p.m.
+1943,,,,,,
+1944,qyicktrip,,3:15 p.m.,,,3:14 p.m.
+1945,Ac-2268-PHX-ORD,Cg-50-CLE-EWR,,3:31 p.m.,,
+1946,,UA-3099-PHX-PHL,11:55 a.m.,,6:17 p.m.,
+1947,Am-1007-MIA-PHX,AA-4198-ORD-CLE,,10:54 a.m.,,
+1948,qaicktrip,CO-45-EWR-MIA,,3:58 p.m.,7:05 p.m.,6:36 p.m.
+1949,quicktrip,Aw-3809-PHX-LAX,,6:10 a.m.,6:40 a.m.,6:19 a.m.
+1950,Ue-854-SFO-IAH,Ao-59-JFK-SFO,,,2:35 p.m.,
+1951,AA-1165-JFK-MIA,Ag-3859-IAH-ORD,9:20 a.m.,,9:40 a.m.,
+1952,AA-1733-ORD-PHX,CO-1586-IAH-MCO,,7:14 p.m.,,
+1953,,,,6:54 a.m.,,
+1954,aslegiantair,bksinesstravellogue,,,11:55 a.m.,
+1955,aalegiantair,UA-3925-IAD-ORF,2:25 p.m.,,9:54 a.m.,9:43 a.m.
+1956,Uv-3925-IAD-ORF,AA-1733-ORD-PHX,,,,
+1957,,gofox,,,,3:16 p.m.
+1958,allegiantair,Ue-2830-MCO-CLT,,,,
+1959,,bysinesstravellogue,9:35 a.m.,,,3:31 p.m.
+1960,,UA-5487-SFO-MRY,,,11:19 a.m.,
+1961,,Am-204-LAX-MCO,,,10:40 a.m.,6:55 a.m.
+1962,,UA-414-LAX-SFO,,5:56 a.m.,7:23 a.m.,
+1963,,afrtravelcenter,,,,5:26 a.m.
+1964,,,4:57 p.m.,,6:46 p.m.,
+1965,ajlegiantair,CO-52-IAH-LAX,9:40 a.m.,7:29 a.m.,9:21 a.m.,9:14 a.m.
+1966,AA-3786-IAH-ORD,Cz-1090-BOS-IAH,9:45 a.m.,,,
+1967,,atlegiantair,9:05 a.m.,,,
+1968,,Uf-3515-IAD-MSP,,,10:06 a.m.,9:56 a.m.
+1969,aalegiantair,Ah-3468-CVG-MIA,7:53 p.m.,7:25 a.m.,,9:45 a.m.
+1970,,,,,7:55 p.m.,
+1971,Uj-2515-DFW-CLT,AA-1886-BOS-MIA,10:45 a.m.,10:55 a.m.,,1:40 p.m.
+1972,,,,2:48 p.m.,,7:10 p.m.
+1973,,,,8:00 a.m.,4:55 p.m.,
+1974,,,,2:55 p.m.,,4:47 p.m.
+1975,allegiantair,Am-446-DFW-PHL,,12:12 p.m.,,4:09 p.m.
+1976,,Cg-1023-IAH-DEN,,11:56 a.m.,,
+1977,,An-466-IAH-MIA,6:00 a.m.,,9:20 a.m.,
+1978,amlegiantair,fcightexplorer,11:05 a.m.,11:30 a.m.,,
+1979,UA-382-IAD-LAX,Ct-89-IAH-EWR,,,10:20 a.m.,
+1980,,Cy-1088-CLE-IAH,,8:40 a.m.,10:54 a.m.,10:56 a.m.
+1981,,Am-1664-MIA-ATL,10:15 a.m.,10:18 a.m.,,
+1982,aclegiantair,,,,,3:30 p.m.
+1983,,,7:53 a.m.,,1:39 p.m.,1:30 p.m.
+1984,,UA-382-IAD-LAX,12:30 p.m.,12:35 p.m.,,
+1985,Uw-664-ORD-PHL,Au-4344-ORD-DTW,,,2:00 p.m.,
+1986,,UA-257-JFK-SFO,,,6:15 p.m.,
+1987,AA-3804-PHL-ORD,Un-2945-PHL-CLT,12:00 a.m.,3:11 a.m.,8:00 p.m.,
+1988,aelegiantair,,7:03 p.m.,5:22 p.m.,,
+1989,,,,8:25 p.m.,,
+1990,,,,11:05 a.m.,4:55 p.m.,
+1991,Ur-2726-FLL-PHL,Uo-248-PHX-ORD,,,,
+1992,azlegiantair,AA-4330-CVG-ORD,,3:36 p.m.,4:00 p.m.,3:33 p.m.
+1993,,Ae-1434-DFW-MCO,7:15 a.m.,,10:35 a.m.,
+1994,allegiantair,Aa-1640-MIA-MCO,,,,7:25 p.m.
+1995,aklegiantair,mttripandmore,,6:55 p.m.,,8:53 p.m.
+1996,,ombitz,,,12:21 a.m.,
+1997,UA-938-DEN-ORD,UA-843-LAX-ORD,,,,
+1998,azlegiantair,CO-1193-EWR-MCO,,9:14 a.m.,,12:09 p.m.
+1999,,Ac-3842-MSP-ORD,,,7:30 a.m.,
+2000,CO-1088-CLE-IAH,AA-643-MIA-ORD,,,,
+2001,Cw-52-IAH-LAX,Av-1007-MIA-PHX,,,,
+2002,allegiantair,UA-2906-PHL-MCO,,,,6:38 p.m.
+2003,avlegiantair,qlicktrip,,,11:25 p.m.,
+2004,aplegiantair,,,,,
+2005,Uy-2704-DTW-PHX,Ci-16-LAX-EWR,10:25 a.m.,10:20 a.m.,,6:34 p.m.
+2006,atlegiantair,,,,,10:47 a.m.
+2007,AA-616-DFW-DTW,AA-400-DFW-JFK,10:40 a.m.,,7:15 p.m.,
+2008,ablegiantair,fnightview,,,,
+2009,,Aq-3756-ORD-SLC,6:30 p.m.,,,
+2010,Ao-1522-SFO-ORD,Ux-37-EWR-MCO,,,,4:17 p.m.
+2011,,Al-1522-SFO-ORD,11:55 p.m.,,,5:50 a.m.
+2012,,UA-233-LAX-JFK,,,12:29 a.m.,
+2013,AA-446-DFW-PHL,AA-3823-LAX-DEN,,9:00 p.m.,4:25 p.m.,12:15 a.m.
+2014,allegiantair,,8:25 p.m.,,,11:50 p.m.
+2015,allegiantair,Au-1165-JFK-MIA,6:59 a.m.,,,
+2016,An-1165-JFK-MIA,Ab-431-MIA-SFO,8:35 a.m.,,4:00 p.m.,
+2017,adlegiantair,,1:40 p.m.,,9:24 a.m.,9:13 a.m.
+2018,,An-649-ORD-SNA,,,8:55 a.m.,3:50 p.m.
+2019,,CO-1250-MIA-IAH,,,,4:59 p.m.
+2020,,UA-6273-YYC-SFO,3:30 p.m.,7:27 a.m.,9:43 a.m.,8:45 a.m.
+2021,,UA-828-SFO-ORD,11:08 p.m.,,,
+2022,,CO-4888-IAH-DAL,,,,6:40 p.m.
+2023,,Uu-858-PVG-SFO,,,,
+2024,allegiantair,UA-2704-DTW-PHX,11:15 a.m.,,,
+2025,allegiantair,Ay-3063-SLC-LAX,8:20 p.m.,,,
+2026,AA-3804-PHL-ORD,Uv-2708-EWR-CLT,,,4:53 p.m.,
+2027,,UA-62-IAH-EWR,,2:48 p.m.,7:03 p.m.,
+2028,,,,,,
+2029,aklegiantair,AA-3804-PHL-ORD,2:35 p.m.,2:44 p.m.,,3:43 p.m.
+2030,CO-62-IAH-EWR,Ai-1917-JFK-MCO,,,,5:43 p.m.
+2031,,AA-2268-PHX-ORD,,7:22 a.m.,,
+2032,aglegiantair,,12:10 p.m.,12:10 p.m.,2:15 p.m.,
+2033,,AA-2957-DFW-CVG,7:55 a.m.,,11:05 a.m.,
+2034,adlegiantair,,,,,12:09 p.m.
+2035,Ag-3804-PHL-ORD,Aj-789-ORD-DEN,,,,
+2036,,Aa-415-BOS-ORD,,,,10:16 a.m.
+2037,,feights,,,,
+2038,,myrateplan,9:45 p.m.,,,
+2039,allegiantair,,,,,
+2040,,Aa-3786-IAH-ORD,,4:12 p.m.,,
+2041,axlegiantair,fuightaware,11:35 a.m.,,8:41 a.m.,2:27 p.m.
+2042,,fuightview,,,,
+2043,,,2:55 p.m.,,4:49 p.m.,
+2044,,UA-3099-PHX-PHL,,,,
+2045,,,,,7:15 a.m.,12:50 p.m.
+2046,Cw-58-DEN-IAH,AA-404-MIA-MCO,7:25 p.m.,,7:45 a.m.,7:40 a.m.
+2047,allegiantair,Cc-45-EWR-MIA,,3:58 p.m.,,
+2048,,AA-3809-PHX-LAX,6:00 a.m.,,,
+2049,,AA-59-JFK-SFO,,,4:00 p.m.,
+2050,CO-1090-BOS-IAH,AA-222-LAX-BOS,,,,
+2051,Ua-858-PVG-SFO,AA-3859-IAH-ORD,7:10 a.m.,,,9:32 a.m.
+2052,Aa-4198-ORD-CLE,Ca-1586-IAH-MCO,7:00 p.m.,,10:15 p.m.,10:29 p.m.
+2053,Aw-789-ORD-DEN,As-518-MIA-JFK,6:40 p.m.,,9:25 a.m.,9:28 a.m.
+2054,,,,,,11:58 a.m.
+2055,bssinesstravellogue,,,,9:54 a.m.,9:43 a.m.
+2056,Ad-2312-DFW-DTW,Ar-1733-ORD-PHX,,,10:30 p.m.,10:30 p.m.
+2057,,AA-3-JFK-LAX,9:55 a.m.,12:11 p.m.,,3:16 p.m.
+2058,Az-400-DFW-JFK,Ui-2830-MCO-CLT,3:27 p.m.,,,
+2059,businesstravellogue,Cx-58-DEN-IAH,,,,3:31 p.m.
+2060,,uc,10:39 a.m.,,,11:21 a.m.
+2061,,,,,6:55 a.m.,
+2062,Um-2314-ATL-PHL,Um-414-LAX-SFO,6:00 a.m.,,,
+2063,Ar-2268-PHX-ORD,CO-1614-LAX-IAH,9:10 p.m.,,,
+2064,Ac-616-DFW-DTW,Uf-2726-FLL-PHL,4:00 p.m.,,,
+2065,Cn-58-DEN-IAH,Cx-52-IAH-LAX,7:35 a.m.,7:29 a.m.,9:05 a.m.,9:14 a.m.
+2066,Ul-664-ORD-PHL,Ca-1090-BOS-IAH,7:45 a.m.,,1:16 p.m.,
+2067,,,9:05 a.m.,,6:00 a.m.,
+2068,Cy-45-EWR-MIA,UA-3515-IAD-MSP,,,,9:56 a.m.
+2069,Ug-2708-EWR-CLT,AA-3468-CVG-MIA,7:00 a.m.,,9:55 a.m.,
+2070,bssinesstravellogue,Aq-484-DFW-MIA,,,,
+2071,bqsinesstravellogue,,,,7:10 p.m.,
+2072,,Ct-62-IAH-EWR,,2:48 p.m.,,7:10 p.m.
+2073,bnsinesstravellogue,Cm-1561-PHX-IAH,8:05 a.m.,,11:35 a.m.,
+2074,bhsinesstravellogue,Ur-2314-ATL-PHL,2:55 p.m.,2:55 p.m.,,4:47 p.m.
+2075,Ac-3804-PHL-ORD,AA-446-DFW-PHL,,12:12 p.m.,11:15 a.m.,
+2076,bmsinesstravellogue,foightwise,,11:56 a.m.,4:15 p.m.,1:14 p.m.
+2077,AA-1007-MIA-PHX,Ai-466-IAH-MIA,9:21 a.m.,,9:20 a.m.,
+2078,Ag-4277-CVG-JFK,Uj-3050-PHX-CLT,,,,
+2079,businesstravellogue,Cd-89-IAH-EWR,7:03 p.m.,,,
+2080,,CO-1088-CLE-IAH,,,,
+2081,bxsinesstravellogue,AA-1664-MIA-ATL,,,12:10 p.m.,
+2082,bfsinesstravellogue,foxbusiness,,2:04 p.m.,2:35 p.m.,
+2083,At-1917-JFK-MCO,Uj-854-SFO-IAH,7:53 a.m.,,,
+2084,,,,12:35 p.m.,,
+2085,CO-1023-IAH-DEN,AA-4344-ORD-DTW,,12:13 p.m.,10:25 a.m.,2:10 p.m.
+2086,,Uz-257-JFK-SFO,,,,5:42 p.m.
+2087,Ad-204-LAX-MCO,Um-2945-PHL-CLT,12:55 p.m.,,1:45 p.m.,1:15 p.m.
+2088,AA-2268-PHX-ORD,Ck-63-EWR-IAH,,,5:30 p.m.,
+2089,UA-37-EDI-EWR,Cw-47-IAH-LAX,2:20 p.m.,8:25 p.m.,8:56 p.m.,9:52 p.m.
+2090,bxsinesstravellogue,Ac-2050-ORD-MIA,10:40 a.m.,,,
+2091,bzsinesstravellogue,hqlloflight,12:57 p.m.,,9:15 a.m.,5:34 p.m.
+2092,businesstravellogue,,,,,
+2093,Cv-50-CLE-EWR,An-1434-DFW-MCO,12:15 a.m.,,,10:36 a.m.
+2094,,,6:30 p.m.,6:30 p.m.,,7:25 p.m.
+2095,,Av-4307-ORD-DTW,,,,
+2096,bbsinesstravellogue,,,7:15 p.m.,,
+2097,AA-1279-DFW-PHX,UA-843-LAX-ORD,5:15 p.m.,,,7:58 p.m.
+2098,,Co-1193-EWR-MCO,,9:14 a.m.,10:40 a.m.,
+2099,UA-854-SFO-IAH,Aw-3842-MSP-ORD,,6:56 a.m.,,
+2100,,AA-643-MIA-ORD,,,8:20 p.m.,
+2101,bisinesstravellogue,ad,,5:08 p.m.,,
+2102,,UA-2906-PHL-MCO,,,,
+2103,,avlegiantair,,4:15 p.m.,,7:36 p.m.
+2104,,myrateplan,,8:23 p.m.,,
+2105,AA-1221-MCO-ORD,Ct-16-LAX-EWR,10:25 a.m.,,,
+2106,,Ul-2515-DFW-CLT,,,10:31 a.m.,10:47 a.m.
+2107,,Ak-400-DFW-JFK,4:31 p.m.,11:01 a.m.,,3:04 p.m.
+2108,,,,,,
+2109,,AA-3756-ORD-SLC,12:15 p.m.,12:41 p.m.,,
+2110,AA-2312-DFW-DTW,UA-37-EWR-MCO,,1:48 p.m.,4:17 p.m.,4:17 p.m.
+2111,bfsinesstravellogue,AA-1522-SFO-ORD,11:55 p.m.,,4:15 p.m.,5:50 a.m.
+2112,,UA-233-LAX-JFK,,,,12:29 a.m.
+2113,AA-3842-MSP-ORD,Af-3823-LAX-DEN,,9:00 p.m.,,12:15 a.m.
+2114,bhsinesstravellogue,foxbusiness,,,,
+2115,bvsinesstravellogue,,6:59 a.m.,,10:34 a.m.,
+2116,bysinesstravellogue,Az-431-MIA-SFO,8:35 a.m.,8:51 a.m.,,
+2117,,Ue-3373-IAD-PHL,,8:26 a.m.,9:24 a.m.,9:13 a.m.
+2118,Aw-204-LAX-MCO,Ae-649-ORD-SNA,,,6:00 a.m.,
+2119,blsinesstravellogue,,2:53 p.m.,,4:48 p.m.,
+2120,bmsinesstravellogue,Uo-6273-YYC-SFO,,,,
+2121,bmsinesstravellogue,mptripandmore,,,,
+2122,,Cu-4888-IAH-DAL,,,6:40 p.m.,6:40 p.m.
+2123,Aw-1917-JFK-MCO,Ur-858-PVG-SFO,,1:32 p.m.,,8:02 a.m.
+2124,,UA-2704-DTW-PHX,,,1:40 p.m.,
+2125,,Aq-3063-SLC-LAX,,8:39 p.m.,,9:20 p.m.
+2126,Aq-222-LAX-BOS,Um-2708-EWR-CLT,,2:55 p.m.,,
+2127,Ug-2906-PHL-MCO,UA-62-IAH-EWR,,2:48 p.m.,,7:10 p.m.
+2128,Ap-3468-CVG-MIA,UA-1500-IAH-GUA,,,6:00 a.m.,
+2129,AA-2050-ORD-MIA,Av-3804-PHL-ORD,2:35 p.m.,2:44 p.m.,9:00 p.m.,
+2130,bpsinesstravellogue,Ab-1917-JFK-MCO,12:55 p.m.,3:27 p.m.,,
+2131,Cj-1193-EWR-MCO,AA-2268-PHX-ORD,,7:22 a.m.,,
+2132,bisinesstravellogue,Aq-4277-CVG-JFK,8:00 a.m.,,,1:43 p.m.
+2133,,Ah-2957-DFW-CVG,4:53 p.m.,,,
+2134,,Uh-37-EDI-EWR,,,,12:09 p.m.
+2135,,At-789-ORD-DEN,6:15 p.m.,,2:35 p.m.,
+2136,Ce-52-IAH-LAX,AA-415-BOS-ORD,,8:56 a.m.,10:40 a.m.,10:16 a.m.
+2137,UA-397-JFK-SFO,Am-85-JFK-SFO,3:05 p.m.,3:36 p.m.,,
+2138,businesstravellogue,,,,,8:06 a.m.
+2139,businesstravellogue,,11:25 a.m.,,5:25 p.m.,4:56 p.m.
+2140,CO-50-CLE-EWR,Aq-3786-IAH-ORD,,4:12 p.m.,,6:15 p.m.
+2141,Ak-2312-DFW-DTW,Au-271-MIA-LAX,11:35 a.m.,11:52 a.m.,,2:27 p.m.
+2142,,,,,2:55 p.m.,
+2143,,CO-50-CLE-EWR,,3:31 p.m.,,5:26 p.m.
+2144,,,,11:55 a.m.,,5:38 p.m.
+2145,,,,10:54 a.m.,12:55 p.m.,
+2146,AA-1917-JFK-MCO,Al-404-MIA-MCO,,,,
+2147,businesstravellogue,CO-45-EWR-MIA,,,,
+2148,,Au-3809-PHX-LAX,,6:10 a.m.,,6:19 a.m.
+2149,,,,,,
+2150,,,7:10 a.m.,7:31 a.m.,3:30 p.m.,3:14 p.m.
+2151,,,,,2:50 p.m.,
+2152,den,,,,,
+2153,,Ax-3823-LAX-DEN,,,12:15 a.m.,
+2154,,UA-938-DEN-ORD,11:35 a.m.,4:15 p.m.,,7:36 p.m.
+2155,,,,,,3:13 p.m.
+2156,,Ah-3859-IAH-ORD,12:35 p.m.,,,
+2157,AA-2268-PHX-ORD,CO-1586-IAH-MCO,,,10:15 p.m.,
+2158,gofox,AA-518-MIA-JFK,8:05 p.m.,,,
+2159,,Uu-397-JFK-SFO,8:00 a.m.,8:29 a.m.,,11:58 a.m.
+2160,gofox,Ui-3925-IAD-ORF,8:41 a.m.,,,9:43 a.m.
+2161,gifox,,,,,10:30 p.m.
+2162,gkfox,AA-3-JFK-LAX,,,,
+2163,,Ua-2830-MCO-CLT,5:11 a.m.,3:27 p.m.,,5:17 p.m.
+2164,,,,11:32 a.m.,2:50 p.m.,
+2165,AA-1733-ORD-PHX,UA-5487-SFO-MRY,,,,11:21 a.m.
+2166,gafox,,,11:25 p.m.,6:55 a.m.,6:55 a.m.
+2167,AA-222-LAX-BOS,Uy-414-LAX-SFO,,5:56 a.m.,,7:17 a.m.
+2168,Ak-3063-SLC-LAX,Cg-1614-LAX-IAH,12:30 a.m.,,5:35 a.m.,5:26 a.m.
+2169,Ah-415-BOS-ORD,Uf-2726-FLL-PHL,,4:00 p.m.,,6:28 p.m.
+2170,Aq-2525-DFW-MIA,CO-52-IAH-LAX,,7:29 a.m.,,9:14 a.m.
+2171,CO-47-IAH-LAX,CO-1090-BOS-IAH,,10:19 a.m.,,1:19 p.m.
+2172,Aa-2312-DFW-DTW,Az-616-DFW-DTW,,,,1:27 p.m.
+2173,,Ud-3515-IAD-MSP,,8:12 a.m.,,
+2174,gufox,Ak-3468-CVG-MIA,6:17 p.m.,,,
+2175,Ux-37-EDI-EWR,AA-484-DFW-MIA,4:15 p.m.,4:29 p.m.,,7:39 p.m.
+2176,,Ap-1886-BOS-MIA,,,1:00 p.m.,
+2177,gqfox,,,,3:50 p.m.,
+2178,,CO-1561-PHX-IAH,,,,11:32 a.m.
+2179,,wcather,,,,
+2180,AA-3-JFK-LAX,Aq-446-DFW-PHL,11:50 a.m.,,,4:09 p.m.
+2181,,,2:59 p.m.,11:56 a.m.,,
+2182,,,2:45 p.m.,,,
+2183,,pknynj,11:05 a.m.,11:30 a.m.,,5:05 p.m.
+2184,,Cw-89-IAH-EWR,,,,
+2185,Cd-63-EWR-IAH,Co-1088-CLE-IAH,,8:40 a.m.,10:54 a.m.,
+2186,ghfox,Ak-1664-MIA-ATL,2:45 p.m.,,,11:56 a.m.
+2187,Cl-50-CLE-EWR,Ay-1279-DFW-PHX,,,,
+2188,gofox,,7:53 a.m.,,,
+2189,gkfox,Ur-382-IAD-LAX,,,10:25 a.m.,
+2190,,AA-4344-ORD-DTW,11:45 a.m.,12:13 p.m.,2:00 p.m.,
+2191,Af-2050-ORD-MIA,UA-257-JFK-SFO,,,,
+2192,gffox,Um-2945-PHL-CLT,12:00 a.m.,,12:10 p.m.,
+2193,Ab-1522-SFO-ORD,CO-63-EWR-IAH,5:25 p.m.,,,8:03 p.m.
+2194,,CO-47-IAH-LAX,,,,9:52 p.m.
+2195,,,,,,
+2196,CO-16-LAX-EWR,Uj-248-PHX-ORD,,,,5:34 p.m.
+2197,,flights,3:35 p.m.,3:36 p.m.,,3:33 p.m.
+2198,ggfox,,,7:21 a.m.,10:35 a.m.,
+2199,CO-47-IAH-LAX,At-1640-MIA-MCO,,6:30 p.m.,,
+2200,Uj-3925-IAD-ORF,Af-4307-ORD-DTW,6:15 p.m.,6:55 p.m.,9:10 p.m.,8:53 p.m.
+2201,gwfox,Ch-1694-LAX-IAH,,7:15 p.m.,,12:21 a.m.
+2202,Aj-484-DFW-MIA,UA-843-LAX-ORD,,,11:15 a.m.,
+2203,Az-4344-ORD-DTW,Ca-1193-EWR-MCO,,,12:18 p.m.,
+2204,CO-1586-IAH-MCO,AA-3842-MSP-ORD,,,,
+2205,Ak-4198-ORD-CLE,AA-643-MIA-ORD,,,9:15 a.m.,
+2206,AA-1733-ORD-PHX,As-1007-MIA-PHX,,5:08 p.m.,,
+2207,Aw-4330-CVG-ORD,Uw-2906-PHL-MCO,10:15 p.m.,,,
+2208,Ab-4307-ORD-DTW,Ub-938-DEN-ORD,10:30 p.m.,,,7:36 p.m.
+2209,gdfox,AA-1221-MCO-ORD,8:00 p.m.,,,9:53 p.m.
+2210,Ut-3099-PHX-PHL,CO-16-LAX-EWR,,,,6:34 p.m.
+2211,gvfox,Ua-2515-DFW-CLT,,,8:05 a.m.,
+2212,gefox,,10:40 a.m.,11:01 a.m.,2:59 p.m.,
+2213,,Up-664-ORD-PHL,,,,4:23 p.m.
+2214,,Ae-3756-ORD-SLC,,,,
+2215,Ao-3756-ORD-SLC,Ul-37-EWR-MCO,,1:48 p.m.,,
+2216,,,,11:55 p.m.,,5:50 a.m.
+2217,,Ut-233-LAX-JFK,4:25 p.m.,4:25 p.m.,12:29 a.m.,
+2218,,,,,,
+2219,CO-47-IAH-LAX,AA-2312-DFW-DTW,,,,
+2220,,Ad-1165-JFK-MIA,,,10:34 a.m.,
+2221,Az-1279-DFW-PHX,Ah-431-MIA-SFO,,8:51 a.m.,,
+2222,,Um-3373-IAD-PHL,,8:26 a.m.,,9:13 a.m.
+2223,Ay-1664-MIA-ATL,Ax-649-ORD-SNA,,,3:50 p.m.,
+2224,,flights,,,,4:59 p.m.
+2225,,wunderground,,,,8:45 a.m.
+2226,Uq-414-LAX-SFO,UA-828-SFO-ORD,,11:08 p.m.,5:11 a.m.,5:11 a.m.
+2227,,fgylouisville,,5:30 p.m.,,
+2228,,,,1:32 p.m.,,
+2229,,Ue-2704-DTW-PHX,,,,
+2230,,Ad-3063-SLC-LAX,,,9:20 p.m.,
+2231,,,,,,4:44 p.m.
+2232,gofox,wkather,,,,
+2233,gofox,UA-1500-IAH-GUA,,9:16 a.m.,,
+2234,,,,,,
+2235,Ad-616-DFW-DTW,AA-1917-JFK-MCO,2:55 p.m.,,,5:43 p.m.
+2236,UA-1500-IAH-GUA,Am-2268-PHX-ORD,7:30 a.m.,7:22 a.m.,11:35 a.m.,
+2237,Ai-4198-ORD-CLE,AA-4277-CVG-JFK,,,2:15 p.m.,
+2238,,Ay-2957-DFW-CVG,,,,
+2239,AA-1640-MIA-MCO,Uc-37-EDI-EWR,,8:52 a.m.,8:35 a.m.,
+2240,AA-789-ORD-DEN,Ac-789-ORD-DEN,,,,
+2241,gdfox,AA-415-BOS-ORD,,,,10:16 a.m.
+2242,,,,,,
+2243,,AA-3979-CVG-ORD,,8:04 a.m.,,8:06 a.m.
+2244,gffox,Ap-1544-SAN-ORD,,,7:15 a.m.,
+2245,,flightview,,4:12 p.m.,,
+2246,,,3:15 p.m.,,,
+2247,Ae-4307-ORD-DTW,Ab-2525-DFW-MIA,,7:39 a.m.,,11:06 a.m.
+2248,UA-3050-PHX-CLT,Cv-50-CLE-EWR,,,4:49 p.m.,5:26 p.m.
+2249,gifox,,,,4:25 p.m.,
+2250,,AA-4198-ORD-CLE,,,,12:50 p.m.
+2251,Uj-2708-EWR-CLT,AA-404-MIA-MCO,,6:57 a.m.,,
+2252,gafox,Cl-45-EWR-MIA,,3:58 p.m.,7:05 p.m.,6:36 p.m.
+2253,Cu-1561-PHX-IAH,Ad-3809-PHX-LAX,6:00 a.m.,,10:40 a.m.,
+2254,gofox,fbightexplorer,7:10 a.m.,,7:10 a.m.,
+2255,,Ar-222-LAX-BOS,,7:31 a.m.,10:40 a.m.,
+2256,faightaware,AA-3859-IAH-ORD,,7:16 a.m.,,
+2257,,,6:40 a.m.,,,9:28 a.m.
+2258,,,,7:14 p.m.,10:15 p.m.,
+2259,,gcfox,,8:42 a.m.,,
+2260,Ud-2726-FLL-PHL,Ad-1733-ORD-PHX,,,,
+2261,,,12:35 p.m.,11:25 p.m.,,6:55 a.m.
+2262,feightaware,,,4:00 p.m.,6:46 p.m.,
+2263,fdightaware,Cq-52-IAH-LAX,,7:29 a.m.,,
+2264,flightaware,AA-3468-CVG-MIA,11:10 a.m.,,,
+2265,flightaware,Ad-484-DFW-MIA,4:15 p.m.,,,
+2266,,,,10:10 a.m.,,
+2267,,owbitz,,,,
+2268,,Cm-1023-IAH-DEN,11:40 a.m.,,8:25 p.m.,
+2269,,,,6:08 a.m.,,9:05 a.m.
+2270,Cd-1088-CLE-IAH,Ua-3050-PHX-CLT,,,7:25 a.m.,5:05 p.m.
+2271,Cp-58-DEN-IAH,AA-2957-DFW-CVG,,8:04 a.m.,11:25 a.m.,11:01 a.m.
+2272,fdightaware,AA-1664-MIA-ATL,10:15 a.m.,10:18 a.m.,,
+2273,,Af-3979-CVG-ORD,7:30 a.m.,8:04 a.m.,,
+2274,AA-271-MIA-LAX,AA-1279-DFW-PHX,2:20 p.m.,2:04 p.m.,,
+2275,,AA-404-MIA-MCO,6:45 a.m.,,,
+2276,Ut-257-JFK-SFO,AA-3756-ORD-SLC,,12:41 p.m.,,
+2277,,,,12:35 p.m.,,
+2278,,foxbusiness,7:53 p.m.,2:26 p.m.,6:15 p.m.,
+2279,Ak-3823-LAX-DEN,Ul-2945-PHL-CLT,4:57 p.m.,,,1:15 p.m.
+2280,AA-415-BOS-ORD,CO-63-EWR-IAH,5:25 p.m.,5:22 p.m.,8:22 p.m.,
+2281,,,,,,
+2282,flightaware,CO-47-IAH-LAX,,8:25 p.m.,8:56 p.m.,
+2283,fnightaware,Ar-271-MIA-LAX,,,,
+2284,flightaware,,,11:05 a.m.,,2:46 p.m.
+2285,flightaware,Ag-4330-CVG-ORD,,3:36 p.m.,,
+2286,Ay-431-MIA-SFO,Ab-1434-DFW-MCO,,,10:35 a.m.,
+2287,,AA-1640-MIA-MCO,,,3:27 p.m.,
+2288,,Am-4307-ORD-DTW,,,,
+2289,,Ad-3-JFK-LAX,,,,3:16 p.m.
+2290,,flylouisville,7:15 p.m.,,,
+2291,fjightaware,,9:35 a.m.,,,12:09 p.m.
+2292,,Al-3842-MSP-ORD,,6:56 a.m.,4:15 p.m.,
+2293,Aa-4307-ORD-DTW,Ae-643-MIA-ORD,7:10 a.m.,,,9:31 a.m.
+2294,,Ar-1007-MIA-PHX,4:55 p.m.,,,
+2295,,,,4:28 p.m.,,
+2296,AA-616-DFW-DTW,Af-1221-MCO-ORD,,8:23 p.m.,,9:53 p.m.
+2297,fiightaware,Aq-400-DFW-JFK,,,2:59 p.m.,3:04 p.m.
+2298,Us-2515-DFW-CLT,Uk-664-ORD-PHL,2:45 p.m.,1:31 p.m.,4:31 p.m.,
+2299,,Uf-37-EWR-MCO,1:29 p.m.,,2:30 p.m.,
+2300,,Uk-233-LAX-JFK,,,,
+2301,,AA-3823-LAX-DEN,,9:00 p.m.,12:15 a.m.,
+2302,Uz-2708-EWR-CLT,Al-2312-DFW-DTW,,8:25 p.m.,11:50 p.m.,
+2303,,foxbusiness,,,,10:04 a.m.
+2304,fdightaware,Ad-431-MIA-SFO,,,11:25 a.m.,
+2305,CO-1614-LAX-IAH,Ax-649-ORD-SNA,,,3:50 p.m.,
+2306,fyightaware,UA-828-SFO-ORD,11:08 p.m.,,5:11 a.m.,
+2307,AA-431-MIA-SFO,Cp-4888-IAH-DAL,5:30 p.m.,5:30 p.m.,,6:40 p.m.
+2308,Cs-1561-PHX-IAH,Ag-3063-SLC-LAX,,,,
+2309,,,,,,
+2310,ftightaware,Aj-1917-JFK-MCO,2:55 p.m.,,,5:43 p.m.
+2311,UA-3050-PHX-CLT,At-2268-PHX-ORD,,,,
+2312,,,,,,
+2313,,,1:05 p.m.,,2:35 p.m.,
+2314,fuightaware,Ar-85-JFK-SFO,,,6:00 a.m.,6:43 p.m.
+2315,,Ap-3786-IAH-ORD,,4:12 p.m.,6:40 p.m.,
+2316,ffightaware,,6:23 p.m.,7:31 a.m.,,
+2317,,,12:10 p.m.,11:55 a.m.,,
+2318,ffightaware,businesstravellogue,,,,
+2319,fdightaware,,,3:58 p.m.,,6:36 p.m.
+2320,,Ay-3809-PHX-LAX,,,,
+2321,,AA-59-JFK-SFO,7:10 a.m.,,,
+2322,UA-2708-EWR-CLT,Ak-3859-IAH-ORD,,,,
+2323,,Ah-518-MIA-JFK,6:40 a.m.,,11:55 p.m.,9:28 a.m.
+2324,,Un-397-JFK-SFO,,,4:16 p.m.,11:58 a.m.
+2325,wdrld-flight-tracker,Ao-1733-ORD-PHX,,,10:30 p.m.,10:30 p.m.
+2326,Uq-3099-PHX-PHL,AA-1640-MIA-MCO,,6:30 p.m.,,7:25 p.m.
+2327,,CO-1694-LAX-IAH,7:15 p.m.,,1:00 p.m.,
+2328,,,12:21 a.m.,,,5:17 p.m.
+2329,,,11:25 p.m.,,6:55 a.m.,6:55 a.m.
+2330,world-flight-tracker,,,,,
+2331,,,,,11:40 a.m.,
+2332,,AA-484-DFW-MIA,,,8:00 a.m.,
+2333,world-flight-tracker,AA-616-DFW-DTW,,,,
+2334,Cg-62-IAH-EWR,Ar-446-DFW-PHL,10:31 a.m.,12:12 p.m.,3:50 p.m.,4:09 p.m.
+2335,,,6:00 a.m.,,9:20 a.m.,9:05 a.m.
+2336,,Ug-3050-PHX-CLT,,,,
+2337,AA-85-JFK-SFO,Ay-2957-DFW-CVG,7:55 a.m.,,1:30 p.m.,
+2338,world-flight-tracker,,,,7:15 p.m.,
+2339,,Am-3979-CVG-ORD,,,,8:06 a.m.
+2340,whrld-flight-tracker,,,2:04 p.m.,,3:30 p.m.
+2341,,Ak-404-MIA-MCO,,6:57 a.m.,,
+2342,,AA-3756-ORD-SLC,,12:41 p.m.,,
+2343,AA-3823-LAX-DEN,Uc-2945-PHL-CLT,,,,
+2344,wkrld-flight-tracker,flylouisville,7:25 a.m.,7:39 a.m.,,11:06 a.m.
+2345,Cj-1561-PHX-IAH,Ab-271-MIA-LAX,,,,2:27 p.m.
+2346,wvrld-flight-tracker,foxbusiness,5:25 p.m.,11:05 a.m.,2:45 p.m.,2:46 p.m.
+2347,Ch-1614-LAX-IAH,AA-1434-DFW-MCO,7:15 a.m.,7:21 a.m.,,10:36 a.m.
+2348,,uvatoday,,6:55 p.m.,,8:53 p.m.
+2349,wsrld-flight-tracker,An-3-JFK-LAX,12:00 p.m.,12:11 p.m.,,3:16 p.m.
+2350,Aj-400-DFW-JFK,Cv-1193-EWR-MCO,,9:14 a.m.,,12:09 p.m.
+2351,,,,,,
+2352,AA-789-ORD-DEN,Al-643-MIA-ORD,,,,9:31 a.m.
+2353,world-flight-tracker,,,,,6:38 p.m.
+2354,,,8:00 p.m.,,,9:53 p.m.
+2355,,,,,4:31 p.m.,4:23 p.m.
+2356,,Aw-1522-SFO-ORD,11:55 p.m.,,,
+2357,,myrateplan,,4:25 p.m.,12:29 a.m.,
+2358,,panynj,9:00 p.m.,9:00 p.m.,,12:15 a.m.
+2359,,blston,,8:25 p.m.,11:50 p.m.,11:50 p.m.
+2360,,,,,,
+2361,,Av-431-MIA-SFO,,,11:50 a.m.,
+2362,Un-5487-SFO-MRY,Uj-257-JFK-SFO,,,,
+2363,Uv-664-ORD-PHL,Ad-649-ORD-SNA,1:30 p.m.,,3:50 p.m.,
+2364,warld-flight-tracker,AA-3804-PHL-ORD,9:20 p.m.,,,
+2365,wsrld-flight-tracker,,,3:27 p.m.,,
+2366,,,,,11:35 a.m.,11:06 a.m.
+2367,wprld-flight-tracker,Am-4277-CVG-JFK,,,,
+2368,Ar-431-MIA-SFO,Ap-789-ORD-DEN,,,7:00 p.m.,3:13 p.m.
+2369,wqrld-flight-tracker,Az-85-JFK-SFO,3:05 p.m.,3:36 p.m.,8:20 p.m.,
+2370,AA-1221-MCO-ORD,AA-3786-IAH-ORD,4:00 p.m.,4:12 p.m.,,6:15 p.m.
+2371,,AA-222-LAX-BOS,,,,
+2372,,Ul-3099-PHX-PHL,,,6:17 p.m.,
+2373,wbrld-flight-tracker,uuatoday,2:25 p.m.,,12:55 p.m.,12:50 p.m.
+2374,,,,3:58 p.m.,7:05 p.m.,
+2375,,osd,,6:10 a.m.,,
+2376,,Ab-59-JFK-SFO,,7:39 a.m.,,
