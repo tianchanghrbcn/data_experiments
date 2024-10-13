@@ -1,3 +1,0 @@
-git add .
-git commit -m "update results"
-git push -u origin master
