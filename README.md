@@ -33,6 +33,7 @@ To get started with this project, clone the repository and navigate to the relev
    ```bash
    git clone https://github.com/tianchanghrbcn/data_experiments.git
    cd data_experiments
+   ```
 2. Install required dependencies for each system (refer to each system's README or setup instructions).
 
 ### Running Experiments
@@ -41,7 +42,7 @@ To run experiments, use the provided shell scripts:
   sh run_experiment.sh
 
 
-If you have suggestions or improvements, feel free to open an issue or submit a pull request.
+If you have suggestions or improvements, feel free to open an issue or submit a pull reques
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
