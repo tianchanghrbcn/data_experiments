@@ -40,10 +40,59 @@ To get started with this project, clone the repository and navigate to the relev
 To run experiments, use the provided shell scripts:
   ```bash
   sh run_experiment.sh
-
-
+  ```
+### Contributing
 If you have suggestions or improvements, feel free to open an issue or submit a pull reques
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+# 数据实验资料库
+
+该资料库包含与数据清理系统、聚类算法和实验结果相关的资源和代码。它包括：
+
+- **数据清理系统**：各种数据清理算法的研究论文和源代码，包括Raha、HoloClean和MLNClean等系统的实现。
+- **聚类算法**：用于评估清理数据性能的常用聚类算法（如K-Means、GMM等）的实现。
+- **实验结果**：对不同数据清理方法对聚类性能的影响进行的实验的详细结果。
+
+## 仓库结构
+
+- `data_cleaning/`：数据清理系统的源代码和配置。
+- `mlnclean/`：MLNClean的代码库，包括设置文件和主脚本。
+- `raha/`：Raha系统的源代码和补充文件。
+- `results/`：包含实验结果，包括指标和分析文件。
+- `cluster.sh`：运行聚类实验的脚本。
+- `raha_config.sh`：Raha的配置脚本。
+- `run_experiment.sh`：按顺序运行所有实验的脚本。
+
+## 入门
+
+要开始使用该项目，请克隆存储库并根据要执行的任务导航到相关目录。确保已安装必要的依赖项，这些依赖项可在每个数据清理系统的特定文件夹中找到。
+
+### 必备条件
+
+- Python 3.7 或更高版本
+- Java 8（用于 MLNClean）
+- PostgreSQL（用于 HoloClean）
+- Git LFS（用于大文件）
+
+### 安装
+
+1. 克隆存储库：
+```bash
+git clone https://github.com/tianchanghrbcn/data_experiments.git
+cd data_experiments
+```
+2. 为每个系统安装所需的依赖项（请参阅每个系统的自述文件或安装说明）。
+
+### 运行实验
+要运行实验，请使用提供的shell脚本：
+```bash
+sh run_experiment.sh
+```
+### 贡献
+如果您有任何建议或改进，请随时提出问题或提交拉取请求
+
+### 许可
+该项目根据MIT许可进行许可——详情请参阅LICENSE文件。
 
