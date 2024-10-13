@@ -2,8 +2,8 @@
 
 This repository contains resources and code related to data cleaning systems, clustering algorithms, and experimental results. It includes:
 
-- **Data Cleaning Systems**: Research papers and source code for various data cleaning algorithms, including implementations for systems like Raha, HoloClean, and MLNClean.
-- **Clustering Algorithms**: Implementations of popular clustering algorithms such as K-Means, GMM, and others, used to evaluate the performance of cleaned data.
+- **Data Cleaning Systems**: Research papers and source code for various data cleaning algorithms, including implementations for systems like Raha and MLNClean.
+- **Clustering Algorithms**: Implementations of popular clustering algorithms such as K-Means, GMM, HC, DBSCAN and others, used to evaluate the performance of cleaned data.
 - **Experimental Results**: Detailed results from experiments conducted on the effectiveness of different data cleaning methods on clustering performance.
 
 ## Repository Structure
@@ -52,7 +52,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 该资料库包含与数据清理系统、聚类算法和实验结果相关的资源和代码。它包括：
 
 - **数据清理系统**：各种数据清理算法的研究论文和源代码，包括Raha、HoloClean和MLNClean等系统的实现。
-- **聚类算法**：用于评估清理数据性能的常用聚类算法（如K-Means、GMM等）的实现。
+- **聚类算法**：用于评估清理数据性能的常用聚类算法（如K-Means、GMM、HC、DBSCAN 等）的实现。
 - **实验结果**：对不同数据清理方法对聚类性能的影响进行的实验的详细结果。
 
 ## 仓库结构
