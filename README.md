@@ -24,7 +24,7 @@ To get started with this project, clone the repository and navigate to the relev
 
 - Python 3.7 or above
 - Java 8 for MLNClean
-- PostgreSQL (for HoloClean)
+- PostgreSQL (for MLNClean)
 - Git LFS for large files
 
 ### Installation
@@ -73,7 +73,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Python 3.7 或更高版本
 - Java 8（用于 MLNClean）
-- PostgreSQL（用于 HoloClean）
+- PostgreSQL（用于 MLNClean）
 - Git LFS（用于大文件）
 
 ### 安装
