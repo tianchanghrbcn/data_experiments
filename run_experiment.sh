@@ -136,8 +136,24 @@ end_time=$(date +%s)
 total_time=$((end_time - start_time))
 echo "Total runtime: $((total_time / 60)) min $((total_time % 60)) sec"
 
-# Rename 'flights' folder to 'raha-baran-results-${dataset}'
-mv "${RESULTS_DIR}/${dataset}" "${RESULTS_DIR}/raha-baran-results-${dataset}"
+# Define source and destination result directories
+result_source_dir="${RESULTS_DIR}/${dataset}"
+result_dest_dir="${RESULTS_DIR}/raha-baran-results-${dataset}"
 
-echo "Folder renamed to raha-baran-results-${dataset}."
+# Create destination directory if it doesn't exist
+if [[ ! -d "$result_dest_dir" ]]; then
+    mkdir -p "$result_dest_dir"
+fi
+
+# Move all files from source directory to destination directory if source exists
+if [[ -d "$result_source_dir" ]]; then
+    mv "$result_source_dir"/* "$result_dest_dir"
+    echo "Moved result files to $result_dest_dir."
+    # Remove the source directory after moving files
+    rmdir "$result_source_dir"
+    echo "Removed $result_source_dir."
+else
+    echo "Error: Source directory $result_source_dir does not exist."
+fi
+
 echo "Data error detection and correction complete."
