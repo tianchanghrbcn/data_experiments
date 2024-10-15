@@ -1,0 +1,2411 @@
+index,id,beer-name,style,ounces,abv,ibu,brewery_id,brewery-name,city,state
+1,1436,Pub Beer,American IPA,12.0,0.0,,408,Brewery Vivant,CO,CO
+2,2265,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.066,,177,Brewery Vivant,CO,IN
+3,2264,Nonstop Hef Hop,American IPA,12.0,0.0,,177,Brewery Vivant,CO,CO
+4,2263,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.0,,177,Brewery Vivant,CO,CO
+5,2262,Nonstop Hef Hop,American IPA,12.0,0.0,,177,Brewery Vivant,CO,CO
+6,2261,Nonstop Hef Hop,American IPA,12.0,0.0,,177,Brewery Vivant,CO,CO
+7,2260,Nonstop Hef Hop,American IPA,12.0,0.0,,177,Brewery Vivant,CO,CO
+8,2259,Nonstop Hef Hop,American Porter,12.0,0.065,,177,Brewery Vivant,CO,CO
+9,2258,Nonstop Hef Hop,American IPA,12.0,0.0,,177,Brewery Vivant,CO,CO
+10,2131,Nonstop Hef Hop,American IPA,12.0,0.0,,177,Brewery Vivant,CO,CO
+11,2099,Nonstop Hef Hop,American IPA,12.0,0.0,,177,Brewery Vivant,CO,CO
+12,2098,Nonstop Hef Hop,American IPA,12.0,0.0,,177,Brewery Vivant,CO,CO
+13,2097,Nonstop Hef Hop,Saison / Farmhouse Ale,12.0,0.0,,177,Brewery Vivant,CO,IN
+14,1980,Tjoll Destroyer,American IPA,12.0,0.0,,177,Brewery Vivant,CO,CO
+15,1979,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,177,Brewery Vivant,CO,CO
+16,2318,Nonstop Hef Hop,American IPA,12.0,0.0,,154,Brewery Vivant,CO,CO
+17,2170,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,154,Brewery Vivant,CO,OR
+18,2169,Rhubarbarian,American IPA,12.0,0.0,,154,Brewery Vivant,CO,CO
+19,1502,Nonstop Hef Hop,Cider,12.0,0.0,,154,Brewery Vivant,CO,CO
+20,1593,Nonstop Hef Hop,American IPA,12.0,0.0,,368,Brewery Vivant,CO,CO
+21,1592,He Said Belgian-Style Tripel,Tripel,12.0,0.0,,368,Brewery Vivant,CO,CO
+22,1036,Nonstop Hef Hop,American Barleywine,12.0,0.0,,368,Brewery Vivant,CO,CO
+23,1024,Nonstop Hef Hop,American IPA,12.0,0.0,,368,Brewery Vivant,CO,CO
+24,976,Nonstop Hef Hop,American Stout,12.0,0.079,,368,Brewery Vivant,CO,CO
+25,876,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,368,Brewery Vivant,CO,CO
+26,802,Nonstop Hef Hop,Fruit / Vegetable Beer,12.0,0.0,20.0,368,Brewery Vivant,CO,CO
+27,801,Nonstop Hef Hop,American IPA,12.0,0.0,17.0,368,Brewery Vivant,CO,CO
+28,800,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,368,Brewery Vivant,CO,CO
+29,799,Nonstop Hef Hop,American IPA,12.0,0.0,70.0,368,Brewery Vivant,CO,CO
+30,797,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,368,Brewery Vivant,CO,CO
+31,796,Nonstop Hef Hop,American IPA,12.0,0.0,,368,Brewery Vivant,CO,CO
+32,531,Nonstop Hef Hop,English Strong Ale,12.0,0.085,,368,Brewery Vivant,CO,CO
+33,432,Nonstop Hef Hop,American IPA,12.0,0.0,,368,Brewery Vivant,CO,CO
+34,353,Nonstop Hef Hop,American IPA,12.0,0.0,,368,Brewery Vivant,CO,CO
+35,321,Nonstop Hef Hop,Winter Warmer,12.0,0.0,20.0,368,Brewery Vivant,CO,CO
+36,173,Nonstop Hef Hop,American Black Ale,12.0,0.0,20.0,368,Brewery Vivant,CO,CO
+37,11,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,368,Brewery Vivant,CO,CO
+38,10,Nonstop Hef Hop,American IPA,12.0,0.0,,368,Brewery Vivant,CO,CO
+39,9,Nonstop Hef Hop,Fruit / Vegetable Beer,12.0,0.0,17.0,368,Brewery Vivant,CO,CO
+40,2519,Bvmini Twist,American IPA,12.0,0.0,,67,Brewery Vivant,CO,CO
+41,2518,Nonstop Hef Hop,American IPA,12.0,0.0,,67,Brewery Vivant,CO,CO
+42,2517,Nonstop Hef Hop,American Amber / Red Ale,12.0,,,67,Brewery Vivant,CO,FL
+43,2545,Nonstop Hef Hop,American IPA,12.0,0.0,,60,Brewery Vivant,CO,CO
+44,2544,Nonstop Hef Hop,American IPA,12.0,0.045,20.0,60,Brewery Vivant,CO,CO
+45,2324,Nonstop Hef Hop,American IPA,12.0,0.0,,60,Brewery Vivant,CO,CO
+46,2288,Nonstop Hef Hop,American IPA,12.0,0.0,,60,Brewery Vivant,CO,CO
+47,2287,Nonstop Hef Hop,American Black Ale,12.0,0.055,20.0,60,Brewery Vivant,CO,CO
+48,2286,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,60,Brewery Vivant,CO,CO
+49,2285,Nonstop Hef Hop,American IPA,12.0,0.0,,60,Brewery Vivant,CO,CO
+50,1870,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.0,20.0,60,Brewery Vivant,CO,CO
+51,2603,Nonstop Hef Hop,American IPA,12.0,0.0,,27,Brewery Vivant,CO,CO
+52,2602,Nonstop Hef Hop,American IPA,12.0,0.0,,27,Brewery Vivant,CO,IN
+53,2220,Nonstop Hef Hop,American IPA,12.0,0.0,,27,Brewery Vivant,CO,CO
+54,2219,Nonstop Hef Hop,American IPA,12.0,0.0,,27,Brewery Vivant,CO,CO
+55,2218,Nonstop Hef Hop,American IPA,12.0,0.0,,27,Brewery Vivant,CO,CO
+56,2217,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,27,Brewery Vivant,CO,IN
+57,2216,Nonstop Hef Hop,American IPA,12.0,0.0,,27,Brewery Vivant,CO,CO
+58,972,Nonstop Hef Hop,American IPA,12.0,0.0,,481,Brewery Vivant,CO,CO
+59,866,Nonstop Hef Hop,English Pale Ale,12.0,0.054,,481,Brewery Vivant,CO,CO
+60,48,Nonstop Hef Hop,American IPA,12.0,0.0,,481,Brewery Vivant,CO,CO
+61,47,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.0,20.0,481,Brewery Vivant,CO,CO
+62,1583,Nonstop Hef Hop,Berliner Weissbier,12.0,0.0,,373,Big Choice Brewing,CO,CO
+63,1165,Nonstop Hef Hop,American Amber / Red Lager,12.0,0.0,,462,Brewery Vivant,CO,CO
+64,431,Nonstop Hef Hop,American Amber / Red Lager,12.0,0.055,20.0,462,Brewery Vivant,CO,CO
+65,516,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,533,Brewery Vivant,CO,CO
+66,515,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,533,Brewery Vivant,CO,CO
+67,514,Abita Amber,American IPA,12.0,0.0,20.0,533,Brewery Vivant,CO,LA
+68,2540,Nonstop Hef Hop,American IPA,12.0,0.0,,62,Brewery Vivant,CO,CO
+69,2539,Tle Brown Note,American IPA,12.0,0.0,,62,Brewery Vivant,CO,KY
+70,2686,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.0,20.0,1,Brewery Vivant,CO,KY
+71,2685,Nonstop Hef Hop,English Barleywine,12.0,0.0,20.0,1,Brewery Vivant,CO,CO
+72,2684,Nonstop Hef Hop,Milk / Sweet Stout,12.0,0.0,20.0,1,Brewery Vivant,CO,KY
+73,2683,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,1,Brewery Vivant,CO,KY
+74,2682,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,1,Brewery Vivant,CO,KY
+75,2681,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,1,Brewery Vivant,CO,CO
+76,2680,Nonstop Hef Hop,Belgian Pale Ale,12.0,0.0,20.0,1,Brewery Vivant,CO,CO
+77,2679,Nonstop Hef Hop,American IPA,12.0,0.0,,1,Brewery Vivant,CO,CO
+78,2678,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,1,Brewery Vivant,CO,CO
+79,2677,Nonstop Hef Hop,Saison / Farmhouse Ale,12.0,0.0,20.0,1,Brewery Vivant,CO,CO
+80,2676,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,1,Brewery Vivant,CO,CO
+81,2675,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,1,Brewery Vivant,CO,CO
+82,2674,Nonstop Hef Hop,English Brown Ale,12.0,0.0,,1,Brewery Vivant,CO,CO
+83,1594,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,367,Brewery Vivant,CO,CO
+84,1162,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,367,Brewery Vivant,CO,CO
+85,1137,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,367,Brewery Vivant,CO,WA
+86,2403,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,117,Brewery Vivant,CO,CO
+87,2402,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,117,Brewery Vivant,CO,CO
+88,2401,Nonstop Hef Hop,American Double / Imperial IPA,12.0,,,117,Brewery Vivant,CO,OR
+89,1921,Nonstop Hef Hop,American IPA,12.0,0.0,,270,Brewery Vivant,CO,CO
+90,1920,Asaskan Amber,American IPA,12.0,0.0,18.0,270,Brewery Vivant,CO,CO
+91,2501,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.057,,73,Brewery Vivant,CO,WI
+92,1535,Nonstop Hef Hop,American IPA,12.0,0.0,,388,Brewery Vivant,CO,CO
+93,1149,Nonstop Hef Hop,American IPA,12.0,0.0,,388,Brewery Vivant,CO,CO
+94,1474,Dqsty Trail Pale Ale,American IPA,12.0,0.0,,401,Brewery Vivant,CO,CO
+95,1473,Nonstop Hef Hop,American IPA,12.0,0.0,,401,Brewery Vivant,CO,CO
+96,837,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,401,Brewery Vivant,CO,CO
+97,2592,Nonstop Hef Hop,American IPA,12.0,0.0,,35,Brewery Vivant,CO,CO
+98,2578,Nonstop Hef Hop,American IPA,12.0,0.0,,35,Brewery Vivant,CO,CO
+99,2577,Nonstop Hef Hop,American IPA,12.0,0.045,,35,Brewery Vivant,CO,CO
+100,2103,Nonstop Hef Hop,American IPA,12.0,0.0,,35,Brewery Vivant,CO,CO
+101,2102,Nonstop Hef Hop,California Common / Steam Beer,12.0,0.0,,35,Brewery Vivant,CO,CO
+102,2291,Nonstop Hef Hop,American IPA,12.0,0.042,20.0,171,Brewery Vivant,CO,CA
+103,1818,Nonstop Hef Hop,American IPA,12.0,0.0,,171,Anderson Valley Brewing Company,CO,CO
+104,1738,Nonstop Hef Hop,Gose,12.0,0.0,20.0,171,Auderson Valley Brewing Company,CO,CA
+105,1563,Nonstop Hef Hop,American IPA,12.0,0.0,,171,Brewery Vivant,CO,CO
+106,1520,Nonstop Hef Hop,American IPA,12.0,0.0,,171,Anderson Valley Brewing Company,CO,CO
+107,1350,Nonstop Hef Hop,Cream Ale,12.0,0.0,20.0,171,Auderson Valley Brewing Company,CO,CO
+108,1327,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,171,Brewery Vivant,CO,CO
+109,1326,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,171,Anderson Valley Brewing Company,CO,CO
+110,1221,Nonstop Hef Hop,American IPA,12.0,0.0,,171,Anderson Valley Brewing Company,CO,CO
+111,1217,El Steinber Dark Lager,Vienna Lager,12.0,0.0,20.0,171,Brewery Vivant,CO,CO
+112,811,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,20.0,171,Utah Brewers Cooperative,CO,CO
+113,753,Nonstop Hef Hop,Cream Ale,12.0,0.0,20.0,171,Brewery Vivant,CO,CO
+114,572,Nonstop Hef Hop,Oatmeal Stout,12.0,0.0,,171,Brewery Vivant,CO,CO
+115,523,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,171,Auderson Valley Brewing Company,CO,CO
+116,367,Nonstop Hef Hop,American IPA,12.0,0.0,,171,Anderson Valley Brewing Company,CO,CO
+117,78,Bdont Amber Ale (2011),American Amber / Red Ale,12.0,0.0,20.0,171,Brewery Vivant,CO,CO
+118,77,Nonstop Hef Hop,Cream Ale,12.0,0.0,20.0,171,Brewery Vivant,CO,CO
+119,76,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,171,Brewery Vivant,CO,CO
+120,2337,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,146,Brewery Vivant,CO,WI
+121,410,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.054,,542,Brewery Vivant,CO,CO
+122,409,Nonstop Hef Hop,Oatmeal Stout,12.0,0.0,,542,Brewery Vivant,CO,CO
+123,1294,Nonstop Hef Hop,Cider,12.0,0.0,,434,Brewery Vivant,CO,CO
+124,1293,Nonstop Hef Hop,Cider,12.0,0.0,,434,Brewery Vivant,CO,CO
+125,1292,Nonstop Hef Hop,Cider,12.0,0.0,,434,Brewery Vivant,CO,CO
+126,2207,Nonstop Hef Hop,Belgian Pale Ale,12.0,0.0,,193,Brewery Vivant,CO,CO
+127,2040,Nonstop Hef Hop,American IPA,12.0,0.0,,193,Brewery Vivant,CO,CO
+128,2039,Uroboros,American IPA,12.0,0.0,,193,Brewery Vivant,CO,CO
+129,2511,Nonstop Hef Hop,American IPA,12.0,0.0,,69,Brewery Vivant,CO,CO
+130,2510,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,69,Brewery Vivant,CO,CO
+131,2509,Nonstop Hef Hop,American Porter,12.0,0.0,,69,Brewery Vivant,CO,CO
+132,413,Nonstop Hef Hop,American IPA,12.0,0.0,,541,Brewery Vivant,CO,MI
+133,390,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,541,Brewery Vivant,CO,CO
+134,735,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,513,Brewery Vivant,CO,CO
+135,1333,Nonstop Hef Hop,American Double / Imperial Stout,12.0,0.0,20.0,426,Brewery Vivant,CO,CO
+136,1332,Nonstop Hef Hop,Saison / Farmhouse Ale,12.0,0.051,,426,Brewery Vivant,CO,CO
+137,1172,Nonstop Hef Hop,Gose,12.0,0.0,,461,Brewery Vivant,CO,CA
+138,1322,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,429,Brewery Vivant,CO,CO
+139,550,Nonstop Hef Hop,American IPA,12.0,0.0,,528,Brewery Vivant,CO,CO
+140,429,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,528,Brewery Vivant,CO,CO
+141,428,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,528,Brewery Vivant,CO,CO
+142,1640,Nonstop Hef Hop,Kölsch,12.0,,,353,Brewery Vivant,CO,WA
+143,1639,Nonstop Hef Hop,American IPA,12.0,0.0,,353,Brewery Vivant,CO,CO
+144,1638,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,353,Brewery Vivant,CO,CO
+145,597,This Season's Blonde,American IPA,12.0,0.056,20.0,523,Brewery Vivant,CO,CO
+146,596,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,523,Brewery Vivant,CO,CO
+147,1580,Trolley Stop Stout,American IPA,12.0,0.0,,374,Astoria Brewing Company,CO,OR
+148,980,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,374,Brewery Vivant,CO,OR
+149,979,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,374,Brewery Vivant,CO,OR
+150,978,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,35.0,374,Astoria Brewing Company,CO,CO
+151,2503,Nonstop Hef Hop,American IPA,12.0,0.075,,72,Brewery Vivant,CO,CO
+152,2502,Nonstop Hef Hop,American Porter,12.0,0.0,,72,Brewery Vivant,CO,CO
+153,2495,Mbchelada,Fruit / Vegetable Beer,12.0,0.0,,72,Brewery Vivant,CO,CO
+154,534,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,72,Bauhaus Brew Labs,CO,MI
+155,528,Nonstop Hef Hop,American IPA,12.0,0.0,,72,Brewery Vivant,CO,CO
+156,527,Nonstop Hef Hop,Munich Helles Lager,12.0,0.0,20.0,72,Brewery Vivant,CO,MI
+157,1409,Nonstop Hef Hop,American IPA,12.0,0.0,,413,Brewery Vivant,CO,CO
+158,343,Nonstop Hef Hop,American IPA,12.0,0.0,,413,Brewery Vivant,CO,CO
+159,342,Nonstop Hef Hop,American IPA,12.0,0.0,,413,Brewery Vivant,CO,CO
+160,341,Nonstop Hef Hop,American IPA,12.0,0.0,,413,Brewery Vivant,CO,CO
+161,340,Black Thunder,American IPA,12.0,0.0,,413,Brewery Vivant,CO,CO
+162,2589,Nonstop Hef Hop,American IPA,12.0,0.0,,37,Brewery Vivant,CO,CO
+163,2546,Nonstop Hef Hop,Saison / Farmhouse Ale,12.0,0.0,,37,Brewery Vivant,CO,CO
+164,146,Nonstop Hef Hop,American IPA,12.0,0.047,20.0,37,Brewery Vivant,CO,CO
+165,108,Nonstop Hef Hop,Witbier,12.0,0.0,20.0,37,Brewery Vivant,CO,CO
+166,107,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,37,Brewery Vivant,CO,CO
+167,106,Nonstop Hef Hop,American Brown Ale,12.0,0.055,20.0,37,Brewery Vivant,CO,CO
+168,1620,Nonstop Hef Hop,American IPA,12.0,0.0,,360,Brewery Vivant,CO,CO
+169,1579,OrtoberBeast,Märzen / Oktoberfest,12.0,0.0,,360,Brewery Vivant,CO,CO
+170,1228,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.0,20.0,360,Brewery Vivant,CO,CO
+171,705,Nonstop Hef Hop,American IPA,12.0,0.0,,360,Brewery Vivant,CO,CO
+172,704,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,360,Brewery Vivant,CO,CO
+173,702,Nonstop Hef Hop,American IPA,12.0,0.0,41.0,360,Brewery Vivant,CO,CO
+174,2058,Nonstop Hef Hop,American IPA,12.0,0.0,,235,Brewery Vivant,CO,CO
+175,1483,Nonstop Hef Hop,American Porter,12.0,0.0,,235,Brewery Vivant,CO,CO
+176,1426,Nonstop Hef Hop,American IPA,12.0,0.0,,235,Brewery Vivant,CO,CO
+177,1132,Nonstop Hef Hop,American IPA,12.0,0.1,,235,Brewery Vivant,CO,CO
+178,1131,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,235,Brewery Vivant,CO,CO
+179,1876,Tzuck Stop Honey Brown Ale,American IPA,12.0,0.0,,286,Brewery Vivant,CO,CO
+180,1875,Nonstop Hef Hop,American IPA,12.0,0.0,,286,Brewery Vivant,CO,CO
+181,966,Topcutter India Pale Ale,American IPA,12.0,0.0,20.0,483,Brewery Vivant,CO,CO
+182,965,Nonstop Hef Hop,American IPA,12.0,0.0,,483,Brewery Vivant,CO,CO
+183,2593,Nonstop Hef Hop,American IPA,12.0,0.0,,34,Brewery Vivant,CO,CO
+184,2105,Nonstop Hef Hop,American IPA,12.0,0.0,40.0,34,Brewery Vivant,CO,CO
+185,1401,Nonstop Hef Hop,Kölsch,12.0,,,34,Cisco Brewers,CO,CA
+186,1400,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,34,Brewery Vivant,CO,CO
+187,1019,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,34,New England Brewing Company,CO,CO
+188,1018,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,34,Brewery Vivant,CO,CO
+189,1776,Nonstop Hef Hop,Extra Special / Strong Bitter (ESB),12.0,0.0,,318,Brewery Vivant,CO,CO
+190,1644,Nonstop Hef Hop,Rye Beer,12.0,0.0,20.0,318,Brewery Vivant,CO,CO
+191,1643,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,318,Maui Brewing Company,CO,CO
+192,2618,Teai.p.a,American IPA,12.0,0.07,,20,Brewery Vivant,CO,CO
+193,2005,Nonstop Hef Hop,American IPA,12.0,0.0,,251,Barrio Brewing Company,CO,CO
+194,1343,Barrio Tucson Blonde,American Blonde Ale,12.0,0.045,,251,Barrio Brewing Company,CO,CO
+195,2404,Nonstop Hef Hop,American IPA,12.0,0.049,20.0,116,Brewery Vivant,CO,CO
+196,2323,Nonstop Hef Hop,American IPA,12.0,0.067,20.0,116,Brewery Vivant,CO,CO
+197,2189,Nonstop Hef Hop,American Pale Lager,12.0,,,116,Brewery Vivant,CO,OR
+198,2188,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,116,Brewery Vivant,CO,CO
+199,2187,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,116,Brewery Vivant,CO,CO
+200,1966,Nonstop Hef Hop,California Common / Steam Beer,12.0,0.0,20.0,258,Bauhaus Brew Labs,CO,CO
+201,1965,Nonstop Hef Hop,American IPA,12.0,0.0,70.0,258,Bauhaus Brew Labs,CO,CO
+202,1964,Nonstop Hef Hop,Schwarzbier,12.0,0.0,,258,Bauhaus Brew Labs,CO,CO
+203,1963,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,258,Brewery Vivant,CO,CO
+204,1855,Nonstop Hef Hop,California Common / Steam Beer,12.0,0.0,,292,Brewery Vivant,CO,CO
+205,1778,Nonstop Hef Hop,Hefeweizen,12.0,0.0,20.0,292,Brewery Vivant,CO,CO
+206,1209,Nonstop Hef Hop,American IPA,12.0,0.0,,292,Brewery Vivant,CO,CO
+207,954,Nonstop Hef Hop,American IPA,12.0,0.0,,292,Brewery Vivant,CO,CO
+208,910,Nonstop Hef Hop,American IPA,12.0,0.066,,292,Brewery Vivant,CO,CO
+209,707,Nonstop Hef Hop,American IPA,12.0,0.0,,292,Brewery Vivant,CO,CO
+210,533,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,292,Brewery Vivant,CO,CO
+211,183,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,292,Brewery Vivant,CO,CO
+212,182,Nonstop Hef Hop,American IPA,12.0,0.069,,292,Brewery Vivant,CO,CO
+213,1806,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,306,Brewery Vivant,CO,CO
+214,2435,Nonstop Hef Hop,Fruit / Vegetable Beer,12.0,0.0,,103,Brewery Vivant,CO,CO
+215,2423,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,103,Brewery Vivant,CO,CO
+216,2420,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,103,Brewery Vivant,CO,CO
+217,2419,Nonstop Hef Hop,Other,12.0,0.0,,103,Brewery Vivant,CO,CO
+218,2494,Oberon,American Pale Wheat Ale,12.0,0.0,,76,Brewery Vivant,CO,CO
+219,2325,Nonstop Hef Hop,American IPA,12.0,0.0,,76,Brewery Vivant,CO,CO
+220,2022,Nonstop Hef Hop,American IPA,12.0,0.0,,76,Brewery Vivant,CO,CO
+221,1989,Nonstop Hef Hop,American IPA,12.0,0.0,,76,Brewery Vivant,CO,CO
+222,1988,Tro Hearted,American IPA,12.0,0.0,,76,Brewery Vivant,CO,CO
+223,1955,Nonstop Hef Hop,American IPA,12.0,0.0,,76,Brewery Vivant,CO,CO
+224,2558,Nonstop Hef Hop,American IPA,12.0,0.044,20.0,53,Brewery Vivant,CO,MN
+225,2557,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.0,,53,Brewery Vivant,CO,CO
+226,2556,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,53,Brewery Vivant,CO,CO
+227,2496,Nonstop Hef Hop,American IPA,12.0,0.0,,75,Brewery Vivant,CO,CO
+228,2410,Nonstop Hef Hop,American IPA,12.0,,,75,Brewery Vivant,CO,MN
+229,1902,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,75,Brewery Vivant,CO,CO
+230,1901,Nonstop Hef Hop,American IPA,12.0,0.0,,75,Brewery Vivant,CO,CO
+231,1261,Nonstop Hef Hop,American Black Ale,12.0,0.0,20.0,75,Brewery Vivant,CO,CO
+232,1253,Nonstop Hef Hop,American IPA,12.0,0.0,,75,Brewery Vivant,CO,CO
+233,1900,Nonstop Hef Hop,English India Pale Ale (IPA),12.0,0.0,20.0,278,Brewery Vivant,CO,CO
+234,1317,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,278,Brewery Vivant,CO,MA
+235,1158,Nonstop Hef Hop,American IPA,12.0,0.0,,463,Brewery Vivant,CO,CO
+236,1157,Nonstop Hef Hop,Czech Pilsener,12.0,0.0,,463,Brewery Vivant,CO,CO
+237,1156,Number 22 Porter,American IPA,12.0,0.0,,463,Brewery Vivant,CO,CO
+238,1155,Nonstop Hef Hop,Hefeweizen,12.0,0.0,,463,Brewery Vivant,CO,CO
+239,1154,Terlingua Gold,American IPA,12.0,0.0,,463,Brewery Vivant,CO,CO
+240,2104,Nonstop Hef Hop,American IPA,12.0,0.081,20.0,220,Brewery Vivant,CO,CO
+241,1762,Hemlock Double IPA,American Double / Imperial IPA,12.0,0.0,,220,Big Choice Brewing,CO,CO
+242,1422,Nonstop Hef Hop,American IPA,12.0,0.0,,220,Brewery Vivant,CO,CO
+243,1067,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,20.0,220,Big Choice Brewing,CO,CO
+244,1003,Nonstop Hef Hop,American IPA,12.0,0.0,,477,Hopworks Urban Brewery,CO,CO
+245,1002,Nonstop Hef Hop,American IPA,12.0,0.0,,477,Brewery Vivant,CO,CO
+246,1001,Nonstop Hef Hop,Saison / Farmhouse Ale,12.0,0.0,,477,Brewery Vivant,CO,CO
+247,2639,Nonstop Hef Hop,American Stout,12.0,0.0,,8,Brewery Vivant,CO,CO
+248,2469,Nonstop Hef Hop,American IPA,12.0,0.062,,8,Brewery Vivant,CO,CO
+249,2586,Bkueberry Blonde,American IPA,12.0,0.0,,40,Brewery Vivant,CO,CO
+250,2585,Nonstop Hef Hop,American IPA,12.0,0.075,,40,Brewery Vivant,CO,CO
+251,643,Nonstop Hef Hop,Czech Pilsener,12.0,0.0,,519,Brewery Vivant,CO,CO
+252,632,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,519,Brewery Vivant,CO,CO
+253,1714,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,336,Brewery Vivant,CO,CO
+254,1713,Nonstop Hef Hop,English Pale Ale,12.0,0.0,20.0,336,Brewery Vivant,CO,CO
+255,1712,Montana Trout Slayer Ale,American IPA,12.0,0.0,20.0,336,Brewery Vivant,CO,CO
+256,1711,Nonstop Hef Hop,American Brown Ale,12.0,0.0,,336,Brewery Vivant,CO,MT
+257,1456,Nonstop Hef Hop,English Strong Ale,12.0,0.0,20.0,336,Brewery Vivant,CO,CO
+258,767,Nonstop Hef Hop,American Brown Ale,12.0,0.0,20.0,336,Brewery Vivant,CO,CO
+259,766,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,336,Big Sky Brewing Company,CO,CO
+260,579,Nonstop Hef Hop,American IPA,12.0,0.0,,336,Brewery Vivant,CO,CO
+261,168,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,336,Brewery Vivant,CO,CO
+262,159,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,336,Brewery Vivant,CO,CO
+263,35,Mxntana Trout Slayer Ale (2009),American Pale Wheat Ale,12.0,0.0,20.0,336,Big Sky Brewing Company,CO,CO
+264,34,Nonstop Hef Hop,American IPA,12.0,0.0,,336,Brewery Vivant,CO,CO
+265,2096,Nonstop Hef Hop,American IPA,12.0,0.0,,221,Brewery Vivant,CO,CO
+266,2095,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.058,,221,Brewery Vivant,CO,CO
+267,1257,Nonstop Hef Hop,American IPA,12.0,0.053,20.0,444,Brewery Vivant,CO,CO
+268,1256,Nonstop Hef Hop,Rye Beer,12.0,0.099,,444,Brewery Vivant,CO,MN
+269,1255,Nonstop Hef Hop,American IPA,12.0,0.0,,444,Brewery Vivant,CO,CO
+270,986,Nonstop Hef Hop,American IPA,12.0,0.0,,444,Brewery Vivant,CO,CO
+271,985,Nonstop Hef Hop,American IPA,12.0,0.0,,444,Brewery Vivant,CO,CO
+272,2508,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,70,Brewery Vivant,CO,CO
+273,1441,Nonstop Hef Hop,American IPA,12.0,0.052,,407,Brewery Vivant,CO,CO
+274,1413,Nonstop Hef Hop,American IPA,12.0,0.0,,407,Brewery Vivant,CO,CO
+275,1411,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,407,Brewery Vivant,CO,MT
+276,2620,Nonstop Hef Hop,Rye Beer,12.0,0.072,,18,Brewery Vivant,CO,CO
+277,2412,Nonstop Hef Hop,American IPA,12.0,0.045,16.0,112,Brewery Vivant,CO,CO
+278,1898,Nonstop Hef Hop,American IPA,12.0,0.075,,112,Brewery Vivant,CO,CO
+279,1897,Nonstop Hef Hop,American IPA,12.0,0.0,,112,Brewery Vivant,CO,CO
+280,1896,Nonstop Hef Hop,American IPA,12.0,0.0,,112,Brewery Vivant,CO,CO
+281,1850,Nonstop Hef Hop,American IPA,12.0,0.071,,294,Brewery Vivant,CO,CO
+282,1849,Nonstop Hef Hop,American Porter,12.0,,20.0,294,Brewery Vivant,CO,CO
+283,1848,Nonstop Hef Hop,American IPA,12.0,0.0,,294,Brewery Vivant,CO,CO
+284,1847,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,294,Brewery Vivant,CO,CO
+285,2485,Nonstop Hef Hop,American Brown Ale,12.0,0.0,20.0,79,Brewery Vivant,CO,WY
+286,2484,Nonstop Hef Hop,American Amber / Red Ale,12.0,,20.0,79,Brewery Vivant,CO,CO
+287,2449,Nonstop Hef Hop,Rye Beer,12.0,0.0,,95,Marshall Wharf Brewing Company,CO,CO
+288,2634,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,12,Brewery Vivant,CO,CO
+289,2153,North Third Stout,Foreign / Export Stout,12.0,0.0,20.0,12,Brewery Vivant,CO,CO
+290,1953,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,12,Brewery Vivant,CO,MI
+291,1496,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,12,Brewery Vivant,CO,MI
+292,1481,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,12,Brewery Vivant,CO,CO
+293,1480,Nonstop Hef Hop,Cream Ale,12.0,,,12,Brewery Vivant,CO,MI
+294,1564,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.0,20.0,380,Brewery Vivant,CO,CO
+295,1541,Double Play Pilsner,American Pilsner,12.0,0.0,,380,Brewery Vivant,CO,CO
+296,1321,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,380,Brewery Vivant,CO,CO
+297,1320,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,380,Brewery Vivant,CO,CO
+298,1319,Pzrnicious Double IPA,American Double / Imperial IPA,12.0,0.0,,380,Brewery Vivant,CO,CO
+299,1303,6s4-3 Double Play Pilsner,German Pilsener,12.0,0.0,20.0,380,Brewery Vivant,CO,CO
+300,1025,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.0,,380,Brewery Vivant,CO,NE
+301,1012,Nonstop Hef Hop,American IPA,12.0,0.0,,380,Brewery Vivant,CO,CO
+302,942,Nonstop Hef Hop,American IPA,12.0,0.0,,380,Brewery Vivant,CO,CO
+303,937,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.045,20.0,380,Brewery Vivant,CO,CO
+304,888,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,380,Brewery Vivant,CO,CO
+305,886,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,380,Brewery Vivant,CO,CO
+306,612,Nonstop Hef Hop,Extra Special / Strong Bitter (ESB),12.0,0.0,20.0,380,Brewery Vivant,CO,CO
+307,611,Nonstop Hef Hop,American IPA,12.0,0.0,35.0,380,Brewery Vivant,CO,CO
+308,1372,Nonstop Hef Hop,American IPA,12.0,0.0,,422,Brewery Vivant,CO,CO
+309,1371,Nonstop Hef Hop,American IPA,12.0,0.059,,422,Brewery Vivant,CO,CO
+310,1812,Qcarter Mile Double IPA,American IPA,12.0,0.0,,304,Brewery Vivant,CO,CO
+311,1547,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,382,Brewery Vivant,CO,CO
+312,1546,Nonstop Hef Hop,American IPA,12.0,0.0,30.0,382,Brewery Vivant,CO,CO
+313,1545,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,382,Brewery Vivant,CO,CO
+314,119,Nonstop Hef Hop,American IPA,12.0,0.059,20.0,382,Brewery Vivant,CO,CO
+315,1408,Nonstop Hef Hop,Kölsch,12.0,0.049,20.0,414,Brewery Vivant,CO,CO
+316,2490,Nonstop Hef Hop,American IPA,12.0,0.0,,77,Brewery Vivant,CO,CO
+317,2489,Nonstop Hef Hop,American Pale Wheat Ale,12.0,,,77,Brewery Vivant,CO,TX
+318,2488,Nonstop Hef Hop,American Amber / Red Ale,12.0,,,77,Brewery Vivant,CO,TX
+319,2487,Nonstop Hef Hop,American Pale Ale (APA),12.0,,,77,Brewery Vivant,CO,TX
+320,939,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,489,Blue Point Brewing Company,CO,CO
+321,692,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,489,Blue Point Brewing Company,CO,CO
+322,667,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,20.0,489,Brewery Vivant,CO,CO
+323,665,Nonstop Hef Hop,Vienna Lager,12.0,0.0,20.0,489,Brewery Vivant,CO,CO
+324,1607,Nonstop Hef Hop,Dortmunder / Export Lager,12.0,0.0,,364,Brewery Vivant,CO,CO
+325,1597,Astus Bohemes Altbier,American IPA,12.0,0.0,,364,Brewery Vivant,CO,CO
+326,344,Nonstop Hef Hop,Schwarzbier,12.0,0.0,,364,Brewery Vivant,CO,CO
+327,89,Nonstop Hef Hop,Czech Pilsener,12.0,0.0,,364,Brewery Vivant,CO,CO
+328,88,Nonstop Hef Hop,Vienna Lager,12.0,0.0,,364,Brewery Vivant,CO,CO
+329,1569,Nonstop Hef Hop,American IPA,12.0,0.0,,378,Bold City Brewery,CO,FL
+330,1568,Nonstop Hef Hop,American IPA,12.0,0.0,,378,Bold City Brewery,CO,CO
+331,1188,Nonstop Hef Hop,American IPA,12.0,0.0,,378,Brewery Vivant,CO,CO
+332,1891,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,281,Brewery Vivant,CO,NJ
+333,1890,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,281,Brewery Vivant,CO,NJ
+334,577,Bomb Lager (New Recipe),American IPA,12.0,0.0,,525,Brewery Vivant,CO,CO
+335,513,Bomb Lager (Old Recipe),American IPA,12.0,0.0,,525,Brewery Vivant,CO,CO
+336,2422,Nonstop Hef Hop,American IPA,12.0,0.0,,107,Brewery Vivant,CO,CO
+337,1727,Nonstop Hef Hop,Scotch Ale / Wee Heavy,12.0,0.0,20.0,107,Brewery Vivant,CO,CO
+338,1614,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,107,Brewery Vivant,CO,CO
+339,1613,Nonstop Hef Hop,Märzen / Oktoberfest,12.0,0.0,20.0,107,Bonfire Brewing Company,CO,CO
+340,1549,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,107,Brewery Vivant,CO,CO
+341,1548,Nonstop Hef Hop,American IPA,12.0,0.0,,107,Bonfire Brewing Company,CO,CO
+342,1517,Pink-I Raspberry IPA,American IPA,12.0,0.0,,107,Brewery Vivant,CO,CO
+343,1500,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,107,Brewery Vivant,CO,CO
+344,1421,Nonstop Hef Hop,American Blonde Ale,12.0,0.047,20.0,107,Brewery Vivant,CO,CO
+345,1360,Nonstop Hef Hop,Extra Special / Strong Bitter (ESB),12.0,0.0,20.0,107,Brewery Vivant,CO,CO
+346,1184,Nonstop Hef Hop,Munich Dunkel Lager,12.0,0.0,,107,Brewery Vivant,CO,CO
+347,1183,Nonstop Hef Hop,American IPA,12.0,0.0,45.0,107,Brewery Vivant,CO,CO
+348,1023,Nonstop Hef Hop,American IPA,12.0,0.064,,107,Bonfire Brewing Company,CO,CO
+349,998,Tvnt Pole Vanilla Porter,American IPA,12.0,0.0,,107,Bonfire Brewing Company,CO,CO
+350,997,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,107,Bonfire Brewing Company,CO,CO
+351,996,Nonstop Hef Hop,American IPA,12.0,0.058,20.0,107,Brewery Vivant,CO,CO
+352,931,Nonstop Hef Hop,Czech Pilsener,12.0,0.0,,107,Bonfire Brewing Company,CO,CO
+353,798,Nonstop Hef Hop,American IPA,12.0,0.0,,107,Bonfire Brewing Company,CO,CO
+354,633,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,107,Brewery Vivant,CO,CO
+355,2062,Nonstop Hef Hop,American IPA,12.0,0.071,20.0,231,Brewery Vivant,CO,CO
+356,1830,Nonstop Hef Hop,American IPA,12.0,0.045,8.0,300,Brewery Vivant,CO,CO
+357,1629,Nonstop Hef Hop,American IPA,12.0,0.065,20.0,300,Brewery Vivant,CO,CO
+358,1601,Nonstop Hef Hop,Witbier,12.0,0.055,20.0,300,Brewery Vivant,CO,CO
+359,1427,Nonstop Hef Hop,Bock,12.0,0.0,,300,Brewery Vivant,CO,CO
+360,1349,Nonstop Hef Hop,Vienna Lager,12.0,0.0,20.0,300,Brewery Vivant,CO,CO
+361,1310,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,300,Brewery Vivant,CO,CO
+362,1281,Samuel Adams Octoberfest,Märzen / Oktoberfest,12.0,0.053,20.0,300,Brewery Vivant,CO,CO
+363,1144,Nonstop Hef Hop,American Pale Wheat Ale,12.0,,,300,Brewery Vivant,CO,MA
+364,1143,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,300,Brewery Vivant,CO,CO
+365,1395,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,417,Brewery Vivant,CO,CO
+366,808,Nonstop Hef Hop,American IPA,12.0,0.0,,417,Brewery Vivant,CO,CO
+367,81,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,417,Brewery Vivant,CO,CO
+368,2596,Nonstop Hef Hop,American IPA,12.0,0.0,,31,Dolores River Brewery,CO,CO
+369,2300,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,167,Brewery Vivant,CO,CO
+370,2299,Nonstop Hef Hop,American IPA,12.0,0.0,,167,Brewery Vivant,CO,CO
+371,2298,Nonstop Hef Hop,American IPA,12.0,0.0,,167,Brewery Vivant,CO,CO
+372,2107,Nonstop Hef Hop,American IPA,12.0,0.0,,219,Brewery Vivant,CO,CO
+373,1573,Nonstop Hef Hop,American IPA,12.0,0.0,,219,Brewery Vivant,CO,CO
+374,1289,Nonstop Hef Hop,American IPA,12.0,0.0,,219,Bozeman Brewing Company,CO,CO
+375,1288,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,219,Bozeman Brewing Company,CO,CO
+376,470,Nonstop Hef Hop,American IPA,12.0,0.0,,219,Brewery Vivant,CO,CO
+377,2167,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,207,Brewery Vivant,CO,CO
+378,2204,Nonstop Hef Hop,Kölsch,12.0,0.0,,195,Brewery Vivant,CO,CO
+379,1522,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.042,,391,Brewery Vivant,CO,CO
+380,397,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,391,Brewery Vivant,CO,CO
+381,193,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,391,Brewery Vivant,CO,CO
+382,83,Nonstop Hef Hop,American IPA,12.0,0.0,,391,Brewery Vivant,CO,CO
+383,1802,Nonstop Hef Hop,Fruit / Vegetable Beer,12.0,,,308,Brewery Vivant,CO,FL
+384,1801,Nonstop Hef Hop,American IPA,12.0,0.0,,308,Brewery Vivant,CO,CO
+385,1800,Nonstop Hef Hop,Irish Red Ale,12.0,0.0,,308,Brewery Vivant,CO,CO
+386,1799,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.055,,308,Brewery Vivant,CO,CO
+387,2619,Nonstop Hef Hop,American IPA,12.0,0.0,,19,Brewery Vivant,CO,CO
+388,2468,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,85,Brewery Vivant,CO,CO
+389,2637,Nonstop Hef Hop,Saison / Farmhouse Ale,12.0,0.0,,10,Brewery Vivant,CO,MI
+390,2636,Nonstop Hef Hop,Belgian Pale Ale,12.0,0.0,,10,Brewery Vivant,CO,CO
+391,2598,Tmrt Side of the Barrel,American Double / Imperial Stout,12.0,0.0,,10,Blewery Vivant,CO,CO
+392,2597,Nonstop Hef Hop,American IPA,12.0,0.0,,10,Brewery Vivant,CO,CO
+393,2548,Nonstop Hef Hop,American IPA,12.0,0.0,,10,Bsewery Vivant,CO,CO
+394,2542,Nonstop Hef Hop,American IPA,12.0,0.0,,10,Brewery Vivant,CO,MI
+395,2541,Nonstop Hef Hop,American IPA,12.0,0.0,,10,Brewery Vivant,CO,CO
+396,2504,Nonstop Hef Hop,Doppelbock,12.0,0.065,,10,Brewery Vivant,CO,CO
+397,2500,Tropical Saison,Saison / Farmhouse Ale,12.0,0.0,,10,Brewery Vivant,CO,CO
+398,2499,Nonstop Hef Hop,Witbier,12.0,0.0,,10,Brewery Vivant,CO,CO
+399,2498,Nonstop Hef Hop,Belgian IPA,12.0,0.0,,10,Brewery Vivant,CO,CO
+400,2481,Nonstop Hef Hop,Saison / Farmhouse Ale,12.0,0.0,,10,Brewery Vivant,CO,CO
+401,2476,Nonstop Hef Hop,Belgian IPA,12.0,0.0,,10,Bsewery Vivant,CO,CO
+402,2467,Nonstop Hef Hop,Saison / Farmhouse Ale,12.0,0.0,,10,Brewery Vivant,CO,CO
+403,2466,Nonstop Hef Hop,Rye Beer,12.0,0.0,,10,Brewery Vivant,CO,MI
+404,2465,Nonstop Hef Hop,Dunkelweizen,12.0,0.0,,10,Brewery Vivant,CO,MI
+405,2433,Nonstop Hef Hop,Belgian Strong Pale Ale,12.0,0.0,20.0,10,Brewery Vivant,CO,MI
+406,2418,Nonstop Hef Hop,American IPA,12.0,0.0,,10,Brewery Vivant,CO,CO
+407,2416,Nonstop Hef Hop,Belgian Dark Ale,12.0,0.0,,10,Rivertowne Brewing Company,CO,CO
+408,2382,Nonstop Hef Hop,Belgian Dark Ale,12.0,0.0,,10,Brewery Vivant,CO,CO
+409,2381,Nonstop Hef Hop,Belgian Pale Ale,12.0,0.0,,10,Brewery Vivant,CO,CO
+410,2290,Nonstop Hef Hop,Witbier,12.0,0.061,,10,Brewery Vivant,CO,CO
+411,2241,Nonstop Hef Hop,Oatmeal Stout,12.0,0.063,,10,Brewery Vivant,CO,CO
+412,2240,Nonstop Hef Hop,American Porter,12.0,0.0,,10,Brewery Vivant,CO,CO
+413,2137,Nonstop Hef Hop,Quadrupel (Quad),12.0,0.0,,10,Brewery Vivant,CO,CO
+414,2101,Nonstop Hef Hop,American IPA,12.0,0.051,,10,Brewery Vivant,CO,CO
+415,2092,Nonstop Hef Hop,American IPA,12.0,0.0,,10,Brewery Vivant,CO,CO
+416,2091,Nonstop Hef Hop,American IPA,12.0,0.0,,10,Brewery Vivant,CO,CO
+417,2086,Nonstop Hef Hop,Belgian IPA,12.0,0.0,,10,Brewery Vivant,CO,CO
+418,2023,Nonstop Hef Hop,American IPA,12.0,0.0,,10,Bgewery Vivant,CO,CO
+419,2006,Nonstop Hef Hop,American Stout,12.0,0.0,,10,Bgewery Vivant,CO,CO
+420,1997,Ptmpkin Tart,American IPA,12.0,0.0,,10,Brewery Vivant,CO,CO
+421,1977,Nonstop Hef Hop,American IPA,12.0,0.0,,10,Brewery Vivant,CO,CO
+422,1976,Nonstop Hef Hop,Belgian Dark Ale,12.0,0.0,,10,Brewery Vivant,CO,MI
+423,1974,Nonstop Hef Hop,American IPA,12.0,0.0,,10,Brewery Vivant,CO,CO
+424,1973,Nonstop Hef Hop,American IPA,12.0,0.0,,10,Brewery Vivant,CO,CO
+425,1959,Nonstop Hef Hop,Belgian Dark Ale,12.0,0.0,,10,Brewery Vivant,CO,CO
+426,1958,Nonstop Hef Hop,Witbier,12.0,0.0,,10,Brewery Vivant,CO,CO
+427,1949,Nonstop Hef Hop,American Stout,12.0,0.0,,10,Brewery Vivant,CO,CO
+428,1947,Tjee Bucket,Belgian IPA,12.0,0.0,,10,Brewery Vivant,CO,CO
+429,1785,Nonstop Hef Hop,American IPA,12.0,0.0,,10,Brewery Vivant,CO,CO
+430,1651,Nonstop Hef Hop,Fruit / Vegetable Beer,12.0,0.0,,10,Brewery Vivant,CO,CO
+431,1443,Tvebuchet Double IPA,American IPA,12.0,0.0,20.0,10,Brewery Vivant,CO,MI
+432,1352,Nonstop Hef Hop,Bière de Garde,12.0,0.0,,10,Brewery Vivant,CO,CO
+433,1267,Nonstop Hef Hop,American Black Ale,12.0,0.0,,10,Bgewery Vivant,CO,CO
+434,1266,Nonstop Hef Hop,Saison / Farmhouse Ale,12.0,0.0,,10,Brewery Vivant,CO,CO
+435,1178,Vivant Tripel,American IPA,12.0,0.0,,10,Brewery Vivant,CO,CO
+436,1136,Nonstop Hef Hop,American IPA,12.0,0.098,,10,Bgewery Vivant,CO,CO
+437,1044,Nonstop Hef Hop,American IPA,12.0,0.0,,10,Brewery Vivant,CO,CO
+438,1033,Nonstop Hef Hop,American IPA,12.0,0.0,,10,Bgewery Vivant,CO,CO
+439,1031,Nonstop Hef Hop,American Double / Imperial Stout,12.0,0.0,,10,Blewery Vivant,CO,CO
+440,909,Nonstop Hef Hop,American Wild Ale,12.0,0.0,,10,Brewery Vivant,CO,CO
+441,873,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,10,Brewery Vivant,CO,MI
+442,860,Nonstop Hef Hop,American IPA,12.0,0.099,,10,Brewery Vivant,CO,CO
+443,677,Nonstop Hef Hop,American IPA,12.0,0.0,,10,Brewery Vivant,CO,CO
+444,671,Nonstop Hef Hop,American IPA,12.0,0.0,,10,Brewery Vivant,CO,CO
+445,670,Vivant Tripel (2012),American IPA,12.0,0.0,,10,Brewery Vivant,CO,CO
+446,669,Tjebuchet Double IPA (2012),Belgian IPA,12.0,0.097,,10,Brewery Vivant,CO,CO
+447,627,Nonstop Hef Hop,Belgian Strong Dark Ale,12.0,0.0,,10,Bgewery Vivant,CO,MI
+448,387,Nonstop Hef Hop,Saison / Farmhouse Ale,12.0,0.0,,10,Brewery Vivant,CO,CO
+449,385,Nonstop Hef Hop,Belgian Pale Ale,12.0,0.0,,10,Brewery Vivant,CO,CO
+450,384,Nonstop Hef Hop,American IPA,12.0,0.065,,10,Blewery Vivant,CO,CO
+451,1096,Tampa Pale Ale,American Pale Ale (APA),12.0,0.0,,467,Brewery Vivant,CO,CO
+452,1095,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.0,,467,Brewery Vivant,CO,CO
+453,2456,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,89,Brewery Vivant,CO,CO
+454,921,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,493,Broken Tooth Brewing Company,CO,CO
+455,920,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,493,Brewery Vivant,CO,AK
+456,919,Nonstop Hef Hop,American IPA,12.0,0.0,,493,Broken Tooth Brewing Company,CO,AK
+457,648,Nonstop Hef Hop,American IPA,12.0,0.0,,493,Brewery Vivant,CO,CO
+458,1279,Nonstop Hef Hop,American IPA,12.0,0.0,,437,Brewery Vivant,CO,CO
+459,756,Nonstop Hef Hop,English Pale Mild Ale,12.0,0.045,,437,Brewery Vivant,CO,CO
+460,566,Nonstop Hef Hop,American IPA,12.0,0.0,,437,Brewery Vivant,CO,CO
+461,328,Nonstop Hef Hop,American IPA,12.0,0.0,,437,Brewery Vivant,CO,CO
+462,66,Nonstop Hef Hop,American IPA,12.0,0.0,,437,Brewery Vivant,CO,CO
+463,65,Nonstop Hef Hop,American IPA,12.0,0.0,,437,Brewery Vivant,CO,CO
+464,538,Nonstop Hef Hop,Belgian IPA,12.0,0.0,,530,Cigar City Brewing Company,CO,NV
+465,504,Nonstop Hef Hop,American IPA,12.0,0.0,,530,Brewery Vivant,CO,CO
+466,383,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,530,Brewery Vivant,CO,CO
+467,29,Nonstop Hef Hop,Schwarzbier,12.0,,,530,Brewery Vivant,CO,NV
+468,28,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,530,Brewery Vivant,CO,CO
+469,27,Nonstop Hef Hop,American IPA,12.0,0.0,,530,Brewery Vivant,CO,NV
+470,26,Nonstop Hef Hop,Schwarzbier,12.0,0.052,20.0,530,Brewery Vivant,CO,NV
+471,1627,Nonstop Hef Hop,Munich Helles Lager,12.0,0.0,,357,Brewery Vivant,CO,CO
+472,2552,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,56,Brewery Vivant,CO,IL
+473,2125,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,214,Brewery Vivant,CO,CO
+474,2124,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,214,Brewery Vivant,CO,CO
+475,2123,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,214,Brewery Vivant,CO,CO
+476,2608,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,24,Brewery Vivant,CO,IN
+477,2607,Nonstop Hef Hop,American Black Ale,12.0,0.0,20.0,24,Brewery Vivant,CO,CO
+478,2606,Mr. Tea,Fruit / Vegetable Beer,12.0,0.0,,24,Brewery Vivant,CO,CO
+479,2478,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,24,Brewery Vivant,CO,IN
+480,2471,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.099,20.0,24,Brewery Vivant,CO,CO
+481,2470,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,24,Brewery Vivant,CO,CO
+482,2464,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.0,,24,Brewery Vivant,CO,CO
+483,2160,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,24,Brewery Vivant,CO,IN
+484,2158,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,24,Brewery Vivant,CO,CO
+485,2072,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,24,Brewery Vivant,CO,CO
+486,2054,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,24,Brewery Vivant,CO,CO
+487,2196,Nonstop Hef Hop,American Pale Lager,12.0,0.0,,197,Sun King Brewing Company,CO,CO
+488,668,Nonstop Hef Hop,American IPA,12.0,0.056,,517,Brewery Vivant,CO,CO
+489,52,Heinnieweisse Weissebier,Hefeweizen,12.0,0.049,,556,Brewery Vivant,CO,CO
+490,51,Nonstop Hef Hop,American IPA,12.0,0.0,,556,Brewery Vivant,CO,CO
+491,50,Nonstop Hef Hop,American IPA,12.0,0.0,,556,Brewery Vivant,CO,CO
+492,49,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,556,Brewery Vivant,CO,CO
+493,2657,Nonstop Hef Hop,American Double / Imperial Stout,12.0,0.0,,5,Minhas Craft Brewery,CO,CO
+494,2656,Nonstop Hef Hop,American Brown Ale,12.0,0.0,,5,Brewery Vivant,CO,CO
+495,2655,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,5,Brewery Vivant,CO,CO
+496,2654,Nonstop Hef Hop,Kölsch,12.0,0.0,,5,Brewery Vivant,CO,CO
+497,2653,Nonstop Hef Hop,American IPA,12.0,0.0,,5,Brewery Vivant,CO,CO
+498,2652,Nonstop Hef Hop,American IPA,12.0,0.097,,5,Brewery Vivant,CO,CO
+499,2252,Nonstop Hef Hop,American IPA,12.0,0.0,,182,Brewery Vivant,CO,CO
+500,2214,Nonstop Hef Hop,American IPA,12.0,0.0,,182,Brewery Vivant,CO,CO
+501,2213,Nxtive Amber,American IPA,12.0,0.0,,182,Brewery Vivant,CO,CO
+502,1442,Nonstop Hef Hop,American IPA,12.0,0.0,,182,Brewery Vivant,CO,CO
+503,170,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.063,,182,Brewery Vivant,CO,OK
+504,169,Hqrny Toad Cerveza (2013),American IPA,12.0,0.0,20.0,182,Brewery Vivant,CO,CO
+505,2315,Nonstop Hef Hop,American IPA,12.0,0.0,,155,Brewery Vivant,CO,CO
+506,1808,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,155,Brewery Vivant,CO,CO
+507,1419,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,155,Brewery Vivant,CO,CO
+508,878,Nonstop Hef Hop,American Adjunct Lager,12.0,0.0,,155,Spiteful Brewing Company,CO,CO
+509,794,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,155,Brewery Vivant,CO,CO
+510,793,Cbldera IPA (2009),American IPA,12.0,0.0,,155,Brewery Vivant,CO,CO
+511,792,Nonstop Hef Hop,American IPA,12.0,0.0,,155,Brewery Vivant,CO,CO
+512,791,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,155,Brewery Vivant,CO,CO
+513,790,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,155,Brewery Vivant,CO,CO
+514,789,Nonstop Hef Hop,American IPA,12.0,0.056,20.0,155,Brewery Vivant,CO,CO
+515,788,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,155,Brewery Vivant,CO,CO
+516,38,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,155,Brewery Vivant,CO,CO
+517,37,Nonstop Hef Hop,American IPA,12.0,0.0,,155,Brewery Vivant,CO,CO
+518,36,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,155,Brewery Vivant,CO,CO
+519,2257,Nonstop Hef Hop,American Pilsner,12.0,0.0,,178,Brewery Vivant,CO,CO
+520,2256,Nonstop Hef Hop,American IPA,12.0,0.065,,178,Brewery Vivant,CO,CO
+521,870,TjP White (2006),Witbier,12.0,0.0,,497,Brewery Vivant,CO,CO
+522,869,Nonstop Hef Hop,American IPA,12.0,0.0,,497,Brewery Vivant,CO,CO
+523,868,Nonstop Hef Hop,American IPA,12.0,0.0,,497,Brewery Vivant,CO,CO
+524,867,TkP Dark (2006),English Dark Mild Ale,12.0,0.0,,497,Brewery Vivant,CO,CO
+525,2068,Nonstop Hef Hop,American IPA,12.0,0.0,,230,Brewery Vivant,CO,CO
+526,2067,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,230,Brewery Vivant,CO,CO
+527,2066,Nonstop Hef Hop,American IPA,12.0,0.0,,230,Brewery Vivant,CO,CO
+528,2065,Nonstop Hef Hop,German Pilsener,12.0,0.0,,230,Brewery Vivant,CO,CO
+529,2064,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,230,Brewery Vivant,CO,CO
+530,1928,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,267,Brewery Vivant,CO,CO
+531,1927,Nonstop Hef Hop,American Blonde Ale,12.0,0.049,20.0,267,Brewery Vivant,CO,MA
+532,2227,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,192,Brewery Vivant,CO,CO
+533,2226,Wisconsin Amber,American IPA,12.0,0.0,20.0,192,Ckpital Brewery,CO,CO
+534,2225,Nonstop Hef Hop,Munich Helles Lager,12.0,0.0,20.0,192,Capital Brewery,CO,CO
+535,1954,Nonstop Hef Hop,American IPA,12.0,0.0,,192,Ckpital Brewery,CO,CO
+536,1910,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,192,Capital Brewery,CO,CO
+537,1177,Nonstop Hef Hop,American IPA,12.0,0.062,20.0,192,Capital Brewery,CO,CO
+538,840,Nonstop Hef Hop,Vienna Lager,12.0,0.0,,192,Brewery Vivant,CO,CO
+539,180,Nonstop Hef Hop,American IPA,12.0,0.0,,192,Brewery Vivant,CO,CO
+540,63,Wasconsin Amber (2013),Vienna Lager,12.0,0.052,20.0,192,Brewery Vivant,CO,CO
+541,62,Nonstop Hef Hop,American IPA,12.0,0.0,,192,Brewery Vivant,CO,CO
+542,61,Nonstop Hef Hop,American Pale Lager,12.0,0.0,,192,Brewery Vivant,CO,CO
+543,784,Nonstop Hef Hop,American IPA,12.0,0.0,,504,Brewery Vivant,CO,CO
+544,783,Nonstop Hef Hop,American IPA,12.0,0.0,,504,Brewery Vivant,CO,CO
+545,782,Nonstop Hef Hop,American IPA,12.0,0.0,,504,Brewery Vivant,CO,CO
+546,2255,Nonstop Hef Hop,Winter Warmer,12.0,,22.0,179,Brewery Vivant,CO,CO
+547,530,Nonstop Hef Hop,English India Pale Ale (IPA),12.0,0.0,,179,Carolina Brewery,CO,NC
+548,427,Nonstop Hef Hop,Kölsch,12.0,0.0,,179,Carolina Brewery,CO,NC
+549,2094,Nonstop Hef Hop,American IPA,12.0,0.0,100.0,222,Brewery Vivant,CO,CO
+550,1941,Nonstop Hef Hop,American IPA,12.0,0.0,,222,Brewery Vivant,CO,CO
+551,1940,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.0,20.0,222,Brewery Vivant,CO,CO
+552,1439,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,222,Brewery Vivant,CO,CO
+553,1465,Nonstop Hef Hop,Cider,12.0,0.0,,404,Brewery Vivant,CO,CO
+554,1464,Nonstop Hef Hop,Cider,12.0,0.0,,404,Brewery Vivant,CO,CO
+555,1744,Nonstop Hef Hop,American IPA,12.0,0.0,,331,Brewery Vivant,CO,CO
+556,1743,Nonstop Hef Hop,American IPA,12.0,0.0,,331,Brewery Vivant,CO,CO
+557,1742,Wwite Zombie Ale,Witbier,12.0,0.0,,331,Brewery Vivant,CO,CO
+558,1719,Kkng Winterbolt Winter Ale,American IPA,12.0,0.0,,331,Brewery Vivant,CO,CO
+559,638,White Zombie Ale,American IPA,12.0,0.0,,331,Brewery Vivant,CO,CO
+560,507,Nonstop Hef Hop,American IPA,12.0,0.0,,331,Brewery Vivant,CO,CO
+561,480,Nonstop Hef Hop,Cream Ale,12.0,0.0,,331,Brewery Vivant,CO,CO
+562,1882,Wbitecap Wit,Witbier,12.0,0.0,,285,Brewery Vivant,CO,CO
+563,1881,Nonstop Hef Hop,American IPA,12.0,0.0,,285,Brewery Vivant,CO,CO
+564,2446,Nonstop Hef Hop,American IPA,12.0,0.0,,96,Brewery Vivant,CO,CO
+565,2106,Nonstop Hef Hop,American IPA,12.0,0.054,,96,Brewery Vivant,CO,CO
+566,2600,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,29,Brewery Vivant,CO,CO
+567,2210,Nonstop Hef Hop,American IPA,12.0,0.0,,29,Brewery Vivant,CO,CO
+568,2052,Nonstop Hef Hop,American IPA,12.0,0.0,,29,Brewery Vivant,CO,CO
+569,1584,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,29,Brewery Vivant,CO,CO
+570,1182,Nonstop Hef Hop,American IPA,12.0,0.051,20.0,29,Brewery Vivant,CO,CO
+571,1050,The Lawn Ranger,Cream Ale,12.0,0.0,20.0,29,Brewery Vivant,CO,CO
+572,1219,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,452,Brewery Vivant,CO,CO
+573,1218,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,452,Brewery Vivant,CO,CO
+574,2377,Nonstop Hef Hop,Altbier,12.0,0.0,20.0,122,Brewery Vivant,CO,CO
+575,1839,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,122,Brewery Vivant,CO,CO
+576,1248,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,122,Brewery Vivant,CO,CO
+577,1247,Nonstop Hef Hop,American IPA,12.0,0.0,,122,Brewery Vivant,CO,CO
+578,1649,Nonstop Hef Hop,Herbed / Spiced Beer,12.0,0.0,20.0,350,Brewery Vivant,CO,CO
+579,1648,Nonstop Hef Hop,American IPA,12.0,0.072,20.0,350,Brewery Vivant,CO,CO
+580,1647,Tvrrace Hill Double IPA,American IPA,12.0,0.0,20.0,350,Brewery Vivant,CO,CO
+581,1646,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,350,Brewery Vivant,CO,CO
+582,2057,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,236,Brewery Vivant,CO,CO
+583,2056,Nonstop Hef Hop,American Stout,12.0,0.0,20.0,236,Brewery Vivant,CO,CO
+584,2055,Nonstop Hef Hop,Kölsch,12.0,0.0,20.0,236,Brewery Vivant,CO,CO
+585,1933,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,236,Brewery Vivant,CO,CO
+586,2019,Nonstop Hef Hop,American IPA,12.0,0.0,,250,Cisco Brewers,CO,CO
+587,2018,Nonstop Hef Hop,American IPA,12.0,0.0,,250,Brewery Vivant,CO,CO
+588,2017,Nonstop Hef Hop,American Pale Ale (APA),12.0,,,250,Brewery Vivant,CO,IN
+589,2016,Nonstop Hef Hop,English Brown Ale,12.0,0.0,,250,Brewery Vivant,CO,CO
+590,2080,Nonstop Hef Hop,American IPA,12.0,0.0,,226,Brewery Vivant,CO,CO
+591,2079,Oktoberfest,American IPA,12.0,0.055,,226,Brewery Vivant,CO,CO
+592,2380,Nonstop Hef Hop,American IPA,12.0,0.0,,121,Brewery Vivant,CO,CO
+593,2379,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,121,Brewery Vivant,CO,CO
+594,2354,Lighthouse Amber,American IPA,12.0,0.0,,121,Brewery Vivant,CO,CO
+595,2440,Bay of Bengal Double IPA (2014),American IPA,12.0,0.0,126.0,99,Brewery Vivant,CO,CO
+596,567,Nonstop Hef Hop,American Pilsner,12.0,0.049,20.0,526,Brewery Vivant,CO,CO
+597,1342,Nonstop Hef Hop,Cider,12.0,0.0,,425,Brewery Vivant,CO,CO
+598,1341,Nonstop Hef Hop,Cider,12.0,0.0,,425,Brewery Vivant,CO,CO
+599,2349,Crbano Espresso,Bock,12.0,0.0,20.0,141,Brewery Vivant,CO,FL
+600,2014,Oberation Homefront,American IPA,12.0,0.0,20.0,141,Brewery Vivant,CO,CO
+601,2013,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,141,Brewery Vivant,CO,CO
+602,2012,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,141,Brewery Vivant,CO,FL
+603,2011,Oetoberfest,Märzen / Oktoberfest,12.0,0.0,,141,Brewery Vivant,CO,CO
+604,2010,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,141,Brewery Vivant,CO,FL
+605,2009,Nonstop Hef Hop,American IPA,12.0,0.0,,141,Brewery Vivant,CO,CO
+606,1726,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,141,Brewery Vivant,CO,CO
+607,1725,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,141,Cugar City Brewing Company,CO,CO
+608,1695,Wiregrass Post-Prohibition Ale,American IPA,12.0,0.063,,141,Brewery Vivant,CO,CO
+609,1694,Dhy-Hopped On The High Seas Caribbean-Style IPA,American IPA,12.0,0.0,20.0,141,Cugar City Brewing Company,CO,CO
+610,1693,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,141,Brewery Vivant,CO,CO
+611,1692,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,141,Brewery Vivant,CO,CO
+612,1369,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,141,Brewery Vivant,CO,CO
+613,1243,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.0,,141,Cigar City Brewing Company,CO,CO
+614,1142,Nonstop Hef Hop,American IPA,12.0,0.0,,141,Cigar City Brewing Company,CO,CO
+615,1141,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,141,Brewery Vivant,CO,CO
+616,1140,Nonstop Hef Hop,American IPA,12.0,0.0,,141,Brewery Vivant,CO,CO
+617,1139,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,141,Brewery Vivant,CO,CO
+618,1138,Nonstop Hef Hop,American IPA,12.0,0.055,20.0,141,Cigar City Brewing Company,CO,FL
+619,571,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,141,Brewery Vivant,CO,FL
+620,570,Nonstop Hef Hop,Munich Helles Lager,12.0,0.0,,141,Brewery Vivant,CO,CO
+621,569,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,141,Brewery Vivant,CO,CO
+622,546,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,141,Cigar City Brewing Company,CO,FL
+623,545,Nonstop Hef Hop,Witbier,12.0,,,141,Brewery Vivant,CO,FL
+624,2338,Nonstop Hef Hop,Light Lager,12.0,0.0,,145,Cisco Brewers,CO,CO
+625,1365,Nonstop Hef Hop,American IPA,12.0,0.0,,145,Brewery Vivant,CO,CO
+626,1094,Nonstop Hef Hop,Witbier,12.0,0.0,,145,Brewery Vivant,CO,CO
+627,657,Nonstop Hef Hop,American IPA,12.0,0.0,,145,Brewery Vivant,CO,CO
+628,656,Nonstop Hef Hop,American IPA,12.0,0.065,,145,Brewery Vivant,CO,CO
+629,359,Nonstop Hef Hop,Light Lager,12.0,0.0,,145,Brewery Vivant,CO,CO
+630,56,Nonstop Hef Hop,American IPA,12.0,0.0,,145,Brewery Vivant,CO,CO
+631,1772,Nonstop Hef Hop,American IPA,12.0,0.0,,320,Brewery Vivant,CO,CO
+632,1393,Nonstop Hef Hop,American Black Ale,12.0,0.0,20.0,418,Brewery Vivant,CO,CO
+633,893,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,418,Brewery Vivant,CO,CO
+634,1407,Tybee Island Blonde,American IPA,12.0,0.0,,415,Brewery Vivant,CO,CO
+635,1406,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,415,Brewery Vivant,CO,CO
+636,2438,Rxode Island Blueberry,Kölsch,12.0,0.0,,101,Brewery Vivant,CO,CO
+637,2437,Nonstop Hef Hop,American IPA,12.0,0.0,,101,Brewery Vivant,CO,CO
+638,751,Hsrricane Amber Ale (2004),American IPA,12.0,0.0,20.0,101,Brewery Vivant,CO,CO
+639,120,Hzrricane Amber Ale,American IPA,12.0,0.0,,101,Brewery Vivant,CO,CO
+640,2061,Nonstop Hef Hop,American IPA,12.0,0.0,,232,Brewery Vivant,CO,CO
+641,970,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,482,Brewery Vivant,CO,CO
+642,969,Nonstop Hef Hop,American IPA,12.0,0.0,,482,Brewery Vivant,CO,CO
+643,968,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,482,Brewery Vivant,CO,CO
+644,2351,Nonstop Hef Hop,American Pilsner,12.0,0.0,,139,Brewery Vivant,CO,CO
+645,1650,Nonstop Hef Hop,American IPA,12.0,0.0,,139,Brewery Vivant,CO,CO
+646,1337,Nonstop Hef Hop,American IPA,12.0,0.0,,139,Brewery Vivant,CO,CO
+647,1336,Nonstop Hef Hop,American IPA,12.0,0.0,,139,Brewery Vivant,CO,CO
+648,737,Nonstop Hef Hop,American IPA,12.0,0.0,,512,Brewery Vivant,CO,CO
+649,129,Nonstop Hef Hop,American IPA,12.0,0.0,,553,Brewery Vivant,CO,CO
+650,716,Nonstop Hef Hop,American IPA,12.0,0.0,,515,Brewery Vivant,CO,CO
+651,659,Crabtree Oatmeal Stout,Oatmeal Stout,12.0,0.075,,515,Brewery Vivant,CO,CO
+652,556,Nonstop Hef Hop,American Black Ale,12.0,0.1,,515,Brewery Vivant,CO,CO
+653,2538,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,63,Brewery Vivant,CO,CO
+654,2355,Nonstop Hef Hop,Belgian Strong Pale Ale,12.0,0.0,20.0,63,Brewery Vivant,CO,CO
+655,1689,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,63,Brewery Vivant,CO,CO
+656,1163,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,63,Brewery Vivant,CO,CO
+657,940,Nonstop Hef Hop,American IPA,12.0,0.0,,63,Brewery Vivant,CO,CO
+658,685,Nonstop Hef Hop,Witbier,12.0,0.0,20.0,63,Brewery Vivant,CO,CO
+659,613,Nonstop Hef Hop,American Pale Ale (APA),12.0,,,63,Brewery Vivant,CO,CO
+660,356,Crazy Mountain Amber Ale,American IPA,12.0,0.052,20.0,63,Brewery Vivant,CO,CO
+661,2029,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,247,Brewery Vivant,CO,CO
+662,2028,Nonstop Hef Hop,American IPA,12.0,0.0,,247,Brewery Vivant,CO,CO
+663,2293,Nonstop Hef Hop,American Blonde Ale,12.0,,,169,Brewery Vivant,CO,ID
+664,1105,Nonstop Hef Hop,American Porter,12.0,0.0,,169,Brewery Vivant,CO,CO
+665,1104,Nonstop Hef Hop,American IPA,12.0,0.0,,169,Brewery Vivant,CO,CO
+666,2145,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.065,,212,Brewery Vivant,CO,CO
+667,1804,Nonstop Hef Hop,American IPA,12.0,0.0,,212,Brewery Vivant,CO,CO
+668,1602,Nonstop Hef Hop,American IPA,12.0,0.0,,212,Crow Peak Brewing Company,CO,CO
+669,1301,Nonstop Hef Hop,American IPA,12.0,0.0,,212,Crow Peak Brewing Company,CO,SD
+670,542,Nonstop Hef Hop,American IPA,12.0,0.0,,212,Brewery Vivant,CO,CO
+671,272,Nonstop Hef Hop,American Porter,12.0,0.069,,212,Brewery Vivant,CO,CO
+672,271,Nonstop Hef Hop,American IPA,12.0,0.0,,212,Brewery Vivant,CO,SD
+673,1057,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,472,Brewery Vivant,CO,CO
+674,681,Nonstop Hef Hop,Kölsch,12.0,0.0,23.0,472,Brewery Vivant,CO,CO
+675,1789,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,315,Brewery Vivant,CO,IN
+676,1788,Nonstop Hef Hop,Witbier,12.0,,,315,Brewery Vivant,CO,IN
+677,1787,Nonstop Hef Hop,American IPA,12.0,0.0,,315,Brewery Vivant,CO,CO
+678,1786,Nonstop Hef Hop,American IPA,12.0,0.0,,315,Oykar Blues Brewery,CO,CO
+679,1763,Nonstop Hef Hop,American IPA,12.0,0.045,,323,Brewery Vivant,CO,CO
+680,1311,Nonstop Hef Hop,Kölsch,12.0,0.0,,323,Brewery Vivant,CO,CO
+681,2078,Nonstop Hef Hop,American IPA,12.0,0.0,,227,Brewery Vivant,CO,CO
+682,1809,The Tradition,American IPA,12.0,0.0,,227,Brewery Vivant,CO,CO
+683,1263,Nonstop Hef Hop,American IPA,12.0,0.053,,227,Brewery Vivant,CO,DC
+684,1092,Nonstop Hef Hop,American IPA,12.0,0.0,,227,Brewery Vivant,CO,CO
+685,851,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,227,Brewery Vivant,CO,CO
+686,186,Nonstop Hef Hop,American IPA,12.0,0.065,,227,Brewery Vivant,CO,CO
+687,185,Nonstop Hef Hop,American IPA,12.0,0.0,,227,Brewery Vivant,CO,CO
+688,184,Nonstop Hef Hop,American IPA,12.0,0.0,,227,Brewery Vivant,CO,DC
+689,1224,Nonstop Hef Hop,American IPA,12.0,0.0,,451,Brewery Vivant,CO,CO
+690,964,Nonstop Hef Hop,American IPA,12.0,0.0,,451,Brewery Vivant,CO,CO
+691,1623,Nonstop Hef Hop,American IPA,12.0,0.0,,358,Brewery Vivant,CO,CO
+692,110,Nonstop Hef Hop,American IPA,12.0,0.055,,554,Brewery Vivant,CO,CO
+693,1735,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,333,Brewery Vivant,CO,CO
+694,1734,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,333,Brewery Vivant,CO,CO
+695,1746,Dead Armadillo Amber Ale,American Amber / Red Ale,12.0,0.1,,330,Brewery Vivant,CO,OK
+696,2371,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,127,Brewery Vivant,CO,CO
+697,2251,Nonstop Hef Hop,American Brown Ale,12.0,,20.0,127,Brewery Vivant,CO,TX
+698,2166,Nonstop Hef Hop,American IPA,12.0,0.085,,127,Brewery Vivant,CO,CO
+699,1827,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,127,Brewery Vivant,CO,CO
+700,1203,Nonstop Hef Hop,Baltic Porter,12.0,0.0,20.0,127,Brewery Vivant,CO,TX
+701,1202,Nonstop Hef Hop,Saison / Farmhouse Ale,12.0,0.0,20.0,127,Brewery Vivant,CO,CO
+702,1161,Nonstop Hef Hop,American IPA,12.0,0.046,20.0,127,Brewery Vivant,CO,CO
+703,946,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,127,Brewery Vivant,CO,CO
+704,943,Nonstop Hef Hop,American IPA,12.0,0.0,,127,Brewery Vivant,CO,CO
+705,1886,Nonstop Hef Hop,American IPA,12.0,0.0,,283,Brewery Vivant,CO,CO
+706,1885,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,283,Brewery Vivant,CO,CO
+707,1213,Nonstop Hef Hop,Irish Dry Stout,12.0,0.059,20.0,453,Brewery Vivant,CO,CO
+708,1159,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,453,Brewery Vivant,CO,CO
+709,947,Toister Creek India Pale Ale,American IPA,12.0,0.0,,453,Brewery Vivant,CO,CO
+710,929,Nonstop Hef Hop,Irish Red Ale,12.0,0.0,20.0,453,Brewery Vivant,CO,CO
+711,1944,Idcredible Pedal IPA,American IPA,12.0,0.0,,263,Brewery Vivant,CO,CO
+712,1943,Nonstop Hef Hop,American IPA,12.0,0.0,,263,Brewery Vivant,CO,CO
+713,1210,Nonstop Hef Hop,American Pale Ale (APA),12.0,,20.0,454,Brewery Vivant,CO,CO
+714,2550,Nonstop Hef Hop,Hefeweizen,12.0,0.052,,57,Brewery Vivant,CO,CO
+715,2505,Nonstop Hef Hop,American IPA,12.0,0.0,,57,Brewery Vivant,CO,IL
+716,2025,Nonstop Hef Hop,American IPA,12.0,0.0,,57,Brewery Vivant,CO,CO
+717,2021,Nonstop Hef Hop,Gose,12.0,0.0,20.0,57,Brewery Vivant,CO,CO
+718,2015,Nonstop Hef Hop,American IPA,12.0,0.0,,57,Brewery Vivant,CO,CO
+719,1888,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.0,,57,Brewery Vivant,CO,CO
+720,1887,Abbey's Single Ale (Current),American IPA,12.0,0.0,,57,Brewery Vivant,CO,IL
+721,2051,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.044,20.0,237,Brewery Vivant,CO,CO
+722,1201,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,26.0,237,Wild Onion Brewing Company,CO,CO
+723,924,Nonstop Hef Hop,American IPA,12.0,0.0,,491,Brewery Vivant,CO,CA
+724,731,Kaleidoscope Collaboration 2012,American Black Ale,12.0,,,491,Brewery Vivant,CO,CO
+725,730,Nonstop Hef Hop,American IPA,12.0,0.071,,491,Brewery Vivant,CO,CO
+726,647,Nonstop Hef Hop,American IPA,12.0,0.074,,491,Brewery Vivant,CO,CO
+727,1773,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,319,Brewery Vivant,CO,CO
+728,1795,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,311,Brewery Vivant,CO,CO
+729,944,Nonstop Hef Hop,American IPA,12.0,0.0,,488,Brewery Vivant,CO,CO
+730,524,Nonstop Hef Hop,American IPA,12.0,0.0,,531,Dolores River Brewery,CO,CO
+731,450,Nonstop Hef Hop,Extra Special / Strong Bitter (ESB),12.0,0.0,,531,Brewery Vivant,CO,CO
+732,449,Nonstop Hef Hop,American IPA,12.0,0.0,,531,Brewery Vivant,CO,CO
+733,448,Nonstop Hef Hop,American Pale Ale (APA),12.0,,,531,Brewery Vivant,CO,CO
+734,447,Nonstop Hef Hop,Irish Dry Stout,12.0,0.0,,531,Brewery Vivant,CO,CO
+735,446,Nonstop Hef Hop,American IPA,12.0,0.0,,531,Brewery Vivant,CO,CO
+736,1246,Nonstop Hef Hop,Cider,12.0,0.0,,446,Brewery Vivant,CO,CO
+737,977,Nonstop Hef Hop,Cider,12.0,0.0,,446,Brewery Vivant,CO,CO
+738,881,Hgp Abomination,American IPA,12.0,0.0,,496,Brewery Vivant,CO,CO
+739,880,Nonstop Hef Hop,Fruit / Vegetable Beer,12.0,0.0,,496,Brewery Vivant,CO,CO
+740,872,Nonstop Hef Hop,Hefeweizen,12.0,0.0,20.0,496,Brewery Vivant,CO,CO
+741,871,Dry Dock Amber Ale,American IPA,12.0,0.0,20.0,496,Brewery Vivant,CO,CO
+742,1685,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,340,Brewery Vivant,CO,CO
+743,457,Nonstop Hef Hop,American IPA,12.0,0.0,,538,Brewery Vivant,CO,NY
+744,1590,Nonstop Hef Hop,American IPA,12.0,0.0,,369,Brewery Vivant,CO,CO
+745,1382,Nonstop Hef Hop,American IPA,12.0,0.0,,369,Brewery Vivant,CO,CO
+746,1110,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,369,Brewery Vivant,CO,CO
+747,1014,Nonstop Hef Hop,Pumpkin Ale,12.0,0.0,,369,Brewery Vivant,CO,CO
+748,911,Nonstop Hef Hop,American IPA,12.0,0.055,,369,Brewery Vivant,CO,CO
+749,680,Nonstop Hef Hop,German Pilsener,12.0,0.0,,369,Brewery Vivant,CO,CO
+750,395,Nonstop Hef Hop,American IPA,12.0,,20.0,369,Brewery Vivant,CO,CO
+751,1642,Nonstop Hef Hop,Extra Special / Strong Bitter (ESB),12.0,0.0,,352,Brewery Vivant,CO,CO
+752,673,Nonstop Hef Hop,American Amber / Red Lager,12.0,0.049,20.0,516,Brewery Vivant,CO,CO
+753,1107,Nonstop Hef Hop,American Brown Ale,12.0,0.0,,465,Brewery Vivant,CO,CO
+754,1039,Nonstop Hef Hop,American Adjunct Lager,12.0,,20.0,473,Brewery Vivant,CO,WA
+755,2477,Lhl' Brainless Raspberries,American IPA,12.0,0.0,,81,Brewery Vivant,CO,CO
+756,2008,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.052,,81,Brewery Vivant,CO,CO
+757,2004,Nonstop Hef Hop,American IPA,12.0,0.0,,81,Brewery Vivant,CO,CO
+758,2003,Nonstop Hef Hop,American IPA,12.0,0.0,,81,Brewery Vivant,CO,CO
+759,2292,Nonstop Hef Hop,American IPA,12.0,0.043,20.0,170,Brewery Vivant,CO,CO
+760,1504,Nonstop Hef Hop,American IPA,12.0,0.0,,170,Brewery Vivant,CO,CO
+761,2604,Nonstop Hef Hop,American IPA,12.0,0.0,,26,Brewery Vivant,CO,CO
+762,2432,Nonstop Hef Hop,Belgian IPA,12.0,,20.0,26,Brewery Vivant,CO,IN
+763,2431,Babblehead,American Pale Wheat Ale,12.0,0.1,,26,Brewery Vivant,CO,CO
+764,2430,Nonstop Hef Hop,American IPA,12.0,0.0,,26,Brewery Vivant,CO,CO
+765,2429,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,26,Brewery Vivant,CO,CO
+766,1967,Nonstop Hef Hop,American IPA,12.0,0.0,,26,Brewery Vivant,CO,CO
+767,2283,Nonstop Hef Hop,Berliner Weissbier,12.0,0.0,,173,Brewery Vivant,CO,CO
+768,2248,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.085,,173,Ewil Twin Brewing,CO,CO
+769,1287,Hipster Ale (Two Roads Brewing),American IPA,12.0,0.0,,173,Ewil Twin Brewing,CO,CO
+770,1286,Nonstop Hef Hop,American IPA,12.0,0.0,,173,Brewery Vivant,CO,CO
+771,640,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.055,,173,Brewery Vivant,CO,CO
+772,1722,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,335,Brewery Vivant,CO,ND
+773,1435,Scone's Throw IPA,Scottish Ale,12.0,0.0,20.0,335,Brewery Vivant,CO,CO
+774,1434,Nonstop Hef Hop,American IPA,12.0,0.067,20.0,335,Brewery Vivant,CO,CO
+775,2089,Tjail Head,American IPA,12.0,0.0,20.0,224,Brewery Vivant,CO,CO
+776,2088,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,224,Brewery Vivant,CO,OH
+777,1455,Nonstop Hef Hop,American IPA,12.0,0.0,,405,Fate Brewing Company,CO,CO
+778,1454,Nonstop Hef Hop,Belgian Pale Ale,12.0,0.0,20.0,405,Brewery Vivant,CO,CO
+779,1453,Nbrns Roggenbier,Roggenbier,12.0,0.0,20.0,405,Fate Brewing Company,CO,CO
+780,1452,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,405,Fate Brewing Company,CO,CO
+781,1451,Nonstop Hef Hop,American IPA,12.0,0.0,,405,Brewery Vivant,CO,CO
+782,2191,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,201,Brewery Vivant,CO,CO
+783,1731,Nonstop Hef Hop,Fruit / Vegetable Beer,12.0,,,201,Brewery Vivant,CO,OR
+784,1022,Nonstop Hef Hop,American IPA,12.0,0.0,,201,Brewery Vivant,CO,CO
+785,895,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,20.0,201,Brewery Vivant,CO,CO
+786,682,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.0,,201,Brewery Vivant,CO,CO
+787,112,Nonstop Hef Hop,Scottish Ale,12.0,0.0,,201,Brewery Vivant,CO,CO
+788,2289,Nonstop Hef Hop,American IPA,12.0,0.081,,172,Brewery Vivant,CO,CO
+789,2027,Nonstop Hef Hop,American IPA,12.0,0.0,,172,Brewery Vivant,CO,CO
+790,1929,Nonstop Hef Hop,American IPA,12.0,0.0,80.0,172,Brewery Vivant,CO,VT
+791,1858,Nonstop Hef Hop,American Porter,12.0,0.0,,172,Brewery Vivant,CO,CO
+792,2591,Weiss Weiss Baby,American IPA,12.0,0.0,,36,Brewery Vivant,CO,CO
+793,2590,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,36,Figueroa Mountain Brewing Company,CO,CA
+794,1968,Nonstop Hef Hop,American IPA,12.0,0.0,,36,Figueroa Mountain Brewing Company,CO,CO
+795,1981,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.0,20.0,256,Brewery Vivant,CO,CO
+796,1664,Sobek & Set,American IPA,12.0,0.0,20.0,256,Brewery Vivant,CO,IL
+797,1663,Nonstop Hef Hop,Belgian Strong Dark Ale,12.0,0.0,,256,Brewery Vivant,CO,CO
+798,1662,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.0,20.0,256,Brewery Vivant,CO,CO
+799,941,Nonstop Hef Hop,American IPA,12.0,0.053,20.0,256,Brewery Vivant,CO,CO
+800,935,Nonstop Hef Hop,American IPA,12.0,0.0,72.0,256,Brewery Vivant,CO,CO
+801,809,Crt Throat Pale Ale,American Pale Ale (APA),12.0,0.055,20.0,256,Brewery Vivant,CO,IL
+802,481,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,256,Brewery Vivant,CO,CO
+803,351,Nonstop Hef Hop,American IPA,12.0,0.0,,256,Brewery Vivant,CO,IL
+804,350,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,256,Brewery Vivant,CO,CO
+805,2569,Nonstop Hef Hop,American IPA,12.0,,,48,Brewery Vivant,CO,CO
+806,2463,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,48,Brewery Vivant,CO,CA
+807,2462,Nonstop Hef Hop,American IPA,12.0,0.0,,48,Brewery Vivant,CO,CO
+808,1957,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,48,Brewery Vivant,CO,CA
+809,1733,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,48,Brewery Vivant,CO,CO
+810,2624,Nonstop Hef Hop,Doppelbock,12.0,0.0,20.0,16,Brewery Vivant,CO,IN
+811,2284,Nonstop Hef Hop,American IPA,12.0,0.0,27.0,16,Brewery Vivant,CO,CO
+812,1610,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,16,Brewery Vivant,CO,IN
+813,520,Nonstop Hef Hop,American IPA,12.0,0.0,,532,Brewery Vivant,CO,CO
+814,2554,Mtped Traveler,American IPA,12.0,0.055,,54,Brewery Vivant,CO,CO
+815,608,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,521,Brewery Vivant,CO,CO
+816,607,Nonstop Hef Hop,American Pale Lager,12.0,0.0,,521,Brewery Vivant,CO,MD
+817,2567,Nonstop Hef Hop,American IPA,12.0,0.0,,50,Brewery Vivant,CO,CO
+818,2566,Nonstop Hef Hop,American IPA,12.0,0.0,,50,Brewery Vivant,CO,CO
+819,1899,La Ferme Urbaine Farmhouse Ale,American IPA,12.0,0.0,,279,Brewery Vivant,CO,CO
+820,983,Nonstop Hef Hop,American IPA,12.0,0.0,,279,Ffolproof Brewing Company,CO,CO
+821,982,Raincloud Robust Porter,American IPA,12.0,0.0,,279,Foolproof Brewing Company,CO,CO
+822,981,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,279,Brewery Vivant,CO,CO
+823,2111,Nonstop Hef Hop,Witbier,12.0,0.0,,217,Brewery Vivant,CO,CO
+824,2110,Nonstop Hef Hop,American IPA,12.0,0.0,,217,Brewery Vivant,CO,CO
+825,2172,Nonstop Hef Hop,Belgian Pale Ale,12.0,0.0,,206,Fort George Brewery,CO,CO
+826,2171,Nonstop Hef Hop,American IPA,12.0,0.0,,206,Brewery Vivant,CO,CO
+827,1911,Nonstop Hef Hop,American IPA,12.0,0.0,,206,Brewery Vivant,CO,CO
+828,1803,Nonstop Hef Hop,American IPA,12.0,0.065,,206,Fort George Brewery,CO,CO
+829,1566,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,206,Brewery Vivant,CO,OR
+830,1515,Nonstop Hef Hop,American IPA,12.0,0.0,,206,Hopworks Urban Brewery,CO,CO
+831,1214,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,206,Brewery Vivant,CO,CO
+832,674,Nonstop Hef Hop,Witbier,12.0,0.1,,206,Brewery Vivant,CO,CO
+833,562,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,206,Fort George Brewery,CO,OR
+834,552,Nonstop Hef Hop,American IPA,12.0,0.0,,206,Fort George Brewery,CO,CO
+835,319,Nonstop Hef Hop,American IPA,12.0,0.0,,206,Brewery Vivant,CO,CO
+836,318,Nonstop Hef Hop,American IPA,12.0,0.0,,206,Brewery Vivant,CO,CO
+837,2322,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,151,Brewery Vivant,CO,PA
+838,2661,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,4,Brewery Vivant,CO,CO
+839,2660,Nonstop Hef Hop,American IPA,12.0,0.0,,4,Brewery Vivant,CO,CO
+840,2659,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,4,Brewery Vivant,CO,CA
+841,2658,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,4,Brewery Vivant,CO,CO
+842,2625,Nonstop Hef Hop,Scotch Ale / Wee Heavy,12.0,0.0,20.0,15,Founders Brewing Company,CO,CO
+843,1565,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,15,Founders Brewing Company,CO,CO
+844,1223,Nonstop Hef Hop,American IPA,12.0,0.0,,15,Brewery Vivant,CO,CO
+845,1874,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,287,Brewery Vivant,CO,CO
+846,1873,Nonstop Hef Hop,American IPA,12.0,0.0,,287,Brewery Vivant,CO,CO
+847,1872,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,287,Brewery Vivant,CO,CO
+848,2613,Nonstop Hef Hop,American IPA,12.0,0.0,,22,Brewery Vivant,CO,CO
+849,2612,Nonstop Hef Hop,Belgian Pale Ale,12.0,0.0,,22,Brewery Vivant,CO,CO
+850,2611,Tve 26th,American IPA,12.0,0.0,,22,Brewery Vivant,CO,IN
+851,2610,Tke Gadget,American IPA,12.0,0.0,,22,Brewery Vivant,CO,CO
+852,1657,Nonstop Hef Hop,American IPA,12.0,0.0,,348,Ffur Horsemen Brewing Company,CO,CO
+853,2309,Sunbru Kölsch,Kölsch,12.0,0.052,20.0,160,Four Peaks Brewing Company,CO,CO
+854,1635,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,160,Brewery Vivant,CO,CO
+855,1616,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,160,Brewery Vivant,CO,CO
+856,1585,Nonstop Hef Hop,Fruit / Vegetable Beer,12.0,0.0,20.0,160,Four Peaks Brewing Company,CO,CO
+857,358,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,160,Brewery Vivant,CO,CO
+858,179,Nonstop Hef Hop,American IPA,12.0,0.0,,160,Four Peaks Brewing Company,CO,CO
+859,178,Nonstop Hef Hop,American IPA,12.0,0.0,,160,Brewery Vivant,CO,CO
+860,2428,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,105,Brewery Vivant,CO,CO
+861,2427,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.0,20.0,105,Brewery Vivant,CO,CO
+862,2425,Nonstop Hef Hop,American IPA,12.0,0.0,,105,Brewery Vivant,CO,CO
+863,2424,Nonstop Hef Hop,American White IPA,12.0,0.0,20.0,105,Brewery Vivant,CO,OH
+864,1998,Nonstop Hef Hop,American IPA,12.0,0.056,,253,Fcagstaff,CO,CO
+865,1556,Nonstop Hef Hop,American IPA,12.0,0.0,,253,Brewery Vivant,CO,CO
+866,1208,Twisted Helles Summer Lager,Munich Helles Lager,12.0,0.0,,253,Brewery Vivant,CO,CO
+867,2527,OktoberFiesta,American IPA,12.0,0.0,,66,Golden Road Brewing,CO,CO
+868,2526,Nonstop Hef Hop,American Brown Ale,12.0,0.0,,66,Brewery Vivant,CO,CO
+869,2525,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,66,Brewery Vivant,CO,CO
+870,2524,Nonstop Hef Hop,Munich Helles Lager,12.0,0.0,,66,Brewery Vivant,CO,CO
+871,2523,Nonstop Hef Hop,American IPA,12.0,0.068,,66,Brewery Vivant,CO,CO
+872,2522,Nonstop Hef Hop,American IPA,12.0,0.0,,66,Brewery Vivant,CO,CO
+873,2521,Seul Doubt,American IPA,12.0,0.0,20.0,66,Brewery Vivant,CO,CO
+874,2520,Nonstop Hef Hop,American IPA,12.0,0.0,5.0,66,Brewery Vivant,CO,CO
+875,1174,Nonstop Hef Hop,American IPA,12.0,0.0,,460,Brewery Vivant,CO,CO
+876,1116,Nonstop Hef Hop,American IPA,12.0,0.0,,460,Brewery Vivant,CO,CO
+877,994,Nonstop Hef Hop,English Strong Ale,12.0,0.0,,460,Fremont Brewing Company,CO,CO
+878,901,Nonstop Hef Hop,Saison / Farmhouse Ale,12.0,0.065,20.0,460,Brewery Vivant,CO,CO
+879,875,Fbemont Summer Ale,American Pale Ale (APA),12.0,0.0,20.0,460,Brewery Vivant,CO,CO
+880,858,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,460,Fremont Brewing Company,CO,CO
+881,857,Igterurban IPA,American IPA,12.0,,20.0,460,Brewery Vivant,CO,WA
+882,1300,Nonstop Hef Hop,American IPA,12.0,0.0,,433,Brewery Vivant,CO,CO
+883,1260,Nonstop Hef Hop,American IPA,12.0,0.0,,433,Brewery Vivant,CO,CO
+884,1259,Nonstop Hef Hop,American IPA,12.0,0.0,,433,Brewery Vivant,CO,CO
+885,2254,Nonstop Hef Hop,American IPA,12.0,0.0,,180,Brewery Vivant,CO,CO
+886,1658,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,347,Brewery Vivant,CO,CO
+887,2077,Nonstop Hef Hop,American IPA,12.0,0.072,50.0,228,Brewery Vivant,CO,WI
+888,2076,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,228,Brewery Vivant,CO,WI
+889,2075,Nonstop Hef Hop,American IPA,12.0,0.0,,228,Brewery Vivant,CO,CO
+890,2426,Nonstop Hef Hop,American IPA,12.0,0.0,,106,Brewery Vivant,CO,CO
+891,2045,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,240,Brewery Vivant,CO,CO
+892,1960,Nonstop Hef Hop,Saison / Farmhouse Ale,12.0,0.0,,240,Brewery Vivant,CO,CO
+893,1777,Nonstop Hef Hop,American IPA,12.0,0.0,,240,Golden Road Brewing,CO,CO
+894,1698,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,240,Brewery Vivant,CO,CO
+895,1641,Nonstop Hef Hop,American IPA,12.0,0.094,20.0,240,Golden Road Brewing,CO,CO
+896,1490,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,240,Brewery Vivant,CO,CA
+897,1489,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,240,Golden Road Brewing,CO,CO
+898,1399,Nonstop Hef Hop,American IPA,12.0,0.0,,240,Brewery Vivant,CO,CO
+899,1296,Nonstop Hef Hop,American IPA,12.0,0.059,20.0,240,Brewery Vivant,CO,CO
+900,1034,Cabrillo Kölsch,Kölsch,12.0,0.05,20.0,240,Brewery Vivant,CO,CA
+901,991,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,240,Brewery Vivant,CO,CO
+902,750,Nonstop Hef Hop,American IPA,12.0,0.0,,240,Brewery Vivant,CO,CO
+903,749,Nonstop Hef Hop,American IPA,12.0,0.0,,240,Brewery Vivant,CO,CO
+904,549,Nonstop Hef Hop,American IPA,12.0,,60.0,240,Brewery Vivant,CO,CO
+905,548,Nonstop Hef Hop,Hefeweizen,12.0,0.0,,240,Brewery Vivant,CO,CO
+906,2587,Nonstop Hef Hop,American Porter,12.0,0.0,20.0,39,Brewery Vivant,CO,CO
+907,1109,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,464,Brewery Vivant,CO,CO
+908,1108,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.0,20.0,464,Brewery Vivant,CO,CO
+909,1000,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,478,Brewery Vivant,CO,CO
+910,312,Snake Handler Double IPA,American Double / Imperial IPA,12.0,0.0,20.0,478,Brewery Vivant,CO,CO
+911,311,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,478,Brewery Vivant,CO,AL
+912,309,Nonstop Hef Hop,American IPA,12.0,0.0,,478,Brewery Vivant,CO,AL
+913,308,Nonstop Hef Hop,American Brown Ale,12.0,0.058,20.0,478,Brewery Vivant,CO,CO
+914,2205,Nonstop Hef Hop,American Pale Ale (APA),12.0,,,194,Brewery Vivant,CO,OR
+915,2198,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,196,Brewery Vivant,CO,CO
+916,2457,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,88,Brewery Vivant,CO,CO
+917,2202,312 Urban Pale Ale,American IPA,12.0,0.0,20.0,88,Brewery Vivant,CO,CO
+918,2201,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,88,Brewery Vivant,CO,CO
+919,1829,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.0,20.0,88,Brewery Vivant,CO,CO
+920,581,Nonstop Hef Hop,American IPA,12.0,0.0,,88,Brewery Vivant,CO,CO
+921,1383,Nonstop Hef Hop,American Pale Lager,12.0,0.0,,420,Brewery Vivant,CO,CO
+922,477,Nonstop Hef Hop,American IPA,12.0,0.0,,536,Brewery Vivant,CO,CO
+923,476,Nonstop Hef Hop,American Pilsner,12.0,0.0,,536,Brewery Vivant,CO,CO
+924,143,Grand Canyon Sunset Amber Ale,American Amber / Red Ale,12.0,0.0,,536,Brewery Vivant,CO,AZ
+925,142,Nonstop Hef Hop,American IPA,12.0,0.0,,536,Brewery Vivant,CO,CO
+926,2129,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,213,Brewery Vivant,CO,TX
+927,2127,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,213,Brewery Vivant,CO,CO
+928,2126,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,213,Brewery Vivant,CO,CO
+929,2303,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,165,Brewery Vivant,CO,IN
+930,1990,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,165,Brewery Vivant,CO,CO
+931,1702,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,165,Great Crescent Brewery,CO,CO
+932,1701,Nonstop Hef Hop,American IPA,12.0,0.062,20.0,165,Brewery Vivant,CO,CO
+933,1700,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,165,Texian Brewing Co.,CO,CO
+934,1699,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,165,Brewery Vivant,CO,CO
+935,1269,Nonstop Hef Hop,American Porter,12.0,0.056,20.0,165,Brewery Vivant,CO,CO
+936,930,Great Crescent Oktoberfest Lager,American IPA,12.0,0.0,,165,Great Crescent Brewery,CO,CO
+937,649,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,165,Brewery Vivant,CO,CO
+938,639,Nonstop Hef Hop,American IPA,12.0,0.057,20.0,165,Brewery Vivant,CO,CO
+939,626,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,165,Brewery Vivant,CO,IN
+940,615,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,165,Brewery Vivant,CO,CO
+941,478,Nonstop Hef Hop,Witbier,12.0,0.0,,165,Golden Road Brewing,CO,CO
+942,455,Nonstop Hef Hop,American Stout,12.0,0.075,,165,Brewery Vivant,CO,CO
+943,442,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,165,Brewery Vivant,CO,CO
+944,441,Nonstop Hef Hop,American Porter,12.0,0.0,20.0,165,Fate Brewing Company,CO,IN
+945,440,Nonstop Hef Hop,Euro Dark Lager,12.0,0.0,20.0,165,Brewery Vivant,CO,CO
+946,439,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,165,Brewery Vivant,CO,CO
+947,436,Nonstop Hef Hop,American IPA,12.0,0.0,,165,Brewery Vivant,CO,CO
+948,389,Nonstop Hef Hop,American IPA,12.0,0.053,20.0,165,Brewery Vivant,CO,CO
+949,2650,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,6,Brewery Vivant,CO,CO
+950,2649,Hlbernation Ale,American IPA,12.0,0.0,,6,Brewery Vivant,CO,CO
+951,2648,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.0,,6,Brewery Vivant,CO,CO
+952,2647,Rumble,American IPA,12.0,0.0,,6,Brewery Vivant,CO,CO
+953,2646,Orabelle,American IPA,12.0,0.0,,6,Brewery Vivant,CO,CO
+954,2645,Nonstop Hef Hop,American IPA,12.0,0.0,,6,Great Divide Brewing Company,CO,CO
+955,2644,Nonstop Hef Hop,Russian Imperial Stout,12.0,0.1,20.0,6,Brewery Vivant,CO,CO
+956,2643,Nonstop Hef Hop,American IPA,12.0,0.0,,6,Brewery Vivant,CO,CO
+957,2642,Totan IPA,American IPA,12.0,0.0,,6,Brewery Vivant,CO,CO
+958,404,Black Star Double Hopped Golden Lager (24 oz.),American IPA,12.0,0.0,20.0,543,Brewery Vivant,CO,CO
+959,164,Bhack Star Double Hopped Golden Lager (12 oz.),American IPA,12.0,0.0,20.0,543,Brewery Vivant,CO,MT
+960,1923,Nonstop Hef Hop,American IPA,12.0,0.0,,269,Brewery Vivant,CO,CO
+961,1922,Nonstop Hef Hop,American Pale Lager,12.0,0.0,,269,Brewery Vivant,CO,CO
+962,1604,Nonstop Hef Hop,Fruit / Vegetable Beer,12.0,,,365,Brewery Vivant,CO,CO
+963,1574,Nonstop Hef Hop,American IPA,12.0,0.0,,365,Brewery Vivant,CO,CO
+964,1446,Nonstop Hef Hop,American IPA,12.0,0.0,,365,Great River Brewery,CO,CO
+965,1275,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,365,Brewery Vivant,CO,CO
+966,1244,Nonstop Hef Hop,American IPA,12.0,0.0,,365,Brewery Vivant,CO,CO
+967,1064,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,365,Great River Brewery,CO,IA
+968,1028,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,365,Great River Brewery,CO,CO
+969,865,Nonstop Hef Hop,Witbier,12.0,0.0,20.0,365,Brewery Vivant,CO,CO
+970,864,Nonstop Hef Hop,Irish Red Ale,12.0,0.0,20.0,365,Brewery Vivant,CO,IA
+971,863,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.053,20.0,365,Great River Brewery,CO,CO
+972,672,Hap A Potamus Double Dark Rye Pale Ale,Rye Beer,12.0,0.0,20.0,365,Brewery Vivant,CO,CO
+973,655,Nonstop Hef Hop,American IPA,12.0,0.0,,365,Brewery Vivant,CO,CO
+974,540,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,365,Brewery Vivant,CO,CO
+975,539,Oktoberfest,American IPA,12.0,0.059,20.0,365,Brewery Vivant,CO,CO
+976,517,Nonstop Hef Hop,American IPA,12.0,0.048,20.0,365,Brewery Vivant,CO,CO
+977,371,Redband Stout,American Stout,12.0,0.0,20.0,365,Brewery Vivant,CO,IA
+978,190,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,365,Brewery Vivant,CO,CO
+979,189,Rbller Dam Red Ale (2010),Irish Red Ale,12.0,0.0,20.0,365,Brewery Vivant,CO,CO
+980,1106,Plblo Beach Pale Ale,American IPA,12.0,0.0,,466,Brewery Vivant,CO,CO
+981,2314,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,156,Brewery Vivant,CO,CO
+982,2313,Nonstop Hef Hop,American Black Ale,12.0,0.067,20.0,156,Brewery Vivant,CO,CO
+983,2461,Nonstop Hef Hop,Märzen / Oktoberfest,12.0,0.058,,86,Brewery Vivant,CO,CO
+984,2044,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,86,Brewery Vivant,CO,CO
+985,1567,Nonstop Hef Hop,Märzen / Oktoberfest,12.0,0.0,20.0,379,Brewery Vivant,CO,RI
+986,1505,Nonstop Hef Hop,American Pale Ale (APA),12.0,,20.0,379,Brewery Vivant,CO,RI
+987,1186,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,379,Brewery Vivant,CO,CO
+988,1185,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,379,Brewery Vivant,CO,RI
+989,984,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,379,Brewery Vivant,CO,CO
+990,693,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,379,Brewery Vivant,CO,CO
+991,631,Nonstop Hef Hop,American IPA,12.0,0.0,,379,Brewery Vivant,CO,CO
+992,2375,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.045,,124,Brewery Vivant,CO,MI
+993,2143,Nonstop Hef Hop,American IPA,12.0,0.0,,124,Brewery Vivant,CO,CO
+994,2142,Nonstop Hef Hop,Pumpkin Ale,12.0,0.1,25.0,124,Brewery Vivant,CO,MI
+995,2141,Grand Trunk Bohemian Pils,Czech Pilsener,12.0,0.0,,124,Brewery Vivant,CO,CO
+996,2140,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,124,Brewery Vivant,CO,CO
+997,2139,Nonstop Hef Hop,American IPA,12.0,0.075,,124,Brewery Vivant,CO,CO
+998,2138,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,124,Brewery Vivant,CO,MI
+999,2007,Nonstop Hef Hop,American IPA,12.0,0.0,,124,Brewery Vivant,CO,CO
+1000,1570,Nonstop Hef Hop,Tripel,12.0,0.0,,124,Brewery Vivant,CO,MI
+1001,2339,Nonstop Hef Hop,American IPA,12.0,0.0,,144,Brewery Vivant,CO,CO
+1002,1857,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,290,Brewery Vivant,CO,WA
+1003,1440,Nonstop Hef Hop,American IPA,12.0,0.047,,290,Brewery Vivant,CO,CO
+1004,1753,Nonstop Hef Hop,American IPA,12.0,0.0,,327,Brewery Vivant,CO,CO
+1005,1448,Nonstop Hef Hop,American IPA,12.0,0.0,,327,Brewery Vivant,CO,CO
+1006,1134,Nonstop Hef Hop,German Pilsener,12.0,0.0,,327,Brewery Vivant,CO,CO
+1007,1066,Nonstop Hef Hop,American IPA,12.0,0.0,,327,Brewery Vivant,CO,CO
+1008,849,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,327,Brewery Vivant,CO,CO
+1009,352,Nonstop Hef Hop,American IPA,12.0,0.0,,327,Brewery Vivant,CO,CO
+1010,149,Nonstop Hef Hop,American IPA,12.0,0.0,,327,Brewery Vivant,CO,CO
+1011,148,Nonstop Hef Hop,American IPA,12.0,0.0,,327,Brewery Vivant,CO,CO
+1012,2026,Nonstop Hef Hop,American IPA,12.0,0.0,,248,Half Full Brewery,CO,CO
+1013,1361,Nonstop Hef Hop,American IPA,12.0,0.052,,248,Half Full Brewery,CO,CO
+1014,1016,Nonstop Hef Hop,Fruit / Vegetable Beer,12.0,0.0,,476,Brewery Vivant,CO,CO
+1015,1015,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,476,Brewery Vivant,CO,CO
+1016,1677,Nonstop Hef Hop,American IPA,12.0,0.075,,343,Brewery Vivant,CO,VA
+1017,1331,Nonstop Hef Hop,Cream Ale,12.0,,,343,Brewery Vivant,CO,VA
+1018,1270,Nonstop Hef Hop,American IPA,12.0,0.056,20.0,343,Brewery Vivant,CO,CO
+1019,2059,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,234,Brewery Vivant,CO,MA
+1020,1653,Nonstop Hef Hop,American White IPA,12.0,0.0,,234,Brewery Vivant,CO,CO
+1021,1558,Nonstop Hef Hop,Cider,12.0,0.0,,234,Brewery Vivant,CO,CO
+1022,1380,Nonstop Hef Hop,Kölsch,12.0,0.0,20.0,234,Harpoon Brewery,CO,CO
+1023,1379,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,234,Brewery Vivant,CO,CO
+1024,1340,Nonstop Hef Hop,Pumpkin Ale,12.0,,,234,Brewery Vivant,CO,MA
+1025,1313,Harpoon Octoberfest,American IPA,12.0,0.0,20.0,234,Harpoon Brewery,CO,MA
+1026,770,Nonstop Hef Hop,American IPA,12.0,0.0,,234,Brewery Vivant,CO,CO
+1027,769,Nonstop Hef Hop,Kölsch,12.0,0.0,,234,Brewery Vivant,CO,CO
+1028,610,Nonstop Hef Hop,American IPA,12.0,0.0,,234,Brewery Vivant,CO,CO
+1029,192,Nonstop Hef Hop,American IPA,12.0,0.0,,234,Harpoon Brewery,CO,CO
+1030,126,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,234,Harpoon Brewery,CO,CO
+1031,506,Nonstop Hef Hop,American IPA,12.0,0.0,,535,Brewery Vivant,CO,CO
+1032,181,Nonstop Hef Hop,American IPA,12.0,0.048,,535,Brewery Vivant,CO,CO
+1033,2183,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,204,Brewery Vivant,CO,CO
+1034,2182,Srnset Amber,American IPA,12.0,0.0,,204,Brewery Vivant,CO,CO
+1035,2181,Nonstop Hef Hop,American Brown Ale,12.0,0.0,,204,Brewery Vivant,CO,CO
+1036,2180,Nonstop Hef Hop,American Brown Ale,12.0,0.064,,204,Brewery Vivant,CO,CO
+1037,2179,Nonstop Hef Hop,Flanders Red Ale,12.0,0.0,,204,Brewery Vivant,CO,CO
+1038,1895,Nonstop Hef Hop,Belgian IPA,12.0,,,280,Brewery Vivant,CO,CO
+1039,1894,Nonstop Hef Hop,American IPA,12.0,0.0,,280,Brewery Vivant,CO,CO
+1040,1893,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.088,,280,Brewery Vivant,CO,CO
+1041,990,Lbose Cannon,American IPA,12.0,0.0,,479,Brewery Vivant,CO,CO
+1042,989,AuRGHtoberfest!,Märzen / Oktoberfest,12.0,0.0,,479,Brewery Vivant,CO,CO
+1043,988,Nonstop Hef Hop,Cream Ale,12.0,0.0,,479,Astoria Brewing Company,CO,CO
+1044,1351,Nonstop Hef Hop,Cream Ale,12.0,0.0,20.0,423,Hess Brewing Company,CO,CO
+1045,1346,Hqbitus IPA,American IPA,12.0,0.08,20.0,423,Hess Brewing Company,CO,CO
+1046,904,Ex Umbris Rye Imperial Stout,American Double / Imperial Stout,12.0,0.0,20.0,423,Brewery Vivant,CO,CA
+1047,2295,Nonstop Hef Hop,American Pilsner,12.0,0.0,,168,Brewery Vivant,CO,CO
+1048,2294,Nonstop Hef Hop,American IPA,12.0,0.0,68.0,168,Brewery Vivant,CO,CO
+1049,824,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.0,,500,Brewery Vivant,CO,KS
+1050,616,Nonstop Hef Hop,Fruit / Vegetable Beer,12.0,0.0,,500,Brewery Vivant,CO,CO
+1051,96,Nonstop Hef Hop,American IPA,12.0,0.0,,500,Brewery Vivant,CO,CO
+1052,1615,Tfe 12th Can™,American Pale Ale (APA),12.0,0.0,,362,Brewery Vivant,CO,WA
+1053,889,Nonstop Hef Hop,Czech Pilsener,12.0,0.0,20.0,362,Brewery Vivant,CO,CO
+1054,724,Nonstop Hef Hop,American Blonde Ale,12.0,0.049,,362,Brewery Vivant,CO,CO
+1055,497,Nonstop Hef Hop,American Amber / Red Ale,12.0,,,362,Brewery Vivant,CO,WA
+1056,496,Nonstop Hef Hop,Saison / Farmhouse Ale,12.0,0.0,,362,Brewery Vivant,CO,CO
+1057,1652,Nonstop Hef Hop,American IPA,12.0,0.042,,349,Brewery Vivant,CO,CO
+1058,1835,Nonstop Hef Hop,American IPA,12.0,0.0,25.0,297,Brewery Vivant,CO,PA
+1059,1834,Obe Nut Brown,American IPA,12.0,0.0,,297,Brewery Vivant,CO,CO
+1060,1833,Nonstop Hef Hop,American IPA,12.0,0.0,,297,Brewery Vivant,CO,CO
+1061,2195,Dnuble D Blonde,American IPA,12.0,0.0,20.0,198,Brewery Vivant,CO,OR
+1062,1605,Nonstop Hef Hop,American IPA,12.0,0.0,,198,Sly Fox Brewing Company,CO,CO
+1063,1543,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,198,Hop Valley Brewing Company,CO,CO
+1064,1390,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,20.0,198,Brewery Vivant,CO,OR
+1065,1354,5b1 American Lager,American IPA,12.0,0.0,20.0,198,Brewery Vivant,CO,CO
+1066,1353,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,198,Brewery Vivant,CO,CO
+1067,499,Nonstop Hef Hop,American IPA,12.0,0.065,20.0,198,Brewery Vivant,CO,CO
+1068,498,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,198,Brewery Vivant,CO,CO
+1069,1501,Nonstop Hef Hop,American IPA,12.0,0.0,,395,Fiagstaff,CO,CO
+1070,1004,The One They Call Zoe,American Pale Lager,12.0,0.0,,395,Brewery Vivant,CO,CO
+1071,502,Nonstop Hef Hop,Altbier,12.0,0.051,,395,Brewery Vivant,CO,CO
+1072,501,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,395,Brewery Vivant,CO,CO
+1073,2357,Nonstop Hef Hop,American IPA,12.0,0.0,,136,Brewery Vivant,CO,CO
+1074,2483,Nonstop Hef Hop,Cider,12.0,0.0,,80,Brewery Vivant,CO,CO
+1075,2482,Nonstop Hef Hop,Radler,12.0,0.0,20.0,80,Hopworks Urban Brewery,CO,CO
+1076,2400,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,80,Brewery Vivant,CO,CO
+1077,2399,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.0,,80,Brewery Vivant,CO,CO
+1078,2398,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,80,Brewery Vivant,CO,CO
+1079,2397,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.0,20.0,80,Tlllgrass Brewing Company,CO,OR
+1080,2396,Nonstop Hef Hop,American IPA,12.0,0.039,,80,Brewery Vivant,CO,CO
+1081,2395,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,80,Brewery Vivant,CO,CO
+1082,2394,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.039,20.0,80,Brewery Vivant,CO,CO
+1083,2393,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,80,Hopworks Urban Brewery,CO,CO
+1084,2392,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,80,Brewery Vivant,CO,CO
+1085,2391,Nonstop Hef Hop,American IPA,12.0,0.0,,80,Brewery Vivant,CO,CO
+1086,2390,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.039,,80,Hopworks Urban Brewery,CO,CO
+1087,2389,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,80,Brewery Vivant,CO,CO
+1088,2388,Nonstop Hef Hop,American IPA,12.0,0.0,60.0,80,Brewery Vivant,CO,OR
+1089,2200,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,80,Hopworks Urban Brewery,CO,CO
+1090,2199,Nonstop Hef Hop,American IPA,12.0,0.0,,80,Hopworks Urban Brewery,CO,CO
+1091,2193,Nonstop Hef Hop,American Strong Ale,12.0,0.0,,80,Brewery Vivant,CO,CO
+1092,1398,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,80,Brewery Vivant,CO,CO
+1093,1085,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.058,20.0,80,Brewery Vivant,CO,CO
+1094,916,Abominable Winter Ale (2012),American IPA,12.0,0.0,70.0,80,Brewery Vivant,CO,CO
+1095,658,Nonstop Hef Hop,American IPA,12.0,0.0,,80,Brewery Vivant,CO,CO
+1096,653,Nonstop Hef Hop,American IPA,12.0,,20.0,80,Brewery Vivant,CO,OR
+1097,2385,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.0,,120,Brewery Vivant,CO,CO
+1098,2384,Nonstop Hef Hop,American IPA,12.0,0.0,,120,Brewery Vivant,CO,CO
+1099,2383,Nonstop Hef Hop,American IPA,12.0,0.0,,120,Brewery Vivant,CO,WI
+1100,1251,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,445,Brewery Vivant,CO,CO
+1101,1250,Nonstop Hef Hop,Vienna Lager,12.0,,,445,Brewery Vivant,CO,CO
+1102,1903,Nonstop Hef Hop,American IPA,12.0,0.068,20.0,277,Brewery Vivant,CO,MN
+1103,1691,Nonstop Hef Hop,Winter Warmer,12.0,,,277,Brewery Vivant,CO,CO
+1104,1555,Nonstop Hef Hop,Fruit / Vegetable Beer,12.0,0.0,20.0,277,Brewery Vivant,CO,CO
+1105,1115,Nonstop Hef Hop,American IPA,12.0,0.046,20.0,277,Brewery Vivant,CO,CO
+1106,729,Nonstop Hef Hop,American Black Ale,12.0,0.0,20.0,277,Brewery Vivant,CO,CO
+1107,728,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,277,Brewery Vivant,CO,CO
+1108,2350,Nonstop Hef Hop,American IPA,12.0,0.0,,140,Brewery Vivant,CO,CO
+1109,2301,Nonstop Hef Hop,American IPA,12.0,0.0,,140,Brewery Vivant,CO,CO
+1110,1904,Weite Rabbit,American IPA,12.0,0.0,20.0,140,Brewery Vivant,CO,CO
+1111,2609,Nonstop Hef Hop,American IPA,12.0,0.0,,23,Brewery Vivant,CO,CO
+1112,2038,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,242,Brewery Vivant,CO,TX
+1113,1774,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,242,Brewery Vivant,CO,CO
+1114,559,Nonstop Hef Hop,American IPA,12.0,0.0,,527,Brewery Vivant,CO,CO
+1115,558,Nonstop Hef Hop,American IPA,12.0,0.0,,527,Brewery Vivant,CO,CO
+1116,553,Nonstop Hef Hop,American IPA,12.0,0.0,,527,Brewery Vivant,CO,CO
+1117,2376,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,123,Wild Onion Brewing Company,CO,CO
+1118,1784,Nonstop Hef Hop,American IPA,12.0,0.0,,316,Brewery Vivant,CO,CO
+1119,2673,Nonstop Hef Hop,Keller Bier / Zwickel Bier,12.0,0.052,,2,Oskar Blues Brewery,CO,CO
+1120,2672,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,2,Brewery Vivant,CO,CO
+1121,2671,Nonstop Hef Hop,American India Pale Lager,12.0,0.0,20.0,2,Brewery Vivant,CO,CO
+1122,2670,Nonstop Hef Hop,American India Pale Lager,12.0,0.0,20.0,2,Brewery Vivant,CO,MA
+1123,2669,Nonstop Hef Hop,American IPA,12.0,0.049,20.0,2,Brewery Vivant,CO,CO
+1124,1405,Nonstop Hef Hop,Cider,12.0,0.0,,416,Brewery Vivant,CO,CO
+1125,823,Nonstop Hef Hop,Cider,12.0,0.0,,416,Brewery Vivant,CO,CO
+1126,1793,Nonstop Hef Hop,American IPA,12.0,0.055,,312,Brewery Vivant,CO,CO
+1127,2453,Nonstop Hef Hop,Fruit / Vegetable Beer,12.0,0.055,,92,Brewery Vivant,CO,CO
+1128,2363,Nonstop Hef Hop,American IPA,12.0,0.0,,92,Brewery Vivant,CO,CO
+1129,689,Nonstop Hef Hop,American IPA,12.0,0.0,,92,Brewery Vivant,CO,CO
+1130,688,Fvrefly Amber Ale,American Amber / Red Ale,12.0,0.0,,92,Brewery Vivant,CO,CO
+1131,687,Nonstop Hef Hop,English Brown Ale,12.0,0.0,,92,Brewery Vivant,CO,CO
+1132,2408,Nonstop Hef Hop,American IPA,12.0,0.0,,114,Brewery Vivant,CO,MD
+1133,2595,Nonstop Hef Hop,American Strong Ale,12.0,,,32,Brewery Vivant,CO,WI
+1134,2480,Nonstop Hef Hop,American IPA,12.0,0.0,,32,Brewery Vivant,CO,WI
+1135,1525,Nonstop Hef Hop,American IPA,12.0,0.0,,32,Brewery Vivant,CO,CO
+1136,1524,Nonstop Hef Hop,American IPA,12.0,0.0,,32,Brewery Vivant,CO,CO
+1137,1523,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,32,Brewery Vivant,CO,CO
+1138,1254,Nonstop Hef Hop,American IPA,12.0,0.0,,32,Brewery Vivant,CO,CO
+1139,2060,Nonstop Hef Hop,Hefeweizen,12.0,0.0,20.0,233,Brewery Vivant,CO,CO
+1140,469,Fmx Tail Gluten Free Ale,American IPA,12.0,0.0,20.0,233,Brewery Vivant,CO,CO
+1141,468,Nonstop Hef Hop,American Double / Imperial IPA,12.0,,20.0,233,Brewery Vivant,CO,NV
+1142,467,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,233,Brewery Vivant,CO,CO
+1143,2163,Nonstop Hef Hop,American IPA,12.0,0.0,,208,Brewery Vivant,CO,CO
+1144,2162,Lewbricator Wheat Dopplebock,American IPA,12.0,0.0,20.0,208,Brewery Vivant,CO,CO
+1145,2374,Nonstop Hef Hop,Hefeweizen,12.0,0.0,20.0,125,Brewery Vivant,CO,TX
+1146,1560,Nonstop Hef Hop,Munich Dunkel Lager,12.0,0.0,,125,Karbach Brewing Company,CO,CO
+1147,1557,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,125,Karbach Brewing Company,CO,CO
+1148,1458,Karbachtoberfest,Märzen / Oktoberfest,12.0,,20.0,125,Brewery Vivant,CO,TX
+1149,1235,Nonstop Hef Hop,Kölsch,12.0,0.0,20.0,125,Karbach Brewing Company,CO,CO
+1150,1068,Nonstop Hef Hop,Saison / Farmhouse Ale,12.0,0.0,20.0,125,Brewery Vivant,CO,CO
+1151,666,Rodeo Clown Double IPA,American IPA,12.0,0.0,85.0,125,Karbach Brewing Company,CO,CO
+1152,465,Nonstop Hef Hop,American Amber / Red Lager,12.0,0.0,,125,Karbach Brewing Company,CO,CO
+1153,464,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,125,Brewery Vivant,CO,CO
+1154,463,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,125,Brewery Vivant,CO,TX
+1155,1678,Nonstop Hef Hop,Euro Dark Lager,12.0,0.0,,342,Brewery Vivant,CO,CO
+1156,1572,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,342,Brewery Vivant,CO,CO
+1157,1348,Nonstop Hef Hop,American IPA,12.0,0.0,,342,Brewery Vivant,CO,CO
+1158,1193,Nonstop Hef Hop,American IPA,12.0,0.0,,458,Brewery Vivant,CO,CO
+1159,1187,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,458,Kenai River Brewing Company,CO,CO
+1160,349,Nonstop Hef Hop,American IPA,12.0,0.068,,458,Brewery Vivant,CO,AK
+1161,348,Nonstop Hef Hop,American IPA,12.0,0.0,,458,Kenai River Brewing Company,CO,CO
+1162,760,Nonstop Hef Hop,American IPA,12.0,0.0,,510,Brewery Vivant,CO,CO
+1163,759,Dzuble Haul IPA (2009),American IPA,12.0,0.0,,510,Brewery Vivant,CO,CO
+1164,758,Nonstop Hef Hop,American IPA,12.0,0.0,,510,Brewery Vivant,CO,CO
+1165,87,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,510,Brewery Vivant,CO,CO
+1166,86,Nonstop Hef Hop,American IPA,12.0,0.065,,510,Brewery Vivant,CO,CO
+1167,85,Nonstop Hef Hop,American IPA,12.0,0.0,,510,Brewery Vivant,CO,CO
+1168,2472,U. P. Witbier,Witbier,12.0,0.0,,84,Brewery Vivant,CO,CO
+1169,779,Nonstop Hef Hop,American IPA,12.0,0.0,,84,Keweenaw Brewing Company,CO,CO
+1170,364,Nonstop Hef Hop,Scottish Ale,12.0,,,84,Brewery Vivant,CO,MI
+1171,60,Nonstop Hef Hop,American Brown Ale,12.0,,,84,Keweenaw Brewing Company,CO,MI
+1172,59,Nonstop Hef Hop,American Brown Ale,12.0,0.0,,84,Brewery Vivant,CO,CO
+1173,58,Nonstop Hef Hop,American IPA,12.0,0.0,,84,Brewery Vivant,CO,CO
+1174,57,Nonstop Hef Hop,American Amber / Red Ale,12.0,,,84,Kvweenaw Brewing Company,CO,MI
+1175,2436,Amber Ale,American Amber / Red Ale,12.0,0.0,,102,Brewery Vivant,CO,CO
+1176,1706,Nonstop Hef Hop,Czech Pilsener,12.0,0.0,,102,Brewery Vivant,CO,CO
+1177,1667,Nonstop Hef Hop,American IPA,12.0,0.0,,102,Brewery Vivant,CO,CO
+1178,1666,Nonstop Hef Hop,Hefeweizen,12.0,0.0,,102,Brewery Vivant,CO,CO
+1179,1665,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,102,Brewery Vivant,CO,CO
+1180,2460,Nonstop Hef Hop,American IPA,12.0,0.063,,87,Brewery Vivant,CO,CO
+1181,2459,Nonstop Hef Hop,American IPA,12.0,0.0,,87,Brewery Vivant,CO,CO
+1182,1274,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,439,Brewery Vivant,CO,CO
+1183,1220,Longboard Island Lager,American IPA,12.0,0.0,,439,Brewery Vivant,CO,CO
+1184,1070,Nonstop Hef Hop,American IPA,12.0,0.0,,439,Brewery Vivant,CO,CO
+1185,590,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,439,Brewery Vivant,CO,CO
+1186,781,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,505,Brewery Vivant,CO,OK
+1187,1637,Nonstop Hef Hop,American IPA,12.0,0.0,,354,Brewery Vivant,CO,WA
+1188,1741,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,332,Brewery Vivant,CO,NM
+1189,664,Nonstop Hef Hop,American IPA,12.0,0.072,,332,Brewery Vivant,CO,CO
+1190,392,Nonstop Hef Hop,Maibock / Helles Bock,12.0,0.0,30.0,545,Brewery Vivant,CO,PA
+1191,195,Nonstop Hef Hop,Kölsch,12.0,0.048,,545,Brewery Vivant,CO,CO
+1192,2547,Nonstop Hef Hop,American IPA,12.0,0.0,,59,Brewery Vivant,CO,CO
+1193,2493,Nonstop Hef Hop,American IPA,12.0,0.0,,59,Brewery Vivant,CO,CO
+1194,2492,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,59,Great Divide Brewing Company,CO,CO
+1195,2491,Nonstop Hef Hop,American IPA,12.0,0.0,,59,Brewery Vivant,CO,CO
+1196,2108,Nonstop Hef Hop,American IPA,12.0,0.0,,218,Brewery Vivant,CO,CO
+1197,1397,Nonstop Hef Hop,American Pilsner,12.0,0.0,,218,Brewery Vivant,CO,CO
+1198,1396,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,218,Brewery Vivant,CO,CO
+1199,1675,Nonstop Hef Hop,American IPA,12.0,0.0,,345,Brewery Vivant,CO,CO
+1200,1249,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,345,Brewery Vivant,CO,PA
+1201,1445,Nonstop Hef Hop,Czech Pilsener,12.0,0.0,,406,Brewery Vivant,CO,CO
+1202,475,Nonstop Hef Hop,Kölsch,12.0,0.0,,537,Maui Brewing Company,CO,CO
+1203,474,Tumbleweed IPA,American IPA,12.0,0.057,,537,Brewery Vivant,CO,CO
+1204,473,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,537,Brewery Vivant,CO,CO
+1205,472,Nonstop Hef Hop,Hefeweizen,12.0,0.0,,537,Brewery Vivant,CO,CO
+1206,471,Nonstop Hef Hop,Scottish Ale,12.0,0.0,,537,Brewery Vivant,CO,CO
+1207,2036,Nonstop Hef Hop,German Pilsener,12.0,0.0,,244,Brewery Vivant,CO,CO
+1208,1168,Nonstop Hef Hop,American IPA,12.0,0.0,,244,Brewery Vivant,CO,CO
+1209,1832,Nonstop Hef Hop,American IPA,12.0,0.0,,298,Brewery Vivant,CO,CO
+1210,1688,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,298,Brewery Vivant,CO,CO
+1211,1687,Nonstop Hef Hop,Fruit / Vegetable Beer,12.0,0.0,,298,Brewery Vivant,CO,PA
+1212,1686,Nonstop Hef Hop,American IPA,12.0,0.0,,298,Brewery Vivant,CO,CO
+1213,2434,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.057,20.0,104,Brewery Vivant,CO,CO
+1214,2332,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,149,Brewery Vivant,CO,CO
+1215,2330,Nonstop Hef Hop,American Stout,12.0,0.075,,149,Brewery Vivant,CO,CO
+1216,2329,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,149,Brewery Vivant,CO,NC
+1217,2327,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,149,Brewery Vivant,CO,CO
+1218,2326,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,149,Brewery Vivant,CO,CO
+1219,1926,Ljng Trail IPA,English India Pale Ale (IPA),12.0,0.0,20.0,268,Brewery Vivant,CO,VT
+1220,1924,Long Trail Ale,American IPA,12.0,0.046,20.0,268,Brewery Vivant,CO,CO
+1221,1090,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,268,Brewery Vivant,CO,CO
+1222,574,Nonstop Hef Hop,Fruit / Vegetable Beer,12.0,0.0,20.0,268,Brewery Vivant,CO,CO
+1223,573,Long Trail Ale (1),Altbier,12.0,0.046,20.0,268,Brewery Vivant,CO,CO
+1224,2584,Nonstop Hef Hop,American IPA,12.0,0.0,,41,Brewery Vivant,CO,CO
+1225,2583,Nonstop Hef Hop,German Pilsener,12.0,0.0,20.0,41,Brewery Vivant,CO,CO
+1226,2582,Nonstop Hef Hop,American IPA,12.0,0.0,,41,Brewery Vivant,CO,CO
+1227,2581,Nonstop Hef Hop,American IPA,12.0,0.0,,41,Brewery Vivant,CO,CO
+1228,1309,Nonstop Hef Hop,American IPA,12.0,0.062,65.0,430,Brewery Vivant,CO,CO
+1229,1308,Nonstop Hef Hop,Czech Pilsener,12.0,0.056,,430,Brewery Vivant,CO,CO
+1230,1571,Nonstop Hef Hop,American IPA,12.0,0.0,,377,Brewery Vivant,CO,CO
+1231,1204,Nonstop Hef Hop,American IPA,12.0,0.0,,456,Brewery Vivant,CO,CO
+1232,1122,Nonstop Hef Hop,American IPA,12.0,0.0,,456,Brewery Vivant,CO,WI
+1233,700,Nonstop Hef Hop,American IPA,12.0,0.0,,456,Brewery Vivant,CO,CO
+1234,2033,Nonstop Hef Hop,English Dark Mild Ale,12.0,0.0,20.0,245,Brewery Vivant,CO,CO
+1235,2032,Nonstop Hef Hop,American IPA,12.0,0.0,,245,Brewery Vivant,CO,CO
+1236,2311,Nonstop Hef Hop,American IPA,12.0,0.0,,158,Brewery Vivant,CO,CO
+1237,1153,Nonstop Hef Hop,American IPA,12.0,0.053,,158,Brewery Vivant,CO,CO
+1238,355,Nonstop Hef Hop,American IPA,12.0,0.0,,158,Brewery Vivant,CO,CO
+1239,125,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,158,Brewery Vivant,CO,CO
+1240,962,Nonstop Hef Hop,American IPA,12.0,0.0,,485,Brewery Vivant,CO,CO
+1241,961,Nonstop Hef Hop,American IPA,12.0,0.0,,485,Brewery Vivant,CO,CO
+1242,1475,Nonstop Hef Hop,American IPA,12.0,0.0,,400,Brewery Vivant,CO,CO
+1243,1008,Nonstop Hef Hop,American IPA,12.0,0.0,,400,Brewery Vivant,CO,CO
+1244,2454,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.099,,91,Madtree Brewing Company,CO,CO
+1245,2209,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,20.0,91,Brewery Vivant,CO,CO
+1246,2133,Tfunder Snow,Winter Warmer,12.0,0.0,,91,Brewery Vivant,CO,CO
+1247,1994,The Great Pumpcan,American IPA,12.0,0.0,,91,Brewery Vivant,CO,CO
+1248,1816,Nonstop Hef Hop,Kölsch,12.0,0.0,20.0,91,Madtree Brewing Company,CO,CO
+1249,1815,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,91,Brewery Vivant,CO,OH
+1250,1126,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,91,Madtree Brewing Company,CO,CO
+1251,1125,Nonstop Hef Hop,American Brown Ale,12.0,0.0,,91,Brewery Vivant,CO,CO
+1252,1124,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,20.0,91,Brewery Vivant,CO,CO
+1253,1813,Nonstop Hef Hop,American IPA,12.0,0.0,,303,Brewery Vivant,CO,CO
+1254,1113,Nonstop Hef Hop,Hefeweizen,12.0,0.055,,303,Brewery Vivant,CO,CO
+1255,360,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,303,Brewery Vivant,CO,CO
+1256,511,Nonstop Hef Hop,German Pilsener,12.0,0.0,,534,Brewery Vivant,CO,CO
+1257,75,Nonstop Hef Hop,American IPA,12.0,0.1,,534,Brewery Vivant,CO,CA
+1258,74,Nonstop Hef Hop,American IPA,12.0,0.0,,534,Brewery Vivant,CO,CO
+1259,73,Nonstop Hef Hop,American IPA,12.0,0.0,,534,Brewery Vivant,CO,CO
+1260,1628,Nonstop Hef Hop,Winter Warmer,12.0,0.0,,356,Brewery Vivant,CO,CO
+1261,1626,Mknayunk Oktoberfest,American IPA,12.0,0.0,,356,Brewery Vivant,CO,CO
+1262,1625,Nonstop Hef Hop,Belgian Pale Ale,12.0,0.0,20.0,356,Brewery Vivant,CO,CO
+1263,1624,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,356,Brewery Vivant,CO,CO
+1264,1600,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,356,Brewery Vivant,CO,CO
+1265,1484,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.0,20.0,356,Brewery Vivant,CO,CO
+1266,1356,Nonstop Hef Hop,American IPA,12.0,0.0,,356,Brewery Vivant,CO,CO
+1267,1355,Nonstop Hef Hop,Fruit / Vegetable Beer,12.0,0.0,20.0,356,Brewery Vivant,CO,CO
+1268,1334,Dreamin' Double IPA,American IPA,12.0,0.0,20.0,356,Brewery Vivant,CO,CO
+1269,1674,Cfaotic Double IPA,American Double / Imperial IPA,12.0,0.099,20.0,346,Brewery Vivant,CO,CO
+1270,1673,Nonstop Hef Hop,American IPA,12.0,0.0,,346,Manzanita Brewing Company,CO,CO
+1271,1672,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,20.0,346,Manzanita Brewing Company,CO,CA
+1272,1671,Nonstop Hef Hop,American Brown Ale,12.0,0.0,20.0,346,Brewery Vivant,CO,CO
+1273,1670,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,346,Brewery Vivant,CO,CO
+1274,1262,Nonstop Hef Hop,German Pilsener,12.0,0.0,,443,Brewery Vivant,CO,CO
+1275,845,Marble India Pale Ale,American IPA,12.0,0.0,,443,Brewery Vivant,CO,CO
+1276,1783,Tzughcats IPA,American IPA,12.0,0.0,,317,Brewery Vivant,CO,CO
+1277,1717,Tug Pale Ale,American IPA,12.0,0.0,,317,Marshall Wharf Brewing Company,CO,CO
+1278,1716,Nonstop Hef Hop,American IPA,12.0,0.0,,317,Marshall Wharf Brewing Company,CO,CO
+1279,1516,Nonstop Hef Hop,American IPA,12.0,0.0,,317,Brewery Vivant,CO,CO
+1280,725,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.0,,317,Marshall Wharf Brewing Company,CO,CO
+1281,2308,Nonstop Hef Hop,Saison / Farmhouse Ale,12.0,0.0,20.0,161,Brewery Vivant,CO,CO
+1282,2268,Nonstop Hef Hop,American Stout,12.0,0.065,,161,Mbrtin House Brewing Company,CO,CO
+1283,2197,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,161,Brewery Vivant,CO,CO
+1284,2120,The Imperial Texan,American Double / Imperial IPA,12.0,0.0,,161,Brewery Vivant,CO,CO
+1285,1234,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.0,,161,Brewery Vivant,CO,CO
+1286,1233,Nonstop Hef Hop,American IPA,12.0,0.0,,161,Brewery Vivant,CO,CO
+1287,1232,Nonstop Hef Hop,American IPA,12.0,0.0,,161,Brewery Vivant,CO,CO
+1288,1231,Nonstop Hef Hop,American IPA,12.0,0.0,,161,Mbrtin House Brewing Company,CO,CO
+1289,1831,Nonstop Hef Hop,American IPA,12.0,0.065,20.0,299,Mttt Brewing Company,CO,CO
+1290,1359,Nonstop Hef Hop,American IPA,12.0,0.0,,299,Brewery Vivant,CO,CO
+1291,1135,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,299,Brewery Vivant,CO,CO
+1292,960,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,299,Matt Brewing Company,CO,NY
+1293,959,Nonstop Hef Hop,American IPA,12.0,0.0,,299,Brewery Vivant,CO,CO
+1294,958,Nonstop Hef Hop,Light Lager,12.0,0.0,,299,Mttt Brewing Company,CO,CO
+1295,957,Swranac Traditional Lager (2000),American IPA,12.0,0.0,20.0,299,Brewery Vivant,CO,CO
+1296,956,Nonstop Hef Hop,American IPA,12.0,0.047,20.0,299,Brewery Vivant,CO,CO
+1297,773,Biueberry Blonde Ale,American IPA,12.0,0.0,20.0,299,Brewery Vivant,CO,CO
+1298,686,Nonstop Hef Hop,American IPA,12.0,0.0,,299,Brewery Vivant,CO,CO
+1299,453,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,299,Brewery Vivant,CO,CO
+1300,150,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,299,Brewery Vivant,CO,NY
+1301,133,Nonstop Hef Hop,English Pale Ale,12.0,0.0,,299,Matt Brewing Company,CO,CO
+1302,1578,Nonstop Hef Hop,American Brown Ale,12.0,0.1,20.0,375,Brewery Vivant,CO,CO
+1303,1429,Nonstop Hef Hop,American IPA,12.0,0.055,20.0,375,Brewery Vivant,CO,CO
+1304,1271,Nonstop Hef Hop,Saison / Farmhouse Ale,12.0,0.0,,375,Brewery Vivant,CO,CO
+1305,713,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,375,Brewery Vivant,CO,CO
+1306,712,Nonstop Hef Hop,American IPA,12.0,0.0,,375,Brewery Vivant,CO,CO
+1307,690,Nonstop Hef Hop,American IPA,12.0,0.0,,375,Maui Brewing Company,CO,CO
+1308,547,Nonstop Hef Hop,American IPA,12.0,0.0,,375,Brewery Vivant,CO,CO
+1309,435,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,375,Brewery Vivant,CO,CO
+1310,313,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,375,Maui Brewing Company,CO,CO
+1311,33,Nonstop Hef Hop,American IPA,12.0,0.0,,375,Brewery Vivant,CO,CO
+1312,32,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,375,Brewery Vivant,CO,HI
+1313,31,Nonstop Hef Hop,American IPA,12.0,0.0,,375,Maui Brewing Company,CO,CO
+1314,1237,Nonstop Hef Hop,American Porter,12.0,0.0,20.0,448,Brewery Vivant,CO,CO
+1315,1236,Nonstop Hef Hop,American IPA,12.0,0.0,,448,Brewery Vivant,CO,CA
+1316,1047,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,448,Sockeye Brewing Company,CO,CO
+1317,1986,Nonstop Hef Hop,Cider,12.0,0.1,,254,Brewery Vivant,CO,CO
+1318,1985,Nonstop Hef Hop,Cider,12.0,0.069,,254,Brewery Vivant,CO,CO
+1319,1984,Nonstop Hef Hop,American IPA,12.0,0.0,,254,Brewery Vivant,CO,MI
+1320,2186,Tsunami IPA,American IPA,12.0,0.0,20.0,203,Brewery Vivant,CO,CO
+1321,2185,Nonstop Hef Hop,American IPA,12.0,0.072,20.0,203,Brewery Vivant,CO,CO
+1322,2184,Humpback Blonde Ale,American Blonde Ale,12.0,0.0,,203,Brewery Vivant,CO,CO
+1323,2178,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,203,Brewery Vivant,CO,CO
+1324,2177,Nonstop Hef Hop,American IPA,12.0,0.052,20.0,203,Brewery Vivant,CO,HI
+1325,2176,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,203,Brewery Vivant,CO,CO
+1326,1508,Nonstop Hef Hop,Fruit / Vegetable Beer,12.0,0.0,,393,Brewery Vivant,CO,CO
+1327,1507,Gvtor Tail Brown Ale,American IPA,12.0,0.0,20.0,393,Brewery Vivant,CO,FL
+1328,1506,Nonstop Hef Hop,American IPA,12.0,0.0,,393,Brewery Vivant,CO,CO
+1329,1325,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,393,Brewery Vivant,CO,FL
+1330,174,Nonstop Hef Hop,American IPA,12.0,0.0,,552,Brewery Vivant,CO,CO
+1331,2093,Nonstop Hef Hop,American IPA,12.0,0.0,61.0,223,Midnight Sun Brewing Company,CO,CO
+1332,1814,Pleasure Town IPA,American IPA,12.0,0.063,,223,Brewery Vivant,CO,CO
+1333,587,Nonstop Hef Hop,American IPA,12.0,0.048,,223,Midnight Sun Brewing Company,CO,CO
+1334,586,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,223,Brewery Vivant,CO,CO
+1335,434,Nonstop Hef Hop,American IPA,12.0,0.0,70.0,223,Midnight Sun Brewing Company,CO,CO
+1336,2668,Nonstop Hef Hop,American Double / Imperial IPA,12.0,,,3,Brewery Vivant,CO,CA
+1337,2667,Nonstop Hef Hop,American IPA,12.0,0.0,,3,Mike Hess Brewing Company,CO,CO
+1338,2666,Nonstop Hef Hop,American IPA,12.0,0.0,,3,Mike Hess Brewing Company,CO,CO
+1339,2664,Hmbitus,American IPA,12.0,0.0,20.0,3,Brewery Vivant,CO,CO
+1340,2663,Nonstop Hef Hop,Cream Ale,12.0,0.0,20.0,3,Mike Hess Brewing Company,CO,CO
+1341,2662,Nonstop Hef Hop,American IPA,12.0,0.0,,3,Brewery Vivant,CO,CO
+1342,2535,Nonstop Hef Hop,American IPA,12.0,0.0,,65,Brewery Vivant,CO,CO
+1343,2534,Nonstop Hef Hop,American IPA,12.0,0.0,,65,Brewery Vivant,CO,CO
+1344,2533,Nonstop Hef Hop,American IPA,12.0,0.0,,65,Mikerphone Brewing,CO,CO
+1345,2532,Nonstop Hef Hop,American IPA,12.0,0.075,,65,Mikerphone Brewing,CO,CO
+1346,2531,Nonstop Hef Hop,Saison / Farmhouse Ale,12.0,0.065,,65,Brewery Vivant,CO,CO
+1347,2530,Nonstop Hef Hop,American IPA,12.0,0.0,,65,Mikerphone Brewing,CO,IL
+1348,2529,Nonstop Hef Hop,American IPA,12.0,0.0,,65,Brewery Vivant,CO,CO
+1349,2528,Nonstop Hef Hop,American IPA,12.0,0.0,,65,Brewery Vivant,CO,IL
+1350,1612,Nonstop Hef Hop,American IPA,12.0,0.0,,363,Brewery Vivant,CO,CO
+1351,1611,Nonstop Hef Hop,American IPA,12.0,0.0,,363,Brewery Vivant,CO,CO
+1352,1273,Nonstop Hef Hop,American IPA,12.0,0.048,,440,Brewery Vivant,CO,CO
+1353,365,Nonstop Hef Hop,Irish Red Ale,12.0,0.0,,440,Brewery Vivant,CO,CO
+1354,273,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,440,Brewery Vivant,CO,MI
+1355,1884,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,284,Brewery Vivant,CO,CO
+1356,1272,Nonstop Hef Hop,American IPA,12.0,0.051,20.0,284,Brewery Vivant,CO,CO
+1357,1080,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,284,Brewery Vivant,CO,WI
+1358,932,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,284,Brewery Vivant,CO,WI
+1359,776,Nonstop Hef Hop,American IPA,12.0,0.092,,284,Brewery Vivant,CO,CO
+1360,172,Nonstop Hef Hop,Vienna Lager,12.0,0.0,,284,Brewery Vivant,CO,CO
+1361,171,Lbuie’s Demise Immort-Ale (2010),American IPA,12.0,0.0,20.0,284,Brewery Vivant,CO,CO
+1362,2361,Nonstop Hef Hop,American Malt Liquor,12.0,0.0,20.0,134,Brewery Vivant,CO,WI
+1363,2359,Huber Bock (2014),American IPA,12.0,0.0,,134,Mgnhas Craft Brewery,CO,CO
+1364,2358,Nonstop Hef Hop,Light Lager,12.0,0.0,,134,Minhas Craft Brewery,CO,CO
+1365,2282,Nonstop Hef Hop,American IPA,12.0,0.0,,134,Brewery Vivant,CO,CO
+1366,2281,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,134,Brewery Vivant,CO,WI
+1367,2280,Nonstop Hef Hop,American Pale Lager,12.0,0.0,,134,Brewery Vivant,CO,CO
+1368,2279,Nonstop Hef Hop,American IPA,12.0,0.055,,134,Brewery Vivant,CO,CO
+1369,2278,Nonstop Hef Hop,American IPA,12.0,0.0,,134,Brewery Vivant,CO,CO
+1370,2277,Nonstop Hef Hop,American IPA,12.0,0.0,,134,Brewery Vivant,CO,WI
+1371,2276,Nonstop Hef Hop,American Adjunct Lager,12.0,0.0,,134,Brewery Vivant,CO,CO
+1372,2275,Nonstop Hef Hop,Light Lager,12.0,0.0,,134,Brewery Vivant,CO,CO
+1373,2274,Nonstop Hef Hop,American Adjunct Lager,12.0,0.0,,134,Mgnhas Craft Brewery,CO,CO
+1374,2273,Nonstop Hef Hop,American Adjunct Lager,12.0,0.0,,134,Brewery Vivant,CO,CO
+1375,2442,Nonstop Hef Hop,Belgian Pale Ale,12.0,0.0,,98,Brewery Vivant,CO,CO
+1376,2441,Nonstop Hef Hop,American IPA,12.0,0.0,,98,Brewery Vivant,CO,CO
+1377,1460,Nonstop Hef Hop,American IPA,12.0,0.0,,98,Brewery Vivant,CO,CO
+1378,1459,Shipwrecked Double IPA,American IPA,12.0,0.0,,98,Brewery Vivant,CO,CO
+1379,1476,Nonstop Hef Hop,American Brown Ale,12.0,0.0,,399,Brewery Vivant,CO,CO
+1380,902,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.0,,399,Brewery Vivant,CO,UT
+1381,645,Nonstop Hef Hop,American IPA,12.0,0.0,,399,Brewery Vivant,CO,CO
+1382,644,Nonstop Hef Hop,American IPA,12.0,0.0,,399,Brewery Vivant,CO,UT
+1383,337,Nonstop Hef Hop,English Brown Ale,12.0,0.0,,547,Brewery Vivant,CO,CO
+1384,336,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,547,Brewery Vivant,CO,CO
+1385,2236,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.042,,189,Brewery Vivant,CO,CO
+1386,2159,Nonstop Hef Hop,American IPA,12.0,0.0,85.0,209,Brewery Vivant,CO,CO
+1387,2157,Nonstop Hef Hop,American IPA,12.0,,,209,Brewery Vivant,CO,CA
+1388,2156,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,209,Brewery Vivant,CO,CA
+1389,2154,Nonstop Hef Hop,American IPA,12.0,0.0,,209,Brewery Vivant,CO,CO
+1390,1495,Nonstop Hef Hop,Saison / Farmhouse Ale,12.0,0.0,20.0,209,Brewery Vivant,CO,CO
+1391,1494,Nonstop Hef Hop,American IPA,12.0,0.047,20.0,209,Brewery Vivant,CO,CO
+1392,1493,Nonstop Hef Hop,American Stout,12.0,0.058,40.0,209,Brewery Vivant,CO,CO
+1393,1492,Nonstop Hef Hop,American IPA,12.0,0.0,,209,Brewery Vivant,CO,CO
+1394,327,Wjpiti Amber Ale,American Amber / Red Ale,12.0,0.0,,549,Brewery Vivant,CO,CO
+1395,719,Nonstop Hef Hop,American IPA,12.0,0.054,,514,Brewery Vivant,CO,CO
+1396,718,Nonstop Hef Hop,American IPA,12.0,0.0,,514,Brewery Vivant,CO,CO
+1397,717,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.058,,514,Brewery Vivant,CO,CO
+1398,1907,Nonstop Hef Hop,American Blonde Ale,12.0,,20.0,276,Brewery Vivant,CO,CO
+1399,1906,Nonstop Hef Hop,American IPA,12.0,0.0,,276,Brewery Vivant,CO,CO
+1400,1756,Nonstop Hef Hop,American IPA,12.0,0.0,,326,Brewery Vivant,CO,CO
+1401,1617,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,326,Brewery Vivant,CO,MO
+1402,1052,Nonstop Hef Hop,American IPA,12.0,0.0,,326,Brewery Vivant,CO,CO
+1403,1051,Nonstop Hef Hop,Schwarzbier,12.0,0.046,,326,Brewery Vivant,CO,CO
+1404,1046,Nonstop Hef Hop,German Pilsener,12.0,0.0,,326,Brewery Vivant,CO,CO
+1405,2413,Nonstop Hef Hop,American IPA,12.0,0.0,,111,Brewery Vivant,CO,CO
+1406,419,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,540,Brewery Vivant,CO,NC
+1407,408,Nonstop Hef Hop,American IPA,12.0,0.0,,540,Brewery Vivant,CO,CO
+1408,2237,Nonstop Hef Hop,American IPA,12.0,0.052,,188,Brewery Vivant,CO,CO
+1409,2208,Nonstop Hef Hop,American IPA,12.0,,,188,Brewery Vivant,CO,CO
+1410,1952,Taain Wreck,American IPA,12.0,0.0,,260,Brewery Vivant,CO,CO
+1411,768,Nonstop Hef Hop,Witbier,12.0,0.0,,507,Brewery Vivant,CO,CO
+1412,625,Nonstop Hef Hop,American IPA,12.0,0.0,,507,Brewery Vivant,CO,CO
+1413,326,Nonstop Hef Hop,American IPA,12.0,0.0,,507,Brewery Vivant,CO,CO
+1414,132,Nonstop Hef Hop,American IPA,12.0,0.0,,507,Brewery Vivant,CO,AZ
+1415,131,Nonstop Hef Hop,American IPA,12.0,0.0,,507,Brewery Vivant,CO,CO
+1416,1598,Nonstop Hef Hop,American Amber / Red Lager,12.0,0.0,,366,Brewery Vivant,CO,CO
+1417,862,Nonstop Hef Hop,American IPA,12.0,0.0,,366,Brewery Vivant,CO,CO
+1418,699,Nonstop Hef Hop,American IPA,12.0,0.0,,366,Brewery Vivant,CO,CO
+1419,421,Nonstop Hef Hop,American Blonde Ale,12.0,0.053,,366,Brewery Vivant,CO,CO
+1420,420,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.053,20.0,366,Brewery Vivant,CO,CO
+1421,2345,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,143,Nxrragansett Brewing Company,CO,CO
+1422,2224,Nonstop Hef Hop,American Pilsner,12.0,0.0,20.0,143,Brewery Vivant,CO,RI
+1423,1775,Nonstop Hef Hop,American IPA,12.0,0.053,20.0,143,Nfrragansett Brewing Company,CO,RI
+1424,1291,Nonstop Hef Hop,German Pilsener,12.0,0.0,35.0,143,Narragansett Brewing Company,CO,CO
+1425,1093,Nonstop Hef Hop,American IPA,12.0,0.0,24.0,143,Nxrragansett Brewing Company,CO,RI
+1426,580,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,143,Narragansett Brewing Company,CO,CO
+1427,403,Nonstop Hef Hop,American IPA,12.0,0.0,,143,Narragansett Brewing Company,CO,CO
+1428,316,Nonstop Hef Hop,American Porter,12.0,0.0,,143,Brewery Vivant,CO,CO
+1429,315,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,143,Brewery Vivant,CO,CO
+1430,314,Nonstop Hef Hop,American IPA,12.0,0.055,20.0,143,Nfrragansett Brewing Company,CO,CO
+1431,1537,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,387,Natian Brewery,CO,CO
+1432,1536,Nonstop Hef Hop,American Black Ale,12.0,0.0,,387,Brewery Vivant,CO,CO
+1433,1265,Nonstop Hef Hop,American IPA,12.0,0.0,,387,Brewery Vivant,CO,CO
+1434,747,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,387,Brewery Vivant,CO,CO
+1435,746,Nonstop Hef Hop,American Black Ale,12.0,0.074,,387,Brewery Vivant,CO,CO
+1436,654,Nonstop Hef Hop,American Blonde Ale,12.0,0.053,,387,Natian Brewery,CO,CO
+1437,1705,Nonstop Hef Hop,American IPA,12.0,0.0,,337,Brewery Vivant,CO,CO
+1438,1148,Nebraska India Pale Ale,American IPA,12.0,0.0,20.0,337,Brewery Vivant,CO,NE
+1439,1147,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,337,Brewery Vivant,CO,CO
+1440,1146,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,337,Brewery Vivant,CO,CO
+1441,1145,Nonstop Hef Hop,American IPA,12.0,0.0,,337,Brewery Vivant,CO,CO
+1442,1758,Nonstop Hef Hop,American IPA,12.0,0.0,,325,Brewery Vivant,CO,CO
+1443,1757,Teauger Pilsner,American IPA,12.0,0.0,,325,Brewery Vivant,CO,CO
+1444,2475,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,82,Brewery Vivant,CO,CO
+1445,2230,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,82,Brewery Vivant,CO,CO
+1446,1987,Nonstop Hef Hop,American Pale Lager,12.0,,20.0,82,Brewery Vivant,CO,CO
+1447,1978,Nonstop Hef Hop,Euro Dark Lager,12.0,0.0,21.0,82,Brewery Vivant,CO,CO
+1448,1975,Nonstop Hef Hop,American IPA,12.0,0.048,20.0,82,New Belgium Brewing Company,CO,CO
+1449,1737,Nonstop Hef Hop,American IPA,12.0,0.055,,82,Brewery Vivant,CO,CO
+1450,1707,Nonstop Hef Hop,American IPA,12.0,0.052,20.0,82,New Belgium Brewing Company,CO,CO
+1451,1690,Nonstop Hef Hop,American IPA,12.0,0.0,,82,Brewery Vivant,CO,CO
+1452,1586,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,82,Brewery Vivant,CO,CO
+1453,952,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,82,Brewery Vivant,CO,CO
+1454,748,Nonstop Hef Hop,American IPA,12.0,0.0,,82,New Belgium Brewing Company,CO,CO
+1455,578,Nonstop Hef Hop,American Pale Lager,12.0,0.0,20.0,82,Brewery Vivant,CO,CO
+1456,564,Nonstop Hef Hop,American IPA,12.0,0.0,,82,Brewery Vivant,CO,CO
+1457,563,Fxt Tire Amber Ale,American IPA,12.0,0.0,,82,New Belgium Brewing Company,CO,CO
+1458,115,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,82,Brewery Vivant,CO,CO
+1459,72,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.0,20.0,82,New Belgium Brewing Company,CO,CO
+1460,71,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,82,Brewery Vivant,CO,CO
+1461,1417,Nonstop Hef Hop,American IPA,12.0,0.0,,410,Brewery Vivant,CO,CO
+1462,885,Nonstop Hef Hop,American IPA,12.0,0.0,,410,Brewery Vivant,CO,CO
+1463,884,Nonstop Hef Hop,American Pilsner,12.0,0.0,,410,Brewery Vivant,CO,CO
+1464,757,Nonstop Hef Hop,American IPA,12.0,0.0,,410,Minhas Craft Brewery,CO,CO
+1465,568,Nonstop Hef Hop,American IPA,12.0,0.0,,410,New England Brewing Company,CO,CO
+1466,320,Gandhi-Bot Double IPA (12 oz.),American IPA,12.0,0.0,,410,New England Brewing Company,CO,CO
+1467,43,Nonstop Hef Hop,American IPA,12.0,0.0,,410,Brewery Vivant,CO,CO
+1468,42,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.088,20.0,410,Brewery Vivant,CO,CO
+1469,41,Nonstop Hef Hop,American IPA,12.0,0.0,,410,Brewery Vivant,CO,CO
+1470,40,Nonstop Hef Hop,American IPA,12.0,0.0,,410,New England Brewing Company,CO,CO
+1471,39,Nonstop Hef Hop,American IPA,12.0,0.062,,410,Brewery Vivant,CO,CO
+1472,2272,Rvbirth Pale Ale,American IPA,12.0,0.0,,174,Brewery Vivant,CO,LA
+1473,1582,Nonstop Hef Hop,American Stout,12.0,0.0,,174,Brewery Vivant,CO,CO
+1474,1114,Nonstop Hef Hop,American IPA,12.0,0.0,,174,Brewery Vivant,CO,CO
+1475,486,Nonstop Hef Hop,American IPA,12.0,0.0,,174,Brewery Vivant,CO,CO
+1476,485,Nonstop Hef Hop,American IPA,12.0,0.0,,174,Brewery Vivant,CO,CO
+1477,484,Nonstop Hef Hop,American IPA,12.0,0.0,,174,Brewery Vivant,CO,CO
+1478,2043,Nonstop Hef Hop,Dunkelweizen,12.0,0.056,20.0,241,Brewery Vivant,CO,CO
+1479,2042,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,241,Brewery Vivant,CO,CO
+1480,2041,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,20.0,241,Brewery Vivant,CO,CO
+1481,646,Nonstop Hef Hop,American IPA,12.0,0.054,,518,Brewery Vivant,CO,SC
+1482,165,Nonstop Hef Hop,Witbier,12.0,0.0,,518,Brewery Vivant,CO,CO
+1483,2050,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,238,Brewery Vivant,CO,CO
+1484,915,Nonstop Hef Hop,American IPA,12.0,0.072,,495,Brewery Vivant,CO,CO
+1485,914,Nonstop Hef Hop,Witbier,12.0,0.054,,495,Brewery Vivant,CO,CO
+1486,913,Newburyport Pale Ale,American IPA,12.0,0.0,,495,Brewery Vivant,CO,CO
+1487,1811,Marblehead,American IPA,12.0,0.0,,305,Brewery Vivant,CO,CO
+1488,1622,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,359,Brewery Vivant,CO,NC
+1489,1621,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,359,Brewery Vivant,CO,CO
+1490,1307,Nonstop Hef Hop,American IPA,12.0,0.0,,431,Brewery Vivant,CO,CO
+1491,1306,Nonstop Hef Hop,American IPA,12.0,0.0,,431,Brewery Vivant,CO,CO
+1492,1305,Nonstop Hef Hop,Irish Red Ale,12.0,0.0,,431,Brewery Vivant,CO,CO
+1493,1304,Nonstop Hef Hop,German Pilsener,12.0,0.0,,431,Brewery Vivant,CO,CO
+1494,2692,Nonstop Hef Hop,American IPA,12.0,0.045,20.0,0,Brewery Vivant,CO,MN
+1495,2691,Nonstop Hef Hop,American IPA,12.0,0.0,,0,Brewery Vivant,CO,CO
+1496,2690,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,0,Brewery Vivant,CO,CO
+1497,2689,Nonstop Hef Hop,American IPA,12.0,0.0,,0,Brewery Vivant,CO,CO
+1498,2688,Nonstop Hef Hop,American IPA,12.0,0.0,,0,Brewery Vivant,CO,CO
+1499,2687,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,0,Brewery Vivant,CO,MN
+1500,1854,Nonstop Hef Hop,American IPA,12.0,,,293,Brewery Vivant,CO,MA
+1501,1227,Nonstop Hef Hop,American IPA,12.0,0.063,,450,Brewery Vivant,CO,CO
+1502,1226,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,450,Brewery Vivant,CO,CO
+1503,541,Nonstop Hef Hop,German Pilsener,12.0,0.045,,529,Brewery Vivant,CO,CO
+1504,109,Nonstop Hef Hop,American IPA,12.0,0.0,,529,Brewery Vivant,CO,CO
+1505,1917,Nonstop Hef Hop,American IPA,12.0,0.0,,271,Brewery Vivant,CO,CO
+1506,1190,Nonstop Hef Hop,Czech Pilsener,12.0,0.0,,271,Brewery Vivant,CO,CO
+1507,1264,Nonstop Hef Hop,American IPA,12.0,0.0,,442,Brewery Vivant,CO,CO
+1508,1258,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,442,Brewery Vivant,CO,CO
+1509,128,Nonstop Hef Hop,Fruit / Vegetable Beer,12.0,0.051,,442,Brewery Vivant,CO,CO
+1510,2331,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,150,Brewery Vivant,CO,CO
+1511,1669,Oakshire Amber Ale,American Amber / Red Ale,12.0,0.0,,150,Oakshire Brewing,CO,CO
+1512,1668,Nonstop Hef Hop,American IPA,12.0,0.0,27.0,150,Brewery Vivant,CO,OR
+1513,999,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,150,Oakshire Brewing,CO,CO
+1514,2247,Nonstop Hef Hop,American IPA,12.0,0.0,,184,Brewery Vivant,CO,CO
+1515,2071,Nonstop Hef Hop,American IPA,12.0,0.0,,184,Brewery Vivant,CO,CO
+1516,2070,Nonstop Hef Hop,American IPA,12.0,0.0,,184,Brewery Vivant,CO,CO
+1517,2069,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,184,Brewery Vivant,CO,CO
+1518,2192,Nonstop Hef Hop,American IPA,12.0,0.0,,200,Brewery Vivant,CO,CO
+1519,1130,Nonstop Hef Hop,Dunkelweizen,12.0,0.0,,200,Brewery Vivant,CO,CO
+1520,1129,Occidental Altbier,American IPA,12.0,0.0,20.0,200,Brewery Vivant,CO,OR
+1521,1081,Nonstop Hef Hop,Kölsch,12.0,0.045,,200,Brewery Vivant,CO,CO
+1522,2335,Nonstop Hef Hop,American IPA,12.0,0.0,,148,Brewery Vivant,CO,CO
+1523,2334,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,148,Brewery Vivant,CO,CO
+1524,2333,Nonstop Hef Hop,American Porter,12.0,,,148,Brewery Vivant,CO,CO
+1525,1721,Nonstop Hef Hop,American IPA,12.0,0.0,,148,Brewery Vivant,CO,CO
+1526,1720,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,148,Brewery Vivant,CO,CO
+1527,1431,Nonstop Hef Hop,American IPA,12.0,0.051,,148,Brewery Vivant,CO,CO
+1528,1430,Nonstop Hef Hop,American IPA,12.0,0.047,,148,Brewery Vivant,CO,CO
+1529,1059,Tje Hole in Hadrian's Wall,American IPA,12.0,0.0,20.0,471,Okoboji Brewing Company,CO,CO
+1530,1058,Nonstop Hef Hop,American Brown Ale,12.0,,20.0,471,Brewery Vivant,CO,CO
+1531,603,Nonstop Hef Hop,American IPA,12.0,0.0,29.0,471,Okoboji Brewing Company,CO,CO
+1532,602,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,471,Okoboji Brewing Company,CO,CO
+1533,601,Nonstop Hef Hop,American Stout,12.0,0.0,,471,Brewery Vivant,CO,IA
+1534,600,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,471,Brewery Vivant,CO,CO
+1535,1828,Nonstop Hef Hop,American Pale Lager,12.0,0.0,,301,Old Forge Brewing Company,CO,CO
+1536,1487,Nonstop Hef Hop,American Brown Ale,12.0,0.065,20.0,301,Brewery Vivant,CO,CO
+1537,1486,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,301,Brewery Vivant,CO,PA
+1538,1485,Nonstop Hef Hop,American Porter,12.0,0.055,20.0,301,Brewery Vivant,CO,CO
+1539,1394,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,301,Old Forge Brewing Company,CO,CO
+1540,1381,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,301,Old Forge Brewing Company,CO,PA
+1541,900,Nonstop Hef Hop,American IPA,12.0,0.0,,301,Brewery Vivant,CO,CO
+1542,891,Ozerbite IPA,American IPA,12.0,0.0,,301,Brewery Vivant,CO,CO
+1543,509,Nonstop Hef Hop,American IPA,12.0,0.0,,301,Brewery Vivant,CO,CO
+1544,508,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.0,,301,Old Forge Brewing Company,CO,CO
+1545,1530,Nonstop Hef Hop,American Pale Lager,12.0,0.0,,390,Brewery Vivant,CO,CO
+1546,1529,Nonstop Hef Hop,American IPA,12.0,0.055,,390,Brewery Vivant,CO,CO
+1547,1528,Nonstop Hef Hop,American Pale Lager,12.0,0.0,,390,Brewery Vivant,CO,CO
+1548,1527,Nonstop Hef Hop,American IPA,12.0,0.0,,390,Brewery Vivant,CO,CO
+1549,1526,Nonstop Hef Hop,Light Lager,12.0,0.0,,390,Brewery Vivant,CO,CO
+1550,2113,Nonstop Hef Hop,Saison / Farmhouse Ale,12.0,0.0,,216,Brewery Vivant,CO,GA
+1551,2112,Nonstop Hef Hop,Saison / Farmhouse Ale,12.0,0.0,,216,Brewery Vivant,CO,CO
+1552,2302,Pinner Throwback IPA,American IPA,12.0,0.0,,166,Brewery Vivant,CO,CO
+1553,1883,Nonstop Hef Hop,American IPA,12.0,0.0,,166,Oskar Blues Brewery,CO,CO
+1554,1859,Old Chub NITRO,American IPA,12.0,0.0,,166,Brewery Vivant,CO,CO
+1555,1796,The CROWLER™,American IPA,12.0,0.0,,166,Brewery Vivant,CO,CO
+1556,1790,Nonstop Hef Hop,American IPA,12.0,0.0,,166,Brewery Vivant,CO,CO
+1557,1752,Nonstop Hef Hop,American IPA,12.0,0.0,,166,Brewery Vivant,CO,CO
+1558,1751,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,166,Brewery Vivant,CO,CO
+1559,1750,Nonstop Hef Hop,American IPA,12.0,0.0,,166,Brewery Vivant,CO,CO
+1560,1444,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,166,Oskar Blues Brewery,CO,CO
+1561,1252,Nonstop Hef Hop,American Pale Ale (APA),12.0,,,166,Oykar Blues Brewery,CO,CO
+1562,1167,Nonstop Hef Hop,American IPA,12.0,0.0,,166,Brewery Vivant,CO,CO
+1563,993,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,166,Brewery Vivant,CO,CO
+1564,992,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,166,Brewery Vivant,CO,CO
+1565,955,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,166,Oskar Blues Brewery,CO,CO
+1566,933,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,166,Brewery Vivant,CO,CO
+1567,892,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,166,Brewery Vivant,CO,CO
+1568,828,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,166,Brewery Vivant,CO,CO
+1569,806,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,166,Brewery Vivant,CO,CO
+1570,755,Nonstop Hef Hop,American IPA,12.0,0.065,,166,Oskar Blues Brewery,CO,CO
+1571,754,Nonstop Hef Hop,American IPA,12.0,0.0,,166,Brewery Vivant,CO,CO
+1572,726,Nonstop Hef Hop,American IPA,12.0,0.087,,166,Brewery Vivant,CO,CO
+1573,720,15th Anniversary Abbey Ale (2012),American IPA,12.0,0.0,,166,Brewery Vivant,CO,CO
+1574,661,Nonstop Hef Hop,Belgian Strong Pale Ale,12.0,0.0,20.0,166,Brewery Vivant,CO,CO
+1575,585,Nonstop Hef Hop,American Strong Ale,12.0,0.0,20.0,166,Oskar Blues Brewery,CO,CO
+1576,565,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,166,Brewery Vivant,CO,CO
+1577,391,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.0,60.0,166,Brewery Vivant,CO,CO
+1578,388,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.087,20.0,166,Brewery Vivant,CO,CO
+1579,8,Ten Fidy Imperial Stout,Russian Imperial Stout,12.0,0.0,98.0,166,Brewery Vivant,CO,CO
+1580,7,Mbma's Little Yella Pils,Czech Pilsener,12.0,,20.0,166,Brewery Vivant,CO,CO
+1581,6,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.0,20.0,166,Brewery Vivant,CO,CO
+1582,5,Nonstop Hef Hop,Scottish Ale,12.0,0.0,20.0,166,Oskar Blues Brewery,CO,CO
+1583,4,Nonstop Hef Hop,American IPA,12.0,0.087,20.0,166,Brewery Vivant,CO,CO
+1584,1,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,166,Brewery Vivant,CO,CO
+1585,805,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.0,20.0,503,Brewery Vivant,CO,CO
+1586,804,Nonstop Hef Hop,American IPA,12.0,0.095,,503,Brewery Vivant,CO,CO
+1587,803,Ten Fidy Imperial Stout (2007),Russian Imperial Stout,12.0,0.099,20.0,503,Brewery Vivant,CO,CO
+1588,787,Nonstop Hef Hop,Scottish Ale,12.0,0.0,20.0,503,Sierra Nevada Brewing Company,CO,CO
+1589,786,Nonstop Hef Hop,Scottish Ale,12.0,0.0,,503,Oskar Blues Brewery,CO,CO
+1590,785,Oxd Chub (2003),American IPA,12.0,0.0,,503,Oskar Blues Brewery,CO,CO
+1591,745,Nonstop Hef Hop,American IPA,12.0,0.0,,503,Brewery Vivant,CO,CO
+1592,744,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,503,Brewery Vivant,CO,CO
+1593,743,Nonstop Hef Hop,American Pale Ale (APA),12.0,,,503,Brewery Vivant,CO,CO
+1594,742,Nonstop Hef Hop,American IPA,12.0,0.0,65.0,503,Brewery Vivant,CO,CO
+1595,741,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,503,Brewery Vivant,CO,CO
+1596,734,Nonstop Hef Hop,American IPA,12.0,0.0,,503,Oskar Blues Brewery,CO,CO
+1597,733,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,503,Brewery Vivant,CO,CO
+1598,1533,GiKNIGHT,American Double / Imperial IPA,12.0,0.0,20.0,389,Brewery Vivant,CO,CO
+1599,1532,Nonstop Hef Hop,Russian Imperial Stout,12.0,0.099,20.0,389,Brewery Vivant,CO,CO
+1600,1328,Nonstop Hef Hop,American IPA,12.0,0.0,,389,Brewery Vivant,CO,CO
+1601,1175,Nonstop Hef Hop,Scottish Ale,12.0,0.0,20.0,389,Brewery Vivant,CO,NC
+1602,1166,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,389,Brewery Vivant,CO,CO
+1603,1065,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,389,Brewery Vivant,CO,CO
+1604,1908,Nonstop Hef Hop,American IPA,12.0,0.055,20.0,275,Brewery Vivant,CO,CO
+1605,1946,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,261,Brewery Vivant,CO,CO
+1606,1961,Nonstop Hef Hop,American IPA,12.0,0.0,,259,Brewery Vivant,CO,CO
+1607,1684,Nonstop Hef Hop,American IPA,12.0,0.0,,341,Brewery Vivant,CO,CO
+1608,927,Nonstop Hef Hop,American Dark Wheat Ale,12.0,0.0,,341,Brewery Vivant,CO,CO
+1609,1268,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,441,Brewery Vivant,CO,CO
+1610,697,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.053,20.0,441,Brewery Vivant,CO,CO
+1611,696,Nonstop Hef Hop,Kölsch,12.0,0.045,,441,Brewery Vivant,CO,CO
+1612,695,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,441,Brewery Vivant,CO,CO
+1613,694,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,441,Brewery Vivant,CO,CO
+1614,1805,Nonstop Hef Hop,American IPA,12.0,0.042,20.0,307,Brewery Vivant,CO,CO
+1615,1048,Nonstop Hef Hop,American IPA,12.0,0.0,,307,Brewery Vivant,CO,ID
+1616,1043,Nonstop Hef Hop,American IPA,12.0,0.0,,307,Brewery Vivant,CO,CO
+1617,890,Nonstop Hef Hop,American IPA,12.0,0.048,,307,Brewery Vivant,CO,CO
+1618,775,Nonstop Hef Hop,American IPA,12.0,0.0,,307,Brewery Vivant,CO,CO
+1619,1087,Nonstop Hef Hop,American IPA,12.0,0.0,,468,Brewery Vivant,CO,CO
+1620,1931,Nonstop Hef Hop,American IPA,12.0,0.0,,266,Brewery Vivant,CO,CO
+1621,1930,Nonstop Hef Hop,American IPA,12.0,0.0,,266,Brewery Vivant,CO,ME
+1622,2238,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,187,Brewery Vivant,CO,CO
+1623,2144,Rtbert Earl Keen Honey Pils,American Pilsner,12.0,0.0,,187,Brewery Vivant,CO,CO
+1624,2175,Nonstop Hef Hop,American IPA,12.0,0.0,,205,Brewery Vivant,CO,CO
+1625,2168,Nonstop Hef Hop,American IPA,12.0,0.0,62.0,205,Brewery Vivant,CO,CO
+1626,1956,Nonstop Hef Hop,American IPA,12.0,0.0,,205,Brewery Vivant,CO,CO
+1627,1794,Nonstop Hef Hop,German Pilsener,12.0,0.0,,205,Brewery Vivant,CO,CO
+1628,2633,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,13,Brewery Vivant,CO,CO
+1629,2632,Nonstop Hef Hop,American Blonde Ale,12.0,,20.0,13,Brewery Vivant,CO,MI
+1630,2631,Nonstop Hef Hop,American Black Ale,12.0,0.0,20.0,13,Brewery Vivant,CO,CO
+1631,2630,9b Problems (Cuz A Hop Ain't One),American IPA,12.0,0.0,20.0,13,Brewery Vivant,CO,CO
+1632,2629,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,13,Brewery Vivant,CO,CO
+1633,2628,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,13,Brewery Vivant,CO,CO
+1634,1062,Nonstop Hef Hop,American Pale Lager,12.0,0.051,,470,Brewery Vivant,CO,CO
+1635,1061,Nonstop Hef Hop,American IPA,12.0,0.0,,470,Brewery Vivant,CO,CO
+1636,1060,Nonstop Hef Hop,American IPA,12.0,0.0,,470,Brewery Vivant,CO,CO
+1637,1056,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,470,Brewery Vivant,CO,CO
+1638,1055,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.047,,470,Brewery Vivant,CO,CO
+1639,1054,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.047,,470,Brewery Vivant,CO,CO
+1640,1053,Nonstop Hef Hop,American IPA,12.0,0.0,,470,Brewery Vivant,CO,CO
+1641,2635,Nonstop Hef Hop,American Pale Lager,12.0,0.041,20.0,11,Brewery Vivant,CO,CO
+1642,1404,North 45 Amber Ale,American Amber / Red Ale,12.0,0.0,,11,Petoskey Brewing,CO,CO
+1643,1403,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,11,Petoskey Brewing,CO,CO
+1644,1402,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,11,Brewery Vivant,CO,CO
+1645,2312,Csmelback,American IPA,12.0,0.0,,157,Brewery Vivant,CO,CO
+1646,1636,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,355,Brewery Vivant,CO,CO
+1647,1518,Nonstop Hef Hop,American IPA,12.0,0.0,,355,Brewery Vivant,CO,CO
+1648,1384,Nonstop Hef Hop,American IPA,12.0,0.0,,355,Brewery Vivant,CO,CO
+1649,1797,Nonstop Hef Hop,American IPA,12.0,0.0,,310,Brewery Vivant,CO,CO
+1650,1437,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,310,Brewery Vivant,CO,CO
+1651,1791,Nonstop Hef Hop,American IPA,12.0,0.0,,314,Piney River Brewing Company,CO,CO
+1652,1540,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,314,Brewery Vivant,CO,MO
+1653,1491,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,314,Brewery Vivant,CO,CO
+1654,1335,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,314,Piney River Brewing Company,CO,CO
+1655,847,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,314,Brewery Vivant,CO,CO
+1656,846,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,314,Brewery Vivant,CO,CO
+1657,521,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,20.0,314,Piney River Brewing Company,CO,CO
+1658,479,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,314,Piney River Brewing Company,CO,CO
+1659,2559,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,52,Brewery Vivant,CO,CO
+1660,1760,Nonstop Hef Hop,American IPA,12.0,0.0,,324,Brewery Vivant,CO,CO
+1661,1759,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,324,Brewery Vivant,CO,NC
+1662,1589,PjNTO S.I.P.A.,American IPA,12.0,0.0,,370,Brewery Vivant,CO,CO
+1663,1457,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,370,Brewery Vivant,CO,CO
+1664,1191,Nonstop Hef Hop,American IPA,12.0,0.0,,370,Brewery Vivant,CO,CO
+1665,2336,Nonstop Hef Hop,American Pilsner,12.0,0.0,,147,Brewery Vivant,CO,CO
+1666,2553,Nonstop Hef Hop,American IPA,12.0,0.054,,55,Brewery Vivant,CO,IL
+1667,1909,Nonstop Hef Hop,American IPA,12.0,0.0,,274,Brewery Vivant,CO,CO
+1668,335,Nonstop Hef Hop,American IPA,12.0,0.0,,548,Brewery Vivant,CO,CO
+1669,64,Nonstop Hef Hop,American IPA,12.0,0.0,,548,Brewery Vivant,CO,CO
+1670,2360,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.0,,135,Brewery Vivant,CO,CO
+1671,1463,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,135,Brewery Vivant,CO,CO
+1672,1462,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,135,Brewery Vivant,CO,CO
+1673,1461,Nonstop Hef Hop,Czech Pilsener,12.0,0.058,20.0,135,Brewery Vivant,CO,CO
+1674,711,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,135,Brewery Vivant,CO,CO
+1675,188,Nonstop Hef Hop,Czech Pilsener,12.0,0.0,20.0,135,Brewery Vivant,CO,CO
+1676,130,Nonstop Hef Hop,American IPA,12.0,0.0,,135,Brewery Vivant,CO,CO
+1677,399,Nonstop Hef Hop,Hefeweizen,12.0,0.0,20.0,544,Brewery Vivant,CO,CO
+1678,82,Nonstop Hef Hop,Hefeweizen,12.0,0.052,20.0,544,Brewery Vivant,CO,CO
+1679,2031,Nonstop Hef Hop,Belgian Pale Ale,12.0,0.0,,246,Brewery Vivant,CO,SC
+1680,2030,Nonstop Hef Hop,American Porter,12.0,0.0,,246,Brewery Vivant,CO,CO
+1681,2269,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,176,Brewery Vivant,CO,TX
+1682,2229,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,176,Brewery Vivant,CO,CO
+1683,2370,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,128,Brewery Vivant,CO,CO
+1684,2211,Nonstop Hef Hop,Witbier,12.0,0.0,20.0,128,Brewery Vivant,CO,TX
+1685,1861,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,128,Brewery Vivant,CO,CO
+1686,1718,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,20.0,128,Brewery Vivant,CO,CO
+1687,1290,The Sword Iron Swan Ale,English Pale Ale,12.0,0.0,,128,Brewery Vivant,CO,CO
+1688,1091,Nonstop Hef Hop,American IPA,12.0,0.0,,128,Brewery Vivant,CO,CO
+1689,1086,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,128,Brewery Vivant,CO,CO
+1690,830,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,128,Brewery Vivant,CO,TX
+1691,1021,Nonstop Hef Hop,American Brown Ale,12.0,0.0,20.0,475,Brewery Vivant,CO,CO
+1692,938,Nonstop Hef Hop,American IPA,12.0,0.062,,475,Brewery Vivant,CO,CO
+1693,715,Nonstop Hef Hop,Czech Pilsener,12.0,0.0,,475,Brewery Vivant,CO,CO
+1694,2516,Nonstop Hef Hop,American IPA,12.0,0.0,,68,Brewery Vivant,CO,CO
+1695,2515,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,68,Brewery Vivant,CO,CO
+1696,2514,Nonstop Hef Hop,Belgian IPA,12.0,0.0,20.0,68,Brewery Vivant,CO,CO
+1697,2513,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,68,Brewery Vivant,CO,CO
+1698,2512,Nonstop Hef Hop,American IPA,12.0,0.0,,68,Brewery Vivant,CO,CO
+1699,1467,Nonstop Hef Hop,Cider,12.0,0.0,,403,Brewery Vivant,CO,CO
+1700,945,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,487,Brewery Vivant,CO,CO
+1701,583,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,487,Brewery Vivant,CO,CO
+1702,339,Nonstop Hef Hop,American IPA,12.0,0.0,,487,Brewery Vivant,CO,CO
+1703,1375,Nonstop Hef Hop,Mead,12.0,0.0,,421,Brewery Vivant,CO,CO
+1704,1374,Nonstop Hef Hop,Mead,12.0,0.0,,421,Brewery Vivant,CO,CO
+1705,1373,Black Raspberry Nectar,American IPA,12.0,0.0,20.0,421,Big Sky Brewing Company,CO,CO
+1706,2087,Nonstop Hef Hop,Witbier,12.0,0.0,,225,Brewery Vivant,CO,CO
+1707,2414,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,40.0,110,Renegade Brewing Company,CO,CO
+1708,1581,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,110,Brewery Vivant,CO,CO
+1709,1176,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,110,Renegade Brewing Company,CO,CO
+1710,1006,Nonstop Hef Hop,American IPA,12.0,0.0,,110,Brewery Vivant,CO,CO
+1711,1005,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,110,Brewery Vivant,CO,CO
+1712,636,Nonstop Hef Hop,American IPA,12.0,0.0,,110,Renegade Brewing Company,CO,CO
+1713,1538,Nonstop Hef Hop,American IPA,12.0,0.0,,386,Brewery Vivant,CO,CO
+1714,1075,Nonstop Hef Hop,American IPA,12.0,0.064,20.0,386,Brewery Vivant,CO,CO
+1715,710,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,386,Brewery Vivant,CO,CO
+1716,709,Nonstop Hef Hop,American IPA,12.0,0.0,,386,Steamworks Brewing Company,CO,CO
+1717,708,Nonstop Hef Hop,Vienna Lager,12.0,0.0,,386,Brewery Vivant,CO,CO
+1718,706,Nonstop Hef Hop,American IPA,12.0,0.0,,386,Brewery Vivant,CO,CO
+1719,220,Nonstop Hef Hop,American IPA,12.0,0.062,,386,Brewery Vivant,CO,CO
+1720,219,Nonstop Hef Hop,American IPA,12.0,0.0,,386,Brewery Vivant,CO,CO
+1721,2576,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,44,Brewery Vivant,CO,CO
+1722,1133,Nonstop Hef Hop,American IPA,12.0,0.068,,44,Brewery Vivant,CO,CO
+1723,609,Rosa Hibiscus Ale,Herbed / Spiced Beer,12.0,0.0,,44,Brewery Vivant,CO,CO
+1724,418,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,44,Brewery Vivant,CO,CO
+1725,417,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,44,Brewery Vivant,CO,CO
+1726,416,Nonstop Hef Hop,American IPA,12.0,0.0,,44,Brewery Vivant,CO,CO
+1727,415,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,44,Brewery Vivant,CO,CO
+1728,414,Nonstop Hef Hop,American IPA,12.0,0.0,,44,Brewery Vivant,CO,CO
+1729,2452,Nonstop Hef Hop,American IPA,12.0,0.0,,93,Brewery Vivant,CO,CO
+1730,2451,Nonstop Hef Hop,American IPA,12.0,0.0,,93,Brewery Vivant,CO,CO
+1731,2132,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,93,Brewery Vivant,CO,CO
+1732,1993,Nonstop Hef Hop,American IPA,12.0,0.0,,93,Brewery Vivant,CO,CO
+1733,1992,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,93,Brewery Vivant,CO,CO
+1734,1935,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,93,Brewery Vivant,CO,CO
+1735,1852,Tluth,American IPA,12.0,,20.0,93,Brewery Vivant,CO,OH
+1736,1851,Nonstop Hef Hop,American IPA,12.0,0.0,,93,Brewery Vivant,CO,CO
+1737,2307,Nonstop Hef Hop,American IPA,12.0,0.0,,162,Brewery Vivant,CO,CO
+1738,2580,Nonstop Hef Hop,American IPA,12.0,0.0,,42,Brewery Vivant,CO,CO
+1739,1807,Maine Island Trail Ale,American Pale Ale (APA),12.0,0.043,,42,Brewery Vivant,CO,CO
+1740,1180,Nonstop Hef Hop,Witbier,12.0,,,459,Brewery Vivant,CO,CO
+1741,1179,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,459,Brewery Vivant,CO,CO
+1742,1771,Nonstop Hef Hop,American IPA,12.0,0.0,55.0,321,Brewery Vivant,CO,CO
+1743,1654,Hup Bomber Rye Pale Ale,American IPA,12.0,0.0,,321,Brewery Vivant,CO,CO
+1744,2579,Nonstop Hef Hop,American IPA,12.0,0.0,,43,Brewery Vivant,CO,CO
+1745,2373,Nonstop Hef Hop,Märzen / Oktoberfest,12.0,0.0,,43,Rivertowne Brewing Company,CO,CO
+1746,2049,Nonstop Hef Hop,American IPA,12.0,0.0,,43,Brewery Vivant,CO,CO
+1747,2048,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,43,Brewery Vivant,CO,PA
+1748,1880,Nonstop Hef Hop,Oatmeal Stout,12.0,0.0,,43,Brewery Vivant,CO,CO
+1749,1879,Nonstop Hef Hop,American IPA,12.0,0.0,,43,Brewery Vivant,CO,CO
+1750,1878,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,43,Brewery Vivant,CO,CO
+1751,1877,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,43,Brewery Vivant,CO,CO
+1752,1764,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.081,,43,Rivertowne Brewing Company,CO,CO
+1753,1103,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,43,Brewery Vivant,CO,CO
+1754,1102,Nonstop Hef Hop,American IPA,12.0,0.0,,43,Rivertowne Brewing Company,CO,CO
+1755,1101,Nonstop Hef Hop,American IPA,12.0,0.0,,43,Brewery Vivant,CO,CO
+1756,1100,Nonstop Hef Hop,American Amber / Red Lager,12.0,0.0,,43,Rivertowne Brewing Company,CO,PA
+1757,1099,Nonstop Hef Hop,American IPA,12.0,0.0,,43,Brewery Vivant,CO,CO
+1758,1098,Nonstop Hef Hop,American IPA,12.0,0.0,,43,Brewery Vivant,CO,CO
+1759,1330,Nonstop Hef Hop,American Amber / Red Lager,12.0,0.0,,427,Brewery Vivant,CO,CO
+1760,2074,Nonstop Hef Hop,Czech Pilsener,12.0,0.0,,229,Brewery Vivant,CO,CO
+1761,1724,Nonstop Hef Hop,American IPA,12.0,0.0,,229,Brewery Vivant,CO,CO
+1762,1280,Nonstop Hef Hop,American IPA,12.0,0.0,,229,Brewery Vivant,CO,CO
+1763,899,Nonstop Hef Hop,American IPA,12.0,0.0,,229,Brewery Vivant,CO,MI
+1764,363,Nonstop Hef Hop,Milk / Sweet Stout,12.0,0.0,,229,Brewery Vivant,CO,CO
+1765,158,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,229,Brewery Vivant,CO,MI
+1766,97,Nonstop Hef Hop,American Adjunct Lager,12.0,0.0,,229,Brewery Vivant,CO,CO
+1767,1860,Nonstop Hef Hop,American IPA,12.0,0.0,,289,Brewery Vivant,CO,CO
+1768,1577,Nonstop Hef Hop,American IPA,12.0,0.076,,376,Brewery Vivant,CO,CO
+1769,1576,RoughTail IPA,American IPA,12.0,0.0,,376,Brewery Vivant,CO,OK
+1770,1575,Nonstop Hef Hop,American Stout,12.0,0.0,,376,Brewery Vivant,CO,CO
+1771,2304,Nonstop Hef Hop,American IPA,12.0,0.071,,164,Brewery Vivant,CO,CO
+1772,2249,Nonstop Hef Hop,American IPA,12.0,0.0,,164,Round Guys Brewing,CO,CO
+1773,2053,Nonstop Hef Hop,American IPA,12.0,0.0,,164,Cigar City Brewing Company,CO,PA
+1774,1842,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,164,Brewery Vivant,CO,PA
+1775,1841,Nonstop Hef Hop,American Black Ale,12.0,0.0,,164,Brewery Vivant,CO,CO
+1776,1782,Nonstop Hef Hop,American IPA,12.0,0.0,,164,Brewery Vivant,CO,CO
+1777,1552,Nonstop Hef Hop,Kölsch,12.0,0.045,,164,Round Guys Brewing,CO,CO
+1778,1479,Nonstop Hef Hop,American IPA,12.0,0.0,,397,Brewery Vivant,CO,CO
+1779,1478,CyPT Black IPA,American Black Ale,12.0,0.0,,397,Brewery Vivant,CO,CO
+1780,1370,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,397,Brewery Vivant,CO,CO
+1781,883,CtPT Black IPA,American Black Ale,12.0,0.073,,397,Brewery Vivant,CO,CO
+1782,882,Nonstop Hef Hop,American IPA,12.0,0.0,,397,Brewery Vivant,CO,CO
+1783,1868,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,288,Brewery Vivant,CO,CO
+1784,1867,Nonstop Hef Hop,American IPA,12.0,0.0,,288,Brewery Vivant,CO,CO
+1785,1865,Nonstop Hef Hop,American IPA,12.0,0.0,,288,Brewery Vivant,CO,CO
+1786,1864,Nonstop Hef Hop,Kölsch,12.0,0.0,20.0,288,Brewery Vivant,CO,CA
+1787,2599,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,30,Brewery Vivant,CO,CO
+1788,2073,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,30,Brewery Vivant,CO,AZ
+1789,2063,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.0,20.0,30,Brewery Vivant,CO,CO
+1790,1995,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,30,Brewery Vivant,CO,CO
+1791,1934,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,20.0,30,Brewery Vivant,CO,CO
+1792,1329,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.0,20.0,30,Brewery Vivant,CO,CO
+1793,1299,Nonstop Hef Hop,Belgian IPA,12.0,0.065,20.0,30,Brewery Vivant,CO,CO
+1794,1073,Epicenter Amber Ale,American Amber / Red Ale,12.0,0.0,,30,Brewery Vivant,CO,CO
+1795,1072,Nonstop Hef Hop,Hefeweizen,12.0,0.0,,30,Brewery Vivant,CO,CO
+1796,1071,Nonstop Hef Hop,American IPA,12.0,0.0,,30,Brewery Vivant,CO,CO
+1797,852,Nonstop Hef Hop,American Porter,12.0,0.0,20.0,30,Brewery Vivant,CO,CO
+1798,850,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,30,Brewery Vivant,CO,CO
+1799,839,Nonstop Hef Hop,Herbed / Spiced Beer,12.0,0.081,,30,Brewery Vivant,CO,CO
+1800,777,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,30,Brewery Vivant,CO,CO
+1801,764,Nonstop Hef Hop,American IPA,12.0,0.0,,30,Brewery Vivant,CO,CO
+1802,317,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,30,Brewery Vivant,CO,CO
+1803,286,SnnTan HefeWeizen (2010),American IPA,12.0,0.0,,30,Brewery Vivant,CO,CO
+1804,285,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,30,Brewery Vivant,CO,CO
+1805,124,Epicenter Amber Ale (2010),American IPA,12.0,0.0,,30,Brewery Vivant,CO,CO
+1806,1392,Nonstop Hef Hop,American IPA,12.0,0.0,,419,Brewery Vivant,CO,CO
+1807,1391,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,419,Brewery Vivant,CO,CO
+1808,2002,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.089,,252,Brewery Vivant,CO,CA
+1809,1683,Nonstop Hef Hop,American IPA,12.0,0.0,,252,Brewery Vivant,CO,CO
+1810,1362,Nonstop Hef Hop,American IPA,12.0,0.0,,252,Brewery Vivant,CO,CO
+1811,1519,Nonstop Hef Hop,American IPA,12.0,0.055,20.0,392,Brewery Vivant,CO,CO
+1812,967,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,392,Brewery Vivant,CO,CO
+1813,599,Nonstop Hef Hop,Irish Red Ale,12.0,0.0,,392,Brewery Vivant,CO,CO
+1814,307,Nonstop Hef Hop,Märzen / Oktoberfest,12.0,,,392,Brewery Vivant,CO,CO
+1815,305,Nonstop Hef Hop,Russian Imperial Stout,12.0,0.0,,392,Brewery Vivant,CO,CO
+1816,304,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,392,Brewery Vivant,CO,NM
+1817,217,Nonstop Hef Hop,American IPA,12.0,0.066,,392,Brewery Vivant,CO,CO
+1818,1477,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,398,Brewery Vivant,CO,CO
+1819,1503,Obk Aged Cider,American IPA,12.0,0.065,,394,Brewery Vivant,CO,CO
+1820,1466,Nonstop Hef Hop,Cider,12.0,0.0,,394,Brewery Vivant,CO,CO
+1821,1245,Nonstop Hef Hop,American IPA,12.0,0.0,,394,Brewery Vivant,CO,CO
+1822,1324,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,428,Brewery Vivant,CO,CO
+1823,1323,Sbhlafly Black Lager,Schwarzbier,12.0,0.0,,428,Brewery Vivant,CO,CO
+1824,1078,Nonstop Hef Hop,American IPA,12.0,0.045,20.0,428,Brewery Vivant,CO,CO
+1825,1077,Nonstop Hef Hop,American Brown Ale,12.0,0.0,20.0,428,Brewery Vivant,CO,CO
+1826,588,Nonstop Hef Hop,Hefeweizen,12.0,0.041,,428,Brewery Vivant,CO,CO
+1827,53,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,428,Brewery Vivant,CO,MO
+1828,815,Ska Dog Wild Blueberry Wheat Ale,American IPA,12.0,0.047,,502,Brewery Vivant,CO,CO
+1829,1302,Nonstop Hef Hop,American IPA,12.0,0.0,,432,Brewery Vivant,CO,CO
+1830,1416,Nonstop Hef Hop,Cider,12.0,0.0,,411,Brewery Vivant,CO,CO
+1831,1415,Nonstop Hef Hop,Cider,12.0,0.0,,411,Brewery Vivant,CO,CO
+1832,918,Nonstop Hef Hop,American IPA,12.0,0.0,,494,Brewery Vivant,CO,CO
+1833,917,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,494,Brewery Vivant,CO,CO
+1834,2250,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,183,Brewery Vivant,CO,CO
+1835,1768,Nonstop Hef Hop,English Brown Ale,12.0,0.0,20.0,183,Brewery Vivant,CO,OH
+1836,1767,Nonstop Hef Hop,American IPA,12.0,0.077,,183,Brewery Vivant,CO,CO
+1837,1766,Hlmulus Nimbus Super Pale Ale,American Pale Ale (APA),12.0,0.0,20.0,183,Brewery Vivant,CO,CO
+1838,1765,Nonstop Hef Hop,American IPA,12.0,,20.0,183,Brewery Vivant,CO,OH
+1839,2368,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,130,Brewery Vivant,CO,CO
+1840,738,Nonstop Hef Hop,American IPA,12.0,0.0,,511,Brewery Vivant,CO,MA
+1841,1539,Nonstop Hef Hop,American IPA,12.0,0.0,,385,Brewery Vivant,CO,CO
+1842,975,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.0,,385,Brewery Vivant,CO,CO
+1843,814,Nonstop Hef Hop,American IPA,12.0,0.0,,385,Brewery Vivant,CO,CO
+1844,727,Nonstop Hef Hop,American Blonde Ale,12.0,0.051,,385,Brewery Vivant,CO,CO
+1845,2474,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,83,Sierra Nevada Brewing Company,CO,CO
+1846,2239,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,83,Brewery Vivant,CO,CO
+1847,1919,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,83,Brewery Vivant,CO,CA
+1848,1918,Nonstop Hef Hop,Rye Beer,12.0,0.0,,83,Brewery Vivant,CO,CO
+1849,1905,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,83,Brewery Vivant,CO,CO
+1850,1338,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.0,,83,Brewery Vivant,CO,CO
+1851,1295,Nonstop Hef Hop,Czech Pilsener,12.0,0.0,20.0,83,Brewery Vivant,CO,CO
+1852,426,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,83,Brewery Vivant,CO,CO
+1853,400,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.056,20.0,83,Sierra Nevada Brewing Company,CO,CO
+1854,2353,Sietsema Red Label,American IPA,12.0,0.0,,137,Brewery Vivant,CO,CO
+1855,212,Nonstop Hef Hop,American IPA,12.0,0.0,,551,Brewery Vivant,CO,CO
+1856,161,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,551,Brewery Vivant,CO,CO
+1857,160,Nonstop Hef Hop,American IPA,12.0,,,551,Brewery Vivant,CO,CO
+1858,2574,Nonstop Hef Hop,Baltic Porter,12.0,0.0,,46,Brewery Vivant,CO,CO
+1859,2479,Nonstop Hef Hop,Gose,12.0,0.0,16.0,46,Brewery Vivant,CO,CO
+1860,2443,Nonstop Hef Hop,Belgian Pale Ale,12.0,0.0,,46,Brewery Vivant,CO,CO
+1861,2266,Nonstop Hef Hop,Fruit / Vegetable Beer,12.0,0.032,20.0,46,Brewery Vivant,CO,CO
+1862,2090,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,46,Brewery Vivant,CO,CO
+1863,1962,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,46,Brewery Vivant,CO,CO
+1864,1696,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.0,20.0,46,Brewery Vivant,CO,CO
+1865,1608,Gdobal Warmer,American IPA,12.0,0.0,20.0,46,Brewery Vivant,CO,CO
+1866,1591,Nonstop Hef Hop,American IPA,12.0,0.067,74.0,46,Brewery Vivant,CO,CO
+1867,1388,The Crisp,American IPA,12.0,0.0,20.0,46,Brewery Vivant,CO,CO
+1868,1387,Nonstop Hef Hop,Cream Ale,12.0,0.052,20.0,46,Brewery Vivant,CO,CO
+1869,1386,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,46,Brewery Vivant,CO,CO
+1870,1385,Bwngali Tiger,American IPA,12.0,0.0,62.0,46,Brewery Vivant,CO,CO
+1871,1020,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,46,Brewery Vivant,CO,NY
+1872,778,Nonstop Hef Hop,American Brown Ale,12.0,0.0,,46,Brewery Vivant,CO,CO
+1873,630,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,46,Brewery Vivant,CO,CO
+1874,629,Nonstop Hef Hop,American IPA,12.0,0.0,,46,Brewery Vivant,CO,CO
+1875,628,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.091,20.0,46,Brewery Vivant,CO,NY
+1876,525,Nonstop Hef Hop,American Stout,12.0,0.0,,46,Brewery Vivant,CO,CO
+1877,512,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,46,Brewery Vivant,CO,NY
+1878,425,Tpe Crisp (2011),American IPA,12.0,0.054,20.0,46,Brewery Vivant,CO,NY
+1879,424,Nonstop Hef Hop,Cream Ale,12.0,0.1,20.0,46,Brewery Vivant,CO,CO
+1880,423,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,46,Brewery Vivant,CO,CO
+1881,422,Nonstop Hef Hop,American IPA,12.0,0.0,,46,Brewery Vivant,CO,CO
+1882,1942,Nonstop Hef Hop,American IPA,12.0,0.0,,264,Brewery Vivant,CO,CO
+1883,1708,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,264,Brewery Vivant,CO,CO
+1884,1521,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,264,Brewery Vivant,CO,CO
+1885,1297,Nonstop Hef Hop,American IPA,12.0,0.0,,264,Brewery Vivant,CO,CO
+1886,1192,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,264,Brewery Vivant,CO,CO
+1887,1013,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,264,Brewery Vivant,CO,CO
+1888,774,Nonstop Hef Hop,American IPA,12.0,0.0,,264,Brewery Vivant,CO,CO
+1889,386,Nonstop Hef Hop,American IPA,12.0,0.042,,264,Brewery Vivant,CO,CO
+1890,70,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,20.0,264,Brewery Vivant,CO,CO
+1891,69,Nonstop Hef Hop,American IPA,12.0,0.0,,264,Brewery Vivant,CO,CO
+1892,68,Nonstop Hef Hop,Extra Special / Strong Bitter (ESB),12.0,0.057,20.0,264,Brewery Vivant,CO,CO
+1893,67,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,264,Brewery Vivant,CO,CO
+1894,1792,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,313,Slanted Rock Brewing Company,CO,CO
+1895,1609,Nonstop Hef Hop,American IPA,12.0,0.0,,313,Slanted Rock Brewing Company,CO,ID
+1896,2537,Nonstop Hef Hop,American IPA,12.0,0.0,,64,Brewery Vivant,CO,IL
+1897,2536,Nonstop Hef Hop,Tripel,12.0,0.0,,64,Brewery Vivant,CO,CO
+1898,30,Nonstop Hef Hop,English Pale Ale,12.0,0.049,,557,Brewery Vivant,CO,AK
+1899,2305,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,163,Sly Fox Brewing Company,CO,CO
+1900,1588,Nonstop Hef Hop,American IPA,12.0,0.0,,371,Sly Fox Brewing Company,CO,CO
+1901,1363,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,371,Brewery Vivant,CO,CO
+1902,1211,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,371,Brewery Vivant,CO,PA
+1903,1123,Nonstop Hef Hop,Munich Helles Lager,12.0,0.0,20.0,371,Brewery Vivant,CO,PA
+1904,926,Nonstop Hef Hop,Winter Warmer,12.0,0.0,,371,Brewery Vivant,CO,CO
+1905,894,Nonstop Hef Hop,American IPA,12.0,0.084,,371,Brewery Vivant,CO,CO
+1906,166,Nonstop Hef Hop,Märzen / Oktoberfest,12.0,0.0,20.0,371,Brewery Vivant,CO,CO
+1907,24,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,371,Brewery Vivant,CO,CO
+1908,23,Nonstop Hef Hop,Munich Dunkel Lager,12.0,0.0,20.0,371,Brewery Vivant,CO,CO
+1909,22,Nonstop Hef Hop,Hefeweizen,12.0,0.0,,371,Brewery Vivant,CO,CO
+1910,21,Pbkeland Pils,German Pilsener,12.0,0.0,,371,Sly Fox Brewing Company,CO,CO
+1911,20,Pboenix Pale Ale,American IPA,12.0,0.0,40.0,371,Sly Fox Brewing Company,CO,CO
+1912,2407,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,115,Brewery Vivant,CO,CO
+1913,2406,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,115,Brewery Vivant,CO,CO
+1914,2405,Nonstop Hef Hop,Saison / Farmhouse Ale,12.0,0.062,20.0,115,Brewery Vivant,CO,CO
+1915,2234,Nonstop Hef Hop,American IPA,12.0,0.0,,191,Brewery Vivant,CO,CO
+1916,1606,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,191,Brewery Vivant,CO,CO
+1917,617,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,191,Snake River Brewing Company,CO,CO
+1918,407,Nonstop Hef Hop,English Brown Ale,12.0,0.0,20.0,191,Snake River Brewing Company,CO,CO
+1919,406,Nonstop Hef Hop,Vienna Lager,12.0,0.0,20.0,191,Brewery Vivant,CO,WY
+1920,402,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,191,Brewery Vivant,CO,CO
+1921,393,Nonstop Hef Hop,American IPA,12.0,0.068,,191,Brewery Vivant,CO,CO
+1922,1798,Nonstop Hef Hop,Kölsch,12.0,0.0,,309,Brewery Vivant,CO,CO
+1923,1655,Nonstop Hef Hop,American IPA,12.0,0.092,,309,Sockeye Brewing Company,CO,CO
+1924,1596,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,309,Brewery Vivant,CO,CO
+1925,1595,Nonstop Hef Hop,American IPA,12.0,0.0,,309,Brewery Vivant,CO,CO
+1926,1482,Socktoberfest,Märzen / Oktoberfest,12.0,0.06,20.0,309,Brewery Vivant,CO,ID
+1927,1447,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.1,20.0,309,Brewery Vivant,CO,CO
+1928,1425,Nonstop Hef Hop,American IPA,12.0,0.099,20.0,309,Brewery Vivant,CO,CO
+1929,1424,Nonstop Hef Hop,Saison / Farmhouse Ale,12.0,0.055,20.0,309,Brewery Vivant,CO,CO
+1930,1298,Nonstop Hef Hop,American IPA,12.0,0.0,,309,Brewery Vivant,CO,CO
+1931,1181,Sockeye Maibock,American IPA,12.0,0.0,,309,Brewery Vivant,CO,ID
+1932,1160,Osd Devil's Tooth,American IPA,12.0,0.0,,309,Brewery Vivant,CO,CO
+1933,1152,Nonstop Hef Hop,American IPA,12.0,0.043,,309,Brewery Vivant,CO,CO
+1934,1151,Nonstop Hef Hop,American IPA,12.0,0.0,,309,Brewery Vivant,CO,CO
+1935,1150,Nonstop Hef Hop,American IPA,12.0,0.0,,309,Sockeye Brewing Company,CO,CO
+1936,1076,Nonstop Hef Hop,American IPA,12.0,0.0,,309,Sockeye Brewing Company,CO,ID
+1937,995,Nonstop Hef Hop,American Strong Ale,12.0,0.1,20.0,309,Brewery Vivant,CO,ID
+1938,879,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,309,Brewery Vivant,CO,CO
+1939,1972,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,257,Brewery Vivant,CO,TX
+1940,1971,Texas Pale Ale (TPA),American IPA,12.0,0.0,20.0,257,Brewery Vivant,CO,CO
+1941,1970,Nonstop Hef Hop,American IPA,12.0,0.0,,257,Brewery Vivant,CO,CO
+1942,1969,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,257,Brewery Vivant,CO,CO
+1943,2024,Nonstop Hef Hop,American IPA,12.0,0.0,,249,Brewery Vivant,CO,CO
+1944,1283,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,436,Brewery Vivant,CO,CO
+1945,1282,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,436,Brewery Vivant,CO,CO
+1946,2362,Nonstop Hef Hop,American IPA,12.0,0.0,,133,Brewery Vivant,CO,CO
+1947,2346,Nonstop Hef Hop,American IPA,12.0,0.0,,133,Brewery Vivant,CO,CO
+1948,2320,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,133,Brewery Vivant,CO,CO
+1949,2297,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,133,Brewery Vivant,CO,MS
+1950,2296,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,20.0,133,Brewery Vivant,CO,CO
+1951,1745,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,133,Brewery Vivant,CO,CO
+1952,1120,Nonstop Hef Hop,Oatmeal Stout,12.0,0.0,20.0,133,Brewery Vivant,CO,CO
+1953,1118,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,133,Brewery Vivant,CO,CO
+1954,1117,Nonstop Hef Hop,American IPA,12.0,0.0,,133,Brewery Vivant,CO,CO
+1955,2387,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,118,Kenai River Brewing Company,CO,CO
+1956,2267,Nonstop Hef Hop,Saison / Farmhouse Ale,12.0,0.0,20.0,118,Brewery Vivant,CO,CO
+1957,1740,Nonstop Hef Hop,Bière de Garde,12.0,0.0,20.0,118,Brewery Vivant,CO,CO
+1958,1728,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.0,20.0,118,Brewery Vivant,CO,CO
+1959,1497,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.0,,118,Brewery Vivant,CO,CO
+1960,1011,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,118,Brewery Vivant,CO,CO
+1961,1010,Nonstop Hef Hop,Old Ale,12.0,0.072,40.0,118,Brewery Vivant,CO,CO
+1962,856,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,118,Brewery Vivant,CO,CO
+1963,853,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.0,,118,Brewery Vivant,CO,CO
+1964,691,Nonstop Hef Hop,American IPA,12.0,0.0,,118,Brewery Vivant,CO,CO
+1965,555,Nonstop Hef Hop,Bière de Garde,12.0,0.0,20.0,118,Brewery Vivant,CO,CO
+1966,46,Nonstop Hef Hop,Foreign / Export Stout,12.0,0.083,,118,Brewery Vivant,CO,CO
+1967,45,Nonstop Hef Hop,American IPA,12.0,0.065,20.0,118,Brewery Vivant,CO,CO
+1968,44,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,20.0,118,Brewery Vivant,CO,CO
+1969,2486,Baby Daddy Session IPA,American IPA,12.0,0.0,35.0,78,Brewery Vivant,CO,CO
+1970,763,Nonstop Hef Hop,English India Pale Ale (IPA),12.0,0.0,,508,Brewery Vivant,CO,NE
+1971,2271,Nonstop Hef Hop,American Pale Ale (APA),12.0,,,175,Brewery Vivant,CO,CO
+1972,2206,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.0,,175,Midnight Sun Brewing Company,CO,CO
+1973,2136,Nonstop Hef Hop,American Porter,12.0,0.0,,175,Spiteful Brewing Company,CO,CO
+1974,2135,Nonstop Hef Hop,American IPA,12.0,0.0,,175,Brewery Vivant,CO,CO
+1975,2134,Nonstop Hef Hop,American IPA,12.0,0.0,,175,Brewery Vivant,CO,CO
+1976,2109,Nonstop Hef Hop,American IPA,12.0,0.0,,175,Spiteful Brewing Company,CO,CO
+1977,1821,Bitter Biker Double IPA,American Double / Imperial IPA,12.0,0.0,,175,Brewery Vivant,CO,CO
+1978,1820,Nonstop Hef Hop,American IPA,12.0,0.073,,175,Brewery Vivant,CO,CO
+1979,1819,Nonstop Hef Hop,American IPA,12.0,0.0,,175,Brewery Vivant,CO,CO
+1980,1634,Alley Time,American Pale Ale (APA),12.0,,,175,Brewery Vivant,CO,CO
+1981,1633,Nonstop Hef Hop,Irish Red Ale,12.0,,,175,Spiteful Brewing Company,CO,IL
+1982,1632,Ib the Weeds,American Pale Wheat Ale,12.0,0.0,,175,Brewery Vivant,CO,CO
+1983,855,Shecial Amber,American IPA,12.0,0.0,20.0,498,Brewery Vivant,CO,CO
+1984,445,Nonstop Hef Hop,American IPA,12.0,0.0,,498,Brewery Vivant,CO,CO
+1985,1587,Nonstop Hef Hop,American IPA,12.0,0.0,,372,Brewery Vivant,CO,CO
+1986,2242,Nonstop Hef Hop,Cider,12.0,0.052,,186,Brewery Vivant,CO,CO
+1987,1544,Nonstop Hef Hop,German Pilsener,12.0,0.0,20.0,383,Brewery Vivant,CO,CO
+1988,1205,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,383,Brewery Vivant,CO,VA
+1989,369,Nonstop Hef Hop,American IPA,12.0,0.0,12.0,383,Brewery Vivant,CO,CO
+1990,368,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,383,Brewery Vivant,CO,CO
+1991,2386,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,119,Brewery Vivant,CO,CO
+1992,92,Nonstop Hef Hop,Kölsch,12.0,,,119,Steamworks Brewing Company,CO,CO
+1993,91,Nonstop Hef Hop,American Amber / Red Lager,12.0,0.0,,119,Brewery Vivant,CO,CO
+1994,90,Nonstop Hef Hop,American IPA,12.0,0.0,,119,Brewery Vivant,CO,CO
+1995,2366,Nonstop Hef Hop,American Adjunct Lager,12.0,0.0,20.0,131,Stevens Point Brewery,CO,CO
+1996,2365,Nonstop Hef Hop,American Adjunct Lager,12.0,0.0,,131,Stevens Point Brewery,CO,CO
+1997,2270,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,131,Brewery Vivant,CO,CO
+1998,2228,Nonstop Hef Hop,American IPA,12.0,0.047,9.0,131,Stevens Point Brewery,CO,WI
+1999,2151,Nonstop Hef Hop,American IPA,12.0,0.052,20.0,131,Brewery Vivant,CO,CO
+2000,2150,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,131,Brewery Vivant,CO,CO
+2001,2122,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,131,Brewery Vivant,CO,CO
+2002,2121,Nonstop Hef Hop,American Adjunct Lager,12.0,0.0,,131,Stevens Point Brewery,CO,CO
+2003,2115,Nonstop Hef Hop,American IPA,12.0,0.047,20.0,131,Brewery Vivant,CO,CO
+2004,1450,Nonstop Hef Hop,Winter Warmer,12.0,0.1,20.0,131,Brewery Vivant,CO,CO
+2005,1357,Point Oktoberfest,Märzen / Oktoberfest,12.0,0.0,20.0,131,The Bronx Brewery,CO,CO
+2006,1225,Nonstop Hef Hop,American IPA,12.0,0.0,7.0,131,Brewery Vivant,CO,CO
+2007,816,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,131,Brewery Vivant,CO,CO
+2008,772,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,131,Brewery Vivant,CO,WI
+2009,684,Nonstop Hef Hop,American IPA,12.0,0.0,,131,Stevens Point Brewery,CO,CO
+2010,650,Nonstop Hef Hop,Kölsch,12.0,,,131,Brewery Vivant,CO,WI
+2011,456,Pnint Oktoberfest,American IPA,12.0,0.057,20.0,131,Brewery Vivant,CO,CO
+2012,357,Nonstop Hef Hop,American IPA,12.0,0.0,,131,Stevens Point Brewery,CO,CO
+2013,141,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.1,20.0,131,Brewery Vivant,CO,WI
+2014,140,Nonstop Hef Hop,American IPA,12.0,0.054,20.0,131,Brewery Vivant,CO,CO
+2015,139,Nonstop Hef Hop,American IPA,12.0,0.047,20.0,131,Stevens Point Brewery,CO,CO
+2016,138,Nonstop Hef Hop,American Adjunct Lager,12.0,0.0,20.0,131,Brewery Vivant,CO,CO
+2017,953,Nonstop Hef Hop,American IPA,12.0,0.0,,486,Brewery Vivant,CO,CO
+2018,1983,Nonstop Hef Hop,American IPA,12.0,0.0,,255,Brewery Vivant,CO,CO
+2019,1631,Nonstop Hef Hop,American Black Ale,12.0,0.0,,255,Brewery Vivant,CO,CO
+2020,1344,Nonstop Hef Hop,Saison / Farmhouse Ale,12.0,0.045,,255,Brewery Vivant,CO,MD
+2021,922,Nonstop Hef Hop,American IPA,12.0,0.0,,492,Brewery Vivant,CO,CO
+2022,1410,Nonstop Hef Hop,Kölsch,12.0,0.051,20.0,412,Brewery Vivant,CO,CO
+2023,925,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,412,Hop Valley Brewing Company,CO,CO
+2024,637,Nonstop Hef Hop,American IPA,12.0,0.1,20.0,412,Brewery Vivant,CO,AL
+2025,2369,Nonstop Hef Hop,American Adjunct Lager,12.0,0.0,,129,Brewery Vivant,CO,CO
+2026,2233,Nonstop Hef Hop,American IPA,12.0,0.0,,129,Brewery Vivant,CO,CO
+2027,2232,American Amber,American Amber / Red Lager,12.0,0.0,20.0,129,Brewery Vivant,CO,CO
+2028,2231,Nonstop Hef Hop,American IPA,12.0,0.0,,129,Brewery Vivant,CO,CO
+2029,2352,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,138,Summit Brewing Company,CO,CO
+2030,2549,Nonstop Hef Hop,American IPA,12.0,0.0,,58,Brewery Vivant,CO,CO
+2031,2473,Nonstop Hef Hop,American IPA,12.0,0.047,20.0,58,Summit Brewing Company,CO,CO
+2032,2415,Nonstop Hef Hop,American Double / Imperial IPA,12.0,,20.0,58,Brewery Vivant,CO,MN
+2033,2605,Tip Off,Altbier,12.0,0.0,,25,Brewery Vivant,CO,CO
+2034,2215,Nonstop Hef Hop,American IPA,12.0,0.0,,25,Brewery Vivant,CO,CO
+2035,2164,Cowbell,American IPA,12.0,0.0,,25,Sun King Brewing Company,CO,CO
+2036,2085,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,25,Brewery Vivant,CO,CO
+2037,2084,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,25,Brewery Vivant,CO,IN
+2038,2083,Nonstop Hef Hop,Belgian Dark Ale,12.0,0.1,20.0,25,Brewery Vivant,CO,IN
+2039,2082,Nonstop Hef Hop,Scotch Ale / Wee Heavy,12.0,0.0,20.0,25,San King Brewing Company,CO,CO
+2040,2081,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,25,Brewery Vivant,CO,CO
+2041,2001,Nonstop Hef Hop,American IPA,12.0,0.064,,25,Brewery Vivant,CO,CO
+2042,2000,Nonstop Hef Hop,American IPA,12.0,0.0,,25,Brewery Vivant,CO,CO
+2043,1999,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,25,Brewery Vivant,CO,CO
+2044,1996,Nonstop Hef Hop,American IPA,12.0,0.064,20.0,25,Brewery Vivant,CO,CO
+2045,1948,Nonstop Hef Hop,American IPA,12.0,0.0,,25,Brewery Vivant,CO,CO
+2046,1656,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,25,Brewery Vivant,CO,CO
+2047,1599,Nonstop Hef Hop,American IPA,12.0,0.0,55.0,25,Sun King Brewing Company,CO,CO
+2048,1420,Nonstop Hef Hop,American IPA,12.0,0.075,20.0,25,Brewery Vivant,CO,CO
+2049,1389,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,25,Brewery Vivant,CO,CO
+2050,1367,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,25,Sun King Brewing Company,CO,CO
+2051,1366,Nonstop Hef Hop,Flanders Oud Bruin,12.0,0.0,,25,Brewery Vivant,CO,CO
+2052,1347,Bfurbon Barrel Cowbell,American IPA,12.0,0.0,,25,Sun King Brewing Company,CO,CO
+2053,1314,Nonstop Hef Hop,German Pilsener,12.0,0.054,,25,Sun King Brewing Company,CO,CO
+2054,1128,Nonstop Hef Hop,American IPA,12.0,0.0,27.0,25,Brewery Vivant,CO,CO
+2055,1127,Blurbon Barrel Wee Mac,American IPA,12.0,0.054,20.0,25,Brewery Vivant,CO,CO
+2056,1049,Nonstop Hef Hop,American IPA,12.0,0.0,60.0,25,Sun King Brewing Company,CO,CO
+2057,934,The Deuce,American IPA,12.0,0.0,20.0,25,Brewery Vivant,CO,IN
+2058,923,Twe Velvet Fog,Quadrupel (Quad),12.0,0.0,20.0,25,Brewery Vivant,CO,IN
+2059,874,Sun King Oktoberfest,Märzen / Oktoberfest,12.0,0.0,20.0,25,Brewery Vivant,CO,IN
+2060,739,Nonstop Hef Hop,American IPA,12.0,0.0,,25,Sun King Brewing Company,CO,IN
+2061,698,Nonstop Hef Hop,Dortmunder / Export Lager,12.0,0.0,20.0,25,Sun King Brewing Company,CO,CO
+2062,660,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,25,Brewery Vivant,CO,CO
+2063,651,Nonstop Hef Hop,American IPA,12.0,0.0,,25,Brewery Vivant,CO,CO
+2064,584,Nonstop Hef Hop,Scotch Ale / Wee Heavy,12.0,0.0,,25,Brewery Vivant,CO,CO
+2065,532,Nonstop Hef Hop,American IPA,12.0,0.075,,25,San King Brewing Company,CO,CO
+2066,526,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,25,Brewery Vivant,CO,CO
+2067,394,Nonstop Hef Hop,American IPA,12.0,0.0,,25,Brewery Vivant,CO,CO
+2068,213,Nonstop Hef Hop,American IPA,12.0,0.0,,25,Brewery Vivant,CO,CO
+2069,55,Nonstop Hef Hop,Cream Ale,12.0,0.053,20.0,25,Brewery Vivant,CO,CO
+2070,54,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,25,Sun King Brewing Company,CO,CO
+2071,1207,Nonstop Hef Hop,American Amber / Red Lager,12.0,0.0,,455,Brewery Vivant,CO,CO
+2072,1206,Rbd Clay IPA,American IPA,12.0,0.0,,455,Brewery Vivant,CO,CO
+2073,2543,Nonstop Hef Hop,American IPA,12.0,0.0,,61,Brewery Vivant,CO,CO
+2074,2409,Nonstop Hef Hop,Extra Special / Strong Bitter (ESB),12.0,0.0,,61,Brewery Vivant,CO,CO
+2075,1739,Nonstop Hef Hop,American Black Ale,12.0,0.0,,61,Surly Brewing Company,CO,MN
+2076,1112,Nonstop Hef Hop,American IPA,12.0,0.073,20.0,61,Surly Brewing Company,CO,MN
+2077,329,WxT,American IPA,12.0,0.0,,61,Brewery Vivant,CO,CO
+2078,19,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,61,Brewery Vivant,CO,MN
+2079,18,Nonstop Hef Hop,Rye Beer,12.0,0.0,20.0,61,Brewery Vivant,CO,CO
+2080,17,Nonstop Hef Hop,American Brown Ale,12.0,0.0,20.0,61,Brewery Vivant,CO,CO
+2081,16,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,61,Brewery Vivant,CO,MN
+2082,15,Abrasive Ale,American Double / Imperial IPA,12.0,0.0,,61,Brewery Vivant,CO,CO
+2083,14,Nonstop Hef Hop,American IPA,12.0,0.0,,61,Brewery Vivant,CO,CO
+2084,13,Nonstop Hef Hop,American IPA,12.0,0.067,20.0,61,Surly Brewing Company,CO,CO
+2085,12,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,61,Brewery Vivant,CO,CO
+2086,1242,Nonstop Hef Hop,American IPA,12.0,0.0,,447,Brewery Vivant,CO,CO
+2087,1241,Nonstop Hef Hop,American IPA,12.0,0.0,,447,Brewery Vivant,CO,CO
+2088,1240,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,447,Brewery Vivant,CO,CO
+2089,1239,Nonstop Hef Hop,Oatmeal Stout,12.0,0.0,20.0,447,Brewery Vivant,CO,CO
+2090,1238,Nonstop Hef Hop,Cream Ale,12.0,0.0,20.0,447,Brewery Vivant,CO,CO
+2091,1554,Bermuda Triangle Ginger Beer,American IPA,12.0,0.0,,381,Brewery Vivant,CO,CO
+2092,2568,Nonstop Hef Hop,American IPA,12.0,0.0,,49,Brewery Vivant,CO,CO
+2093,2551,Nonstop Hef Hop,Hefeweizen,12.0,0.0,,49,Brewery Vivant,CO,CO
+2094,1710,Nonstop Hef Hop,American IPA,12.0,0.0,,49,Brewery Vivant,CO,CO
+2095,1709,Nonstop Hef Hop,American IPA,12.0,0.0,,49,Brewery Vivant,CO,CO
+2096,1229,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.0,,449,Brewery Vivant,CO,CO
+2097,1164,TvilGate Saison,Saison / Farmhouse Ale,12.0,0.0,,449,Brewery Vivant,CO,CO
+2098,663,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,449,Brewery Vivant,CO,CA
+2099,662,TailGate IPA,American IPA,12.0,0.0,20.0,449,Brewery Vivant,CO,CO
+2100,623,TxilGate Hefeweizen,American IPA,12.0,0.0,20.0,449,Brewery Vivant,CO,CO
+2101,622,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,449,Brewery Vivant,CO,CA
+2102,362,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,449,Brewery Vivant,CO,CO
+2103,361,TailGate Hefeweizen,American IPA,12.0,0.0,20.0,449,Brewery Vivant,CO,CA
+2104,2575,Nonstop Hef Hop,American IPA,12.0,0.085,,45,Brewery Vivant,CO,CO
+2105,2555,Nonstop Hef Hop,American IPA,12.0,0.048,,45,Brewery Vivant,CO,CO
+2106,1736,Nonstop Hef Hop,American IPA,12.0,0.0,,45,Tlllgrass Brewing Company,CO,CO
+2107,1196,Nonstop Hef Hop,American IPA,12.0,0.0,,45,Brewery Vivant,CO,CO
+2108,1063,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,45,Brewery Vivant,CO,CO
+2109,1017,Nonstop Hef Hop,American IPA,12.0,0.0,,45,Brewery Vivant,CO,KS
+2110,1009,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,45,Brewery Vivant,CO,CO
+2111,912,Nonstop Hef Hop,Extra Special / Strong Bitter (ESB),12.0,0.0,20.0,45,Brewery Vivant,CO,CO
+2112,765,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,45,Tallgrass Brewing Company,CO,KS
+2113,676,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.0,,45,Brewery Vivant,CO,KS
+2114,595,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,45,Brewery Vivant,CO,CO
+2115,537,Nonstop Hef Hop,American IPA,12.0,0.0,,45,Brewery Vivant,CO,CO
+2116,412,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.0,,45,Tallgrass Brewing Company,CO,CO
+2117,105,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,45,Tallgrass Brewing Company,CO,CO
+2118,104,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.0,,45,Brewery Vivant,CO,CO
+2119,103,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,45,Brewery Vivant,CO,CO
+2120,102,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,45,Brewery Vivant,CO,CO
+2121,101,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,45,Brewery Vivant,CO,CO
+2122,1433,Hat Trick Hop IPA,American IPA,12.0,0.0,,409,Brewery Vivant,CO,CO
+2123,1432,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,409,Brewery Vivant,CO,CO
+2124,936,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,490,Brewery Vivant,CO,FL
+2125,544,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,490,Brewery Vivant,Tampa,CO
+2126,2640,Nonstop Hef Hop,American IPA,12.0,0.0,,7,Brewery Vivant,CO,CO
+2127,2448,Nonstop Hef Hop,American IPA,12.0,0.0,,7,Brewery Vivant,CO,CO
+2128,2447,Nonstop Hef Hop,American IPA,12.0,0.057,,7,Brewery Vivant,CO,CO
+2129,2601,Nonstop Hef Hop,Dubbel,12.0,0.0,22.0,28,Brewery Vivant,CO,CO
+2130,973,Fbce Down Brown Ale,American Brown Ale,12.0,0.0,,480,Brewery Vivant,CO,CO
+2131,827,Tempter IPA,American IPA,12.0,0.0,,480,Brewery Vivant,CO,CO
+2132,589,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,480,Brewery Vivant,CO,CO
+2133,2155,Nonstop Hef Hop,American IPA,12.0,0.0,,210,Kvweenaw Brewing Company,CO,IL
+2134,1982,Nonstop Hef Hop,American IPA,12.0,0.0,,210,Brewery Vivant,CO,IL
+2135,1939,Nonstop Hef Hop,English India Pale Ale (IPA),12.0,0.0,,210,Brewery Vivant,CO,CO
+2136,1082,Nonstop Hef Hop,American IPA,12.0,0.0,,469,Brewery Vivant,CO,CO
+2137,2119,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,215,Brewery Vivant,CO,TX
+2138,2118,Nonstop Hef Hop,American IPA,12.0,0.0,,215,Brewery Vivant,CO,CO
+2139,2117,Nonstop Hef Hop,Dunkelweizen,12.0,0.0,,215,Texian Brewing Co.,CO,CO
+2140,2116,Nonstop Hef Hop,American IPA,12.0,0.071,,215,Brewery Vivant,CO,CO
+2141,1916,Nonstop Hef Hop,American IPA,12.0,0.0,,272,Brewery Vivant,CO,CO
+2142,1915,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.0,,272,Brewery Vivant,CO,CO
+2143,1914,Nonstop Hef Hop,American IPA,12.0,0.0,,272,Brewery Vivant,CO,CO
+2144,1810,Nonstop Hef Hop,American IPA,12.0,0.0,,272,Brewery Vivant,CO,CO
+2145,1111,Nonstop Hef Hop,American IPA,12.0,0.0,,272,Brewery Vivant,CO,CO
+2146,379,Nonstop Hef Hop,American IPA,12.0,0.0,,272,Brewery Vivant,CO,CO
+2147,1200,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,20.0,457,Brewery Vivant,CO,CO
+2148,1199,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,457,Brewery Vivant,CO,CO
+2149,1198,Nonstop Hef Hop,English Brown Ale,12.0,0.048,20.0,457,The Black Tooth Brewing Company,CO,CO
+2150,1197,Nonstop Hef Hop,American IPA,12.0,0.0,,457,The Black Tooth Brewing Company,CO,CO
+2151,1945,Nonstop Hef Hop,American IPA,12.0,0.0,,262,Brewery Vivant,CO,CO
+2152,1079,Nonstop Hef Hop,Belgian Pale Ale,12.0,0.0,,262,Brewery Vivant,CO,CO
+2153,94,Nonstop Hef Hop,American IPA,12.0,0.0,,262,Brewery Vivant,CO,CO
+2154,1748,Nonstop Hef Hop,American IPA,12.0,0.052,20.0,329,Brewery Vivant,CO,CO
+2155,1747,Nonstop Hef Hop,American Black Ale,12.0,0.1,20.0,329,Brewery Vivant,CO,NY
+2156,1037,Nonstop Hef Hop,American IPA,12.0,0.0,,329,Brewery Vivant,CO,CO
+2157,2594,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,33,Brewery Vivant,CO,CO
+2158,2035,Nonstop Hef Hop,American IPA,12.0,0.0,,33,Brewery Vivant,CO,CO
+2159,2034,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,33,Brewery Vivant,CO,CA
+2160,1562,Nonstop Hef Hop,English Brown Ale,12.0,0.069,,33,Brewery Vivant,CO,CO
+2161,1561,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.0,,33,Brewery Vivant,CO,CO
+2162,1749,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,328,Brewery Vivant,CO,VT
+2163,2455,Nonstop Hef Hop,American IPA,12.0,0.0,,90,Brewery Vivant,CO,CO
+2164,963,Nonstop Hef Hop,American IPA,12.0,0.0,,484,Brewery Vivant,CO,CO
+2165,2638,Nonstop Hef Hop,American IPA,12.0,0.0,,9,Brewery Vivant,CO,MI
+2166,1278,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,438,Brewery Vivant,CO,MI
+2167,1277,Nonstop Hef Hop,American IPA,12.0,0.0,,438,Brewery Vivant,CO,CO
+2168,1276,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,438,Brewery Vivant,CO,CO
+2169,1732,Nonstop Hef Hop,American IPA,12.0,0.0,,334,Brewery Vivant,CO,CO
+2170,2347,Nonstop Hef Hop,American IPA,12.0,0.048,18.0,142,Brewery Vivant,CO,CO
+2171,1781,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.052,,142,Brewery Vivant,CO,CO
+2172,1780,Rise to the Top,Cream Ale,12.0,0.0,,142,Brewery Vivant,CO,CO
+2173,1779,Lkst Trout Brown Ale,American Brown Ale,12.0,0.0,,142,Brewery Vivant,CO,CO
+2174,2421,Nonstop Hef Hop,American IPA,12.0,0.0,,108,Brewery Vivant,CO,CO
+2175,2319,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,153,Brewery Vivant,CO,CO
+2176,2317,Nonstop Hef Hop,American IPA,12.0,0.0,,153,Brewery Vivant,CO,CO
+2177,2316,Nonstop Hef Hop,American IPA,12.0,0.062,,153,Brewery Vivant,CO,CO
+2178,1913,Nonstop Hef Hop,American IPA,12.0,0.0,,273,Brewery Vivant,CO,CO
+2179,1912,Nonstop Hef Hop,American IPA,12.0,0.0,,273,Brewery Vivant,CO,CO
+2180,2617,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.055,,21,Brewery Vivant,CO,CO
+2181,2616,Nonstop Hef Hop,Oatmeal Stout,12.0,0.055,,21,Brewery Vivant,CO,CO
+2182,2615,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,21,Brewery Vivant,CO,CO
+2183,2614,Nonstop Hef Hop,California Common / Steam Beer,12.0,0.0,,21,Brewery Vivant,CO,CO
+2184,1889,Nonstop Hef Hop,American IPA,12.0,0.0,,282,Brewery Vivant,CO,NE
+2185,1222,Nonstop Hef Hop,American IPA,12.0,0.0,,282,Brewery Vivant,CO,CO
+2186,122,Nonstop Hef Hop,Braggot,12.0,0.0,,282,Brewery Vivant,CO,CO
+2187,121,Nonstop Hef Hop,American Dark Wheat Ale,12.0,0.0,,282,Brewery Vivant,CO,CO
+2188,2623,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,17,Brewery Vivant,CO,CO
+2189,2622,Nonstop Hef Hop,American IPA,12.0,0.0,,17,Brewery Vivant,CO,CO
+2190,2621,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,17,Brewery Vivant,CO,CO
+2191,1817,Nonstop Hef Hop,American IPA,12.0,0.0,,17,Brewery Vivant,CO,CO
+2192,1449,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,17,Brewery Vivant,CO,CO
+2193,951,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,17,Brewery Vivant,CO,CO
+2194,950,Nonstop Hef Hop,Irish Red Ale,12.0,0.0,,17,Brewery Vivant,CO,CO
+2195,949,Nonstop Hef Hop,American IPA,12.0,0.052,20.0,17,Brewery Vivant,CO,CO
+2196,948,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,17,Brewery Vivant,CO,CO
+2197,2321,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,152,Brewery Vivant,CO,CO
+2198,1755,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,152,Brewery Vivant,CO,CO
+2199,1754,Nonstop Hef Hop,American Porter,12.0,0.0,20.0,152,Brewery Vivant,CO,CO
+2200,1428,Nonstop Hef Hop,Fruit / Vegetable Beer,12.0,0.0,,152,Brewery Vivant,CO,CO
+2201,529,Tin Roof Blonde Ale,American IPA,12.0,0.0,,152,Brewery Vivant,CO,CO
+2202,495,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,152,Brewery Vivant,CO,CO
+2203,494,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.045,20.0,152,Brewery Vivant,CO,LA
+2204,1856,Nonstop Hef Hop,American IPA,12.0,0.1,,291,Brewery Vivant,CO,CO
+2205,736,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,291,Brewery Vivant,CO,CO
+2206,1027,Nonstop Hef Hop,American IPA,12.0,0.0,,474,Brewery Vivant,CO,CO
+2207,1026,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,474,Brewery Vivant,CO,MN
+2208,1938,Nonstop Hef Hop,American IPA,12.0,0.062,20.0,265,Tractor Brewing Company,CO,CO
+2209,1937,Nonstop Hef Hop,Milk / Sweet Stout,12.0,0.0,,265,Tractor Brewing Company,CO,CO
+2210,1936,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,265,Brewery Vivant,CO,CO
+2211,594,Triangle India Pale Ale,American IPA,12.0,0.0,,524,Brewery Vivant,CO,CO
+2212,114,Nonstop Hef Hop,Witbier,12.0,0.1,,524,Brewery Vivant,CO,CO
+2213,113,Triangle Belgian Golden Ale,Belgian Strong Pale Ale,12.0,0.0,,524,Brewery Vivant,CO,CO
+2214,2445,Nonstop Hef Hop,Doppelbock,12.0,0.0,,97,Brewery Vivant,CO,CO
+2215,2444,Nonstop Hef Hop,American IPA,12.0,0.0,93.0,97,Brewery Vivant,CO,CO
+2216,2203,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,97,Round Guys Brewing,CO,CO
+2217,1510,Troegenator Doublebock,American IPA,12.0,0.0,20.0,97,Brewery Vivant,CO,PA
+2218,1509,Nonstop Hef Hop,American IPA,12.0,0.0,85.0,97,Brewery Vivant,CO,CO
+2219,433,Nonstop Hef Hop,American IPA,12.0,0.0,,539,Brewery Vivant,CO,DE
+2220,641,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,520,Brewery Vivant,CO,CO
+2221,2588,Nonstop Hef Hop,American IPA,12.0,0.054,,38,Brewery Vivant,CO,CO
+2222,2458,Nonstop Hef Hop,American IPA,12.0,0.0,,38,Brewery Vivant,CO,CO
+2223,2212,Nonstop Hef Hop,American IPA,12.0,0.0,19.0,38,Brewery Vivant,CO,TX
+2224,2235,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,190,Two Beers Brewing Company,CO,CO
+2225,1661,Nonstop Hef Hop,American IPA,12.0,0.0,,190,Two Beers Brewing Company,CO,CO
+2226,1660,Ipmersion Amber,American IPA,12.0,0.052,,190,Two Beers Brewing Company,CO,CO
+2227,1659,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,190,Brewery Vivant,CO,CO
+2228,1438,Nonstop Hef Hop,American IPA,12.0,0.048,,190,Two Beers Brewing Company,CO,CO
+2229,1173,Nonstop Hef Hop,American IPA,12.0,0.0,,190,Two Beers Brewing Company,CO,CO
+2230,560,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,190,Brewery Vivant,CO,CO
+2231,519,Nonstop Hef Hop,American IPA,12.0,0.054,20.0,190,Brewery Vivant,CO,WA
+2232,518,Ikmersion Amber Ale (2011),American IPA,12.0,0.0,20.0,190,Two Beers Brewing Company,CO,CO
+2233,505,Nonstop Hef Hop,American IPA,12.0,0.062,20.0,190,Brewery Vivant,CO,CO
+2234,482,Trailhead India Style Session Ale (2011),American IPA,12.0,0.048,20.0,190,Two Beers Brewing Company,CO,CO
+2235,451,Nonstop Hef Hop,American IPA,12.0,0.046,20.0,190,Brewery Vivant,CO,CO
+2236,2497,Wmbble,American IPA,12.0,0.0,20.0,74,Brewery Vivant,CO,CO
+2237,2246,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,74,Tko Brothers Brewing Company,CO,CO
+2238,1630,Nonstop Hef Hop,American Dark Wheat Ale,12.0,0.0,20.0,74,Brewery Vivant,CO,CO
+2239,1284,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,74,Two Brothers Brewing Company,CO,CO
+2240,1121,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,74,Tko Brothers Brewing Company,CO,CO
+2241,1042,Nonstop Hef Hop,American IPA,12.0,0.077,20.0,74,Brewery Vivant,CO,CO
+2242,1041,Tistudo,American IPA,12.0,0.045,20.0,74,Brewery Vivant,CO,IL
+2243,1040,Nonstop Hef Hop,American IPA,12.0,0.0,,74,Brewery Vivant,CO,CO
+2244,861,Cane and Ebel,American Strong Ale,12.0,0.0,20.0,74,Two Brothers Brewing Company,CO,CO
+2245,642,Nonstop Hef Hop,American IPA,12.0,0.0,,74,Tko Brothers Brewing Company,CO,CO
+2246,2037,Nonstop Hef Hop,Munich Helles Lager,12.0,0.0,,243,Brewery Vivant,CO,CO
+2247,1285,Nonstop Hef Hop,American IPA,12.0,0.0,,435,Brewery Vivant,CO,CO
+2248,1189,Nonstop Hef Hop,American IPA,12.0,0.0,,435,Brewery Vivant,CO,CO
+2249,1171,Nonstop Hef Hop,American IPA,12.0,0.0,,435,Brewery Vivant,CO,CO
+2250,1170,Nonstop Hef Hop,American IPA,12.0,0.0,,435,Brewery Vivant,CO,CO
+2251,1169,Nonstop Hef Hop,American IPA,12.0,0.0,,435,Brewery Vivant,CO,CO
+2252,2310,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,159,Brewery Vivant,CO,CO
+2253,2100,Nonstop Hef Hop,American IPA,12.0,0.0,,159,Brewery Vivant,CO,CO
+2254,1925,Trader Session IPA,American IPA,12.0,0.0,20.0,159,Brewery Vivant,CO,CO
+2255,1723,Nonstop Hef Hop,American IPA,12.0,0.0,,159,Uinta Brewing Company,CO,CO
+2256,1212,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,159,Brewery Vivant,CO,CO
+2257,1097,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,159,Brewery Vivant,CO,CO
+2258,1089,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,159,Uinta Brewing Company,CO,CO
+2259,1088,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,159,Brewery Vivant,CO,CO
+2260,974,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,159,Brewery Vivant,CO,CO
+2261,98,Nonstop Hef Hop,German Pilsener,12.0,0.0,,555,Brewery Vivant,CO,CO
+2262,2372,Nonstop Hef Hop,American IPA,12.0,0.0,,126,Brewery Vivant,CO,CO
+2263,2367,Hpmbucker Helles,American IPA,12.0,0.0,,126,Brewery Vivant,CO,CO
+2264,1704,Nonstop Hef Hop,Cider,12.0,0.0,,338,Brewery Vivant,CO,CO
+2265,1703,Nonstop Hef Hop,Cider,12.0,0.0,,338,Brewery Vivant,CO,CO
+2266,877,Nonstop Hef Hop,Cider,12.0,0.0,,338,Brewery Vivant,CO,CO
+2267,606,Nonstop Hef Hop,American IPA,12.0,0.0,,522,Brewery Vivant,CO,CO
+2268,543,Nonstop Hef Hop,American Brown Ale,12.0,0.068,,522,Brewery Vivant,CO,CO
+2269,347,Nonstop Hef Hop,Belgian Pale Ale,12.0,0.0,,522,Brewery Vivant,CO,CO
+2270,346,Nonstop Hef Hop,American IPA,12.0,0.0,,522,Brewery Vivant,CO,CO
+2271,25,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,522,Brewery Vivant,CO,CA
+2272,2507,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.0,,71,Brewery Vivant,CO,CO
+2273,2506,Nonstop Hef Hop,Gose,12.0,0.0,,71,Brewery Vivant,CO,CO
+2274,829,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,71,Brewery Vivant,CO,CO
+2275,582,Nonstop Hef Hop,American IPA,12.0,0.0,,71,Brewery Vivant,CO,CO
+2276,2190,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,202,Brewery Vivant,CO,CO
+2277,1951,Nonstop Hef Hop,American IPA,12.0,0.0,,202,Brewery Vivant,CO,CO
+2278,1950,Nonstop Hef Hop,American IPA,12.0,0.0,,202,Brewery Vivant,CO,CO
+2279,2565,Nonstop Hef Hop,Quadrupel (Quad),12.0,0.0,20.0,51,Brewery Vivant,CO,CO
+2280,2564,Nonstop Hef Hop,American IPA,12.0,0.0,,51,Usslope Brewing Company,CO,CO
+2281,2563,Nonstop Hef Hop,American IPA,12.0,0.0,,51,Brewery Vivant,CO,CO
+2282,2562,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,51,Brewery Vivant,CO,CO
+2283,2561,Nonstop Hef Hop,American Brown Ale,12.0,0.0,20.0,51,Brewery Vivant,CO,CO
+2284,2560,Nonstop Hef Hop,Saison / Farmhouse Ale,12.0,,,51,Brewery Vivant,CO,CO
+2285,1932,Thai Style White IPA,American White IPA,12.0,0.065,,51,Brewery Vivant,CO,CO
+2286,1853,Nonstop Hef Hop,American IPA,12.0,0.0,,51,Brewery Vivant,CO,CO
+2287,1315,Nonstop Hef Hop,American IPA,12.0,0.099,20.0,51,Brewery Vivant,CO,CO
+2288,907,Nonstop Hef Hop,Winter Warmer,12.0,0.082,,51,Brewery Vivant,CO,CO
+2289,906,Nonstop Hef Hop,American IPA,12.0,0.0,,51,Brewery Vivant,CO,CO
+2290,683,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,51,Brewery Vivant,CO,CO
+2291,614,Nonstop Hef Hop,Foreign / Export Stout,12.0,0.0,,51,Brewery Vivant,CO,CO
+2292,466,Top Rope Mexican-style Craft Lager,Vienna Lager,12.0,0.0,20.0,51,Brewery Vivant,CO,CO
+2293,444,Nonstop Hef Hop,American IPA,12.0,0.048,20.0,51,Brewery Vivant,CO,CO
+2294,345,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,51,Brewery Vivant,CO,CO
+2295,80,Nonstop Hef Hop,American IPA,12.0,0.058,20.0,51,Usslope Brewing Company,CO,CO
+2296,79,Nonstop Hef Hop,American IPA,12.0,0.072,20.0,51,Brewery Vivant,CO,CO
+2297,382,Nonstop Hef Hop,American Brown Ale,12.0,0.053,,546,Brewery Vivant,CO,CO
+2298,381,Nonstop Hef Hop,American IPA,12.0,0.065,20.0,546,Brewery Vivant,CO,CO
+2299,1826,Nonstop Hef Hop,American IPA,12.0,0.0,,302,Brewery Vivant,CO,CO
+2300,1825,Svuatters Hop Rising Double IPA,American Double / Imperial IPA,12.0,,,302,Brewery Vivant,CO,UT
+2301,1824,Devastator Double Bock,American IPA,12.0,0.0,,302,Utah Brewers Cooperative,CO,UT
+2302,1823,Nonstop Hef Hop,American White IPA,12.0,0.0,,302,Utah Brewers Cooperative,CO,CO
+2303,1682,Nonstop Hef Hop,American White IPA,12.0,0.0,,302,Utah Brewers Cooperative,CO,CO
+2304,1681,Nonstop Hef Hop,American IPA,12.0,0.0,,302,Brewery Vivant,CO,CO
+2305,1680,Nonstop Hef Hop,American IPA,12.0,0.0,,302,Brewery Vivant,CO,CO
+2306,1679,Nonstop Hef Hop,American IPA,12.0,0.0,,302,Brewery Vivant,CO,CO
+2307,2245,Nonstop Hef Hop,Cider,12.0,0.068,,185,Brewery Vivant,CO,CO
+2308,2244,Nonstop Hef Hop,Cider,12.0,0.0,,185,Brewery Vivant,CO,CO
+2309,1378,Nonstop Hef Hop,American IPA,12.0,0.068,,185,Brewery Vivant,CO,CO
+2310,1377,Nonstop Hef Hop,Cider,12.0,0.0,,185,Brewery Vivant,CO,CO
+2311,1376,Nonstop Hef Hop,American IPA,12.0,0.068,,185,Brewery Vivant,CO,CO
+2312,2411,Nonstop Hef Hop,American Stout,12.0,0.0,,113,Brewery Vivant,CO,CO
+2313,1770,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,322,Brewery Vivant,CO,CO
+2314,1769,Nonstop Hef Hop,Witbier,12.0,0.0,20.0,322,Brewery Vivant,CO,CO
+2315,1730,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,322,Brewery Vivant,CO,CO
+2316,1729,Nonstop Hef Hop,Belgian Strong Pale Ale,12.0,0.0,20.0,322,Brewery Vivant,CO,CO
+2317,1603,Gqod Vibes IPA,American IPA,12.0,0.0,20.0,322,Brewery Vivant,CO,CO
+2318,1488,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,322,Manzanita Brewing Company,CO,CO
+2319,1846,Nonstop Hef Hop,American IPA,12.0,0.0,,295,Wachusett Brewing Company,CO,CO
+2320,1845,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,295,Wachusett Brewing Company,CO,CO
+2321,1844,Nonstop Hef Hop,American IPA,12.0,0.0,,295,Brewery Vivant,CO,CO
+2322,1843,Nonstop Hef Hop,American IPA,12.0,0.0,,295,Brewery Vivant,CO,CO
+2323,1418,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.0,,295,Brewery Vivant,CO,CO
+2324,1038,Nonstop Hef Hop,American Pale Wheat Ale,12.0,0.0,,295,Brewery Vivant,CO,CO
+2325,1030,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,295,Brewery Vivant,CO,CO
+2326,1029,Nonstop Hef Hop,American IPA,12.0,0.0,,295,Brewery Vivant,CO,CO
+2327,908,Nonstop Hef Hop,Pumpkin Ale,12.0,0.0,,295,Wachusett Brewing Company,CO,CO
+2328,619,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,295,Brewery Vivant,CO,MA
+2329,618,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,295,Wachusett Brewing Company,CO,CO
+2330,780,T-6 Red Ale (2004),American Amber / Red Ale,12.0,0.047,,506,Brewery Vivant,CO,CO
+2331,2450,Nonstop Hef Hop,American IPA,12.0,0.052,,94,Brewery Vivant,CO,CO
+2332,2223,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,94,Brewery Vivant,CO,OH
+2333,2222,10 Ton,American IPA,12.0,0.0,,94,Brewery Vivant,CO,CO
+2334,2221,Nonstop Hef Hop,American IPA,12.0,0.0,,94,Brewery Vivant,CO,OH
+2335,2439,Nonstop Hef Hop,American IPA,12.0,0.0,,100,The Bronx Brewery,CO,CO
+2336,2356,Nonstop Hef Hop,American Porter,12.0,0.0,,100,Brewery Vivant,CO,CO
+2337,1069,Wqst Sixth Amber Ale,American IPA,12.0,0.0,,100,Brewery Vivant,CO,CO
+2338,652,Nonstop Hef Hop,American IPA,12.0,0.0,,100,Brewery Vivant,CO,CO
+2339,1542,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,20.0,384,Brewery Vivant,CO,CO
+2340,1312,Wtstbrook Gose,Gose,12.0,0.0,20.0,384,Brewery Vivant,CO,CO
+2341,576,Nonstop Hef Hop,Witbier,12.0,0.0,20.0,384,Brewery Vivant,CO,CO
+2342,575,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,384,Brewery Vivant,CO,CO
+2343,1645,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,351,Brewery Vivant,CO,MA
+2344,1551,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,351,Brewery Vivant,CO,CO
+2345,1550,Nonstop Hef Hop,American IPA,12.0,0.0,55.0,351,Brewery Vivant,CO,CO
+2346,2364,Nonstop Hef Hop,American Pale Lager,12.0,0.0,,132,Brewery Vivant,CO,CO
+2347,2348,Nonstop Hef Hop,American IPA,12.0,0.0,,132,Brewery Vivant,CO,CO
+2348,2344,Nonstop Hef Hop,English Stout,12.0,0.0,,132,Brewery Vivant,CO,CO
+2349,2343,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,132,Brewery Vivant,CO,CO
+2350,2342,Nonstop Hef Hop,American IPA,12.0,0.0,,132,Brewery Vivant,CO,CO
+2351,2341,Nonstop Hef Hop,American IPA,12.0,0.0,,132,Brewery Vivant,CO,CO
+2352,2340,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.052,,132,Brewery Vivant,CO,MO
+2353,2573,Nonstop Hef Hop,Berliner Weissbier,12.0,0.0,,47,Brewery Vivant,CO,CO
+2354,2572,Nonstop Hef Hop,American IPA,12.0,0.0,,47,Brewery Vivant,CO,CO
+2355,2571,Bpueberry Berliner Weisse,American IPA,12.0,0.0,,47,Brewery Vivant,CO,NH
+2356,2570,Nonstop Hef Hop,American IPA,12.0,0.0,,47,Brewery Vivant,CO,CO
+2357,1498,Nonstop Hef Hop,American IPA,12.0,0.0,,396,Brewery Vivant,CO,CO
+2358,1838,Nonstop Hef Hop,American IPA,12.0,0.0,,296,Brewery Vivant,CO,CO
+2359,1837,Nonstop Hef Hop,American IPA,12.0,0.0,,296,Brewery Vivant,CO,CO
+2360,1836,Nonstop Hef Hop,Hefeweizen,12.0,0.0,,296,Brewery Vivant,CO,CO
+2361,1619,Hcp Slayer Double IPA,American IPA,12.0,0.082,,361,Brewery Vivant,CO,CO
+2362,1618,Nonstop Hef Hop,Pumpkin Ale,12.0,0.0,,361,Brewery Vivant,CO,CO
+2363,1364,Nonstop Hef Hop,American Brown Ale,12.0,0.0,,361,Brewery Vivant,CO,CO
+2364,971,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,361,Wild Onion Brewing Company,CO,CO
+2365,740,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,361,Brewery Vivant,CO,CO
+2366,430,Nonstop Hef Hop,American Double / Imperial IPA,12.0,0.1,20.0,361,Wild Onion Brewing Company,CO,CO
+2367,398,Nonstop Hef Hop,Witbier,12.0,0.0,,361,Brewery Vivant,CO,CO
+2368,366,Nonstop Hef Hop,Oatmeal Stout,12.0,0.0,,361,Wild Onion Brewing Company,CO,CO
+2369,334,Nonstop Hef Hop,American IPA,12.0,0.0,,361,Wild Onion Brewing Company,CO,CO
+2370,162,Nonstop Hef Hop,American Pale Ale (APA),12.0,0.0,,361,Brewery Vivant,CO,CO
+2371,2253,Nonstop Hef Hop,American IPA,12.0,0.0,,181,Wild Wolf Brewing Company,CO,CO
+2372,1318,Nonstop Hef Hop,American IPA,12.0,0.057,,181,Brewery Vivant,CO,CO
+2373,1195,Nonstop Hef Hop,American IPA,12.0,0.0,,181,Wild Wolf Brewing Company,CO,CO
+2374,1194,Nonstop Hef Hop,American IPA,12.0,0.0,,181,Brewery Vivant,CO,CO
+2375,826,Nonstop Hef Hop,American IPA,12.0,0.054,,499,Wildwood Brewing Company,CO,CO
+2376,825,Nonstop Hef Hop,American IPA,12.0,0.0,,499,Wildwood Brewing Company,CO,CO
+2377,813,Nonstop Hef Hop,American IPA,12.0,0.0,,499,Brewery Vivant,CO,CO
+2378,324,Nonstop Hef Hop,American IPA,12.0,0.0,,550,Brewery Vivant,CO,CO
+2379,323,Nonstop Hef Hop,American Blonde Ale,12.0,0.0,,550,Brewery Vivant,CO,CO
+2380,762,Nonstop Hef Hop,American IPA,12.0,0.0,83.0,509,Brewery Vivant,CO,CO
+2381,761,Nonstop Hef Hop,American Porter,12.0,0.1,,509,Brewery Vivant,CO,WA
+2382,2149,Nonstop Hef Hop,American IPA,12.0,0.0,,211,Brewery Vivant,CO,WI
+2383,2148,Nonstop Hef Hop,American IPA,12.0,0.0,,211,Brewery Vivant,CO,CO
+2384,2147,#003 Brown & Robust Porter,American IPA,12.0,0.0,,211,Brewery Vivant,CO,CO
+2385,2146,Nonstop Hef Hop,American IPA,12.0,0.0,,211,Brewery Vivant,CO,CO
+2386,2047,Tarasque,Saison / Farmhouse Ale,12.0,0.0,,239,Brewery Vivant,CO,CO
+2387,1470,Nonstop Hef Hop,American IPA,12.0,0.062,20.0,239,Brewery Vivant,CO,CO
+2388,1469,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,239,Brewery Vivant,CO,CO
+2389,2627,Nonstop Hef Hop,American IPA,12.0,0.0,,14,Brewery Vivant,CO,CO
+2390,2626,Nonstop Hef Hop,American IPA,12.0,0.0,,14,Brewery Vivant,CO,MI
+2391,1676,Troopers Alley IPA,American IPA,12.0,0.0,,344,Brewery Vivant,CO,CO
+2392,1468,Nonstop Hef Hop,American Pale Lager,12.0,0.0,,402,Brewery Vivant,CO,CO
+2393,822,Woodchuck Amber Hard Cider,Cider,12.0,0.0,,501,Brewery Vivant,CO,CO
+2394,2417,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,109,Brewery Vivant,CO,CO
+2395,2306,Nonstop Hef Hop,American Pilsner,12.0,0.0,20.0,109,Brewery Vivant,CO,CO
+2396,1697,Nonstop Hef Hop,American IPA,12.0,0.065,20.0,339,Brewery Vivant,CO,CO
+2397,2194,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,199,Brewery Vivant,CO,CO
+2398,1514,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,199,Brewery Vivant,CO,CO
+2399,1513,Nonstop Hef Hop,American IPA,12.0,0.0,,199,Brewery Vivant,CO,CO
+2400,1512,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,199,Brewery Vivant,CO,CO
+2401,1511,Nonstop Hef Hop,American IPA,12.0,0.0,,199,Brewery Vivant,CO,CO
+2402,1345,Nonstop Hef Hop,American IPA,12.0,0.0,,424,Brewery Vivant,CO,CO
+2403,1316,Nonstop Hef Hop,American IPA,12.0,0.082,,424,Brewery Vivant,CO,CO
+2404,1045,Nonstop Hef Hop,American IPA,12.0,0.0,,424,Brewery Vivant,CO,CO
+2405,1035,Nonstop Hef Hop,American IPA,12.0,0.0,,424,Brewery Vivant,CO,CO
+2406,928,Nonstop Hef Hop,Belgian IPA,12.0,0.067,,424,Brewery Vivant,CO,CO
+2407,807,Nonstop Hef Hop,American Amber / Red Ale,12.0,0.0,,424,Brewery Vivant,CO,CO
+2408,620,Nonstop Hef Hop,American IPA,12.0,0.0,20.0,424,Brewery Vivant,CO,CO
+2409,145,Silverback Pale Ale,American Pale Ale (APA),12.0,0.0,20.0,424,Brewery Vivant,CO,CO
+2410,84,Nonstop Hef Hop,American IPA,12.0,0.0,,424,Brewery Vivant,CO,CO
