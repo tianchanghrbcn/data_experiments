@@ -51,7 +51,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 该资料库包含与数据清理系统、聚类算法和实验结果相关的资源和代码。它包括：
 
-- **数据清理系统**：各种数据清理算法的研究论文和源代码，包括Raha、HoloClean和MLNClean等系统的实现。
+- **数据清理系统**：各种数据清理算法的研究论文和源代码，包括Raha和MLNClean等系统的实现。
 - **聚类算法**：用于评估清理数据性能的常用聚类算法（如K-Means、GMM、HC、DBSCAN 等）的实现。
 - **实验结果**：对不同数据清理方法对聚类性能的影响进行的实验的详细结果。
 
