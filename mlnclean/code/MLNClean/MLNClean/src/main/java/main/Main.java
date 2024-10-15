@@ -25,7 +25,7 @@ import static main.Test.read;
 
 public class Main {
     static String[] header = null;
-    public static String baseURL = "/mnt/d/algorithm paper/ML algorithms codes/data_experiments/Automatic-Data-Repair/mlnclean/dataset";    // experiment baseURL 修改为计算机的实际路径
+    public static String baseURL = "/mnt/d/algorithm paper/ML algorithms codes/data_experiments/mlnclean/dataset";    // experiment baseURL 修改为计算机的实际路径
     //static String rootURL = System.getProperty("user.dir"); //Project BaseURL
     static String cleanedFileURL = baseURL + "/RDBSCleaner_cleaned.txt";
     static ArrayList<Integer> ignoredIDs = null;

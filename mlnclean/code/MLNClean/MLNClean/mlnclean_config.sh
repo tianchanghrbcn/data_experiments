@@ -57,7 +57,7 @@ END;
 EOF
 
 # Navigate to the mlnclean project directory and ensure Java setup
-cd "/mnt/d/algorithm paper/ML algorithms codes/data_experiments/Automatic-Data-Repair/mlnclean/code/MLNClean/MLNClean"
+cd "/mnt/d/algorithm paper/ML algorithms codes/data_experiments/mlnclean/code/MLNClean/MLNClean"
 
 # Compile Java project (adjust this part based on actual project setup)
 javac -cp .:path/to/required/libraries *.java

@@ -1,5 +1,5 @@
 create logfile...
-Log URL=/mnt/d/algorithm paper/ML algorithms codes/data_experiments/Automatic-Data-Repair/mlnclean/dataset/tax/dataset/tax-dirty-original_error-0050k/cleaningLog.txt
+Log URL=/mnt/d/algorithm paper/ML algorithms codes/data_experiments/mlnclean/dataset/tax/dataset/tax-dirty-original_error-0050k/cleaningLog.txt
 >>> Begin Partition MLNs into '1' parts.
 >>> Partition MLNs Finished!
 >>> Getting Predicates.......
