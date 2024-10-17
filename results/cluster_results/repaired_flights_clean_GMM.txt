@@ -1,0 +1,5 @@
+Best number of clusters: 56
+Best covariance type: spherical
+Highest Combined Score: 2.8010323771073953
+Final Silhouette Score: 0.34538704890636085
+Final Davies-Bouldin Score: 0.9740813930337949

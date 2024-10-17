@@ -1,0 +1,28 @@
+/root/data_experiments/raha/venv/lib/python3.9/site-packages/sklearn/cluster/_affinity_propagation.py:143: ConvergenceWarning: Affinity propagation did not converge, this model may return degenerate cluster centers and labels.
+  warnings.warn(
+/root/data_experiments/raha/venv/lib/python3.9/site-packages/sklearn/cluster/_affinity_propagation.py:143: ConvergenceWarning: Affinity propagation did not converge, this model may return degenerate cluster centers and labels.
+  warnings.warn(
+/root/data_experiments/raha/venv/lib/python3.9/site-packages/sklearn/cluster/_affinity_propagation.py:143: ConvergenceWarning: Affinity propagation did not converge, this model may return degenerate cluster centers and labels.
+  warnings.warn(
+/root/data_experiments/raha/venv/lib/python3.9/site-packages/sklearn/cluster/_affinity_propagation.py:143: ConvergenceWarning: Affinity propagation did not converge, this model may return degenerate cluster centers and labels.
+  warnings.warn(
+/root/data_experiments/raha/venv/lib/python3.9/site-packages/sklearn/cluster/_affinity_propagation.py:143: ConvergenceWarning: Affinity propagation did not converge, this model may return degenerate cluster centers and labels.
+  warnings.warn(
+/root/data_experiments/raha/venv/lib/python3.9/site-packages/sklearn/cluster/_affinity_propagation.py:143: ConvergenceWarning: Affinity propagation did not converge, this model may return degenerate cluster centers and labels.
+  warnings.warn(
+/root/data_experiments/raha/venv/lib/python3.9/site-packages/sklearn/cluster/_affinity_propagation.py:143: ConvergenceWarning: Affinity propagation did not converge, this model may return degenerate cluster centers and labels.
+  warnings.warn(
+/root/data_experiments/raha/venv/lib/python3.9/site-packages/sklearn/cluster/_affinity_propagation.py:143: ConvergenceWarning: Affinity propagation did not converge, this model may return degenerate cluster centers and labels.
+  warnings.warn(
+/root/data_experiments/raha/venv/lib/python3.9/site-packages/sklearn/cluster/_affinity_propagation.py:143: ConvergenceWarning: Affinity propagation did not converge, this model may return degenerate cluster centers and labels.
+  warnings.warn(
+/root/data_experiments/raha/venv/lib/python3.9/site-packages/sklearn/cluster/_affinity_propagation.py:143: ConvergenceWarning: Affinity propagation did not converge, this model may return degenerate cluster centers and labels.
+  warnings.warn(
+/root/data_experiments/raha/venv/lib/python3.9/site-packages/sklearn/cluster/_affinity_propagation.py:143: ConvergenceWarning: Affinity propagation did not converge, this model may return degenerate cluster centers and labels.
+  warnings.warn(
+/root/data_experiments/raha/venv/lib/python3.9/site-packages/sklearn/cluster/_affinity_propagation.py:143: ConvergenceWarning: Affinity propagation did not converge, this model may return degenerate cluster centers and labels.
+  warnings.warn(
+Data loaded successfully.
+Text output saved to /root/data_experiments/results/cluster_results/repaired_flights_clean_AffinityPropagation.txt
+Plot saved as /root/data_experiments/results/cluster_results/repaired_flights_clean_AffinityPropagation.png
+Program completed in: 710.3532252311707 seconds
