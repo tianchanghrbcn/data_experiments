@@ -1,0 +1,18 @@
+Data loaded successfully.
+Text output saved to /root/data_experiments/results/cluster_results/repaired_hospital_33.68%_DBSCAN.txt
+Plot saved as /root/data_experiments/results/cluster_results/repaired_hospital_33.68%_DBSCAN.png
+Program completed in: 1.7976446151733398 seconds
+, 'MeasureName', 'Score', 'Sample', 'Stateavg'],
+      dtype='object')
+Excluded columns with 'id': ['ProviderNumber']
+Randomly selected target column: Address1
+Encoded target column Address1
+Starting DBSCAN clustering at 2024-10-18 10:39:18
+Clusters: 2, eps: 0.6500000000000001, min_samples: 5, Silhouette: -0.17072219979107633, DB Score: 1.428205330558774, Combined Score: 1.6760858091913833
+Clusters: 3, eps: 0.7000000000000002, min_samples: 5, Silhouette: -0.19145862829159313, DB Score: 1.4256990654086175, Combined Score: 1.643344177498429
+Clusters: 3, eps: 0.7500000000000002, min_samples: 5, Silhouette: -0.19145862829159313, DB Score: 1.4256990654086175, Combined Score: 1.643344177498429
+Clusters: 3, eps: 0.8000000000000002, min_samples: 5, Silhouette: -0.19145862829159313, DB Score: 1.4256990654086175, Combined Score: 1.643344177498429
+Clusters: 3, eps: 0.8500000000000002, min_samples: 5, Silhouette: -0.18843588719028878, DB Score: 1.440853190569474, Combined Score: 1.6470164137471976
+Clusters: 3, eps: 0.9000000000000002, min_samples: 5, Silhouette: -0.18843588719028878, DB Score: 1.440853190569474, Combined Score: 1.6470164137471976
+Clusters: 4, eps: 0.9500000000000003, min_samples: 5, Silhouette: -0.2135854877379415, DB Score: 1.416594597631169, Combined Score: 1.6096187911790283
+Clusters: 5, eps: 1.0000000000000004, min_samples: 5, Silhouette: -0.2164371622098388, DB Score: 1.5392363465399923, Combined Score: 1.5968443146144955

@@ -1,0 +1,4 @@
+Data loaded successfully.
+Text output saved to /root/data_experiments/results/cluster_results/repaired_hospital_21.65%_AffinityPropagation.txt
+Plot saved as /root/data_experiments/results/cluster_results/repaired_hospital_21.65%_AffinityPropagation.png
+Program completed in: 51.72298622131348 seconds

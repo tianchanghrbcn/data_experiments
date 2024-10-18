@@ -1,0 +1,11 @@
+Data loaded successfully.
+Text output saved to /root/data_experiments/results/cluster_results/repaired_hospital_46.52%_DBSCAN.txt
+Plot saved as /root/data_experiments/results/cluster_results/repaired_hospital_46.52%_DBSCAN.png
+Program completed in: 0.9046177864074707 seconds
+, 'MeasureName', 'Score', 'Sample', 'Stateavg'],
+      dtype='object')
+Excluded columns with 'id': ['ProviderNumber']
+Randomly selected target column: Score
+Encoded target column Score
+Starting DBSCAN clustering at 2024-10-18 10:43:30
+Clusters: 2, eps: 1.0000000000000004, min_samples: 5, Silhouette: -0.17174942169142288, DB Score: 1.423743662498244, Combined Score: 1.674760430064106

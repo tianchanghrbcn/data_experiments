@@ -1,0 +1,25 @@
+Data loaded successfully.
+Text output saved to /root/data_experiments/results/cluster_results/repaired_hospital_27.96%_DBSCAN.txt
+Plot saved as /root/data_experiments/results/cluster_results/repaired_hospital_27.96%_DBSCAN.png
+Program completed in: 2.5092873573303223 seconds
+, 'MeasureName', 'Score', 'Sample', 'Stateavg'],
+      dtype='object')
+Excluded columns with 'id': ['ProviderNumber']
+Randomly selected target column: City
+Encoded target column City
+Starting DBSCAN clustering at 2024-10-18 10:37:07
+Clusters: 2, eps: 0.40000000000000013, min_samples: 5, Silhouette: -0.18041430759836835, DB Score: 1.4714237193789022, Combined Score: 1.657571053546287
+Clusters: 2, eps: 0.45000000000000007, min_samples: 5, Silhouette: -0.18041430759836835, DB Score: 1.4714237193789022, Combined Score: 1.657571053546287
+Clusters: 5, eps: 0.5000000000000001, min_samples: 5, Silhouette: -0.23018110954586163, DB Score: 1.4700398468599365, Combined Score: 1.580537491510987
+Clusters: 5, eps: 0.5500000000000002, min_samples: 5, Silhouette: -0.22753484184165745, DB Score: 1.4785920208740597, Combined Score: 1.5839554178968795
+Clusters: 5, eps: 0.6000000000000002, min_samples: 5, Silhouette: -0.22753484184165745, DB Score: 1.4785920208740597, Combined Score: 1.5839554178968795
+Clusters: 6, eps: 0.6500000000000001, min_samples: 5, Silhouette: -0.2366017447784733, DB Score: 1.5154516114198942, Combined Score: 1.5678011743784344
+Clusters: 8, eps: 0.7000000000000002, min_samples: 5, Silhouette: -0.24704412085174635, DB Score: 1.5608652298374452, Combined Score: 1.5492731093514445
+Clusters: 9, eps: 0.7500000000000002, min_samples: 5, Silhouette: -0.24583307830597914, DB Score: 1.5574869531081976, Combined Score: 1.5512873012454078
+Clusters: 11, eps: 0.8000000000000002, min_samples: 5, Silhouette: -0.251354070309575, DB Score: 1.5463288775183799, Combined Score: 1.5438033509854119
+Clusters: 11, eps: 0.8500000000000002, min_samples: 5, Silhouette: -0.24986593409631624, DB Score: 1.551918035513135, Combined Score: 1.5456510766636367
+Clusters: 12, eps: 0.9000000000000002, min_samples: 5, Silhouette: -0.2391670378509609, DB Score: 1.5672526629983883, Combined Score: 1.5606259074937263
+Clusters: 14, eps: 0.9500000000000003, min_samples: 5, Silhouette: -0.23106304566574648, DB Score: 1.5896200320121845, Combined Score: 1.5714310139741696
+Clusters: 2, eps: 0.9500000000000003, min_samples: 10, Silhouette: -0.18155437812917868, DB Score: 1.4996732381815692, Combined Score: 1.6538422793263328
+Clusters: 16, eps: 1.0000000000000004, min_samples: 5, Silhouette: -0.22829122578348984, DB Score: 1.5824446201786717, Combined Score: 1.5760636278294113
+Clusters: 2, eps: 1.0000000000000004, min_samples: 10, Silhouette: -0.18155437812917868, DB Score: 1.4996732381815692, Combined Score: 1.6538422793263328

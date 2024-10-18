@@ -1,0 +1,81 @@
+Data columns: Index(['index', 'ProviderNumber', 'HospitalName', 'Address1', 'Address2',
+       'Address3', 'City', 'State', 'ZipCode', 'CountyName', 'PhoneNumber',
+       'HospitalType', 'HospitalOwner', 'EmergencyService', 'Condition',
+       'MeasureCode', 'MeasureName', 'Score', 'Sample', 'Stateavg'],
+      dtype='object')
+Excluded columns with 'id': ['ProviderNumber']
+Randomly selected target column: HospitalOwner
+Encoded target column HospitalOwner
+Starting AffinityPropagation clustering at 2024-10-18 10:27:18
+Clusters: 10, damping: 0.5, preference: -500, Silhouette: 0.16072332119001917, DB Score: 1.5669136837096094, Combined Score: 2.297175500228126
+Clusters: 11, damping: 0.5, preference: -450, Silhouette: 0.16390399598820118, DB Score: 1.4825070699898895, Combined Score: 2.309808082442401
+Clusters: 11, damping: 0.5, preference: -400, Silhouette: 0.1633845174290695, DB Score: 1.4758483267088947, Combined Score: 2.309098985326304
+Clusters: 12, damping: 0.5, preference: -350, Silhouette: 0.16759278551850723, DB Score: 1.404943162456318, Combined Score: 2.323586458113042
+Clusters: 13, damping: 0.5, preference: -300, Silhouette: 0.19114095559213065, DB Score: 1.3745212942279856, Combined Score: 2.379471831153157
+Clusters: 14, damping: 0.5, preference: -250, Silhouette: 0.2060126002718348, DB Score: 1.296928360760269, Combined Score: 2.420108774547658
+Clusters: 15, damping: 0.5, preference: -200, Silhouette: 0.18718659822251266, DB Score: 1.2659851922384127, Combined Score: 2.379080838787858
+Clusters: 18, damping: 0.5, preference: -150, Silhouette: 0.1920792638316884, DB Score: 1.3284843892762128, Combined Score: 2.3852096418076214
+Clusters: 10, damping: 0.55, preference: -500, Silhouette: 0.16064330582192154, DB Score: 1.5549734108623008, Combined Score: 2.297748726697184
+Clusters: 11, damping: 0.55, preference: -450, Silhouette: 0.1659557774327393, DB Score: 1.4823698158559362, Combined Score: 2.314421608019765
+Clusters: 11, damping: 0.55, preference: -400, Silhouette: 0.1659557774327393, DB Score: 1.4823698158559362, Combined Score: 2.314421608019765
+Clusters: 12, damping: 0.55, preference: -350, Silhouette: 0.16759278551850723, DB Score: 1.404943162456318, Combined Score: 2.323586458113042
+Clusters: 13, damping: 0.55, preference: -300, Silhouette: 0.1901876371064601, DB Score: 1.3737625823773618, Combined Score: 2.3773344278500512
+Clusters: 14, damping: 0.55, preference: -250, Silhouette: 0.20569103004403497, DB Score: 1.2960432533747495, Combined Score: 2.4194296535368327
+Clusters: 15, damping: 0.55, preference: -200, Silhouette: 0.18733295522103263, DB Score: 1.2662208405735156, Combined Score: 2.379396747618196
+Clusters: 16, damping: 0.55, preference: -150, Silhouette: 0.20398914848906627, DB Score: 1.320055741821754, Combined Score: 2.4135075935573673
+Clusters: 10, damping: 0.6, preference: -500, Silhouette: 0.16072332119001917, DB Score: 1.5669136837096094, Combined Score: 2.297175500228126
+Clusters: 11, damping: 0.6, preference: -450, Silhouette: 0.1659802778130698, DB Score: 1.4884181637891842, Combined Score: 2.3140658154793488
+Clusters: 12, damping: 0.6, preference: -400, Silhouette: 0.19855996682838212, DB Score: 1.280682175305423, Combined Score: 2.404091808012394
+Clusters: 12, damping: 0.6, preference: -350, Silhouette: 0.16705122318157872, DB Score: 1.3983757441399656, Combined Score: 2.3228533347384177
+Clusters: 13, damping: 0.6, preference: -300, Silhouette: 0.20889059611403962, DB Score: 1.1889378300820117, Combined Score: 2.436199813728189
+Clusters: 14, damping: 0.6, preference: -250, Silhouette: 0.204076382977922, DB Score: 1.3038485810125011, Combined Score: 2.4150205137944845
+Clusters: 14, damping: 0.6, preference: -200, Silhouette: 0.2142901946719657, DB Score: 1.2249083900335829, Combined Score: 2.4456672461243905
+Clusters: 19, damping: 0.6, preference: -150, Silhouette: 0.1967778030201919, DB Score: 1.3930996007574257, Combined Score: 2.391096588182267
+Clusters: 10, damping: 0.65, preference: -500, Silhouette: 0.16064330582192154, DB Score: 1.5549734108623008, Combined Score: 2.297748726697184
+Clusters: 11, damping: 0.65, preference: -450, Silhouette: 0.16461398948192874, DB Score: 1.4895208705844993, Combined Score: 2.310924120671169
+Clusters: 11, damping: 0.65, preference: -400, Silhouette: 0.16620618495939685, DB Score: 1.4822681809980098, Combined Score: 2.3149910915623226
+Clusters: 12, damping: 0.65, preference: -350, Silhouette: 0.17157642041101656, DB Score: 1.4087197325732481, Combined Score: 2.332289916962399
+Clusters: 13, damping: 0.65, preference: -300, Silhouette: 0.21142613059764767, DB Score: 1.1898255486681253, Combined Score: 2.4420717021878984
+Clusters: 13, damping: 0.65, preference: -250, Silhouette: 0.2130553889516249, DB Score: 1.1914550999990674, Combined Score: 2.4457562391509606
+Clusters: 15, damping: 0.65, preference: -200, Silhouette: 0.18733295522103263, DB Score: 1.2662208405735156, Combined Score: 2.379396747618196
+Clusters: 18, damping: 0.65, preference: -150, Silhouette: 0.19496073467498287, DB Score: 1.4177226557263936, Combined Score: 2.385079173506811
+Clusters: 10, damping: 0.7, preference: -500, Silhouette: 0.16274624887750094, DB Score: 1.5595660941632512, Combined Score: 2.302162147881961
+Clusters: 12, damping: 0.7, preference: -450, Silhouette: 0.20585039112910303, DB Score: 1.2559248936178904, Combined Score: 2.423162176255828
+Clusters: 12, damping: 0.7, preference: -400, Silhouette: 0.20585039112910303, DB Score: 1.2559248936178904, Combined Score: 2.423162176255828
+Clusters: 12, damping: 0.7, preference: -350, Silhouette: 0.1715155979107616, DB Score: 1.4115437273078586, Combined Score: 2.3319457153374716
+Clusters: 13, damping: 0.7, preference: -300, Silhouette: 0.2130553889516249, DB Score: 1.1914550999990674, Combined Score: 2.4457562391509606
+Clusters: 14, damping: 0.7, preference: -250, Silhouette: 0.2037898896348079, DB Score: 1.3034919848313693, Combined Score: 2.41438110416953
+Clusters: 15, damping: 0.7, preference: -200, Silhouette: 0.18291162551766957, DB Score: 1.2482238549571332, Combined Score: 2.3708087078254603
+Clusters: 17, damping: 0.7, preference: -150, Silhouette: 0.22311738690100144, DB Score: 1.4084939638190979, Combined Score: 2.4517877433838597
+Clusters: 11, damping: 0.75, preference: -500, Silhouette: 0.19355270607394592, DB Score: 1.3451303251198885, Combined Score: 2.3872977333176575
+Clusters: 12, damping: 0.75, preference: -450, Silhouette: 0.20737923711217685, DB Score: 1.25915642850305, Combined Score: 2.42646325260627
+Clusters: 12, damping: 0.75, preference: -400, Silhouette: 0.20823208606095045, DB Score: 1.2598406639625404, Combined Score: 2.4284026204468683
+Clusters: 12, damping: 0.75, preference: -350, Silhouette: 0.17328591643212182, DB Score: 1.3943060026511551, Combined Score: 2.337219602793389
+Clusters: 13, damping: 0.75, preference: -300, Silhouette: 0.19331979843131297, DB Score: 1.3382760997235132, Combined Score: 2.3872974877412036
+Clusters: 14, damping: 0.75, preference: -250, Silhouette: 0.1966304198778687, DB Score: 1.1825476136093127, Combined Score: 2.408212917241639
+Clusters: 14, damping: 0.75, preference: -200, Silhouette: 0.21456143366732403, DB Score: 1.224779860873428, Combined Score: 2.4463181161234786
+Clusters: 19, damping: 0.75, preference: -150, Silhouette: 0.19524033899827895, DB Score: 1.4276951767766164, Combined Score: 2.3850046247173124
+Clusters: 10, damping: 0.8, preference: -500, Silhouette: 0.16304837062892427, DB Score: 1.5407117904890908, Combined Score: 2.3040391163845104
+Clusters: 12, damping: 0.8, preference: -450, Silhouette: 0.20750602337012128, DB Score: 1.2579494152307815, Combined Score: 2.426862976484755
+Clusters: 12, damping: 0.8, preference: -400, Silhouette: 0.20734277696056347, DB Score: 1.2592498883296834, Combined Score: 2.426369930766686
+Clusters: 13, damping: 0.8, preference: -350, Silhouette: 0.21302551620965218, DB Score: 1.1925174063407942, Combined Score: 2.445589140693039
+Clusters: 13, damping: 0.8, preference: -300, Silhouette: 0.21302551620965218, DB Score: 1.1925174063407942, Combined Score: 2.445589140693039
+Clusters: 13, damping: 0.8, preference: -250, Silhouette: 0.20912915276783053, DB Score: 1.1869153309928253, Combined Score: 2.4369442261123786
+Clusters: 14, damping: 0.8, preference: -200, Silhouette: 0.21273860667179867, DB Score: 1.2170274283335079, Combined Score: 2.44270950011399
+Clusters: 18, damping: 0.8, preference: -150, Silhouette: 0.19941036145092242, DB Score: 1.4386440410135812, Combined Score: 2.39388665387402
+Clusters: 10, damping: 0.8500000000000001, preference: -500, Silhouette: 0.1653560369442715, DB Score: 1.62043026089042, Combined Score: 2.3042892301847826
+Clusters: 11, damping: 0.8500000000000001, preference: -450, Silhouette: 0.2064747535916717, DB Score: 1.3654259076666326, Combined Score: 2.415760103257524
+Clusters: 11, damping: 0.8500000000000001, preference: -400, Silhouette: 0.2064747535916717, DB Score: 1.3654259076666326, Combined Score: 2.415760103257524
+Clusters: 13, damping: 0.8500000000000001, preference: -350, Silhouette: 0.20605680916877236, DB Score: 1.1601600583485385, Combined Score: 2.432231884389094
+Clusters: 14, damping: 0.8500000000000001, preference: -300, Silhouette: 0.21010423529028377, DB Score: 1.102852553512859, Combined Score: 2.447260826788086
+Clusters: 15, damping: 0.8500000000000001, preference: -250, Silhouette: 0.21123283665108078, DB Score: 1.1397789597802577, Combined Score: 2.4463019673388784
+Clusters: 14, damping: 0.8500000000000001, preference: -200, Silhouette: 0.1755681857613351, DB Score: 1.331923886295553, Combined Score: 2.347179011220959
+Clusters: 17, damping: 0.8500000000000001, preference: -150, Silhouette: 0.21081566837898255, DB Score: 1.5039822629284882, Combined Score: 2.4160277790880573
+Clusters: 9, damping: 0.9, preference: -500, Silhouette: 0.1947772622975142, DB Score: 1.521822334554946, Combined Score: 2.37746952300208
+Clusters: 13, damping: 0.9, preference: -450, Silhouette: 0.20618383616633207, DB Score: 1.1590458922510594, Combined Score: 2.4326337422348705
+Clusters: 13, damping: 0.9, preference: -400, Silhouette: 0.20452820762638446, DB Score: 1.1571771030699294, Combined Score: 2.4289413454040396
+Clusters: 14, damping: 0.9, preference: -350, Silhouette: 0.21010423529028377, DB Score: 1.102852553512859, Combined Score: 2.447260826788086
+Clusters: 14, damping: 0.9, preference: -300, Silhouette: 0.21010423529028377, DB Score: 1.102852553512859, Combined Score: 2.447260826788086
+Clusters: 15, damping: 0.9, preference: -250, Silhouette: 0.21141687559859168, DB Score: 1.1340391742109004, Combined Score: 2.4472869737080845
+Clusters: 15, damping: 0.9, preference: -200, Silhouette: 0.21141687559859168, DB Score: 1.1340391742109004, Combined Score: 2.4472869737080845
+Clusters: 18, damping: 0.9, preference: -150, Silhouette: 0.2013386982238788, DB Score: 1.3455350885727764, Combined Score: 2.405315273592541

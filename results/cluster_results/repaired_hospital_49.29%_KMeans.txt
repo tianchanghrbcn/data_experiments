@@ -1,0 +1,34 @@
+Starting K-Means clustering, current time: 2024-10-18 10:43:36
+Clusters: 2, Silhouette Score: 0.10956731129880029, Davies-Bouldin Score: 2.8086075263397943, Combined Score: 2.1412186874894648
+Clusters: 3, Silhouette Score: 0.0973261250252069, Davies-Bouldin Score: 2.939094512566614, Combined Score: 2.1131748784343753
+Clusters: 4, Silhouette Score: 0.08459826963121145, Davies-Bouldin Score: 2.5644298055990067, Combined Score: 2.093864728316451
+Clusters: 5, Silhouette Score: 0.1162024828112784, Davies-Bouldin Score: 2.1388999727083253, Combined Score: 2.1726015080490635
+Clusters: 6, Silhouette Score: 0.10741748113479631, Davies-Bouldin Score: 2.104408526976169, Combined Score: 2.1551478808344804
+Clusters: 7, Silhouette Score: 0.0923715638544225, Davies-Bouldin Score: 2.035478013834332, Combined Score: 2.1261206960389285
+Clusters: 8, Silhouette Score: 0.09422532082974301, Davies-Bouldin Score: 2.156757802630845, Combined Score: 2.125517436173957
+Clusters: 9, Silhouette Score: 0.09640849362732289, Davies-Bouldin Score: 2.1673637827546433, Combined Score: 2.1297208295212564
+Clusters: 10, Silhouette Score: 0.09444606604455003, Davies-Bouldin Score: 2.1880726892776274, Combined Score: 2.1249089289759953
+Clusters: 11, Silhouette Score: 0.09751156144697794, Davies-Bouldin Score: 2.171487844591741, Combined Score: 2.131892103951855
+Clusters: 12, Silhouette Score: 0.08831481648672922, Davies-Bouldin Score: 2.1264707125385276, Combined Score: 2.114263500799777
+Clusters: 13, Silhouette Score: 0.10267217456200106, Davies-Bouldin Score: 2.181166758373362, Combined Score: 2.142416005249706
+Clusters: 14, Silhouette Score: 0.09361420197738778, Davies-Bouldin Score: 2.0937876454998494, Combined Score: 2.126496065887972
+Clusters: 15, Silhouette Score: 0.0952822708819247, Davies-Bouldin Score: 1.9990469706393321, Combined Score: 2.133657890169248
+Clusters: 16, Silhouette Score: 0.09527931090224907, Davies-Bouldin Score: 1.957908434944029, Combined Score: 2.1353584010584203
+Clusters: 17, Silhouette Score: 0.09783202022088065, Davies-Bouldin Score: 2.0645860712001696, Combined Score: 2.1364233139073714
+Clusters: 18, Silhouette Score: 0.0984449653927695, Davies-Bouldin Score: 2.1043944510883263, Combined Score: 2.136224494555718
+Clusters: 19, Silhouette Score: 0.09305861075013325, Davies-Bouldin Score: 1.9897564555870417, Combined Score: 2.129388218279935
+Clusters: 20, Silhouette Score: 0.10308239147749737, Davies-Bouldin Score: 2.031638597040769, Combined Score: 2.148744375519204
+Clusters: 21, Silhouette Score: 0.10556779021343929, Davies-Bouldin Score: 2.0746069270187286, Combined Score: 2.1523392061871975
+Clusters: 22, Silhouette Score: 0.10593793289070282, Davies-Bouldin Score: 2.017030262722491, Combined Score: 2.155355339783993
+Clusters: 23, Silhouette Score: 0.1024112994489052, Davies-Bouldin Score: 2.0161282141207892, Combined Score: 2.1479441182217616
+Clusters: 24, Silhouette Score: 0.10315334189351652, Davies-Bouldin Score: 1.9217031149149157, Combined Score: 2.153465142646833
+Clusters: 25, Silhouette Score: 0.10416709761958806, Davies-Bouldin Score: 1.9573539492073813, Combined Score: 2.1540670474712464
+Clusters: 26, Silhouette Score: 0.10863271033584193, Davies-Bouldin Score: 1.9895134500870078, Combined Score: 2.162177253060409
+Clusters: 27, Silhouette Score: 0.1103921288694444, Davies-Bouldin Score: 1.9244843958897493, Combined Score: 2.168669238214327
+Clusters: 28, Silhouette Score: 0.11371232485376437, Davies-Bouldin Score: 1.9363836908888865, Combined Score: 2.175218067783335
+Clusters: 29, Silhouette Score: 0.111209076528507, Davies-Bouldin Score: 1.9083362749141202, Combined Score: 2.1711186563409415
+Clusters: 30, Silhouette Score: 0.1120975607094526, Davies-Bouldin Score: 1.918504738693794, Combined Score: 2.172558780241019
+Clusters: 31, Silhouette Score: 0.11259229636081168, Davies-Bouldin Score: 1.8989638068637948, Combined Score: 2.1744812929003707
+
+Best number of clusters: 28
+Highest Combined Score: 2.175218067783335

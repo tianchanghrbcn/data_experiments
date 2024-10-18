@@ -1,0 +1,11 @@
+Data loaded successfully.
+Text output saved to /root/data_experiments/results/cluster_results/repaired_hospital_36.52%_DBSCAN.txt
+Program completed in: 0.5062196254730225 seconds
+r',
+       'HospitalType', 'HospitalOwner', 'EmergencyService', 'Condition',
+       'MeasureCode', 'MeasureName', 'Score', 'Sample', 'Stateavg'],
+      dtype='object')
+Excluded columns with 'id': ['ProviderNumber']
+Randomly selected target column: Address3
+Encoded target column Address3
+Starting DBSCAN clustering at 2024-10-18 10:41:25

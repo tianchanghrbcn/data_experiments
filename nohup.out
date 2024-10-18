@@ -1,264 +1,264 @@
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_16.97%.csv
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_11.96%.csv
 Using clustering algorithm: K-Means
 Running clustering algorithm: K-Means
-Clustering complete for K-Means. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_16.97%_K-Means_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_16.97%_K-Means.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_16.97%.csv
+Clustering complete for K-Means. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_11.96%_K-Means_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_11.96%_K-Means.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_11.96%.csv
 Using clustering algorithm: GMM
 Running clustering algorithm: GMM
-Clustering complete for GMM. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_16.97%_GMM_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_16.97%_GMM.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_16.97%.csv
+Clustering complete for GMM. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_11.96%_GMM_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_11.96%_GMM.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_11.96%.csv
 Using clustering algorithm: AP
 Running clustering algorithm: AP
-Clustering complete for AP. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_16.97%_AP_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_16.97%_AP.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_16.97%.csv
+Clustering complete for AP. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_11.96%_AP_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_11.96%_AP.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_11.96%.csv
 Using clustering algorithm: OPTICS
 Running clustering algorithm: OPTICS
-Clustering complete for OPTICS. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_16.97%_OPTICS_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_16.97%_OPTICS.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_16.97%.csv
+Clustering complete for OPTICS. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_11.96%_OPTICS_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_11.96%_OPTICS.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_11.96%.csv
 Using clustering algorithm: DBSCAN
 Running clustering algorithm: DBSCAN
-Clustering complete for DBSCAN. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_16.97%_DBSCAN_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_16.97%_DBSCAN.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_16.97%.csv
+Clustering complete for DBSCAN. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_11.96%_DBSCAN_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_11.96%_DBSCAN.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_11.96%.csv
 Using clustering algorithm: HC
 Running clustering algorithm: HC
-Clustering complete for HC. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_16.97%_HC_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_16.97%_HC.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_24.56%.csv
+Clustering complete for HC. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_11.96%_HC_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_11.96%_HC.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_15.34%.csv
 Using clustering algorithm: K-Means
 Running clustering algorithm: K-Means
-Clustering complete for K-Means. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_24.56%_K-Means_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_24.56%_K-Means.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_24.56%.csv
+Clustering complete for K-Means. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_15.34%_K-Means_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_15.34%_K-Means.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_15.34%.csv
 Using clustering algorithm: GMM
 Running clustering algorithm: GMM
-Clustering complete for GMM. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_24.56%_GMM_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_24.56%_GMM.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_24.56%.csv
+Clustering complete for GMM. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_15.34%_GMM_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_15.34%_GMM.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_15.34%.csv
 Using clustering algorithm: AP
 Running clustering algorithm: AP
-Clustering complete for AP. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_24.56%_AP_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_24.56%_AP.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_24.56%.csv
+Clustering complete for AP. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_15.34%_AP_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_15.34%_AP.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_15.34%.csv
 Using clustering algorithm: OPTICS
 Running clustering algorithm: OPTICS
-Clustering complete for OPTICS. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_24.56%_OPTICS_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_24.56%_OPTICS.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_24.56%.csv
+Clustering complete for OPTICS. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_15.34%_OPTICS_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_15.34%_OPTICS.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_15.34%.csv
 Using clustering algorithm: DBSCAN
 Running clustering algorithm: DBSCAN
-Clustering complete for DBSCAN. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_24.56%_DBSCAN_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_24.56%_DBSCAN.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_24.56%.csv
+Clustering complete for DBSCAN. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_15.34%_DBSCAN_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_15.34%_DBSCAN.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_15.34%.csv
 Using clustering algorithm: HC
 Running clustering algorithm: HC
-Clustering complete for HC. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_24.56%_HC_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_24.56%_HC.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_30.63%.csv
+Clustering complete for HC. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_15.34%_HC_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_15.34%_HC.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_21.65%.csv
 Using clustering algorithm: K-Means
 Running clustering algorithm: K-Means
-Clustering complete for K-Means. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_30.63%_K-Means_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_30.63%_K-Means.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_30.63%.csv
+Clustering complete for K-Means. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_21.65%_K-Means_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_21.65%_K-Means.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_21.65%.csv
 Using clustering algorithm: GMM
 Running clustering algorithm: GMM
-Clustering complete for GMM. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_30.63%_GMM_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_30.63%_GMM.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_30.63%.csv
+Clustering complete for GMM. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_21.65%_GMM_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_21.65%_GMM.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_21.65%.csv
 Using clustering algorithm: AP
 Running clustering algorithm: AP
-Clustering complete for AP. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_30.63%_AP_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_30.63%_AP.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_30.63%.csv
+Clustering complete for AP. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_21.65%_AP_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_21.65%_AP.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_21.65%.csv
 Using clustering algorithm: OPTICS
 Running clustering algorithm: OPTICS
-Clustering complete for OPTICS. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_30.63%_OPTICS_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_30.63%_OPTICS.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_30.63%.csv
+Clustering complete for OPTICS. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_21.65%_OPTICS_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_21.65%_OPTICS.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_21.65%.csv
 Using clustering algorithm: DBSCAN
 Running clustering algorithm: DBSCAN
-Clustering complete for DBSCAN. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_30.63%_DBSCAN_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_30.63%_DBSCAN.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_30.63%.csv
+Clustering complete for DBSCAN. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_21.65%_DBSCAN_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_21.65%_DBSCAN.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_21.65%.csv
 Using clustering algorithm: HC
 Running clustering algorithm: HC
-Clustering complete for HC. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_30.63%_HC_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_30.63%_HC.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_38.92%.csv
+Clustering complete for HC. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_21.65%_HC_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_21.65%_HC.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_24.83%.csv
 Using clustering algorithm: K-Means
 Running clustering algorithm: K-Means
-Clustering complete for K-Means. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_38.92%_K-Means_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_38.92%_K-Means.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_38.92%.csv
+Clustering complete for K-Means. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_24.83%_K-Means_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_24.83%_K-Means.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_24.83%.csv
 Using clustering algorithm: GMM
 Running clustering algorithm: GMM
-Clustering complete for GMM. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_38.92%_GMM_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_38.92%_GMM.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_38.92%.csv
+Clustering complete for GMM. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_24.83%_GMM_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_24.83%_GMM.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_24.83%.csv
 Using clustering algorithm: AP
 Running clustering algorithm: AP
-Clustering complete for AP. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_38.92%_AP_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_38.92%_AP.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_38.92%.csv
+Clustering complete for AP. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_24.83%_AP_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_24.83%_AP.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_24.83%.csv
 Using clustering algorithm: OPTICS
 Running clustering algorithm: OPTICS
-Clustering complete for OPTICS. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_38.92%_OPTICS_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_38.92%_OPTICS.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_38.92%.csv
+Clustering complete for OPTICS. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_24.83%_OPTICS_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_24.83%_OPTICS.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_24.83%.csv
 Using clustering algorithm: DBSCAN
 Running clustering algorithm: DBSCAN
-Clustering complete for DBSCAN. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_38.92%_DBSCAN_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_38.92%_DBSCAN.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_38.92%.csv
+Clustering complete for DBSCAN. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_24.83%_DBSCAN_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_24.83%_DBSCAN.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_24.83%.csv
 Using clustering algorithm: HC
 Running clustering algorithm: HC
-Clustering complete for HC. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_38.92%_HC_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_38.92%_HC.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_40.76%.csv
+Clustering complete for HC. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_24.83%_HC_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_24.83%_HC.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_27.96%.csv
 Using clustering algorithm: K-Means
 Running clustering algorithm: K-Means
-Clustering complete for K-Means. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_40.76%_K-Means_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_40.76%_K-Means.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_40.76%.csv
+Clustering complete for K-Means. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_27.96%_K-Means_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_27.96%_K-Means.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_27.96%.csv
 Using clustering algorithm: GMM
 Running clustering algorithm: GMM
-Clustering complete for GMM. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_40.76%_GMM_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_40.76%_GMM.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_40.76%.csv
+Clustering complete for GMM. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_27.96%_GMM_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_27.96%_GMM.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_27.96%.csv
 Using clustering algorithm: AP
 Running clustering algorithm: AP
-Clustering complete for AP. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_40.76%_AP_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_40.76%_AP.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_40.76%.csv
+Clustering complete for AP. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_27.96%_AP_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_27.96%_AP.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_27.96%.csv
 Using clustering algorithm: OPTICS
 Running clustering algorithm: OPTICS
-Clustering complete for OPTICS. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_40.76%_OPTICS_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_40.76%_OPTICS.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_40.76%.csv
+Clustering complete for OPTICS. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_27.96%_OPTICS_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_27.96%_OPTICS.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_27.96%.csv
 Using clustering algorithm: DBSCAN
 Running clustering algorithm: DBSCAN
-Clustering complete for DBSCAN. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_40.76%_DBSCAN_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_40.76%_DBSCAN.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_40.76%.csv
+Clustering complete for DBSCAN. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_27.96%_DBSCAN_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_27.96%_DBSCAN.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_27.96%.csv
 Using clustering algorithm: HC
 Running clustering algorithm: HC
-Clustering complete for HC. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_40.76%_HC_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_40.76%_HC.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_45.44%.csv
+Clustering complete for HC. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_27.96%_HC_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_27.96%_HC.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_33.68%.csv
 Using clustering algorithm: K-Means
 Running clustering algorithm: K-Means
-Clustering complete for K-Means. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_45.44%_K-Means_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_45.44%_K-Means.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_45.44%.csv
+Clustering complete for K-Means. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_33.68%_K-Means_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_33.68%_K-Means.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_33.68%.csv
 Using clustering algorithm: GMM
 Running clustering algorithm: GMM
-Clustering complete for GMM. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_45.44%_GMM_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_45.44%_GMM.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_45.44%.csv
+Clustering complete for GMM. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_33.68%_GMM_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_33.68%_GMM.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_33.68%.csv
 Using clustering algorithm: AP
 Running clustering algorithm: AP
-Clustering complete for AP. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_45.44%_AP_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_45.44%_AP.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_45.44%.csv
+Clustering complete for AP. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_33.68%_AP_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_33.68%_AP.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_33.68%.csv
 Using clustering algorithm: OPTICS
 Running clustering algorithm: OPTICS
-Clustering complete for OPTICS. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_45.44%_OPTICS_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_45.44%_OPTICS.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_45.44%.csv
+Clustering complete for OPTICS. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_33.68%_OPTICS_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_33.68%_OPTICS.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_33.68%.csv
 Using clustering algorithm: DBSCAN
 Running clustering algorithm: DBSCAN
-Clustering complete for DBSCAN. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_45.44%_DBSCAN_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_45.44%_DBSCAN.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_45.44%.csv
+Clustering complete for DBSCAN. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_33.68%_DBSCAN_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_33.68%_DBSCAN.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_33.68%.csv
 Using clustering algorithm: HC
 Running clustering algorithm: HC
-Clustering complete for HC. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_45.44%_HC_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_45.44%_HC.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_51.59%.csv
+Clustering complete for HC. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_33.68%_HC_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_33.68%_HC.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_36.52%.csv
 Using clustering algorithm: K-Means
 Running clustering algorithm: K-Means
-Clustering complete for K-Means. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_51.59%_K-Means_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_51.59%_K-Means.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_51.59%.csv
+Clustering complete for K-Means. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_36.52%_K-Means_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_36.52%_K-Means.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_36.52%.csv
 Using clustering algorithm: GMM
 Running clustering algorithm: GMM
-Clustering complete for GMM. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_51.59%_GMM_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_51.59%_GMM.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_51.59%.csv
+Clustering complete for GMM. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_36.52%_GMM_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_36.52%_GMM.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_36.52%.csv
 Using clustering algorithm: AP
 Running clustering algorithm: AP
-Clustering complete for AP. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_51.59%_AP_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_51.59%_AP.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_51.59%.csv
+Clustering complete for AP. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_36.52%_AP_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_36.52%_AP.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_36.52%.csv
 Using clustering algorithm: OPTICS
 Running clustering algorithm: OPTICS
-Clustering complete for OPTICS. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_51.59%_OPTICS_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_51.59%_OPTICS.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_51.59%.csv
+Clustering complete for OPTICS. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_36.52%_OPTICS_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_36.52%_OPTICS.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_36.52%.csv
 Using clustering algorithm: DBSCAN
 Running clustering algorithm: DBSCAN
-Clustering complete for DBSCAN. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_51.59%_DBSCAN_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_51.59%_DBSCAN.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_51.59%.csv
+Clustering complete for DBSCAN. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_36.52%_DBSCAN_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_36.52%_DBSCAN.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_36.52%.csv
 Using clustering algorithm: HC
 Running clustering algorithm: HC
-Clustering complete for HC. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_51.59%_HC_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_51.59%_HC.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_62.87%.csv
+Clustering complete for HC. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_36.52%_HC_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_36.52%_HC.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_46.52%.csv
 Using clustering algorithm: K-Means
 Running clustering algorithm: K-Means
-Clustering complete for K-Means. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_62.87%_K-Means_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_62.87%_K-Means.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_62.87%.csv
+Clustering complete for K-Means. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_46.52%_K-Means_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_46.52%_K-Means.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_46.52%.csv
 Using clustering algorithm: GMM
 Running clustering algorithm: GMM
-Clustering complete for GMM. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_62.87%_GMM_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_62.87%_GMM.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_62.87%.csv
+Clustering complete for GMM. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_46.52%_GMM_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_46.52%_GMM.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_46.52%.csv
 Using clustering algorithm: AP
 Running clustering algorithm: AP
-Clustering complete for AP. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_62.87%_AP_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_62.87%_AP.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_62.87%.csv
+Clustering complete for AP. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_46.52%_AP_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_46.52%_AP.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_46.52%.csv
 Using clustering algorithm: OPTICS
 Running clustering algorithm: OPTICS
-Clustering complete for OPTICS. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_62.87%_OPTICS_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_62.87%_OPTICS.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_62.87%.csv
+Clustering complete for OPTICS. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_46.52%_OPTICS_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_46.52%_OPTICS.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_46.52%.csv
 Using clustering algorithm: DBSCAN
 Running clustering algorithm: DBSCAN
-Clustering complete for DBSCAN. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_62.87%_DBSCAN_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_62.87%_DBSCAN.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_62.87%.csv
+Clustering complete for DBSCAN. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_46.52%_DBSCAN_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_46.52%_DBSCAN.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_46.52%.csv
 Using clustering algorithm: HC
 Running clustering algorithm: HC
-Clustering complete for HC. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_62.87%_HC_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_62.87%_HC.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_67.74%.csv
+Clustering complete for HC. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_46.52%_HC_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_46.52%_HC.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_49.29%.csv
 Using clustering algorithm: K-Means
 Running clustering algorithm: K-Means
-Clustering complete for K-Means. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_67.74%_K-Means_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_67.74%_K-Means.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_67.74%.csv
+Clustering complete for K-Means. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_49.29%_K-Means_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_49.29%_K-Means.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_49.29%.csv
 Using clustering algorithm: GMM
 Running clustering algorithm: GMM
-Clustering complete for GMM. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_67.74%_GMM_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_67.74%_GMM.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_67.74%.csv
+Clustering complete for GMM. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_49.29%_GMM_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_49.29%_GMM.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_49.29%.csv
 Using clustering algorithm: AP
 Running clustering algorithm: AP
-Clustering complete for AP. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_67.74%_AP_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_67.74%_AP.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_67.74%.csv
+Clustering complete for AP. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_49.29%_AP_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_49.29%_AP.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_49.29%.csv
 Using clustering algorithm: OPTICS
 Running clustering algorithm: OPTICS
-Clustering complete for OPTICS. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_67.74%_OPTICS_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_67.74%_OPTICS.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_67.74%.csv
+Clustering complete for OPTICS. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_49.29%_OPTICS_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_49.29%_OPTICS.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_49.29%.csv
 Using clustering algorithm: DBSCAN
 Running clustering algorithm: DBSCAN
-Clustering complete for DBSCAN. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_67.74%_DBSCAN_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_67.74%_DBSCAN.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_67.74%.csv
+Clustering complete for DBSCAN. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_49.29%_DBSCAN_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_49.29%_DBSCAN.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_49.29%.csv
 Using clustering algorithm: HC
 Running clustering algorithm: HC
-Clustering complete for HC. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_67.74%_HC_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_67.74%_HC.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_8.69%.csv
+Clustering complete for HC. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_49.29%_HC_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_49.29%_HC.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_8.53%.csv
 Using clustering algorithm: K-Means
 Running clustering algorithm: K-Means
-Clustering complete for K-Means. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_8.69%_K-Means_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_8.69%_K-Means.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_8.69%.csv
+Clustering complete for K-Means. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_8.53%_K-Means_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_8.53%_K-Means.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_8.53%.csv
 Using clustering algorithm: GMM
 Running clustering algorithm: GMM
-Clustering complete for GMM. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_8.69%_GMM_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_8.69%_GMM.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_8.69%.csv
+Clustering complete for GMM. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_8.53%_GMM_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_8.53%_GMM.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_8.53%.csv
 Using clustering algorithm: AP
 Running clustering algorithm: AP
-Clustering complete for AP. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_8.69%_AP_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_8.69%_AP.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_8.69%.csv
+Clustering complete for AP. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_8.53%_AP_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_8.53%_AP.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_8.53%.csv
 Using clustering algorithm: OPTICS
 Running clustering algorithm: OPTICS
-Clustering complete for OPTICS. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_8.69%_OPTICS_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_8.69%_OPTICS.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_8.69%.csv
+Clustering complete for OPTICS. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_8.53%_OPTICS_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_8.53%_OPTICS.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_8.53%.csv
 Using clustering algorithm: DBSCAN
 Running clustering algorithm: DBSCAN
-Clustering complete for DBSCAN. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_8.69%_DBSCAN_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_8.69%_DBSCAN.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_8.69%.csv
+Clustering complete for DBSCAN. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_8.53%_DBSCAN_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_8.53%_DBSCAN.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_8.53%.csv
 Using clustering algorithm: HC
 Running clustering algorithm: HC
-Clustering complete for HC. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_8.69%_HC_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_8.69%_HC.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_clean.csv
+Clustering complete for HC. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_8.53%_HC_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_8.53%_HC.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_clean.csv
 Using clustering algorithm: K-Means
 Running clustering algorithm: K-Means
-Clustering complete for K-Means. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_clean_K-Means_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_clean_K-Means.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_clean.csv
+Clustering complete for K-Means. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_clean_K-Means_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_clean_K-Means.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_clean.csv
 Using clustering algorithm: GMM
 Running clustering algorithm: GMM
-Clustering complete for GMM. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_clean_GMM_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_clean_GMM.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_clean.csv
+Clustering complete for GMM. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_clean_GMM_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_clean_GMM.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_clean.csv
 Using clustering algorithm: AP
 Running clustering algorithm: AP
-Clustering complete for AP. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_clean_AP_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_clean_AP.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_clean.csv
+Clustering complete for AP. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_clean_AP_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_clean_AP.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_clean.csv
 Using clustering algorithm: OPTICS
 Running clustering algorithm: OPTICS
-Clustering complete for OPTICS. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_clean_OPTICS_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_clean_OPTICS.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_clean.csv
+Clustering complete for OPTICS. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_clean_OPTICS_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_clean_OPTICS.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_clean.csv
 Using clustering algorithm: DBSCAN
 Running clustering algorithm: DBSCAN
-Clustering complete for DBSCAN. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_clean_DBSCAN_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_clean_DBSCAN.txt.
-Processing file: /root/data_experiments/results/raha-baran-results-flights/repaired_flights_clean.csv
+Clustering complete for DBSCAN. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_clean_DBSCAN_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_clean_DBSCAN.txt.
+Processing file: /root/data_experiments/results/raha-baran-results-hospital/repaired_hospital_clean.csv
 Using clustering algorithm: HC
 Running clustering algorithm: HC
-Clustering complete for HC. Results saved to /root/data_experiments/results/cluster_results/repaired_flights_clean_HC_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_flights_clean_HC.txt.
+Clustering complete for HC. Results saved to /root/data_experiments/results/cluster_results/repaired_hospital_clean_HC_results.csv. Log saved to /root/data_experiments/results/cluster_results/repaired_hospital_clean_HC.txt.
