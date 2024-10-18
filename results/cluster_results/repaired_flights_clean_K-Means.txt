@@ -97,8 +97,8 @@ Dataset columns: Index(['tuple_id', 'src', 'flight', 'sched_dep_time', 'act_dep_
        'sched_arr_time', 'act_arr_time'],
       dtype='object')
 Excluded columns containing 'id': ['tuple_id']
-Randomly selected target column: src
-Target column src has been encoded
+Randomly selected target column: act_arr_time
+Target column act_arr_time has been encoded
 Text output saved as /root/data_experiments/results/cluster_results/repaired_flights_clean_KMeans.txt
 Plot saved as /root/data_experiments/results/cluster_results/repaired_flights_clean_KMeans.png
-Program completed in: 53.8409481048584 seconds
+Program completed in: 50.60879826545715 seconds

@@ -1,0 +1,105 @@
+Data loaded successfully.
+Loading dataset...
+Excluded columns containing 'id': ['tuple_id']
+Randomly selected target column: sched_arr_time
+Target column sched_arr_time has been encoded
+Text output saved as /root/data_experiments/results/cluster_results/repaired_flights_38.92%_HC.txt
+Plot saved as /root/data_experiments/results/cluster_results/repaired_flights_38.92%_HC.png
+Program completed in: 15.658794641494751 seconds
+705951459394, Weighted Score: 7.963526151510532
+Cluster count: 6, Silhouette Score: 0.21448169697899108, Davies-Bouldin Score: 1.6132260549726807, Weighted Score: 6.817756519745238
+Cluster count: 7, Silhouette Score: 0.2500586631412972, Davies-Bouldin Score: 1.7046424790049899, Weighted Score: 5.797934618136366
+Cluster count: 8, Silhouette Score: 0.25886791813661414, Davies-Bouldin Score: 1.715573849985322, Weighted Score: 4.718961019373233
+Cluster count: 9, Silhouette Score: 0.25196422033286525, Davies-Bouldin Score: 1.6672796772457634, Weighted Score: 3.60467180501484
+Cluster count: 10, Silhouette Score: 0.26633035455840703, Davies-Bouldin Score: 1.675809346967353, Weighted Score: 2.539613602753823
+Cluster count: 11, Silhouette Score: 0.2656346386227376, Davies-Bouldin Score: 1.6303007371153604, Weighted Score: 2.5405006211986216
+Cluster count: 12, Silhouette Score: 0.24793752798385085, Davies-Bouldin Score: 1.5780171991296321, Weighted Score: 2.500121322186721
+Cluster count: 13, Silhouette Score: 0.2535068037472894, Davies-Bouldin Score: 1.5080350566664615, Weighted Score: 2.5182264184049155
+Cluster count: 14, Silhouette Score: 0.26919118770640066, Davies-Bouldin Score: 1.4765863041888612, Weighted Score: 2.5591063964250567
+Cluster count: 15, Silhouette Score: 0.27260820778029, Davies-Bouldin Score: 1.4505302925441492, Weighted Score: 2.569440268687185
+Cluster count: 16, Silhouette Score: 0.28638299573368897, Davies-Bouldin Score: 1.388561401832551, Weighted Score: 2.608599504746389
+Cluster count: 17, Silhouette Score: 0.3217179145328938, Davies-Bouldin Score: 1.3689362818681767, Weighted Score: 2.701213668046442
+Cluster count: 18, Silhouette Score: 0.31616489062142406, Davies-Bouldin Score: 1.380762921275801, Weighted Score: 2.685780716125236
+Cluster count: 19, Silhouette Score: 0.3267081086491522, Davies-Bouldin Score: 1.3442583292414103, Weighted Score: 2.716251851734618
+Cluster count: 20, Silhouette Score: 0.31610299901426897, Davies-Bouldin Score: 1.3136860221363222, Weighted Score: 2.6908513512970593
+Cluster count: 21, Silhouette Score: 0.3240573234475229, Davies-Bouldin Score: 1.2871362670889344, Weighted Score: 2.713866415990561
+Cluster count: 22, Silhouette Score: 0.3276541163970519, Davies-Bouldin Score: 1.2932891516102325, Weighted Score: 2.7228387858697043
+Cluster count: 23, Silhouette Score: 0.33799260109274754, Davies-Bouldin Score: 1.2619440219132672, Weighted Score: 2.7529003355675195
+Cluster count: 24, Silhouette Score: 0.36109801121027474, Davies-Bouldin Score: 1.2450012978117375, Weighted Score: 2.8167137610126187
+Cluster count: 25, Silhouette Score: 0.39398003158533923, Davies-Bouldin Score: 1.228192534109227, Weighted Score: 2.909449196200087
+Cluster count: 26, Silhouette Score: 0.3942858933021047, Davies-Bouldin Score: 1.2076989759272285, Weighted Score: 2.912131207760034
+Cluster count: 27, Silhouette Score: 0.3919340390620625, Davies-Bouldin Score: 1.1642118016349843, Weighted Score: 2.9094862951836755
+Cluster count: 28, Silhouette Score: 0.4310904590342289, Davies-Bouldin Score: 1.1337574623867042, Weighted Score: 3.024827388881782
+Cluster count: 29, Silhouette Score: 0.44281110894851866, Davies-Bouldin Score: 1.1219656133693734, Weighted Score: 3.060495866940226
+Cluster count: 30, Silhouette Score: 0.45898936228990217, Davies-Bouldin Score: 1.1097651099363302, Weighted Score: 3.1100178871770283
+Cluster count: 31, Silhouette Score: 0.47403063396507794, Davies-Bouldin Score: 1.0908590059313326, Weighted Score: 3.157538826348486
+Cluster count: 32, Silhouette Score: 0.49497865812276304, Davies-Bouldin Score: 1.0553944542239215, Weighted Score: 3.2258855008002656
+Cluster count: 33, Silhouette Score: 0.49690121673090226, Davies-Bouldin Score: 1.0496031071094707, Weighted Score: 3.2324989471893515
+Cluster count: 34, Silhouette Score: 0.5099784682246153, Davies-Bouldin Score: 1.031657023868638, Weighted Score: 3.275568093178713
+Cluster count: 35, Silhouette Score: 0.5231816729384632, Davies-Bouldin Score: 1.0152175278722024, Weighted Score: 3.3194540628380143
+Cluster count: 36, Silhouette Score: 0.5313940950726628, Davies-Bouldin Score: 0.9941365553885367, Weighted Score: 3.348246488194329
+Cluster count: 37, Silhouette Score: 0.5344122758516818, Davies-Bouldin Score: 0.9890317538565728, Weighted Score: 3.358599951499661
+Cluster count: 38, Silhouette Score: 0.5370908390139248, Davies-Bouldin Score: 0.9702427299460248, Weighted Score: 3.3694252729243157
+Cluster count: 39, Silhouette Score: 0.5671559022489886, Davies-Bouldin Score: 0.9441358778425616, Weighted Score: 3.4718026015950567
+Cluster count: 40, Silhouette Score: 0.5791994598127173, Davies-Bouldin Score: 0.9227676237078887, Weighted Score: 3.514974830053132
+Cluster count: 41, Silhouette Score: 0.5965816220379058, Davies-Bouldin Score: 0.9043238034818122, Weighted Score: 3.5767356536200086
+Cluster count: 42, Silhouette Score: 0.5985978280760061, Davies-Bouldin Score: 0.8964705907494211, Weighted Score: 3.5846667454235
+Cluster count: 43, Silhouette Score: 0.6133113791327116, Davies-Bouldin Score: 0.8786162209529036, Weighted Score: 3.6381906069985948
+Cluster count: 44, Silhouette Score: 0.6266453316260865, Davies-Bouldin Score: 0.8621144265964392, Weighted Score: 3.6874276035653053
+Cluster count: 45, Silhouette Score: 0.6271715639554439, Davies-Bouldin Score: 0.8522803468120279, Weighted Score: 3.690553808626917
+Cluster count: 46, Silhouette Score: 0.6312923251618189, Davies-Bouldin Score: 0.8389553279681721, Weighted Score: 3.7069809201651696
+Cluster count: 47, Silhouette Score: 0.6408236483996195, Davies-Bouldin Score: 0.8209359317581004, Weighted Score: 3.743598005933392
+Cluster count: 48, Silhouette Score: 0.6559586021993633, Davies-Bouldin Score: 0.7972923369313181, Weighted Score: 3.8018333117270604
+Cluster count: 49, Silhouette Score: 0.6636604891347422, Davies-Bouldin Score: 0.7806984962187524, Weighted Score: 3.8324442195089916
+Cluster count: 50, Silhouette Score: 0.6729088506649726, Davies-Bouldin Score: 0.7662158070457243, Weighted Score: 3.868780372773348
+Cluster count: 51, Silhouette Score: 0.680325891169613, Davies-Bouldin Score: 0.7497723247316186, Weighted Score: 3.8988556237219196
+Cluster count: 52, Silhouette Score: 0.6749760011554787, Davies-Bouldin Score: 0.7452734497743075, Weighted Score: 3.8794482684971716
+Cluster count: 53, Silhouette Score: 0.6834980298968554, Davies-Bouldin Score: 0.729169761190188, Weighted Score: 3.9137431749044493
+Cluster count: 54, Silhouette Score: 0.6874287950109624, Davies-Bouldin Score: 0.7229995314597127, Weighted Score: 3.9294831302484936
+Cluster count: 55, Silhouette Score: 0.7072895860919408, Davies-Bouldin Score: 0.7017843727862015, Weighted Score: 4.0085071959929195
+Cluster count: 56, Silhouette Score: 0.7133210196032597, Davies-Bouldin Score: 0.6890465281874396, Weighted Score: 4.033764014284905
+Cluster count: 57, Silhouette Score: 0.706415151875856, Davies-Bouldin Score: 0.6878042526488853, Weighted Score: 4.007227116342966
+Cluster count: 58, Silhouette Score: 0.7149429783503701, Davies-Bouldin Score: 0.6736023182792389, Weighted Score: 4.042411636448597
+Cluster count: 59, Silhouette Score: 0.7195489456607291, Davies-Bouldin Score: 0.6698576559039788, Weighted Score: 4.0609415010359236
+Cluster count: 60, Silhouette Score: 0.7235820842972425, Davies-Bouldin Score: 0.6554891700437546, Weighted Score: 4.078954419858877
+Cluster count: 61, Silhouette Score: 0.739878139982733, Davies-Bouldin Score: 0.6317695812672397, Weighted Score: 4.147149481600807
+Cluster count: 62, Silhouette Score: 0.7437007298943169, Davies-Bouldin Score: 0.6209109970258231, Weighted Score: 4.164163148058801
+Cluster count: 63, Silhouette Score: 0.7531476919442753, Davies-Bouldin Score: 0.5913345691607338, Weighted Score: 4.206997848458025
+Cluster count: 64, Silhouette Score: 0.7584520702454441, Davies-Bouldin Score: 0.5707908733638235, Weighted Score: 4.231936483654035
+Cluster count: 65, Silhouette Score: 0.7635051690014443, Davies-Bouldin Score: 0.5647866437206174, Weighted Score: 4.2535371294340685
+Cluster count: 66, Silhouette Score: 0.7661819790507836, Davies-Bouldin Score: 0.5518449471514463, Weighted Score: 4.266702644416801
+Cluster count: 67, Silhouette Score: 0.7613794954437338, Davies-Bouldin Score: 0.5501944908163093, Weighted Score: 4.24737409383963
+Cluster count: 68, Silhouette Score: 0.7641272253500042, Davies-Bouldin Score: 0.5359499650846083, Weighted Score: 4.2610673009092395
+Cluster count: 69, Silhouette Score: 0.7637889670765146, Davies-Bouldin Score: 0.5370935029259336, Weighted Score: 4.259484954163585
+Cluster count: 70, Silhouette Score: 0.7606478528885096, Davies-Bouldin Score: 0.5376857278969766, Weighted Score: 4.246572488808014
+Cluster count: 71, Silhouette Score: 0.7639165143892522, Davies-Bouldin Score: 0.5042122745203995, Weighted Score: 4.265866916090115
+Cluster count: 72, Silhouette Score: 0.7705441877692473, Davies-Bouldin Score: 0.4974610738721381, Weighted Score: 4.294256120042981
+Cluster count: 73, Silhouette Score: 0.772425541029369, Davies-Bouldin Score: 0.4962568879625809, Weighted Score: 4.3022190165091505
+Cluster count: 74, Silhouette Score: 0.7752093805159326, Davies-Bouldin Score: 0.46549004383356574, Weighted Score: 4.3194098787589335
+Cluster count: 75, Silhouette Score: 0.7741795922233042, Davies-Bouldin Score: 0.4668737088570107, Weighted Score: 4.314897518871056
+Cluster count: 76, Silhouette Score: 0.7745727397775914, Davies-Bouldin Score: 0.4669076895681324, Weighted Score: 4.316513891751183
+Cluster count: 77, Silhouette Score: 0.7723546136371334, Davies-Bouldin Score: 0.470789617578584, Weighted Score: 4.306637953199895
+Cluster count: 78, Silhouette Score: 0.7706616064612557, Davies-Bouldin Score: 0.47274788873910056, Weighted Score: 4.299303345488071
+Cluster count: 79, Silhouette Score: 0.7728385811595259, Davies-Bouldin Score: 0.47351486981053903, Weighted Score: 4.308122147761242
+Cluster count: 80, Silhouette Score: 0.77184553153115, Davies-Bouldin Score: 0.4740563955831041, Weighted Score: 4.303930391456686
+Cluster count: 81, Silhouette Score: 0.7707508933895275, Davies-Bouldin Score: 0.47351511787320033, Weighted Score: 4.299527131843069
+Cluster count: 82, Silhouette Score: 0.7711804264880072, Davies-Bouldin Score: 0.47384085932598347, Weighted Score: 4.301233192837835
+Cluster count: 83, Silhouette Score: 0.771429657910344, Davies-Bouldin Score: 0.46910678731036953, Weighted Score: 4.303145106472611
+Cluster count: 84, Silhouette Score: 0.7702277664566488, Davies-Bouldin Score: 0.4712387363060856, Weighted Score: 4.297802048383152
+Cluster count: 85, Silhouette Score: 0.7726865405535884, Davies-Bouldin Score: 0.470723539346257, Weighted Score: 4.308017862147441
+Cluster count: 86, Silhouette Score: 0.7722039090223265, Davies-Bouldin Score: 0.47146807053432127, Weighted Score: 4.30589013780265
+Cluster count: 87, Silhouette Score: 0.7717769656875583, Davies-Bouldin Score: 0.47453627502982737, Weighted Score: 4.30355851063635
+Cluster count: 88, Silhouette Score: 0.77252710275548, Davies-Bouldin Score: 0.4729271831271993, Weighted Score: 4.306948495441818
+Cluster count: 89, Silhouette Score: 0.7714931647436812, Davies-Bouldin Score: 0.47342504464758167, Weighted Score: 4.302597823191769
+Cluster count: 90, Silhouette Score: 0.7684586554618159, Davies-Bouldin Score: 0.4755268255870989, Weighted Score: 4.289735182037229
+Cluster count: 91, Silhouette Score: 0.7690118362793801, Davies-Bouldin Score: 0.4739918068265196, Weighted Score: 4.2922921096102815
+Cluster count: 92, Silhouette Score: 0.769451094339814, Davies-Bouldin Score: 0.47220690358211076, Weighted Score: 4.294429531541522
+Cluster count: 93, Silhouette Score: 0.7699855363732431, Davies-Bouldin Score: 0.4718354283593784, Weighted Score: 4.296694765766639
+Cluster count: 94, Silhouette Score: 0.7691884892707865, Davies-Bouldin Score: 0.4699070564259946, Weighted Score: 4.29378183172222
+Cluster count: 95, Silhouette Score: 0.7679524085197957, Davies-Bouldin Score: 0.4705526872080882, Weighted Score: 4.288588265465374
+Cluster count: 96, Silhouette Score: 0.764494456360883, Davies-Bouldin Score: 0.470482097108371, Weighted Score: 4.274444263017826
+
+Best number of clusters: 74
+Best Weighted Score: 4.3194098787589335
+Final Silhouette Score: 0.7752093805159326
+Final Davies-Bouldin Score: 0.46549004383356574

@@ -1,0 +1,46 @@
+Data loaded successfully.
+Text output saved as /root/data_experiments/results/cluster_results/repaired_flights_clean_OPTICS.txt
+Plot saved as /root/data_experiments/results/cluster_results/repaired_flights_clean_OPTICS.png
+Program completed in: 302.39963269233704 seconds
+me has been encoded
+Starting OPTICS clustering, current time: 2024-10-18 01:54:26
+Clusters: 44, min_samples: 5, xi: 0.01, min_cluster_size: 0.01, Silhouette Score: -0.10060236386826042, Davies-Bouldin Score: 1.286841580871745, Combined Score: 1.8035278602849187
+Clusters: 18, min_samples: 5, xi: 0.01, min_cluster_size: 0.02, Silhouette Score: -0.2241252310300895, Davies-Bouldin Score: 1.2957053544777855, Combined Score: 1.6028556283989055
+Clusters: 7, min_samples: 5, xi: 0.01, min_cluster_size: 0.05, Silhouette Score: -0.05804753353450581, Davies-Bouldin Score: 1.446987338299567, Combined Score: -1.4339273844213127
+Clusters: 42, min_samples: 5, xi: 0.05, min_cluster_size: 0.01, Silhouette Score: -0.1253827533331453, Davies-Bouldin Score: 1.2921963823719322, Combined Score: 1.7609701585059176
+Clusters: 17, min_samples: 5, xi: 0.05, min_cluster_size: 0.02, Silhouette Score: -0.2528475348957992, Davies-Bouldin Score: 1.3078351392160008, Combined Score: 1.5588076954865726
+Clusters: 5, min_samples: 5, xi: 0.05, min_cluster_size: 0.05, Silhouette Score: -0.12853763568418303, Davies-Bouldin Score: 1.3913772350908074, Combined Score: -3.752097490182748
+Clusters: 40, min_samples: 5, xi: 0.1, min_cluster_size: 0.01, Silhouette Score: -0.10590039454358292, Davies-Bouldin Score: 1.275747884689939, Combined Score: 1.7953598686514396
+Clusters: 15, min_samples: 5, xi: 0.1, min_cluster_size: 0.02, Silhouette Score: -0.24315285265233771, Davies-Bouldin Score: 1.3362123340117937, Combined Score: 1.5709334170083469
+Clusters: 4, min_samples: 5, xi: 0.1, min_cluster_size: 0.05, Silhouette Score: -0.05267934993931916, Davies-Bouldin Score: 1.5435242571127095, Combined Score: -4.7307582929559056
+Clusters: 41, min_samples: 10, xi: 0.01, min_cluster_size: 0.01, Silhouette Score: -0.04008959943701422, Davies-Bouldin Score: 1.2586181851432694, Combined Score: 1.9132376105944267
+Clusters: 16, min_samples: 10, xi: 0.01, min_cluster_size: 0.02, Silhouette Score: -0.21237395605853177, Davies-Bouldin Score: 1.317678813140886, Combined Score: 1.6190471326361804
+Clusters: 7, min_samples: 10, xi: 0.01, min_cluster_size: 0.05, Silhouette Score: -0.07531142077966435, Davies-Bouldin Score: 1.4736450622127204, Combined Score: -1.4665152102563184
+Clusters: 39, min_samples: 10, xi: 0.05, min_cluster_size: 0.01, Silhouette Score: -0.07286519772944143, Davies-Bouldin Score: 1.2414348863159028, Combined Score: 1.8557711754409287
+Clusters: 14, min_samples: 10, xi: 0.05, min_cluster_size: 0.02, Silhouette Score: -0.2637551205500219, Davies-Bouldin Score: 1.3653950526908605, Combined Score: 1.5382397900963587
+Clusters: 7, min_samples: 10, xi: 0.05, min_cluster_size: 0.05, Silhouette Score: 0.02433369867363474, Davies-Bouldin Score: 1.6360397364673642, Combined Score: -1.291907743143502
+Clusters: 36, min_samples: 10, xi: 0.1, min_cluster_size: 0.01, Silhouette Score: -0.10348685790028488, Davies-Bouldin Score: 1.2744661737811775, Combined Score: 1.7996032842661063
+Clusters: 12, min_samples: 10, xi: 0.1, min_cluster_size: 0.02, Silhouette Score: -0.27949132990889286, Davies-Bouldin Score: 1.3121584921020168, Combined Score: 1.5196064376522924
+Clusters: 3, min_samples: 10, xi: 0.1, min_cluster_size: 0.05, Silhouette Score: -0.03185336000157793, Davies-Bouldin Score: 1.3815845850011026, Combined Score: -5.781503985176203
+Clusters: 32, min_samples: 20, xi: 0.01, min_cluster_size: 0.01, Silhouette Score: -0.028788870499847536, Davies-Bouldin Score: 1.1454268064744986, Combined Score: 1.944225339065574
+Clusters: 14, min_samples: 20, xi: 0.01, min_cluster_size: 0.02, Silhouette Score: -0.20944526069243696, Davies-Bouldin Score: 1.2111305170234923, Combined Score: 1.6325914590155024
+Clusters: 8, min_samples: 20, xi: 0.01, min_cluster_size: 0.05, Silhouette Score: 0.011730206285256175, Davies-Bouldin Score: 1.4914657859998401, Combined Score: -0.20723832695673328
+Clusters: 27, min_samples: 20, xi: 0.05, min_cluster_size: 0.01, Silhouette Score: -0.16679016917475875, Davies-Bouldin Score: 1.1259212407968389, Combined Score: 1.7077902690973639
+Clusters: 13, min_samples: 20, xi: 0.05, min_cluster_size: 0.02, Silhouette Score: -0.26586517983999747, Davies-Bouldin Score: 1.2091766305119243, Combined Score: 1.5481077912064471
+Clusters: 6, min_samples: 20, xi: 0.05, min_cluster_size: 0.05, Silhouette Score: -0.0857226534397449, Davies-Bouldin Score: 1.363969829715446, Combined Score: -2.576826710534329
+Clusters: 22, min_samples: 20, xi: 0.1, min_cluster_size: 0.01, Silhouette Score: -0.27423392703452565, Davies-Bouldin Score: 1.0931735800947966, Combined Score: 1.546964760981752
+Clusters: 10, min_samples: 20, xi: 0.1, min_cluster_size: 0.02, Silhouette Score: -0.28417050659404686, Davies-Bouldin Score: 1.216475747301368, Combined Score: 1.520999858028436
+Clusters: 4, min_samples: 20, xi: 0.1, min_cluster_size: 0.05, Silhouette Score: 0.05505295346360145, Davies-Bouldin Score: 1.5094787402148875, Combined Score: -4.523203384888893
+Clusters: 19, min_samples: 30, xi: 0.01, min_cluster_size: 0.01, Silhouette Score: -0.09989211928141493, Davies-Bouldin Score: 1.1675643919863286, Combined Score: 1.8152450668948652
+Clusters: 13, min_samples: 30, xi: 0.01, min_cluster_size: 0.02, Silhouette Score: -0.15784269526323647, Davies-Bouldin Score: 1.2251348730619465, Combined Score: 1.7130740610764172
+Clusters: 7, min_samples: 30, xi: 0.01, min_cluster_size: 0.05, Silhouette Score: 0.02465362848919115, Davies-Bouldin Score: 1.4646707720986236, Combined Score: -1.280362595514053
+Clusters: 16, min_samples: 30, xi: 0.05, min_cluster_size: 0.01, Silhouette Score: -0.3215114932100222, Davies-Bouldin Score: 1.0718217588388685, Combined Score: 1.4823428003933068
+Clusters: 11, min_samples: 30, xi: 0.05, min_cluster_size: 0.02, Silhouette Score: -0.21266416222593726, Davies-Bouldin Score: 1.1813777207845912, Combined Score: 1.6303305291013221
+Clusters: 4, min_samples: 30, xi: 0.05, min_cluster_size: 0.05, Silhouette Score: -0.027130352917148375, Davies-Bouldin Score: 1.355633183693237, Combined Score: -4.670797083900341
+Clusters: 12, min_samples: 30, xi: 0.1, min_cluster_size: 0.01, Silhouette Score: -0.39549243938561984, Davies-Bouldin Score: 1.0839869991149822, Combined Score: 1.3827187313611604
+Clusters: 5, min_samples: 30, xi: 0.1, min_cluster_size: 0.02, Silhouette Score: -0.09290256029095774, Davies-Bouldin Score: 1.2280478533218064, Combined Score: -3.678155415454687
+Clusters: 2, min_samples: 30, xi: 0.1, min_cluster_size: 0.05, Silhouette Score: 0.17939263228750107, Davies-Bouldin Score: 1.4251393467195639, Combined Score: -6.451178773706133
+
+Best parameters: min_samples=20, xi=0.01, min_cluster_size=0.01
+Highest Combined Score: 1.944225339065574
+Final number of clusters: 32
